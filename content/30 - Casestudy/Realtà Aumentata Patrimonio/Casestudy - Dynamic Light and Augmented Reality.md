@@ -1,11 +1,6 @@
 ---
-
 tags:
   - casestudy
-  - beni_culturali
-  - musei
-  - ar
-  - accessibilità
 progetto: "Dynamic Light and Augmented Reality"
 localizzazione: "Scuola Grande di San Rocco, Venezia"
 caratteristiche: "AR su tablet / Illuminotecnica domotica"

@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Alzheimer Sensory Garden (Balerna)"
@@ -14,6 +13,7 @@ paper: "[[Paper - Giardini terapeutici e rigenerazione urbana Limoncin]]"
 
 ## Dettagli Progetto
 - **Team/Progettisti:** Enrico Sassi Architetto
+- **Committenti/Finanziatori:** Non specificato
 - **Costi:** Non specificato
 
 ## Descrizione e Scopo
@@ -21,4 +21,3 @@ Giardino sensoriale per malati di Alzheimer caratterizzato da un design rigoroso
 
 ---
 **Fonte originale:** [[Paper - Giardini terapeutici e rigenerazione urbana Limoncin]]
-

@@ -39,13 +39,13 @@ SORT file.name ASC
 
 ## 🎯 Target & Vulnerabilità
 *Categorizzazione manuale degli interventi in base alla coorte di riferimento.*
-- **Pediatria:** [[Casestudy - Ospedale Meyer (Firenze)]], [[Casestudy - Ospedale Cà Foncello (Treviso)]], [[Casestudy - Royal Children’s Hospital]], [[Casestudy - Comer Children’s Hospital Play Garden]], [[Casestudy - Hospital La Fe (Valencia)]]
+- **Pediatria:** [[Casestudy - Ospedale Meyer (Firenze)]], [[Casestudy - Ospedale Cà Foncello (Treviso)]], [[Casestudy - Royal Children’s Hospital (Melbourne)]], [[Casestudy - Comer Children’s Hospital Play Garden]], [[Casestudy - Hospital La Fe (Jardín Terapéutico)]]
 - **Alzheimer/Demenza:** [[Casestudy - RAF Casa Protetta (Bellinzago Novarese)]], [[Casestudy - Alzheimer Sensory Garden (Balerna)]], [[Casestudy - Fondazione Grimani Butteri (Osimo)]], [[Casestudy - Le Village Landais Alzheimer]]
-- **Oncologia/Supporto:** [[Casestudy - Terrazze oncologiche Ospedale di Carrara]], [[Casestudy - La Casa-ONLUS (Quercianella)]], [[Casestudy - Maggie's Centres (UK)]], [[Casestudy - Maggie’s Centre Barcelona]]
+- **Oncologia/Supporto:** [[Casestudy - Ospedale Carrara (Terrazze Oncologiche)]], [[Casestudy - La Casa-ONLUS (Quercianella)]], [[Casestudy - Maggie's Centres (UK)]], [[Casestudy - Maggie’s Centre Barcelona]]
 - **Geriatria:** [[Casestudy - Santa Rita Geriatric Center]]
 - **Salute Mentale:** [[Casestudy - Comunidad Terapéutica Can Zariquiey]]
-- **Disabilità Sensoriale/Cognitiva:** [[Casestudy - Istituto Rittmeyer per ciechi (Trieste)]], [[Casestudy - Sensory Garden NIKI Detstva]], [[Casestudy - Royal Talbot Rehabilitation Centre (Melbourne)]]
-- **Ospedali Generalisti/Acuti:** [[Casestudy - Legacy Emanuel]], [[Casestudy - Singapore General Hospital]], [[Casestudy - Freiburg University Hospital]], [[Casestudy - Chelsea and Westminster Hospital]], [[Casestudy - Friluftssykehuset Outdoor Care Retreat]]
+- **Disabilità Sensoriale/Cognitiva:** [[Casestudy - Istituto Rittmeyer per ciechi (Trieste)]], [[Casestudy - Centro di Psiconeurologia NIKI Detstva]], [[Casestudy - Royal Talbot Rehabilitation Centre]]
+- **Ospedali Generalisti/Acuti:** [[Casestudy - Legacy Emanuel Medical Center (The Terrace Garden)]], [[Casestudy - Singapore General Hospital (Healing Gardens)]], [[Casestudy - Freiburg University Hospital (Healing Environment)]], [[Casestudy - Chelsea and Westminster Hospital (Indoor Gardens)]], [[Casestudy - Friluftssykehuset Outdoor Care Retreat]]
 - **Caregiver:** [[Casestudy - Programma GAP D-University (Corea)]]
 
 ---

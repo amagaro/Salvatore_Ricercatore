@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Comunidad Terapéutica Can Zariquiey"
@@ -21,5 +20,4 @@ paper: "[[Paper - Giardini terapeutici e rigenerazione urbana Limoncin]]"
 Questo progetto di comunità terapeutica si distingue per la totale visibilità e accessibilità del giardino dall'interno della struttura. La natura è utilizzata per promuovere un senso di **sicurezza** e trasparenza, riducendo l'ansia legata alla sensazione di isolamento o costrizione tipica delle strutture sanitarie tradizionali. Il giardino funge da elemento connettore che facilita il recupero attraverso la stimolazione visiva costante e la possibilità di muoversi liberamente in spazi aperti protetti.
 
 ---
-**Fonte originale:** [[Paper - Relationship healthcare architecture and nature Descalzo 2024]]
-
+**Fonte originale:** [[Paper - Giardini terapeutici e rigenerazione urbana Limoncin]]

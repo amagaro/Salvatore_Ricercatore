@@ -56,4 +56,4 @@ Tuttavia, emerge un interrogativo etico: sebbene l'AI possa elaborare dati massi
 ---
 
 
-[[Casestudy - INTELLIGENZA ARTIFICIALE E REALTÀ AUMENTATA PER LA CONDIVISIONE DEL PATRIMONIO CULTURALE]]
+[[Casestudy - Iconografie Aumentate (Theatrum Sabaudiae)]] e [[Casestudy - Augmented Don Quixote (App Dulcinea)]] e [[Casestudy - Augmented Turin Baroque Atria]] e [[Casestudy - ARCHâ€¢I Torino  Area Archeologica Centrale di Roma]]

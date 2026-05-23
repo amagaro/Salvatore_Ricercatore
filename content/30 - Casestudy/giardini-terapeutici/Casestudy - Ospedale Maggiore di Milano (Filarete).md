@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Ospedale Maggiore di Milano (Filarete)"
@@ -11,6 +10,11 @@ paper: "[[Paper - History and evolution of the healing gardens]]"
 ---
 
 # 🏗️ Progetto: Ospedale Maggiore di Milano (Filarete)
+
+## Dettagli Progetto
+- **Team/Progettisti:** Non specificato
+- **Committenti/Finanziatori:** Non specificato
+- **Costi:** Non specificato
 
 ## Descrizione e Scopo
 Progettato da Filarete nel 1456, rappresenta il primo ospedale moderno strutturato secondo principi di design geometrico rinascimentale. L'edificio è organizzato attorno a una serie di cortili interni che garantivano ventilazione, luce naturale e un primo tentativo di integrazione del verde come elemento di ordine e igiene all'interno della struttura sanitaria urbana.

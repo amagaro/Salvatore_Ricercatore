@@ -1,6 +1,4 @@
 ---
-
-
 tags:
   - casestudy
 progetto: "Condominio Intergenerazionale a Campagnuzza"
@@ -9,7 +7,6 @@ caratteristiche: "Riuso adattivo, Co-housing flessibile, Spazi comuni integrati"
 ambito: "Ambito Residenziale, Co-housing Intergenerazionale"
 target: "Studenti Universitari, Anziani Fragili, Adulti senza dimora (originario)"
 paper: "[[Paper - Limoncin (2024) - Dare Forma a Spazi]]"
-
 ---
 
 # 🏗️ Progetto: Condominio Intergenerazionale a Campagnuzza

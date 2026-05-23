@@ -44,5 +44,5 @@ In conclusione, i giardini terapeutici rappresentano un intervento imprescindibi
 
 ---
 [[Casestudy - Ospedale di San Diego]]
-[[Casestudy - Paesi Nordici (Ricerca)]]
-[[Casestudy - Shinrin-yoku (Giappone)]]
+[[Casestudy - Ricerca nei Paesi Nordici]]
+[[Casestudy - Shinrin-yoku]]

@@ -62,5 +62,5 @@ Sebbene Cracovia eccella nell'accessibilità motoria, fallisce sul fronte digita
 3. UNWTO (2016). *Manual on Accessible Tourism for All*.
 
 ---
-- [[Casestudy - MOCAK Krakow]]
-- [[Casestudy - Castello del Wawel]]
+- [[Casestudy - MOCAK (Museum of Contemporary Art in Krakow)]]
+- [[Casestudy - Castello Reale del Wawel - Accessibilità Digitale]]

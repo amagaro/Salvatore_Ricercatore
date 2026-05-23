@@ -61,5 +61,5 @@ La tesi conclude che la neurodivergenza non deve essere considerata una patologi
 ---
 - [[Casestudy - Bosco dei Cento Acri]]
 - [[Casestudy - The Good Doctor (Shaun Murphy)]]
-- [[Casestudy - Interazione di Chil]]
-- [[Casestudy - PEBA e UDL]]
+- [[Casestudy - Analisi Comunicativa dell'Interazione di Chil]]
+- [[Casestudy - Integrazione Strumenti PEBA e UDL]]

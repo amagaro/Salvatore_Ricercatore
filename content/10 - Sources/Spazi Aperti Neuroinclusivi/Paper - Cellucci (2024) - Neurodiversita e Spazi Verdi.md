@@ -68,8 +68,8 @@ Lo studio si conclude affermando che, lavorando in modo mirato alla mitigazione 
 5. Vanolo A. (2024) – *La città autistica.* Torino: Giulio Einaudi editore.
 
 ---
-- [[Casestudy - CIDAS Ferrara]]
-- [[Casestudy - Centro Diurno La Baracca]]
-- [[Casestudy - Kingwood College]]
-- [[Casestudy - Sedgewood Commons]]
+- [[Casestudy - Giardino della Felicità (CIDAS CRA Residence Service)]]
+- [[Casestudy - Giardino Terapeutico (Centro Diurno La Baracca)]]
+- [[Casestudy - Giardino Sensoriale Kingwood College]]
+- [[Casestudy - Giardino Terapeutico Sedgewood Commons]]
 - [[Casestudy - Giardino Terapeutico Hampshire]]

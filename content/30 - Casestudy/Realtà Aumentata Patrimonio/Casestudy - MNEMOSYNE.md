@@ -1,11 +1,6 @@
 ---
-
 tags:
   - casestudy
-  - beni_culturali
-  - musei
-  - ar
-  - accessibilità
 progetto: "MNEMOSYNE"
 localizzazione: "Museo del Bargello, Firenze"
 caratteristiche: "Computer Vision / Telecamere"

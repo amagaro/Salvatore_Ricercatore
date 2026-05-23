@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Maggie’s Centre Barcelona"

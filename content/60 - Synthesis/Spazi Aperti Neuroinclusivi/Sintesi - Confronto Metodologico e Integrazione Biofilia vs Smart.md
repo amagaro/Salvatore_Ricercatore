@@ -23,7 +23,7 @@ L'analisi ne decostruisce i punti di forza, i limiti e i target clinici, propone
 
 | Parametro | 🍃 Approccio Biofilico ed Estetico (SREF) | 🔌 Approccio Tecnologico ed Attivo (Smart/AI) |
 | :--- | :--- | :--- |
-| **Concetti Chiave** | [[Concept - Soft Fascination\|Soft Fascination]], [[Concept - Material Authenticity\|Material Authenticity]], [[Concept - Healing Gardens\|Healing Gardens]], [[Concept - SREF Framework\|SREF Framework]]. | [[Concept - Ambienti Reattivi (Smart Environments)\|Ambienti Reattivi]], [[Concept - Responsive Environments\|Responsive Environments]], [[Casestudy - BeSENSHome\|BeSENSHome]]. |
+| **Concetti Chiave** | [[Concept - Soft Fascination|Soft Fascination]], [[Concept - Material Authenticity|Material Authenticity]], [[Concept - Healing Gardens|Healing Gardens]], [[Concept - SREF Framework|SREF Framework]]. | [[Concept - Ambienti Reattivi (Smart Environments)|Ambienti Reattivi]], [[Concept - Responsive Environments|Responsive Environments]], [[Casestudy - BeSENSHome|BeSENSHome]]. |
 | **Fonti Scientifiche** | Finnigan (2024), Cellucci (2024), UOC (2024), Kaplan (1989), Ulrich (1991). | Trieste (2025), Attaianese (2025), Limoncin (2024), Wiater (2025). |
 | **Dispositivi di Design** | Vegetazione fonoassorbente, barriere verdi, percorsi a labirinto, pavimentazioni antiriflesso e materiche (legno, pietra). | Sensori ambientali IoT, illuminazione adattiva LED calda, tracciatori BLE, wayfinding digitale attivo, sistemi domotici. |
 | **Target Clinico** | Spettro autistico (ipersensibilità sensoriale), ADHD, affaticamento cognitivo ed emotivo generale. | Demenza senile e Alzheimer (orientamento e wandering), disabilità motorio-cognitive complesse. |

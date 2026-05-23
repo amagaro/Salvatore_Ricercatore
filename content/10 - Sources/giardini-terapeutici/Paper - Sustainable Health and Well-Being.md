@@ -44,7 +44,7 @@ La ricerca dimostra che il successo nella creazione di ambienti ospedalieri sost
 5. Nieberler-Walker, K. et al. (2023). Therapeutic hospital gardens: Literature review and working definition. HERD.
 
 ---
-[[Casestudy - Veteran Affairs Hospitals (USA)]]
-[[Casestudy - Clalit Medical Centers (Israele)]]
-[[Casestudy - Erasmus University Medical Center (Rotterdam)]]
-[[Casestudy - Queensland Children's Hospital (Brisbane)]]
+[[Casestudy - Veteran Affairs Hospitals]]
+[[Casestudy - Clalit Medical Centers]]
+[[Casestudy - Erasmus University Medical Center]]
+[[Casestudy - Queensland Children's Hospital]]

@@ -33,7 +33,7 @@ L'analisi supera la visione dell'accessibilità come mero adempimento di barrier
   - *Riferimenti:* [[Paper - Acierno (2024) - Diritto alla Citta]], [[Concept - Giustizia Spaziale]], [[Concept - Diritto alla Città]], [[Paper - Wiater (2025) - Public Sector Innovations]].
 - [ ] **Superamento dello Standard Corporeo "Normativo":**
   - Integrare nei regolamenti urbanistici locali (es. P.E.B.A.) i bisogni cognitivi e sensoriali degli utenti, ripensando i manuali d'uso dello spazio pubblico al di fuori del modello del corpo standard sano e produttivo.
-  - *Riferimenti:* [[Paper - De Zanetti (2024) - Identita Neurodivergente]], [[Casestudy - PEBA e UDL]].
+  - *Riferimenti:* [[Paper - De Zanetti (2024) - Identita Neurodivergente]], [[Casestudy - Integrazione Strumenti PEBA e UDL]].
 
 ---
 

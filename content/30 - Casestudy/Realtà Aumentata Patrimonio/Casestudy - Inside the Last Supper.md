@@ -1,11 +1,6 @@
 ---
-
 tags:
   - casestudy
-  - beni_culturali
-  - musei
-  - ar
-  - accessibilità
 progetto: "Inside the Last Supper"
 localizzazione: "Refettorio di Santa Maria delle Grazie, Milano"
 caratteristiche: "Installazione multisensoriale"

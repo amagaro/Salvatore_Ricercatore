@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Giardino Terapeutico Hampshire"

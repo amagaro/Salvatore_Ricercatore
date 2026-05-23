@@ -38,9 +38,9 @@ SORT file.name ASC
 ```
 
 ## 🎯 Categorizzazione & Target
-- **Inclusività Sensoriale:** [[Casestudy - AR4VI]], [[Casestudy - NAVIG]], [[Casestudy - Google Glass_4_Lis]]
-- **Patrimonio Archeologico:** [[Casestudy - Anfiteatro romano di Catania]], [[Casestudy - Pompei per Tutti]]
-- **Gamification/Edutainment:** [[Casestudy - Castello del Wawel]], [[Casestudy - Cards Prototype]]
+- **Inclusività Sensoriale:** [[Casestudy - AR4VI]], [[Casestudy - NAVIG]], [[Casestudy - Google Glass_4_Lis (progetto ATLAS)]]
+- **Patrimonio Archeologico:** [[Casestudy - Valorizzazione dell'Anfiteatro romano di Catania]], [[Casestudy - Pompei per Tutti e progetto Con-me (Smart Pompei)]]
+- **Gamification/Edutainment:** [[Casestudy - Castello Reale del Wawel - Accessibilità Digitale]], [[Casestudy - C[AR]ds™ Prototype]]
 
 ---
 **Ultimo aggiornamento:** 2026-05-12

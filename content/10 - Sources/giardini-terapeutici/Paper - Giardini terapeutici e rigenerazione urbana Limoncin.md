@@ -48,7 +48,7 @@ L'integrazione tra necessità terapeutiche e urgenze climatiche definisce un nuo
 5. Cooper Marcus, C., Sachs, A.N. (2013). Therapeutic Landscapes. Wiley.
 
 ---
-[[Casestudy - Boerenhol Park[ing] (Belgio)]]
-[[Casestudy - Jade Eco Park (Taiwan)]]
+[[Casestudy - Boerenhol Park[ing] (Courtrai)]]
+[[Casestudy - Jade Eco Park (Taichung)]]
 [[Casestudy - Shanghai Expo Park]]
 [[Casestudy - Alzheimer Sensory Garden (Balerna)]]

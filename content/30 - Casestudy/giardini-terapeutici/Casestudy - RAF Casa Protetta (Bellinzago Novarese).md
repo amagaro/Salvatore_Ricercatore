@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "RAF Casa Protetta (Bellinzago Novarese)"

@@ -1,11 +1,6 @@
 ---
-
 tags:
   - casestudy
-  - beni_culturali
-  - musei
-  - ar
-  - accessibilità
 progetto: "Orpheo"
 localizzazione: "Fori Imperiali, Roma"
 caratteristiche: "App Turistica / Georeferenziazione"

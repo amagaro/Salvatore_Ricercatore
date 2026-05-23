@@ -72,4 +72,4 @@ L'editoriale conclue che l'inclusione non può e non deve essere interpretata co
 
 ---
 - [[Casestudy - The Neurodiverse City]]
-- [[Casestudy - CIDAS Ferrara]]
+- [[Casestudy - Giardino della Felicità (CIDAS CRA Residence Service)]]

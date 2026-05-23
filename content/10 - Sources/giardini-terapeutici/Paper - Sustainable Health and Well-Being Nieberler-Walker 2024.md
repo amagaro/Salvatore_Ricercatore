@@ -53,7 +53,7 @@ Il saggio rappresenta un punto di riferimento per l'Health Design manageriale. D
 3. Cooper Marcus, C., & Barnes, M. (1999). Healing gardens.
 
 ---
-[[Casestudy - Veteran Affairs Hospitals (USA)]]
-[[Casestudy - Clalit Medical Centers (Israele)]]
-[[Casestudy - Erasmus University Medical Center (Rotterdam)]]
-[[Casestudy - Queensland Children's Hospital (Brisbane)]]
+[[Casestudy - Veteran Affairs Hospitals]]
+[[Casestudy - Clalit Medical Centers]]
+[[Casestudy - Erasmus University Medical Center]]
+[[Casestudy - Queensland Children's Hospital]]

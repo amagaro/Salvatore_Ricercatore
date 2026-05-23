@@ -37,7 +37,7 @@ Identificare le criticità tecnologiche (tracking, hardware) e metodologiche (ac
 - [[Paper - Inclusive AR-VR Accessibility Barriers]]
 - [[Paper - Form@re - Robotics, augmented reality, virtual worlds]]
 - [[Concetto - Universal Design]]
-- [[Casestudy - Google Glass_4_Lis]]
+- [[Casestudy - Google Glass_4_Lis (progetto ATLAS)]]
 
 ---
 **Note:** Questa sintesi è stata generata tramite interrogazione avanzata della KB (Modalità 3).

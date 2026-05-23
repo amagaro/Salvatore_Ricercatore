@@ -1,6 +1,4 @@
 ---
-
-
 tags:
   - casestudy
 progetto: "Giardino Terapeutico e Sensoriale RSA Ad Maiores"
@@ -9,7 +7,6 @@ caratteristiche: "Rigenerazione parcheggio privato, Giardino sensoriale protetto
 ambito: "Struttura Sanitaria, Spazio Terapeutico Urbano"
 target: "Ospiti della RSA, Persone con Declino Cognitivo e Demenza, Cittadinanza"
 paper: "[[Paper - Limoncin (2024) - Dare Forma a Spazi]]"
-
 ---
 
 # 🏗️ Progetto: Giardino Terapeutico e Sensoriale RSA Ad Maiores

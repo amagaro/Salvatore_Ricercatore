@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "College of Agriculture, Vellayani"
@@ -21,5 +20,4 @@ paper: "[[Paper - History and evolution of the healing gardens]]"
 Uno studio empirico condotto in India ha dimostrato come la meditazione sulle piante, praticata come parte di un programma di ortoterapia, sia in grado di ridurre efficacemente i livelli di stress negli adulti. Il caso evidenzia l'efficacia di attività contemplative semplici e a basso costo all'interno di un contesto accademico e terapeutico.
 
 ---
-**Fonte originale:** [[Paper - Horticulture Therapy A Tool for Betterment]]
-
+**Fonte originale:** [[Paper - History and evolution of the healing gardens]]

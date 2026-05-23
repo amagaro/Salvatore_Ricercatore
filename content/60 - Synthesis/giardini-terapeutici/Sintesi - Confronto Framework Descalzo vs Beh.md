@@ -76,7 +76,7 @@ graph TD
 - [[Paper - Relationship healthcare architecture and nature Descalzo 2024]] — *Definisce le 7 Percezioni Terapeutiche e analizza i casi di studio europei.*
 - [[Paper - Critical landscape design elements Royal Talbot Beh 2025]] — *Definisce i 4 Parametri di Design Cognitivo basandosi sul centro di riabilitazione di Melbourne.*
 - [[Thesis - I giardini terapeutici la riscoperta dei cinque sensi]] — *Fornisce prove sull'efficacia dell'integrazione sensoriale e biofilica.*
-- [[Casestudy - Royal Talbot Rehabilitation Centre (Melbourne)]] — *Il caso studio alla base del framework clinico di Beh.*
+- [[Casestudy - Royal Talbot Rehabilitation Centre]] — *Il caso studio alla base del framework clinico di Beh.*
 - [[Casestudy - Comunidad Terapéutica Can Zariquiey]] — *Esempio applicativo del framework di Descalzo (Appartenenza e Supporto Sociale).*
 
 ---

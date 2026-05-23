@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Santa Rita Geriatric Center"

@@ -45,4 +45,4 @@ Le conclusioni del saggio enfatizzano come la Progettazione Immersiva sia all'av
 5. Sezer, C.B. (2019). *Teaching Virtual Reality and Immersive Design*.
 
 ---
-[[Casestudy - Immersive design and new digital competences]]
+[[Casestudy - ID4Ex (Immersive design and new digital competences for the rehabilitation and valorization of the built heritage)]]

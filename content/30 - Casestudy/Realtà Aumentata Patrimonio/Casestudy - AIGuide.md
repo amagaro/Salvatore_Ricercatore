@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "AIGuide"
@@ -13,7 +12,9 @@ paper: "[[Paper - Inclusive AR-VR Accessibility Barriers]]"
 # 🏗️ Progetto: AIGuide
 
 ## Dettagli Progetto
-- **Scopo:** Guida manuale supportata da AR per l'uso di protesi.
+- **Team/Progettisti:** Non specificato
+- **Committenti/Finanziatori:** Non specificato
+- **Costi:** Non specificato
 
 ## Descrizione e Scopo
 Un sistema che utilizza interfacce aumentate per assistere gli utenti nell'apprendimento e nell'uso di protesi visive o strumenti manuali complessi. Fornisce feedback visivi o sonori in tempo reale per guidare i movimenti e migliorare l'accuratezza operativa dell'utente.

@@ -15,4 +15,4 @@ La **Silvoterapia** (o Tree Therapy) è una pratica terapeutica di origine antic
 
 ---
 **Vedi anche:**
-- [[Casestudy - Shinrin-yoku (Bagno di Foresta)]]
+- [[Casestudy - Shinrin-yoku]]

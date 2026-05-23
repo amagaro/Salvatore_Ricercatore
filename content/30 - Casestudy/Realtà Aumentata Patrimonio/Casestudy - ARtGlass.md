@@ -1,11 +1,6 @@
 ---
-
 tags:
   - casestudy
-  - beni_culturali
-  - musei
-  - ar
-  - accessibilità
 progetto: "ARtGlass"
 localizzazione: "Museo Civico di San Gimignano (Siena)"
 caratteristiche: "Wearable AR / Occhiali Intelligenti"

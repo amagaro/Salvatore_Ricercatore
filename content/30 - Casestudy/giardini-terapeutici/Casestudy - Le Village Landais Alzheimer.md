@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Le Village Landais Alzheimer"

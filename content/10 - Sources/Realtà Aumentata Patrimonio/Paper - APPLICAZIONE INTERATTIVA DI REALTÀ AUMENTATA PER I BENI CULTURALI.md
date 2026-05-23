@@ -55,4 +55,4 @@ Questo approccio si inserisce in una tendenza inarrestabile verso una dimensione
 ---
 
 
-[[Casestudy - APPLICAZIONE INTERATTIVA DI REALT� AUMENTATA PER I BENI CULTURALI]]
+[[Casestudy - MediaEvo]]

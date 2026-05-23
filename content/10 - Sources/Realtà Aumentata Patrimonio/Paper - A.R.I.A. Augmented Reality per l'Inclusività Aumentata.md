@@ -59,4 +59,4 @@ Sotto il profilo progettuale, il sistema A.R.I.A. ha confermato le enormi opport
 ---
 
 
-[[Casestudy - A.R.I.A. Augmented Reality per l'Inclusivit� Aumentata]]
+[[Casestudy - A.R.I.A. (Augmented Reality per l’Inclusività Aumentata)]] e [[Casestudy - F.A.R.E. e FOCUS VR]] e [[Casestudy - Magic Tools]] e [[Casestudy - XOOMWildcard]]

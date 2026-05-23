@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Giardino Piante Officinali Università di Trakya"
@@ -12,8 +11,13 @@ paper: "[[Paper - Tıbbi ve Aromatik Bitkiler Bahçeleri]]"
 
 # 🏗️ Progetto: Giardino Piante Officinali Università di Trakya
 
+## Dettagli Progetto
+- **Team/Progettisti:** Non specificato
+- **Committenti/Finanziatori:** Non specificato
+- **Costi:** Non specificato
+
 ## Descrizione e Scopo
 Implementazione qualificata in ambito accademico che funge da laboratorio vivente per lo studio dell'architettura del paesaggio orientata alla salute. Il giardino è progettato per dimostrare l'integrazione tra estetica botanica, biodiversità locale ed efficacia terapeutica, fungendo da modello per le future generazioni di progettisti turchi.
 
 ---
-**Fonte originale:** [[Paper - Ecological Perspective Erdogan]]
+**Fonte originale:** [[Paper - Tıbbi ve Aromatik Bitkiler Bahçeleri]]

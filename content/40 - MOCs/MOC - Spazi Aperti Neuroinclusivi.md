@@ -53,23 +53,23 @@ SORT file.name ASC
   - [[Casestudy - Play AUT the Box]]
   - [[Casestudy - DIY Play and Neuro-Non-Typical Urbanism (Auckland)]]
 - **Adulti e Studenti Neurodivergenti:**
-  - [[Casestudy - Kingwood College]]
+  - [[Casestudy - Giardino Sensoriale Kingwood College]]
   - [[Casestudy - BeSENSHome]]
 - **Urbano, Infrastrutture e Spazi Pubblici:**
   - [[Casestudy - The Neurodiverse City]]
   - [[Casestudy - MPK Krakow]]
   - [[Casestudy - Tauron Arena Krakow]]
-  - [[Casestudy - PEBA e UDL]]
+  - [[Casestudy - Integrazione Strumenti PEBA e UDL]]
   - [[Casestudy - Towards Neuroinclusive Public Open Spaces (Sydney)]]
 - **Demenza, Alzheimer e RSA (Healing Gardens):**
-  - [[Casestudy - CIDAS Ferrara]]
-  - [[Casestudy - Centro Diurno La Baracca]]
-  - [[Casestudy - Sedgewood Commons]]
+  - [[Casestudy - Giardino della Felicità (CIDAS CRA Residence Service)]]
+  - [[Casestudy - Giardino Terapeutico (Centro Diurno La Baracca)]]
+  - [[Casestudy - Giardino Terapeutico Sedgewood Commons]]
   - [[Casestudy - Giardino Terapeutico Hampshire]]
   - [[Casestudy - Giardino Terapeutico e Sensoriale RSA Ad Maiores]]
 - **Inclusione Sociale ed Etnometodologia:**
   - [[Casestudy - Condominio Intergenerazionale a Campagnuzza]]
-  - [[Casestudy - Interazione di Chil]]
+  - [[Casestudy - Analisi Comunicativa dell'Interazione di Chil]]
 
 ---
 

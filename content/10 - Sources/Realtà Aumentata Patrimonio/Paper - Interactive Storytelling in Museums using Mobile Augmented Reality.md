@@ -36,4 +36,4 @@ I risultati rivelano che lo storytelling interattivo tramite AR migliora la conn
 2. L'impatto della narrativa audiovisiva nei musei d'arte (2024)
 
 ---
-[[Casestudy - Interactive Storytelling in Museums using Mobile Augmented Reality]]
+[[Casestudy - Applicazione AR City Art Gallery]]

@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Programma GAP D-University (Corea)"

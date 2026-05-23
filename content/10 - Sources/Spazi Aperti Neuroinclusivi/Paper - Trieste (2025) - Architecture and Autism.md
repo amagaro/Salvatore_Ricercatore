@@ -39,6 +39,6 @@ L'architettura può adattarsi in tempo reale alle vulnerabilità sensoriali, tra
 
 ---
 [[Casestudy - BeSENSHome]]
-[[Casestudy - Giardino Terapeutico Trieste RSA Ad Maiores]]
+[[Casestudy - Giardino Terapeutico e Sensoriale RSA Ad Maiores]]
 
 

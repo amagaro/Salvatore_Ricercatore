@@ -64,5 +64,5 @@ I healing gardens sono potenti dispositivi di educabilità umana: migliorano le 
 ---
 [[Casestudy - Ospedale Cà Foncello (Treviso)]]
 [[Casestudy - Istituto Rittmeyer per ciechi (Trieste)]]
-[[Casestudy - Terrazze oncologiche Ospedale di Carrara]]
+[[Casestudy - Ospedale Carrara (Terrazze Oncologiche)]]
 [[Casestudy - Fondazione Grimani Butteri (Osimo)]]

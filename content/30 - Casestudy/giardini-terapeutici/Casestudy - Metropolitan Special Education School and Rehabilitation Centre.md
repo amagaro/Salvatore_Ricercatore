@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Metropolitan Special Education School and Rehabilitation Centre"

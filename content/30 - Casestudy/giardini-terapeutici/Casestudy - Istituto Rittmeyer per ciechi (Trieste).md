@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Istituto Rittmeyer per ciechi (Trieste)"
@@ -21,4 +20,4 @@ paper: "[[Thesis - I giardini terapeutici la riscoperta dei cinque sensi]]"
 Un giardino progettato per stimolare i sensi residui (udito, tatto, olfatto) attraverso essenze profumate, fontane sonore e pavimentazioni materiche. È utilizzato per la riabilitazione dell'orientamento spaziale e per il benessere psicologico degli ospiti.
 
 ---
-**Fonte originale:** [[Paper - Nuove architetture terapeutiche Buccini]]
+**Fonte originale:** [[Thesis - I giardini terapeutici la riscoperta dei cinque sensi]]

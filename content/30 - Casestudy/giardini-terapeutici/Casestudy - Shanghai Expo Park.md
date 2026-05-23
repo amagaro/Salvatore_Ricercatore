@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Shanghai Expo Park"
@@ -11,6 +10,11 @@ paper: "[[Paper - Giardini terapeutici e rigenerazione urbana Limoncin]]"
 ---
 
 # 🏗️ Progetto: Shanghai Expo Park
+
+## Dettagli Progetto
+- **Team/Progettisti:** Non specificato
+- **Committenti/Finanziatori:** Non specificato
+- **Costi:** Non specificato
 
 ## Descrizione e Scopo
 Il parco utilizza sistemi di vaporizzazione (nebulizzatori) integrati lungo i percorsi pedonali principali. Questa tecnologia permette di abbassare drasticamente le temperature percepite durante le ondate di calore, garantendo la fruizione degli spazi aperti anche in condizioni climatiche critiche e proteggendo i soggetti più vulnerabili allo stress termico.

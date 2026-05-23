@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Fondazione Grimani Butteri (Osimo)"
@@ -21,4 +20,4 @@ paper: "[[Paper - Giardini terapeutici e rigenerazione urbana Limoncin]]"
 Il giardino è strutturato come un percorso circolare (loop) per prevenire l'ansia da "fine percorso" nei pazienti con Alzheimer. Include piante non tossiche, sedute ergonomiche e stimoli sensoriali che aiutano la reminiscenza e riducono i disturbi comportamentali (BPSD).
 
 ---
-**Fonte originale:** [[Paper - Nuove architetture terapeutiche Buccini]]
+**Fonte originale:** [[Paper - Giardini terapeutici e rigenerazione urbana Limoncin]]

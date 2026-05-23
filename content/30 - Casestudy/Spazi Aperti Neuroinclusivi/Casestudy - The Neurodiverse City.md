@@ -1,6 +1,4 @@
 ---
-
-
 tags:
   - casestudy
 progetto: "The Neurodiverse City"
@@ -9,7 +7,6 @@ caratteristiche: "Audit sensoriali, Co-creazione partecipata, Prototipazione di 
 ambito: "Urbano, Spazio Pubblico, Piazze e Strade Pedonali"
 target: "Persone neurodivergenti (Autismo, ADHD, DSA, Disturbi Sensoriali), Cittadinanza"
 paper: "[[Paper - WIP Collaborative (2021) - The Neurodiverse City]]"
-
 ---
 
 # 🏗️ Progetto: The Neurodiverse City
@@ -17,7 +14,7 @@ paper: "[[Paper - WIP Collaborative (2021) - The Neurodiverse City]]"
 ## Dettagli Progetto
 - **Team/Progettisti:** WIP Collaborative (Women in Practice: Sonya Gimon, Lindsay Harkema, Abby Coover, Bryony Roberts, Ryan Brooke Thomas, Elsa Ponce, Sera Ghadaki, Sasha Topolnytska) in partnership con Verona Carpenter Architects
 - **Committenti/Finanziatori:** Design Trust for Public Space (vincitore del bando "Restorative City") in partnership con AHRC NYC
-- **Tempistiche:** Avvio nel 2021, con prototipazione fisica e collaudo sul campo previsti per l'autunno 2025
+- **Costi:** Non specificato
 
 ## Descrizione e Scopo
 **The Neurodiverse City** è un progetto pilota all'avanguardia a livello internazionale finalizzato a mappare, analizzare e riprogettare lo spazio pubblico urbano di New York per accogliere ed essere "amichevole" nei confronti della neurodiversità e dell'[[Concept - Atipicità Sensoriale|atipicità sensoriale]]. L'iniziativa parte dalla consapevolezza che l'ambiente metropolitano di Manhattan (caratterizzato da rumori assordanti, luci cangianti e flussi continui di folla) disabilita attivamente le persone con [[Concept - Atipicità Sensoriale|ipersensibilità]] sensoriale o differenze di elaborazione cognitiva, impedendo loro di godere dello spazio aperto.
@@ -29,4 +26,3 @@ Le strategie chiave del progetto includono:
 
 ---
 **Fonte originale:** [[Paper - WIP Collaborative (2021) - The Neurodiverse City]]
-*Vedi anche:* [[Paper - Gambardella (2024) - Neuro-Inclusive Design]]

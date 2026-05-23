@@ -57,4 +57,4 @@ Inoltre, le simulazioni avanzate, i mondi virtuali immersivi 3D e il making stim
 ---
 
 
-[[Casestudy - Form@re - Robotics, augmented reality, virtual worlds]]
+[[Casestudy - eCraft2Learn]] e [[Casestudy - Robot@school (Le Chiavi della Città)]] e [[Casestudy - Disuffo]] e [[Casestudy - MoveCare]] e [[Casestudy - ExPLoRAA]] e [[Casestudy - GUINEVERE]] e [[Casestudy - e-REAL (Enhanced Reality Lab)]]

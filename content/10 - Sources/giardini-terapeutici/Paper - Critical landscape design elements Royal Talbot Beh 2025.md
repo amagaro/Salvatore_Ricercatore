@@ -52,4 +52,4 @@ Lo studio sul Royal Talbot Rehabilitation Centre eleva il design del paesaggio d
 3. Ulrich, R. S. (1984). View Through a Window... Science.
 
 ---
-[[Casestudy - Royal Talbot Rehabilitation Centre (Melbourne)]]
+[[Casestudy - Royal Talbot Rehabilitation Centre]]

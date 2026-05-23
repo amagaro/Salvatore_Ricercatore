@@ -36,4 +36,4 @@ I risultati indicano un aumento del 40% nel coinvolgimento dei visitatori e un m
 2. Analisi comparativa dei framework WebAR (2024)
 
 ---
-[[Casestudy - Enhancing Cultural Heritage Accessibility through Augmented Reality: A 2024 Perspective]]
+[[Casestudy - WebAR Museo Archeologico Nazionale]]

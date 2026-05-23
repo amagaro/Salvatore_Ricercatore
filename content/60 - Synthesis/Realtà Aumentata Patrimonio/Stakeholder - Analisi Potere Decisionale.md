@@ -32,7 +32,7 @@ Identificare le preoccupazioni principali dei decisori museali (Direttori, Curat
 - [[Paper - Accessibility of Cultural Heritage Sites for People with Disabilities]]
 - [[Paper - INTELLIGENZA ARTIFICIALE E REALTÀ AUMENTATA PER LA CONDIVISIONE DEL PATRIMONIO CULTURALE]]
 - [[Concetto - Universal Design]]
-- [[Casestudy - Google Glass_4_Lis]]
+- [[Casestudy - Google Glass_4_Lis (progetto ATLAS)]]
 - [[Casestudy - MNEMOSYNE]]
 
 ---

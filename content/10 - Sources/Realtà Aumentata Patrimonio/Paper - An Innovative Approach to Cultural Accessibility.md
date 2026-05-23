@@ -66,6 +66,6 @@ L'unione di **Gamification**, **Realtà Aumentata** e **Design Inclusivo** rappr
 5. Ibrahim, S. T. (2024). *CHx: A Toolkit for Cultural Heritage Experiences*.
 
 ---
-- [[Casestudy - AUGI]]
+- [[Casestudy - AUGI (Augmented Urban Grey Interface)]]
 - [[Casestudy - The Living Paintings]]
-- [[Casestudy - Cards Prototype]]
+- [[Casestudy - C[AR]ds™ Prototype]]

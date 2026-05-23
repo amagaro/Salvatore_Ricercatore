@@ -63,5 +63,5 @@ Il saggio ribadisce che l'integrazione della natura negli edifici sanitari è un
 [[Casestudy - Santa Rita Geriatric Center]]
 [[Casestudy - Comer Children’s Hospital Play Garden]]
 [[Casestudy - Le Village Landais Alzheimer]]
-[[Casestudy - Hospital La Fe (Valencia)]]
+[[Casestudy - Hospital La Fe (Jardín Terapéutico)]]
 [[Casestudy - Maggie’s Centre Barcelona]]

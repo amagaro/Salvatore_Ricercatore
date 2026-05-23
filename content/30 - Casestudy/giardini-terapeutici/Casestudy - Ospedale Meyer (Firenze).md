@@ -1,5 +1,4 @@
 ---
-
 tags:
   - casestudy
 progetto: "Ospedale Meyer (Firenze)"
