@@ -15,9 +15,10 @@ Le **Parametric Design Tables** sono strumenti operativi che traducono i princip
 - Requisiti di accessibilità universale.
 Permettono di passare da un approccio estetico-descrittivo a uno basato su parametri fisici verificabili.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - Sensory Gardens as Therapeutic Spaces]] - *Sviluppa queste tabelle come manuale pratico per la preparazione dei documenti di progetto in architettura sanitaria.*
 
 ---
+
 **Vedi anche:**
 - [[Concetto - Evidence-Based Design]]

@@ -11,9 +11,9 @@ titolo: "I giardini terapeutici: la riscoperta dei cinque sensi attraverso le pi
 
 ## Metadati
 - **Titolo:** I giardini terapeutici: la riscoperta dei cinque sensi attraverso le piante
-- **Autore:** Davide Fenzi
-- **Anno:** 2023 (Anno Accademico 2022/2023)
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Autori:** Davide Fenzi
+- **Anno:** 2023
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 

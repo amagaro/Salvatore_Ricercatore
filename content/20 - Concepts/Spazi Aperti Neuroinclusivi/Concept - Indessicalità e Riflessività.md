@@ -16,10 +16,11 @@ Concetti fondamentali dell'etnometodologia (formulati dal sociologo Harold Garfi
 
 In architettura e urbanistica sensoriale, questi concetti evidenziano come la leggibilità di uno spazio sia co-costruita continuamente dall'utente attraverso la sua esperienza corporea situata all'interno dell'ambiente costruito.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - De Zanetti (2024) - Identita Neurodivergente]] - *Utilizza questi concetti garfinkeliani per dimostrare che la disabilità e il funzionamento cognitivo non sono deficit isolati, ma proprietà co-costruite relazionalmente nel contesto quotidiano.*
 
 ---
+
 **Vedi anche:**
 - [[Concept - Responsive Environments]]
 - [[Concept - Affordance Sensoriale]]

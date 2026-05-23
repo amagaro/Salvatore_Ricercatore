@@ -17,11 +17,12 @@ La *Città Ristorativa* integra in modo sistemico:
 - Zone di decompressione sensoriale, comfort acustico e aree pedonali accoglienti che mitigano la cacofonia del traffico metropolitano.
 - Luoghi aperti e democratici che facilitano l'interazione sociale involontaria, riducendo attivamente la solitudine cronica e l'isolamento delle categorie vulnerabili.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - WIP Collaborative (2021) - The Neurodiverse City]] - *Sviluppa il progetto di prototipazione sensoriale come risposta diretta al bando "Restorative City".*
 - [[Paper - Limoncin (2024) - Dare Forma a Spazi]] - *Applica questo principio di rigenerazione ristorativa nel recupero di parcheggi urbani in giardini sensoriali.*
 
 ---
+
 **Vedi anche:**
 - [[Concept - The Neurodiverse City]]
 - [[Concept - Soft Fascination]]

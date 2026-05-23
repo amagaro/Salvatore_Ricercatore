@@ -1,20 +1,19 @@
 ---
 tags:
   - source
-  - linee-guida
-autore: "Blanca Calvo Boixet, Raquel Colacios, Loreto Nácar García, Benedetta Rodeghiero"
+  - paper
+autore: Blanca Calvo Boixet, Raquel Colacios, Loreto Nácar García, Benedetta Rodeghiero
 anno: 2024
 titolo: "ASD-Publics Friendly Design Handbook & Play AUT the Box"
 ---
 
-# 📄 Fonte: ASD-Publics Friendly Design Handbook & Play AUT the Box (UOC, 2022-2024)
+# 📄 Fonte: ASD-Publics Friendly Design Handbook & Play AUT the Box
 
 ## Metadati
-- **Titolo:** ASD-Publics Friendly Design Handbook & Play AUT the Box / Manuale di progettazione inclusiva e prototipazione per lo spettro autistico
-- **Autori:** Blanca Calvo Boixet, Raquel Colacios, Loreto Nácar García (Institut Global del Neurodesenvolupament - IGAIN), Benedetta Rodeghiero (Laboratori d'Emergències Urbanes - LEMUR)
-- **Anno:** 2022-2024 (Manuale originale pubblicato nel 2022; scale-up e living labs "Play AUT the Box" attivi nel periodo 2023-2024)
+- **Titolo:** ASD-Publics Friendly Design Handbook & Play AUT the Box
+- **Autori:** Blanca Calvo Boixet, Raquel Colacios, Loreto Nácar García, Benedetta Rodeghiero
+- **Anno:** 2024
 - **Notebook Originale:** [[Notebook - Spazi Aperti Neuroinclusivi]]
-- **Link di Download Pubblico:** [Download PDF da UOC Open Access](https://openaccess.uoc.edu/bitstream/10609/147117/4/ASD-Publics_Design-Handbook_ENG.pdf)
 
 ---
 
@@ -51,7 +50,7 @@ I filoni di indagine e applicazione proposti per il futuro comprendono:
 2. **Integrazione Normativa:** Promuovere l'adozione delle linee guida dell'ASD-Publics all'interno dei regolamenti di pianificazione urbanistica municipale della Catalogna e dell'Unione Europea per rendere obbligatori i parchi gioco inclusivi.
 3. **Sistemi di Monitoraggio Smart Passivi:** Integrare nei prototipi sensori acustici e ambientali invisibili per monitorare il benessere degli utenti ed assecondarne i bisogni in tempo reale, migliorando la resilienza del design.
 
-### 6. Conclusioni
+### 3. Conclusioni
 L'esperienza di "ASD-Publics" dimostra che lo spazio pubblico contemporaneo può trasformarsi in un reale agente terapeutico e di equità relazionale solo se la progettazione viene condotta a partire dai margini sensoriali. Superando le barriere acustiche, visive e spaziali attraverso il co-design paritario con i soggetti autistici, è possibile realizzare parchi ed aree urbane capaci di accogliere la biodiversità neurologica umana. Il manuale e il prototipo modulare indicano la strada per un'urbanistica della cura, in cui il gioco inclusivo non è un lusso, ma un diritto democratico universale.
 
 ---

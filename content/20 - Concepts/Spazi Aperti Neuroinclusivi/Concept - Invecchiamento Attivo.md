@@ -17,10 +17,11 @@ Nell'ambito della progettazione architettonica e urbanistica, l'**invecchiamento
 - **La salute fisica e cognitiva:** Percorsi pedonali sicuri, palestre all'aperto, giardini sensoriali e orti terapeutici che invitano all'attività motoria e alla stimolazione cognitiva dolce.
 - **La resilienza psicologica:** Il mantenimento dell'autonomia decisionale e operativa del soggetto anziano all'interno della comunità, inteso come risorsa attiva e non come peso passivo di welfare.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - Limoncin (2024) - Dare Forma a Spazi]] - *Utilizza la Legge Regionale n. 22/2014 del Friuli-Venezia Giulia per inquadrare i progetti di rigenerazione urbana e di co-housing come catalizzatori di invecchiamento attivo.*
 
 ---
+
 **Vedi anche:**
 - [[Concept - Accessibilità Relazionale e Sociale]]
 - [[Concept - Design for Adaptability]]

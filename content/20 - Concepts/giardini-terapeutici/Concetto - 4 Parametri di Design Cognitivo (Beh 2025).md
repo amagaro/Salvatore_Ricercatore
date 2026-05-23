@@ -14,10 +14,11 @@ La ricerca condotta sul Royal Talbot Rehabilitation Centre (Beh et al., 2025) id
 3. **Spazi per l'Interazione Sociale (Social Interaction Spaces):** Aree che facilitano la conversazione e la socializzazione, riducendo l'isolamento.
 4. **Facilità di Navigazione (Ease of Navigation):** Uso di punti di riferimento (landmarks) e percorsi circolari chiari per supportare l'orientamento spaziale.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - Critical landscape design elements Royal Talbot Beh 2025]] - *Fonte primaria che definisce questi parametri attraverso uno studio qualitativo.*
 
 ---
+
 **Vedi anche:**
 - [[Concetto - 7 Percezioni Terapeutiche (Descalzo)]]
 - [[Concetto - Sensory Design Principles]]

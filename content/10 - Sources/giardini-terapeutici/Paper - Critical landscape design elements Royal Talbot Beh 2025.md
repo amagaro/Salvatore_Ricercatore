@@ -13,7 +13,7 @@ titolo: "Critical therapeutic landscape design elements for cognitive impairment
 - **Titolo:** Critical therapeutic landscape design elements for cognitive impairments in the Royal Talbot rehabilitation centre
 - **Autori:** Beh, J., Yew, M., Tan, K., & Rayner, J.P.
 - **Anno:** 2025
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 
@@ -36,7 +36,7 @@ Dall'analisi qualitativa sono emersi 4 parametri critici (elementi di successo d
 ### 5. Sviluppi Futuri
 Nel frammento analizzato non vengono riportati esplicitamente futuri filoni di indagine, ma lo studio suggerisce la necessità di integrare questi 4 parametri nei protocolli standard di progettazione ospedaliera per la riabilitazione.
 
-### 6. Conclusioni
+### 3. Conclusioni
 Lo studio sul Royal Talbot Rehabilitation Centre eleva il design del paesaggio da mera "decorazione" a "infrastruttura clinica". Dimostra che una progettazione basata sull'evidenza empirica (osservazioni e interviste) può supportare attivamente i processi cognitivi dei pazienti in via di recupero, offrendo una guida pratica per architetti e professionisti sanitari.
 
 ## Concetti Chiave

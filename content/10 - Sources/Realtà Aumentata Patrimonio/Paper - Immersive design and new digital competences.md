@@ -2,14 +2,12 @@
 tags:
   - source
   - paper
-  - immersive_design
-  - restauro
 autore: Jerzy Rosłon, Aleksander Nicał, Mariola Książek-Nowak, Paweł Nowak, Fabiana Raco
 anno: 2025
 titolo: "Immersive design and new digital competences for the rehabilitation and valorization of the built heritage: Opportunities, threats, risk management"
 ---
 
-# 📄 Paper: Immersive design and new digital competences for the rehabilitation and valorization of the built heritage
+# 📄 Fonte: Immersive design and new digital competences for the rehabilitation and valorization of the built heritage: Opportunities, threats, risk management
 
 ## Metadati
 - **Titolo:** Immersive design and new digital competences for the rehabilitation and valorization of the built heritage: Opportunities, threats, risk management

@@ -11,11 +11,11 @@ titolo: "Inclusive AR/VR: Accessibility Barriers for Immersive Technologies"
 
 ## Metadati
 - **Titolo:** Inclusive AR/VR: Accessibility Barriers for Immersive Technologies
-- **Autori:** Chris Creed, Maadh Al-Kalbani, et al.
+- **Autori:** Chris Creed, Maadh Al-Kalbani, Arthur Theil, Sayan Sarcar, Ian Williams
 - **Anno:** 2023
 - **Notebook Originale:** [[Notebook - Realtà Aumentata Patrimonio]]
 
-## Sintesi Analitica
+## Sintesi Estesa
 
 ### 1. Obiettivi
 La ricerca mappa sistematicamente le barriere di accessibilità che escludono le persone con disabilità dalle tecnologie immersive (AR/VR/Metaverso). L'obiettivo è prevenire la creazione di nuove forme di esclusione digitale fornendo una base scientifica per integrare l'accessibilità fin dalle fasi iniziali del design tecnologico.
@@ -37,7 +37,7 @@ Utilizzo del **Design Partecipativo** attraverso due **Sandpit** (workshop multi
 - Creazione di framework di design inclusivo "built-in".
 - Sperimentazione di interfacce adattive che compensino i deficit motori e sensoriali in tempo reale.
 
-### 6. Conclusioni
+### 3. Conclusioni
 L'accessibilità deve smettere di essere un "ripensamento postumo" (afterthought) e diventare un requisito fondamentale. Il paper fornisce la piattaforma teorica per trasformare l'XR in uno strumento realmente democratico.
 
 ---

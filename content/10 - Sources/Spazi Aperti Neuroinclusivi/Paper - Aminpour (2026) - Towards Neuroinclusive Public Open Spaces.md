@@ -1,18 +1,18 @@
 ---
 tags:
   - source
-  - report-scientifico
-autore: "Fatemeh Aminpour, Maximilienne Whitby, Shamila Haddad, Phillippa Carnemolla, Frederique Sunstrum"
+  - paper
+autore: Fatemeh Aminpour, Maximilienne Whitby, Shamila Haddad, Phillippa Carnemolla, Frederique Sunstrum
 anno: 2026
 titolo: "Towards Neuroinclusive Public Open Spaces: Evidence and Implications from the City of Sydney"
 ---
 
-# 📄 Fonte: Towards Neuroinclusive Public Open Spaces (Aminpour et al., 2026)
+# 📄 Fonte: Towards Neuroinclusive Public Open Spaces: Evidence and Implications from the City of Sydney
 
 ## Metadati
 - **Titolo:** Towards Neuroinclusive Public Open Spaces: Evidence and Implications from the City of Sydney
 - **Autori:** Fatemeh Aminpour, Maximilienne Whitby, Shamila Haddad, Phillippa Carnemolla, Frederique Sunstrum
-- **Anno:** 2026 (Marzo)
+- **Anno:** 2026
 - **Notebook Originale:** [[Notebook - Spazi Aperti Neuroinclusivi]]
 
 ## Sintesi Estesa
@@ -40,7 +40,7 @@ Il report fornisce evidenze numeriche e qualitative cruciali per la valutazione 
 ### 5. Sviluppi Futuri
 Gli autori suggeriscono che i futuri filoni di indagine dovranno concentrarsi sulla codificazione e standardizzazione delle metriche di accessibilità sensoriale (acustica, illuminazione artificiale, materiali pavimentativi antiriflesso) per l'integrazione sistematica nei piani regolatori generali (Master Plans) e non solo in linee guida accessorie. Si suggerisce inoltre di sviluppare software di navigazione urbana personalizzati che integrino mappe sensoriali in tempo reale (evidenziando percorsi silenziosi, zone d'ombra e aree di decompressione) basati sui dati di folla e rumore metropolitani.
 
-### 6. Conclusioni
+### 3. Conclusioni
 In conclusione, lo studio di Aminpour et al. (2026) offre un contributo fondamentale ribadendo che l'accessibilità urbana deve superare il paradigma puramente motorio-funzionale per abbracciare la giustizia sensoriale e cognitiva. Evidenziando come gli elementi di arredo e i servizi essenziali (sedute protette, acqua, ombra, bagni) costituiscano una vera e propria **Inclusion Infrastructure**, lo studio dimostra che una città prevedibile, leggibile e sensorialmente tollerante è un habitat migliore, più sicuro e democratico per l'intera comunità.
 
 ---

@@ -11,9 +11,9 @@ titolo: "Giardini terapeutici e rigenerazione urbana. Progettare la cura tra fra
 
 ## Metadati
 - **Titolo:** Giardini terapeutici e rigenerazione urbana. Progettare la cura tra fragilità, clima e comunità
-- **Autore:** Paola Limoncin
-- **Anno:** 2026 (Prima edizione: marzo 2026)
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Autori:** Paola Limoncin
+- **Anno:** 2026
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 

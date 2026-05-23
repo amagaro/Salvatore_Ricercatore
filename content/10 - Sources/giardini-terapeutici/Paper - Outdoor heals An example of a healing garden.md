@@ -13,7 +13,7 @@ titolo: "Outdoor heals: An example of a healing garden in a rehabilitation centr
 - **Titolo:** Outdoor heals: An example of a healing garden in a rehabilitation centre
 - **Autori:** Şehriban Eraslan, Ayşegül Ayaz
 - **Anno:** 2022
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 

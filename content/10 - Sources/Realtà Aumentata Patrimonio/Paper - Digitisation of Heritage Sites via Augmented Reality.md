@@ -7,15 +7,15 @@ anno: 2025
 titolo: "Digitisation of Heritage Sites via Augmented Reality: Accessibility of Suzhou Gardens for the Differently Abled"
 ---
 
-# 📄 Fonte: Digitisation of Heritage Sites via Augmented Reality
+# 📄 Fonte: Digitisation of Heritage Sites via Augmented Reality: Accessibility of Suzhou Gardens for the Differently Abled
 
 ## Metadati
-- **Titolo:** Digitisation of Heritage Sites via Augmented Reality: Accessibility of Suzhou Gardens for the Differently Abled - A state of the art review of empirical studies
-- **Autori:** Zhehui Chen, Davide Lombardi, et al.
+- **Titolo:** Digitisation of Heritage Sites via Augmented Reality: Accessibility of Suzhou Gardens for the Differently Abled
+- **Autori:** Zhehui Chen, Davide Lombardi, Mia Tedjosaputro, Asterios Agkathidis, Theodoros Dounas
 - **Anno:** 2025
 - **Notebook Originale:** [[Notebook - Realtà Aumentata Patrimonio]]
 
-## Sintesi Analitica
+## Sintesi Estesa
 
 ### 1. Obiettivi
 La ricerca indaga l'uso della Realtà Aumentata (AR) per superare le barriere architettoniche insormontabili nei siti UNESCO, con un focus specifico sui **Giardini di Suzhou** in Cina. L'obiettivo è compensare le limitazioni fisiche (sentieri stretti, rocce decorative, terreni irregolari) attraverso esperienze digitali inclusive che non compromettano l'integrità estetica e storica del sito.
@@ -36,7 +36,7 @@ Si tratta di una **Revisione Sistematica della Letteratura (SLR)** condotta su 3
 - **Experience-centered design:** Passaggio da una progettazione centrata sulla tecnologia a una centrata sull'esperienza dell'utente fragile.
 - **Multimodalità:** Sviluppo di sistemi AR che rispondano a disabilità combinate (es. motorie e visive simultaneamente).
 
-### 6. Conclusioni
+### 3. Conclusioni
 L'AR è una risorsa straordinaria per l'inclusione sociale nei siti UNESCO, ma richiede una collaborazione interdisciplinare per colmare il divario tra politiche di conservazione e standard di accessibilità basati sullo [[Universal Design]].
 
 ---

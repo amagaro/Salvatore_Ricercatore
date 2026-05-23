@@ -14,11 +14,12 @@ Superamento della concezione puramente tecnica, geometrico-funzionale ed edilizi
 
 Se lo spazio è progettato unicamente su un corpo e una mente "standard" (standardizzazione del soggetto tipico), esso impone barriere che disabilitano l'individuo atipico, rendendolo vulnerabile. Al contrario, un'accessibilità relazionale si propone di flessibilizzare l'ambiente affinché riconosca la pluralità dei modi di essere, riducendo lo stigma e supportando l'inclusione come diritto di partecipazione democratica alla vita sociale.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - Limoncin (2024) - Dare Forma a Spazi]] - *Argomenta in dettaglio come l'accessibilità debba superare il modello medico del deficit individuale per farsi principio relazionale e culturale fondante.*
 - [[Paper - De Zanetti (2024) - Identita Neurodivergente]] - *Analizza come le barriere sociali ed etnometodologiche co-costruiscano la condizione di disabilità.*
 
 ---
+
 **Vedi anche:**
 - [[Concept - Affordance Sensoriale]]
 - [[Concetto - Universal Design (Progettazione per tutti)]]

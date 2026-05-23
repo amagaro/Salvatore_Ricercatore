@@ -1,20 +1,18 @@
 ---
-
 tags:
   - source
-  - saggio
-autore: "Antonio Acierno"
+  - paper
+autore: Antonio Acierno
 anno: 2024
 titolo: "From inclusive design to the right to the city / Dalla progettazione inclusiva al diritto alla città"
-
 ---
 
-# 📄 Fonte: From inclusive design to the [[Concept - Diritto alla Città|right to the city]] / Dalla progettazione inclusiva al [[Concept - Diritto alla Città|diritto alla città]] (Acierno, 2024)
+# 📄 Fonte: From inclusive design to the right to the city / Dalla progettazione inclusiva al diritto alla città
 
 ## Metadati
-- **Titolo:** From inclusive design to the [[Concept - Diritto alla Città|right to the city]] / Dalla progettazione inclusiva al [[Concept - Diritto alla Città|diritto alla città]]
-- **Autori:** Antonio Acierno (Università degli Studi di Napoli Federico II)
-- **Anno:** 2024 (Vol. 18 n. 1, Rivista TRIA)
+- **Titolo:** From inclusive design to the right to the city / Dalla progettazione inclusiva al diritto alla città
+- **Autori:** Antonio Acierno
+- **Anno:** 2024
 - **Notebook Originale:** [[Notebook - Spazi Aperti Neuroinclusivi]]
 
 ## Sintesi Estesa
@@ -54,7 +52,7 @@ Il "risultato" scientifico della ricerca risiede nel contributo teorico-metodolo
 ### 5. Sviluppi Futuri
 Per le sfide globali proiettate al 2050, l'autore auspica un superamento delle tradizionali discipline pianificatorie in favore di una pianificazione flessibile, ecologica e collaborativa (*Collaborative Planning*). Gli sviluppi futuri risiedono nell'integrazione sistematica della transizione verde con l'equità sociale, introducendo in modo stabile la co-progettazione partecipata nei regolamenti urbanistici per garantire la rappresentanza democratica a tutte le identità (neurodivergenti, popolazioni anziane, bambini).
 
-### 6. Conclusioni
+### 3. Conclusioni
 L'editoriale conclue che l'inclusione non può e non deve essere interpretata come una concessione assistenziale paternalistica o una soluzione tecnica di riparazione *ex-post*. Essa rappresenta una scelta politica e civile fondamentale che incarna il "[[Concept - Diritto alla Città|Diritto alla Città]]" per ogni singolo abitante. Solo abbattendo le barriere invisibili (sociali e sensoriali) attraverso una progettazione universale condivisa e democratica, sarà possibile riappropriarsi dello spazio pubblico contemporaneo in modo equo.
 
 ## Concetti Chiave

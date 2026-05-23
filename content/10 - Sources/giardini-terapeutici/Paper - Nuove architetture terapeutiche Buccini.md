@@ -11,9 +11,9 @@ titolo: "Nuove architetture terapeutiche: gli healing gardens per coltivare comp
 
 ## Metadati
 - **Titolo:** Nuove architetture terapeutiche: gli healing gardens per coltivare competenze professionali
-- **Autore:** Francesca Buccini
-- **Anno:** 2024 (Novembre 2024)
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Autori:** Francesca Buccini
+- **Anno:** 2024
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 
@@ -39,7 +39,7 @@ Analisi qualitativa interdisciplinare: revisione teorica (ecopsicologia, ART, Ev
 - Definire metriche quantitative (es. Green‑Burnout Index).
 - Esplorare integrazioni di biofilia digitale (VR/AR) con giardini fisici.
 
-### 6. Conclusioni
+### 3. Conclusioni
 I healing gardens sono potenti dispositivi di educabilità umana: migliorano le soft‑skills del personale sanitario, riducono burnout e aumentano la qualità delle cure. È necessario approfondire la ricerca quantitativa e diffondere la pedagogia del Bello. Per il personale medico, l'interazione con il "Bello" naturale rinnova la vocazione alla cura e rafforza la connessione tra estetica ed etica.
 
 ## Elaborazione Incrementale & Cross-Pollination

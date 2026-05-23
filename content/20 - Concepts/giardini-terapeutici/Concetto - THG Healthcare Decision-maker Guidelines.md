@@ -16,10 +16,11 @@ I 5 pilastri sono:
 4. **Evaluate the garden visitor experience:** Utilizzare valutazioni pre e post-occupazione (POE) per misurare l'efficacia reale.
 5. **Understand the benefits and values of THGs:** Riconoscere il valore economico (riduzione degenze) e di salute pubblica del verde.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - Sustainable Health and Well-Being Nieberler-Walker 2024]] - *Fonte primaria che formalizza queste linee guida attraverso interviste a decisori globali.*
 
 ---
+
 **Vedi anche:**
 - [[Concetto - Integrazione Masterplan Ospedaliero]]
 - [[Concetto - Post-Occupancy Evaluation]]

@@ -17,10 +17,11 @@ Secondo la ricerca di Sánchez-Jáuregui Descalzo (2024), l'efficacia di un'arch
 6. **Controllo (Control):** L'autonomia decisionale del paziente sul come e dove vivere lo spazio aperto.
 7. **Supporto Sociale (Social Support):** La facilitazione delle reti relazionali e delle interazioni umane.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - Relationship healthcare architecture and nature Descalzo 2024]] - *L'autrice utilizza questi 7 parametri come impalcatura metodologica per valutare i casi di studio internazionali.*
 
 ---
+
 **Vedi anche:**
 - [[Concetto - Evidence-Based Design]]
 - [[Concetto - Bio-Psico-Sociale]]

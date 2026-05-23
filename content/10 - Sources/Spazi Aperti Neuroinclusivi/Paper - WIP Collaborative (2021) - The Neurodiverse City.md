@@ -1,20 +1,18 @@
 ---
-
 tags:
   - source
-  - saggio
-autore: "WIP Collaborative"
+  - paper
+autore: WIP Collaborative
 anno: 2021
 titolo: "The Neurodiverse City"
-
 ---
 
-# 📄 Fonte: The Neurodiverse City (WIP Collaborative, 2021)
+# 📄 Fonte: The Neurodiverse City
 
 ## Metadati
 - **Titolo:** The Neurodiverse City
-- **Autori:** WIP Collaborative (Sonya Gimon, Lindsay Harkema, Abby Coover, Bryony Roberts, Ryan Brooke Thomas, Elsa Ponce, Sera Ghadaki, Sasha Topolnytska) in collaborazione con Verona Carpenter Architects e AHRC NYC
-- **Anno:** 2021 (in corso, con fase cruciale di installazione nell'autunno 2025)
+- **Autori:** WIP Collaborative
+- **Anno:** 2021
 - **Notebook Originale:** [[Notebook - Spazi Aperti Neuroinclusivi]]
 
 ## Sintesi Estesa
@@ -52,7 +50,7 @@ Tuttavia, emergono chiaramente le seguenti criticità operative:
 - **Redazione di Linee Guida (Guidebooks):** Codificazione dei risultati in manuali operativi e raccomandazioni di design ad uso di pianificatori urbani e amministrazioni comunali.
 - **Esportazione del modello:** Estensione del framework partecipativo a livello metropolitano internazionale.
 
-### 6. Conclusioni
+### 3. Conclusioni
 Il progetto "The Neurodiverse City" delinea un modello d'eccellenza che connette la ricerca sociale e partecipativa all'intervento fisico nello spazio pubblico. Dimostra empiricamente che accogliere la neurodiversità è un pilastro inalienabile dell'urbanistica ristorativa e democratica del futuro. Attraverso prototipi scalabili e la valorizzazione dei *[[Concept - Self-advocates|self-advocates]]*, è possibile convertire le ostili strade metropolitane in luoghi di benessere, decompressione ed equità relazionale per tutti.
 
 ## Concetti Chiave

@@ -1,23 +1,18 @@
 ---
 tags:
   - source
-  - journal
-  - education
-  - ar
-  - robotics
-  - inclusion
+  - paper
 autore: Laura Menichetti (Editoriale) e AA.VV.
 anno: 2019
 titolo: "Form@re - Robotics, augmented reality, virtual worlds, to support cognitive development"
 ---
 
-# 📄 Paper: Form@re - Robotics, augmented reality, virtual worlds
+# 📄 Fonte: Form@re - Robotics, augmented reality, virtual worlds, to support cognitive development
 
 ## Metadati
-- **Titolo:** Form@re - Open Journal per la formazione in rete, vol. 19, n. 1 (Editoriale: Robotics, augmented reality, virtual worlds, to support cognitive development, learning outcomes, social interaction, and inclusion)
-- **Autore:** Laura Menichetti (autrice dell'editoriale introduttivo) e ricercatori AA.VV.
+- **Titolo:** Form@re - Robotics, augmented reality, virtual worlds, to support cognitive development
+- **Autori:** Laura Menichetti (Editoriale) e AA.VV.
 - **Anno:** 2019
-- **Rivista:** Form@re
 - **Notebook Originale:** [[Notebook - Realtà Aumentata Patrimonio]]
 
 ## Sintesi Estesa

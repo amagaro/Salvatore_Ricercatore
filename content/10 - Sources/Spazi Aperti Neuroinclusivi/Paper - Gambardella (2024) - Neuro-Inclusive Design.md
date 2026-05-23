@@ -1,13 +1,11 @@
-﻿---
+---
 tags:
-  - source
-  - tesi
 autore: Lia Gambardella
 anno: 2024
 titolo: "Neuro-Inclusive Design: Redefining Design Standards with Neurodiversity"
 ---
 
-# 📖 Fonte: Neuro-Inclusive Design: Redefining Design Standards with Neurodiversity
+# 📄 Fonte: Neuro-Inclusive Design: Redefining Design Standards with Neurodiversity
 
 ## Metadati
 - **Titolo:** Neuro-Inclusive Design: Redefining Design Standards with Neurodiversity

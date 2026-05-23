@@ -7,15 +7,15 @@ anno: 2024
 titolo: "Accessibility of Cultural Heritage Sites for People with Disabilities: A Case Study on Krakow Museums"
 ---
 
-# 📄 Fonte: Accessibility of Cultural Heritage Sites for People with Disabilities
+# 📄 Fonte: Accessibility of Cultural Heritage Sites for People with Disabilities: A Case Study on Krakow Museums
 
 ## Metadati
 - **Titolo:** Accessibility of Cultural Heritage Sites for People with Disabilities: A Case Study on Krakow Museums
-- **Autori:** Zygmunt Kruczek, Katarzyna Gmyrek, Danuta Ziżka, Karolina Korbiel, Karolina Nowak
+- **Autori:** Zygmunt Kruczek, Katarzyna Gmyrek, et al.
 - **Anno:** 2024
 - **Notebook Originale:** [[Notebook - Realtà Aumentata Patrimonio]]
 
-## Sintesi Analitica
+## Sintesi Estesa
 
 ### 1. Obiettivi
 La ricerca valuta scientificamente il livello di accessibilità fisica e digitale di 31 musei a Cracovia (sito UNESCO). L'obiettivo è misurare quanto le istituzioni culturali siano realmente inclusive per visitatori con disabilità motorie, sensoriali e cognitive, verificando al contempo la maturità dei loro strumenti digitali (siti web e tour virtuali).
@@ -40,7 +40,7 @@ Approccio misto condotto nel 2023:
 - Estensione della ricerca a manager museali per valutarne la formazione e sensibilità.
 - Integrazione sistematica di tecnologie multisensoriali per colmare il divario delle disabilità sensoriali.
 
-### 6. Conclusioni
+### 3. Conclusioni
 Sebbene Cracovia eccella nell'accessibilità motoria, fallisce sul fronte digitale e sensoriale. Il processo di digitalizzazione per l'inclusione è ancora allo stadio embrionale, con siti web poco accessibili e scarso uso di realtà immersiva.
 
 ---

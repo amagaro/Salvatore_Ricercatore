@@ -14,9 +14,10 @@ La **Contemplation Zone** (Zona di Contemplazione) è un'area specifica all'inte
 - Presenza di elementi calmanti come fontane o specchi d'acqua.
 - Ombreggiamento naturale tramite alberi.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - Sensory Gardens as Therapeutic Spaces]] - *Definisce le caratteristiche spaziali e botaniche necessarie per creare ambienti di contemplazione efficaci.*
 
 ---
+
 **Vedi anche:**
 - [[Concetto - Sensory Opportunity Spectrum]]

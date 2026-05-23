@@ -1,14 +1,14 @@
-﻿---
+---
 tags:
-  - concept
 aliases:
-  - Rifugi Sensoriali
 ---
 
 # 💡 Concetto: Sensory Escapes
 
 ## Definizione
-Spazi progettati per offrire sollievo dal sovraccarico sensoriale.
+Definizione non ancora specificata.
 
+**Vedi anche:**
+- [[Paper - Trieste (2025) - Architecture and Autism]]
 ## Fonti Collegate
 - [[Paper - Trieste (2025) - Architecture and Autism]]

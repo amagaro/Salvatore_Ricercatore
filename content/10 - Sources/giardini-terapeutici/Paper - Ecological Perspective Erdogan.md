@@ -11,9 +11,9 @@ titolo: "Ecological Perspective: Landscape design of healing gardens in Turkey"
 
 ## Metadati
 - **Titolo:** Ecological Perspective: Landscape design of healing gardens in Turkey
-- **Autore:** D. Erdoğan
+- **Autori:** D. Erdoğan
 - **Anno:** 2025
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 

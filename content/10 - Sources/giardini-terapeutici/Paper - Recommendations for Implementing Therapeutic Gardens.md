@@ -13,7 +13,7 @@ titolo: "Recommendations for Implementing Therapeutic Gardens to Enhance Human W
 - **Titolo:** Recommendations for Implementing Therapeutic Gardens to Enhance Human Well-Being
 - **Autori:** Helena Carla B. Pimentel, Ana Paula M. de Lima, Agnieszka E. Latawiec
 - **Anno:** 2024
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 

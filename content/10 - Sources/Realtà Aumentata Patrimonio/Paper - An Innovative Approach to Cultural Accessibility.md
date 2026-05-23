@@ -7,7 +7,7 @@ anno: 2024
 titolo: "An Innovative Approach to Cultural Accessibility: A Study on the Use of an Augmented Reality App for People with Disabilities"
 ---
 
-# 📄 Fonte: An Innovative Approach to Cultural Accessibility
+# 📄 Fonte: An Innovative Approach to Cultural Accessibility: A Study on the Use of an Augmented Reality App for People with Disabilities
 
 ## Metadati
 - **Titolo:** An Innovative Approach to Cultural Accessibility: A Study on the Use of an Augmented Reality App for People with Disabilities
@@ -15,7 +15,7 @@ titolo: "An Innovative Approach to Cultural Accessibility: A Study on the Use of
 - **Anno:** 2024
 - **Notebook Originale:** [[Notebook - Realtà Aumentata Patrimonio]]
 
-## Sintesi Analitica
+## Sintesi Estesa
 
 ### 1. Obiettivi
 La ricerca propone un framework tecnologico denominato **CHx (Cultural Heritage Experience Toolkit)** per superare le barriere fisiche e cognitive nell'accesso al patrimonio culturale. L'obiettivo è trasformare la fruizione dei siti storici in un'esperienza **multisensoriale, inclusiva e gamificata**, animando contesti complessi (come i giardini di Suzhou o i monumenti del Cairo) per renderli accessibili a persone con disabilità.
@@ -42,7 +42,7 @@ L'approccio integra:
 - **Circuito SLAM:** Piattaforma standardizzata per istituzioni culturali.
 - **Interattività Sociale:** Funzioni multi-utente per visite sincronizzate.
 
-### 6. Conclusioni
+### 3. Conclusioni
 L'unione di **Gamification**, **Realtà Aumentata** e **Design Inclusivo** rappresenta un cambio di paradigma verso la democratizzazione della cultura, trasformando la conservazione digitale in una piattaforma viva e umana.
 
 ---

@@ -1,18 +1,18 @@
 ---
 tags:
   - source
-  - saggio-scientifico
-autore: "Rumen Rachev, James Smith-Harvey, Chris Berthelsen"
+  - paper
+autore: Rumen Rachev, James Smith-Harvey, Chris Berthelsen
 anno: 2025
 titolo: "DIY Play and Neuro-Non-Typical Urbanism"
 ---
 
-# 📄 Fonte: DIY Play and Neuro-Non-Typical Urbanism (Rachev et al., 2025)
+# 📄 Fonte: DIY Play and Neuro-Non-Typical Urbanism
 
 ## Metadati
 - **Titolo:** DIY Play and Neuro-Non-Typical Urbanism
 - **Autori:** Rumen Rachev, James Smith-Harvey, Chris Berthelsen
-- **Anno:** 2025 (Dicembre)
+- **Anno:** 2025
 - **Notebook Originale:** [[Notebook - Spazi Aperti Neuroinclusivi]]
 
 ## Sintesi Estesa
@@ -42,7 +42,7 @@ Trattandosi di uno studio etnografico e speculativo orientato alla ricerca socia
 ### 5. Sviluppi Futuri
 Gli autori suggeriscono che la ricerca futura dovrebbe esplorare le ecologie sensoriali "oltre l'umano" (more-than-human relations), analizzando come le persone neurodivergenti interagiscono con la materia, le piante e gli ecosistemi non-antropici all'interno degli spazi aperti. Si auspica inoltre di sviluppare modelli di governance urbana "ibridi" che consentano alle amministrazioni pubbliche di formalizzare e finanziare aree destinate all'urbanistica tattica e al gioco DIY in modo permanente, integrando l'improvvisazione all'interno dei processi decisionali formali.
 
-### 6. Conclusioni
+### 3. Conclusioni
 Il saggio di Rachev et al. (2025) fornisce un eccezionale contributo teorico e pratico alla pianificazione neuroinclusiva. Sfidando l'approccio puramente standardizzato e "autistic-centric" dell'accessibilità tradizionale, gli autori dimostrano che la vera giustizia spaziale si ottiene ponendo la neurodiversità non come una vulnerabilità da proteggere passivamente, ma come una forza co-creativa attiva. L'urbanismo neuro-non-tipico e il gioco DIY offrono una visione alternativa, democratica e dinamica dello spazio pubblico, inteso come un ecosistema vivente in continuo divenire, plasmato dalle differenze incarnate dei suoi abitanti.
 
 ---

@@ -10,10 +10,10 @@ titolo: "Integrating Child-Friendly Green Spaces into Post-Disaster Recovery"
 # 📄 Fonte: Integrating Child-Friendly Green Spaces into Post-Disaster Recovery
 
 ## Metadati
-- **Titolo:** Integrating Child-Friendly Green Spaces into Post-Disaster Recovery: Psychological, Physical, and Educational Sustainability Impact on Children’s Well-Being
+- **Titolo:** Integrating Child-Friendly Green Spaces into Post-Disaster Recovery
 - **Autori:** Dewi Rezalini Anwar, Gehan Selim
 - **Anno:** 2025
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 

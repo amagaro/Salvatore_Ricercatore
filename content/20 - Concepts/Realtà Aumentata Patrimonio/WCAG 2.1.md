@@ -14,10 +14,11 @@ Le **WCAG 2.1** (Web Content Accessibility Guidelines) sono lo standard internaz
 3. **Comprensibilità:** Le informazioni devono essere chiare.
 4. **Robustezza:** Il contenuto deve essere compatibile con diverse tecnologie assistive.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - Accessibility of Cultural Heritage Sites for People with Disabilities]] - *Utilizza le WCAG 2.1 come parametro di riferimento per l'analisi dei siti web dei musei.*
 
 ---
+
 **Vedi anche:**
 - [[Audit di Accessibilità Digitale]]
 - [[Digital Divide]]

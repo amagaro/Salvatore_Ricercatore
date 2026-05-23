@@ -11,9 +11,9 @@ titolo: "The relationship between healthcare architecture and nature: interactio
 
 ## Metadati
 - **Titolo:** The relationship between healthcare architecture and nature: interaction with the landscape as therapy
-- **Autore:** Teresa Sánchez-Jáuregui Descalzo
+- **Autori:** Teresa Sánchez-Jáuregui Descalzo
 - **Anno:** 2024
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 
@@ -39,7 +39,7 @@ Non sono riportati KPI numerici quantitativi (es. riduzione farmaci in %). A liv
 ### 5. Sviluppi Futuri
 L'autrice auspica che i progetti architettonici di prossima generazione adottino "lievi miglioramenti" per includere globalmente tutti i benefici terapeutici del paesaggio, promuovendo un'architettura strutturalmente più inclusiva e sostenibile.
 
-### 6. Conclusioni
+### 3. Conclusioni
 Il saggio ribadisce che l'integrazione della natura negli edifici sanitari è una pratica storicamente radicata che deve tornare a essere riconosciuta come "terapia". Declinando i bisogni dei pazienti in 7 sensazioni psico-emotive, l'autrice fornisce ai progettisti una solida impalcatura di valutazione per creare architetture umanizzate che contribuiscano attivamente alla guarigione.
 
 ## Concetti Chiave

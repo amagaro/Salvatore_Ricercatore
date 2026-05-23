@@ -16,10 +16,11 @@ Ambienti di vita fisici (domestici o urbani) integrati in modo sinergico con tec
 - Rilevare anomalie o situazioni di pericolo (es. perdite di gas, assenza prolungata di movimento, cadute).
 - Estendere il tempo di vita autonoma e indipendente in casa (*aging in place*) per persone con disabilità cognitive o demenza senile, fornendo assistenza silenziosa e non stigmatizzante.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - Limoncin (2024) - Dare Forma a Spazi]] - *Propone l'integrazione di reti sensoristiche poco invasive nel recupero del patrimonio residenziale esistente per estendere l'autonomia degli anziani.*
 
 ---
+
 **Vedi anche:**
 - [[Concept - Responsive Environments]]
 - [[Concept - Solar-based navigation]]

@@ -2,21 +2,17 @@
 tags:
   - source
   - paper
-  - ai
-  - ar
-  - beni_culturali
-  - foss
 autore: Roberta Spallone, Valerio Palma
 anno: 2020
 titolo: "INTELLIGENZA ARTIFICIALE E REALTÀ AUMENTATA PER LA CONDIVISIONE DEL PATRIMONIO CULTURALE"
 ---
 
-# 📄 Paper: INTELLIGENZA ARTIFICIALE E REALTÀ AUMENTATA PER LA CONDIVISIONE DEL PATRIMONIO CULTURALE
+# 📄 Fonte: INTELLIGENZA ARTIFICIALE E REALTÀ AUMENTATA PER LA CONDIVISIONE DEL PATRIMONIO CULTURALE
 
 ## Metadati
 - **Titolo:** INTELLIGENZA ARTIFICIALE E REALTÀ AUMENTATA PER LA CONDIVISIONE DEL PATRIMONIO CULTURALE
-- **Autori:** Roberta Spallone, Valerio Palma (Politecnico di Torino)
-- **Anno:** 2020 (Pubblicato nel Bollettino SIFET)
+- **Autori:** Roberta Spallone, Valerio Palma
+- **Anno:** 2020
 - **Notebook Originale:** [[Notebook - Realtà Aumentata Patrimonio]]
 
 ## Sintesi Estesa

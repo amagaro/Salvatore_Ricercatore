@@ -1,20 +1,18 @@
 ---
-
 tags:
   - source
-  - saggio-scientifico
-autore: "Cristiana Cellucci"
+  - paper
+autore: Cristiana Cellucci
 anno: 2024
 titolo: "Neurodiversità e spazi verdi urbani. Soluzioni per giardini sensoriali e terapeutici"
-
 ---
 
-# 📄 Fonte: Neurodiversità e spazi verdi urbani (Cellucci, 2024)
+# 📄 Fonte: Neurodiversità e spazi verdi urbani. Soluzioni per giardini sensoriali e terapeutici
 
 ## Metadati
 - **Titolo:** Neurodiversità e spazi verdi urbani. Soluzioni per giardini sensoriali e terapeutici
 - **Autori:** Cristiana Cellucci
-- **Anno:** 2024 (Dicembre)
+- **Anno:** 2024
 - **Notebook Originale:** [[Notebook - Spazi Aperti Neuroinclusivi]]
 
 ## Sintesi Estesa
@@ -50,7 +48,7 @@ A livello applicativo e spaziale, i risultati positivi evidenziati dai casi stud
 ### 5. Sviluppi Futuri
 Nelle considerazioni finali, l'autrice suggerisce la necessità di estendere i filoni di indagine e le riflessioni neuro-inclusive dalla scala del singolo giardino terapeutico a quella dell'ecosistema urbano nel suo insieme. In un contesto storico afflitto da forte invivibilità causata da sovraffollamento, esiti della pandemia e cambiamenti climatici, gli sviluppi futuri dovranno necessariamente incrociare la progettazione per la neurodiversità con i nuovi modelli di dibattito urbano. Il design neuro-inclusivo degli spazi verdi dovrà essere il volano per la promozione e la realizzazione di paradigmi come la "città dei 15 minuti" e la "città verde", al fine di generare habitat intrinsecamente più vivibili per l'intera cittadinanza, a prescindere dalle specifiche abilità neurologiche individuali.
 
-### 6. Conclusioni
+### 3. Conclusioni
 Lo studio si conclude affermando che, lavorando in modo mirato alla mitigazione e alla riduzione dei *trigger* sensoriali – ovvero quei fattori di stress ambientale che causano ansia e iper-stimolazione, come l'assenza di percorsi intellegibili, rumori eccessivi o l'uso di pavimentazioni abbaglianti e riflettenti – lo spazio pubblico si trasforma in un ambiente sicuro, comodo e piacevole. Il saggio fornisce il contributo fondamentale di ribadire che l'applicazione dei criteri pensati originariamente per assistere le fragilità dell'autismo o della demenza non costituisce un'aggiunta esclusiva rivolta a una "categoria speciale", ma genera un miglioramento spaziale universale che offre benessere psicofisico e sicurezza all'intera popolazione.
 
 ## Concetti Chiave

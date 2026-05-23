@@ -1,20 +1,19 @@
 ---
 tags:
   - source
-  - saggio-scientifico
-autore: "Mariola Wiater, Dariusz Firszt"
+  - paper
+autore: Mariola Wiater, Dariusz Firszt
 anno: 2025
 titolo: "Innovations in the public sector in response to the challenges of neurodiversity – findings from Krakow"
 ---
 
-# 📄 Fonte: Innovations in the public sector in response to the challenges of neurodiversity – findings from Krakow (Wiater & Firszt, 2025)
+# 📄 Fonte: Innovations in the public sector in response to the challenges of neurodiversity – findings from Krakow
 
 ## Metadati
-- **Titolo:** Innovations in the public sector in response to the challenges of neurodiversity – findings from Krakow / Le innovazioni nel settore pubblico in risposta alle sfide della neurodiversità – risultati da Cracovia
-- **Autori:** Mariola Wiater, Dariusz Firszt (Università di Economia di Cracovia - Dipartimento di Gestione dei Processi)
-- **Anno:** 2025 (Articolo pubblicato in *Silesian University of Technology Scientific Papers*, z. 218)
+- **Titolo:** Innovations in the public sector in response to the challenges of neurodiversity – findings from Krakow
+- **Autori:** Mariola Wiater, Dariusz Firszt
+- **Anno:** 2025
 - **Notebook Originale:** [[Notebook - Spazi Aperti Neuroinclusivi]]
-- **Link di Download Pubblico:** [Download PDF da BazTech](https://baztech.icm.edu.pl/baztech/element/bwmeta1.element.baztech-4318c393-27ea-439d-b8d0-c3d6c703b44b/c/218-Wiater-Firszt.pdf)
 
 ---
 
@@ -53,7 +52,7 @@ Gli autori delineano quattro assi strategici per lo sviluppo futuro delle città
 3. **Campagne Educative a Livello Municipale:** Lanciare iniziative di sensibilizzazione pubblica per formare il personale a contatto con il pubblico e abbattere lo stigma sociale associato ai comportamenti atipici.
 4. **Co-Design Obbligatorio:** Introdurre nei regolamenti edilizi metropolitani la partecipazione attiva dei soggetti neurodivergenti nella pianificazione dei servizi urbani.
 
-### 6. Conclusioni
+### 3. Conclusioni
 La ricerca conclude affermando che la transizione verso città inclusive in Europa richiede un radicale cambio di paradigma. Le barriere che escludono i cittadini neurodivergenti non risiedono nella loro biologia, ma in uno spazio pubblico e in infrastrutture rigide e cacofoniche progettate per un utente standard. Trattare la neuroinclusività come un elemento essenziale della gestione dei servizi pubblici e della pianificazione urbana è la via maestra per trasformare lo spazio pubblico in un habitat sicuro e democratico per tutti, convertendo la diversità da sfida a risorsa collettiva di innovazione.
 
 ---

@@ -1,20 +1,18 @@
 ---
-
 tags:
   - source
-  - saggio
-autore: "Paola Limoncin"
+  - paper
+autore: Paola Limoncin
 anno: 2024
 titolo: "Dare forma a spazi che abbracciano la diversità: progettare per un mondo che invecchia"
-
 ---
 
-# 📄 Fonte: Dare forma a spazi che abbracciano la diversità: progettare per un mondo che invecchia (Limoncin, 2024)
+# 📄 Fonte: Dare forma a spazi che abbracciano la diversità: progettare per un mondo che invecchia
 
 ## Metadati
 - **Titolo:** Dare forma a spazi che abbracciano la diversità: progettare per un mondo che invecchia
-- **Autori:** Paola Limoncin (Università degli Studi di Trieste)
-- **Anno:** 2024 (Dicembre)
+- **Autori:** Paola Limoncin
+- **Anno:** 2024
 - **Notebook Originale:** [[Notebook - Spazi Aperti Neuroinclusivi]]
 
 ## Sintesi Estesa
@@ -46,7 +44,7 @@ I futuri filoni di indagine proposti per ampliare la ricerca si strutturano su d
 1. **Domotica e Reti Sensoristiche Non Invasive:** L'integrazione di sistemi reattivi intelligenti (*Smart Environments*) negli edifici esistenti per monitorare lo stato di benessere degli anziani, estenderne l'autonomia domiciliare e garantire la sicurezza senza generare la sensazione di confinamento o sorveglianza.
 2. **Promozione dell'[[Concept - Invecchiamento Attivo|Invecchiamento Attivo]]:** Integrazione dei progetti architettonici all'interno delle cornici programmatiche e legislative regionali (es. la Legge Regionale n. 22/2014 del Friuli-Venezia Giulia per il contrasto alla solitudine involontaria), potenziando l'uso ristorativo e terapeutico del verde urbano.
 
-### 6. Conclusioni
+### 3. Conclusioni
 Il saggio conclude che il progressivo invecchiamento demografico non deve essere percepito come un'emergenza ingestibile, bensì come un'opportunità evolutiva per l'architettura. Solo superando l'assimilazione forzata dell'individuo a un ambiente standard e investendo in spazi flessibili, intergenerazionali e sensoriali, sarà possibile garantire il diritto democratico alla salute e al benessere urbano. L'integrazione tra la sensibilità progettuale, la co-progettazione sociale e le soluzioni digitali rappresenta la via maestra per trasformare la cura in una scelta culturale e civile.
 
 ## Concetti Chiave

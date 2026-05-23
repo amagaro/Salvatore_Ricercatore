@@ -13,9 +13,10 @@ Il **K-PSI-4** è l'indice psicometrico standardizzato utilizzato per misurare c
 - **Parent Domain:** misura lo stato psicologico del genitore (es. depressione, isolamento, restrizione di ruolo).
 Viene utilizzato nelle ricerche sui giardini terapeutici per quantificare i miglioramenti emotivi post-intervento.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - Effects of Gardening Activities on Parenting Stress]] - *Utilizza questa metrica per dimostrare la riduzione significativa dello stress dopo il programma di giardinaggio.*
 
 ---
+
 **Vedi anche:**
 - [[Concetto - Evidence-Based Design]]

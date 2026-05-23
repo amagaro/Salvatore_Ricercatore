@@ -1,16 +1,14 @@
-﻿---
+---
 tags:
-  - source
-  - atti-convegno
-autore: "Scavuzzo G., Bettarello F., Di Prisco M."
+autore: Giuseppina Scavuzzo, Federica Bettarello, Martina Di Prisco (Editors)
 anno: 2025
-titolo: "ARCHITECTURE AND AUTISM. SHARED SPACES AND [[Sensory Escapes]]"
+titolo: "ARCHITECTURE AND AUTISM. SHARED SPACES AND Sensory Escapes"
 ---
 
-# 📖 Fonte: ARCHITECTURE AND AUTISM. SHARED SPACES AND [[Sensory Escapes]]
+# 📄 Fonte: ARCHITECTURE AND AUTISM. SHARED SPACES AND [[Sensory Escapes]]
 
 ## Metadati
-- **Titolo:** ARCHITECTURE AND AUTISM. SHARED SPACES AND [[Sensory Escapes]]
+- **Titolo:** ARCHITECTURE AND AUTISM. SHARED SPACES AND Sensory Escapes
 - **Autori:** Giuseppina Scavuzzo, Federica Bettarello, Martina Di Prisco (Editors)
 - **Anno:** 2025
 - **Notebook Originale:** [[Notebook - Spazi Aperti Neuroinclusivi]]
@@ -40,5 +38,3 @@ L'architettura può adattarsi in tempo reale alle vulnerabilità sensoriali, tra
 ---
 [[Casestudy - BeSENSHome]]
 [[Casestudy - Giardino Terapeutico e Sensoriale RSA Ad Maiores]]
-
-

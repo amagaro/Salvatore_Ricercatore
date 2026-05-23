@@ -2,14 +2,12 @@
 tags:
   - source
   - paper
-  - metaverso
-  - patrimonio_digitale
 autore: Ifah Shandy, Kevin Setiawan, Khalil Jibran, Caelin Damayanti
 anno: 2025
 titolo: "Virtual Veneration: A Critical Inquiry into the Sacralization and Valorization of Digital Heritage in the Metaverse"
 ---
 
-# 📄 Paper: Virtual Veneration: A Critical Inquiry into the Sacralization and Valorization of Digital Heritage in the Metaverse
+# 📄 Fonte: Virtual Veneration: A Critical Inquiry into the Sacralization and Valorization of Digital Heritage in the Metaverse
 
 ## Metadati
 - **Titolo:** Virtual Veneration: A Critical Inquiry into the Sacralization and Valorization of Digital Heritage in the Metaverse

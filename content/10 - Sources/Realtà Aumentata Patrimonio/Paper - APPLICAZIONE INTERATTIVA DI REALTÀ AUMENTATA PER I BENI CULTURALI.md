@@ -2,22 +2,17 @@
 tags:
   - source
   - paper
-  - ar
-  - beni_culturali
-  - otranto
-  - edutainment
 autore: Lucio Tommaso De Paolis
 anno: 2012
 titolo: "APPLICAZIONE INTERATTIVA DI REALTÀ AUMENTATA PER I BENI CULTURALI"
 ---
 
-# 📄 Paper: APPLICAZIONE INTERATTIVA DI REALTÀ AUMENTATA PER I BENI CULTURALI
+# 📄 Fonte: APPLICAZIONE INTERATTIVA DI REALTÀ AUMENTATA PER I BENI CULTURALI
 
 ## Metadati
 - **Titolo:** APPLICAZIONE INTERATTIVA DI REALTÀ AUMENTATA PER I BENI CULTURALI
-- **Autore:** Lucio Tommaso De Paolis
+- **Autori:** Lucio Tommaso De Paolis
 - **Anno:** 2012
-- **Rivista/Volume:** Vol 2, Issue 1
 - **Notebook Originale:** [[Notebook - Realtà Aumentata Patrimonio]]
 
 ## Sintesi Estesa

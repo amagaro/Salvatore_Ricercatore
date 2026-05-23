@@ -14,9 +14,10 @@ Quadro teorico che individua quattro direttive essenziali affinché un giardino 
 3. **Senso di controllo/autonomia:** permettere all'utente di scegliere dove stare e come muoversi.
 4. **Distrazioni positive:** garantire l'accesso alla natura (luce, vento, piante, fauna) per ridurre lo stress.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - Recommendations for Implementing Therapeutic Gardens]] - *Utilizza questa teoria per definire gli elementi di design necessari nel framework di implementazione in 7 stadi.*
 
 ---
+
 **Vedi anche:**
 - [[Concetto - Therapeutic Gardens vs Healing Gardens]]

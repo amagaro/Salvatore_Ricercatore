@@ -2,21 +2,17 @@
 tags:
   - source
   - paper
-  - ar
-  - inclusività
-  - cognitive_disability
-  - open_source
 autore: Alessandro Tonini
 anno: 2019-2020
 titolo: "A.R.I.A. Augmented Reality per l’Inclusività Aumentata"
 ---
 
-# 📄 Paper: A.R.I.A. Augmented Reality per l’Inclusività Aumentata
+# 📄 Fonte: A.R.I.A. Augmented Reality per l’Inclusività Aumentata
 
 ## Metadati
-- **Titolo:** A.R.I.A. Augmented Reality per l’Inclusività Aumentata (Design di un sistema-prodotto open source basato sulla realtà aumentata per stimolare l’inclusività sociale e l’autonomia di individui con disabilità cognitive)
-- **Autore:** Alessandro Tonini
-- **Anno:** Anno Accademico 2019-2020
+- **Titolo:** A.R.I.A. Augmented Reality per l’Inclusività Aumentata
+- **Autori:** Alessandro Tonini
+- **Anno:** 2019-2020
 - **Notebook Originale:** [[Notebook - Realtà Aumentata Patrimonio]]
 
 ## Sintesi Estesa

@@ -13,7 +13,7 @@ titolo: "Sustainable Health and Well-Being: Guidelines for Integrating Therapeut
 - **Titolo:** Sustainable Health and Well-Being: Guidelines for Integrating Therapeutic Gardens for Holistic Hospital Care
 - **Autori:** Katharina Nieberler-Walker, Cheryl Desha, Anne Roiko, Savindi Caldera, Caryl Bosman
 - **Anno:** 2024
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 

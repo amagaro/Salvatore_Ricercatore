@@ -1,18 +1,18 @@
 ---
 tags:
   - source
-  - tesi-laurea
-autore: "Lucrezia De Zanetti"
+  - paper
+autore: Lucrezia De Zanetti
 anno: 2024
 titolo: "Dalla diagnosi alla partecipazione: riflettere sull'identità neurodivergente nella società contemporanea"
 ---
 
-# 📄 Fonte: Dalla diagnosi alla partecipazione: riflettere sull'identità neurodivergente nella società contemporanea (De Zanetti, 2024)
+# 📄 Fonte: Dalla diagnosi alla partecipazione: riflettere sull'identità neurodivergente nella società contemporanea
 
 ## Metadati
 - **Titolo:** Dalla diagnosi alla partecipazione: riflettere sull'identità neurodivergente nella società contemporanea
 - **Autori:** Lucrezia De Zanetti
-- **Anno:** 2024 (A.A. 2024/2025)
+- **Anno:** 2024
 - **Notebook Originale:** [[Notebook - Spazi Aperti Neuroinclusivi]]
 
 ## Sintesi Estesa
@@ -43,7 +43,7 @@ Gli sviluppi futuri proposti riguardano la progettazione e l'implementazione di 
 2. **Meso-sociale (Ambiente e Servizi):** Adozione di una progettazione urbana e architettonica neuroinclusiva basata sui P.E.B.A. (Piani di Eliminazione delle Barriere Architettoniche) e design sensoriale che riduca attivamente il sovraccarico cognitivo.
 3. **Micro-sociale (Scuola e Lavoro):** Integrazione sistematica del modello *Universal Design for Learning (UDL)* nella formazione scolastica e accademica, e introduzione di modelli lavorativi flessibili e accoglienti, basati sulla co-progettazione.
 
-### 6. Conclusioni
+### 3. Conclusioni
 La tesi conclude che la neurodivergenza non deve essere considerata una patologia o un deficit individuale da correggere, bensì una variazione naturale, plurale e biologica del cervello umano (in linea con il paradigma contemporaneo della neurodiversità) che richiede un cambiamento sistemico, culturale e strutturale dell'ambiente circostante. L'inclusione reale non si realizza attraverso la normalizzazione forzata dell'individuo o la sua assimilazione, ma attraverso la flessibilizzazione dei contesti fisici e sociali e la promozione del principio cardine *"nothing about us without us"* (nulla su di noi senza di noi), che garantisce la partecipazione attiva delle persone neurodivergenti in ogni fase decisionale.
 
 ## Concetti Chiave

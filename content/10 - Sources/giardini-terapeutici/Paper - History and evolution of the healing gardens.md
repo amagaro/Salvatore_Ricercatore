@@ -13,7 +13,7 @@ titolo: "History and evolution of the healing gardens: Investigating the buildin
 - **Titolo:** History and evolution of the healing gardens: Investigating the building-nature relationship in the healthcare setting
 - **Autori:** Liheng Zhu, Javed Shah Sarah
 - **Anno:** 2024
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 

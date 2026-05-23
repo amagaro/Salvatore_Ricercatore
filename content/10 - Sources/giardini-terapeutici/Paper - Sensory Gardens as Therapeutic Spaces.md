@@ -10,10 +10,10 @@ titolo: "Sensory Gardens as Therapeutic Spaces"
 # 📄 Fonte: Sensory Gardens as Therapeutic Spaces
 
 ## Metadati
-- **Titolo:** Sensory Gardens as Therapeutic Spaces: Design for Recovery and Contemplation Approaches to Creating Gardens for People with Special Needs
+- **Titolo:** Sensory Gardens as Therapeutic Spaces
 - **Autori:** Sabrina Nabieva, Lobar Ulmasovna Rasul-Zade
 - **Anno:** 2025
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 

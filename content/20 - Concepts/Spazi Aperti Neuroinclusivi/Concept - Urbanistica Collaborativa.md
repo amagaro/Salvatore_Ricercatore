@@ -15,11 +15,12 @@ Modello teorico ed operativo di pianificazione territoriale teorizzato in partic
 
 L'**urbanistica collaborativa** si fonda sulla costruzione democratica del sapere e del consenso attraverso il coinvolgimento attivo e paritario di tutti gli attori sociali (cittadini, istituzioni, esperti, associazioni) nel processo decisionale. Mira a ridurre le asimmetrie di potere, dando voce e agency anche alle comunità marginalizzate, fragili o neurodivergenti per co-progettare spazi urbani rispondenti ai bisogni effettivi del territorio.
 
-## Fonti Collegate
+## Fonti Collegate Collegate
 - [[Paper - Acierno (2024) - Diritto alla Citta]] - *Propone la pianificazione collaborativa ispirata a Healey come unica soluzione contro le imposizioni androcentriche e standardizzate.*
 - [[Paper - Limoncin (2024) - Dare Forma a Spazi]] - *Mostra come il coinvolgimento del terzo settore e dell'università rappresenti una concreta prassi collaborativa.*
 
 ---
+
 **Vedi anche:**
 - [[Concept - Diritto alla Città]]
 - [[Concept - Accessibilità Relazionale e Sociale]]

@@ -13,7 +13,7 @@ titolo: "Effects of Gardening Activities on Parenting Stress and Mental Health o
 - **Titolo:** Effects of Gardening Activities on Parenting Stress and Mental Health of Parents of Children with Developmental Disabilities
 - **Autori:** Kyung Im Kang, Suk Young Yun
 - **Anno:** 2022
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 

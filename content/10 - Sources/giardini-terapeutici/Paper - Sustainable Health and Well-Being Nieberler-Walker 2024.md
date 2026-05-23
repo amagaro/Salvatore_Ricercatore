@@ -11,9 +11,9 @@ titolo: "Sustainable Health and Well-Being: Guidelines for Integrating Therapeut
 
 ## Metadati
 - **Titolo:** Sustainable Health and Well-Being: Guidelines for Integrating Therapeutic Gardens for Holistic Hospital Care
-- **Autori:** Katharina Nieberler-Walker, Cheryl Desha, Anne Roiko, Savindi Caldera, Caryl Bosman
-- **Anno:** 2024 (Novembre)
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Autori:** Nieberler-Walker, K., Desha, C., Roiko, A., Caldera, S., & Bosman, C.
+- **Anno:** 2024
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 
@@ -37,7 +37,7 @@ Non sono riportati KPI quantitativi clinici (es. % riduzione farmaci). I risulta
 ### 5. Sviluppi Futuri
 Gli autori propongono di approfondire la comparazione tra le diverse professioni dell'ecosistema ospedaliero (architetti vs medici vs manager) per allineare le visioni e ottimizzare i processi decisionali.
 
-### 6. Conclusioni
+### 3. Conclusioni
 Il saggio rappresenta un punto di riferimento per l'Health Design manageriale. Dimostra che la realizzazione dei giardini terapeutici dipende meno dalla botanica e più dal supporto esecutivo e governativo. L'ospedale deve evolvere in un ecosistema olistico dove governance, design e medicina lavorano all'unisono per la sostenibilità umana.
 
 ## Concetti Chiave

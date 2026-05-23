@@ -11,9 +11,9 @@ titolo: "Horticulture Therapy: A Tool for Betterment of Differently Abled People
 
 ## Metadati
 - **Titolo:** Horticulture Therapy: A Tool for Betterment of Differently Abled People
-- **Autori:** Christin Mathew, Nithin Baby, Akash A, Aaliya N, Archana R, Akhil S, Harini S K, Lokeshwaran D, Jayyanth Kaarthik P, Santhosh K, Nithish G, Thejan P.E.S, Anitha M
+- **Autori:** Christin Mathew et al.
 - **Anno:** 2025
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 

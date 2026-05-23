@@ -11,9 +11,9 @@ titolo: "I giardini terapeutici: linee guida progettuali e casi di studio"
 
 ## Metadati
 - **Titolo:** I giardini terapeutici: linee guida progettuali e casi di studio
-- **Autore:** Francesca Di Dato
-- **Anno:** 2013 (Anno Accademico 2012/2013)
-- **Notebook Originale:** [[Notebook - giardini terapeutici]]
+- **Autori:** Francesca Di Dato
+- **Anno:** 2013
+- **Notebook Originale:** [[Notebook - giardini-terapeutici]]
 
 ## Sintesi Estesa
 

@@ -1,22 +1,18 @@
 ---
 tags:
   - source
-  - conference_paper
-  - accessibilità
-  - inclusion
-  - ar
-  - ict
+  - paper
 autore: Enrico Sicignano, Giacomo Di Ruocco
 anno: 2019
 titolo: "STRATEGIE SOSTENIBILI PER LA VALORIZZAZIONE DEI BENI CULTURALI"
 ---
 
-# 📄 Paper: STRATEGIE SOSTENIBILI PER LA VALORIZZAZIONE DEI BENI CULTURALI
+# 📄 Fonte: STRATEGIE SOSTENIBILI PER LA VALORIZZAZIONE DEI BENI CULTURALI
 
 ## Metadati
-- **Titolo:** STRATEGIE SOSTENIBILI PER LA VALORIZZAZIONE DEI BENI CULTURALI: SCENARI INNOVATIVI PER UNA FRUIZIONE AMPLIATA
+- **Titolo:** STRATEGIE SOSTENIBILI PER LA VALORIZZAZIONE DEI BENI CULTURALI
 - **Autori:** Enrico Sicignano, Giacomo Di Ruocco
-- **Anno:** 2019 (Presentato al VII Convegno Internazionale ReUSO, Matera)
+- **Anno:** 2019
 - **Notebook Originale:** [[Notebook - Realtà Aumentata Patrimonio]]
 
 ## Sintesi Estesa

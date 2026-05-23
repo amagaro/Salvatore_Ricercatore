@@ -1,13 +1,11 @@
-﻿---
+---
 tags:
-  - source
-  - revisione-sistematica
-autore: "Attaianese E., Barila M., Perillo M."
+autore: Erminia Attaianese, Morena Barilà, Mariangela Perillo
 anno: 2025
 titolo: "Exploring Neuroscientific Approaches to Architecture: Design Strategies of the Built Environment for Improving Human Performance"
 ---
 
-# 📖 Fonte: Exploring Neuroscientific Approaches to Architecture (2025)
+# 📄 Fonte: Exploring Neuroscientific Approaches to Architecture (2025)
 
 ## Metadati
 - **Titolo:** Exploring Neuroscientific Approaches to Architecture: Design Strategies of the Built Environment for Improving Human Performance
@@ -28,7 +26,7 @@ Analisi delle tecniche di misurazione (fMRI, EEG, fNIRS) e distinzione tra tecni
 2. **Performance Affettiva:** Stress, ansia, autoregolazione emotiva.
 3. **Performance Fisiologica:** Variabilità frequenza cardiaca, ritmi respiratori.
 
-### 4. Conclusioni
+### 3. Conclusioni
 La neuroarchitettura deve evolversi verso studi su scala reale per superare i limiti dei laboratori controllati. L'obiettivo è porre l'uomo al centro del progetto attraverso la comprensione dei suoi meccanismi biologici di risposta all'ambiente.
 
 ## Concetti Chiave
