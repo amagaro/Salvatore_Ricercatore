@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "it-IT",
-    baseUrl: "laman.github.io/Salvatore_Ricercatore",
+    baseUrl: "amagaro.github.io/Salvatore_Ricercatore",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
