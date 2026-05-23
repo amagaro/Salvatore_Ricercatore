@@ -1,16 +1,24 @@
 @use "./base.scss";
 
+// 0. IMPORT FORZATO FONT
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap');
+
 // 1. GLOBAL BACKGROUND (Per far risaltare l'effetto Glass)
-body[data-theme="dark"] {
-  background: radial-gradient(circle at top right, #111827, #0a0a0f 60%);
-  background-attachment: fixed;
-}
-body[data-theme="light"] {
-  background: radial-gradient(circle at top right, #f1f5f9, #fafcff 60%);
-  background-attachment: fixed;
+html[saved-theme="dark"] {
+  body {
+    background: radial-gradient(circle at top right, #111827, #0a0a0f 60%) !important;
+    background-attachment: fixed !important;
+  }
 }
 
-// 2. LAYOUT FIX (Previene sovrapposizioni e allarga lo spazio)
+html[saved-theme="light"] {
+  body {
+    background: radial-gradient(circle at top right, #f1f5f9, #fafcff 60%) !important;
+    background-attachment: fixed !important;
+  }
+}
+
+// 2. LAYOUT FIX (Mantiene la soluzione funzionante)
 @media all and (min-width: 1000px) {
   .page {
     display: flex !important;
@@ -49,43 +57,29 @@ body[data-theme="light"] {
   border-radius: 16px !important;
   padding: 3rem !important;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3) !important;
-  border: 1px solid rgba(255, 255, 255, 0.05) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
   margin-top: 2rem !important;
 }
 
-body[data-theme="light"] .center {
+html[saved-theme="light"] .center {
   background: rgba(255, 255, 255, 0.7) !important;
   border: 1px solid rgba(0, 0, 0, 0.05) !important;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.05) !important;
 }
 
 // 4. ANIMATIONS & HOVER STATES
-a.internal {
+a {
   transition: all 0.25s ease !important;
-  display: inline-block;
   
   &:hover {
     color: var(--secondary) !important;
     text-shadow: 0 0 10px var(--highlight) !important;
-    transform: translateY(-2px) !important;
   }
 }
 
-.graph {
-  border-radius: 12px;
-  background: rgba(0,0,0,0.15);
-  border: 1px solid rgba(255,255,255,0.05);
-  transition: transform 0.3s ease;
-  padding: 0.5rem;
-  
-  &:hover {
-    transform: scale(1.02);
-  }
-}
-
-// 5. FONTS FORCING (Forza l'applicazione dei font se in cache)
-h1, h2, h3, h4, h5, h6 {
-  font-family: var(--headerFont), "Plus Jakarta Sans", sans-serif !important;
+// 5. FONTS FORCING
+h1, h2, h3, h4, h5, h6, .page-title a {
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
   font-weight: 700 !important;
   letter-spacing: -0.02em !important;
 }
