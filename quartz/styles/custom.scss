@@ -1,3 +1,53 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Glassmorphism and Premium Styling
+
+// Main Article Card
+.center {
+  background: var(--light);
+  border-radius: 16px;
+  padding: 2.5rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  border: 1px solid var(--lightgray);
+  margin-top: 1rem;
+}
+
+// Sidebars
+.left.sidebar, .right.sidebar {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+// Interactive Elements Hover
+a.internal {
+  transition: all 0.2s ease;
+  
+  &:hover {
+    color: var(--secondary);
+    text-shadow: 0 0 8px var(--highlight);
+    transform: translateY(-1px);
+    display: inline-block;
+  }
+}
+
+// Popover Glassmorphism
+.popover {
+  background-color: var(--light) !important;
+  backdrop-filter: blur(16px) !important;
+  border-radius: 12px;
+  border: 1px solid var(--lightgray);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+}
+
+// Global Headers
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  background: linear-gradient(to right, var(--secondary), var(--tertiary));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
