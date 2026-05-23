@@ -1,23 +1,34 @@
 ---
 tags:
   - casestudy
-progetto: "Programma GAP D-University (Corea)"
-localizzazione: "Corea del Sud (Campus D University)"
-caratteristiche: "Gardening Activity Program (GAP) / Healing Garden"
-ambito: "Universitario / Supporto Caregiver"
-target: "Genitori e Caregiver di bambini con disabilità dello sviluppo"
-paper: "[[Paper - Effects of Gardening Activities on Parenting Stress]]"
+progetto: "Programma GAP (Gardening Activity Program) - Corea"
+localizzazione: "Corea del Sud (es. D University / Centri welfare)"
+caratteristiche: "Orticoltura Terapeutica, Agro-healing, Supporto ai Caregiver, Intervento Diadico"
+ambito: "Salute Mentale / Disabilità Infantile / Supporto Familiare"
+target: "Bambini con disabilità intellettive/dello sviluppo e i loro genitori (caregiver)"
+paper: "[[Paper - Recommendations for Implementing Therapeutic Gardens]]"
 ---
 
-# 🏗️ Progetto: Programma GAP D-University (Corea)
+# 🏗️ Progetto: Programma GAP (Gardening Activity Program) - Corea
 
 ## Dettagli Progetto
-- **Team/Progettisti:** Kyung Im Kang, Suk Young Yun
-- **Committenti/Finanziatori:** Bioetica e Fondi Universitari
-- **Costi:** Finanziamento di Ricerca
+- **Team/Progettisti:** Ricercatori universitari coreani (es. D University) e specialisti in Horticultural Therapy (HT)
+- **Committenti/Finanziatori:** Enti governativi (Agro-Healing Act), Centri welfare
+- **Costi:** Basso costo infrastrutturale, alto impatto sociale
 
 ## Descrizione e Scopo
-Il programma GAP è un intervento di [[Concetto - Horticulture Therapy (Ortoterapia)|ortoterapia]] di 3 mesi (30 sessioni) svolto in un giardino curativo universitario. Coinvolge caregiver di bambini con disabilità, proponendo attività di coltivazione e laboratori sensoriali. Lo scopo è ridurre lo stress genitoriale e la depressione clinica, utilizzando il giardino come "spazio di decompressione" e rete di supporto sociale tra pari.
+I programmi **GAP (Gardening Activity Program)** — noti in Corea del Sud anche sotto il cappello normativo dell'**Agro-healing** o Horticultural Therapy — sono interventi strutturati basati sulla natura per supportare popolazioni fragili. In particolare, questi programmi si distinguono per il loro approccio "diadico": coinvolgono simultaneamente **bambini con disabilità (es. spettro autistico, disabilità intellettive)** e i loro **genitori/caregiver**. L'obiettivo è duplice: migliorare lo sviluppo psicosociale del bambino e abbattere l'elevatissimo carico di stress e depressione del genitore.
+
+## Caratteristiche Chiave
+- **Orticoltura strutturata:** attività guidate di semina, cura delle piante, raccolta e creazione di composizioni floreali basate su protocolli clinici (es. principi di modificazione comportamentale)
+- **Supporto al Caregiver:** agisce come un gruppo di supporto indiretto; mentre il genitore lavora con la terra assieme al figlio in un ambiente non clinico, i livelli di cortisolo (stress) e ansia si riducono drasticamente
+- **Sviluppo Infantile:** migliora la coordinazione motoria, l'autocontrollo, l'interazione sociale (cooperazione) e riduce i comportamenti distruttivi o l'iperattività
+- **Integrazione Legislativa:** la Corea del Sud supporta ufficialmente queste pratiche (Agro-Healing Act) per integrare l'agricoltura terapeutica nel welfare nazionale
+
+## Esito / Risultati
+- Studi quantitativi dimostrano statisticamente un crollo della depressione materna e un aumento dell'efficacia genitoriale (parenting efficacy) a fine programma
+- Migliora la resilienza del nucleo familiare, trasformando il giardino da mero spazio ricreativo a vera infrastruttura sociale e terapeutica
 
 ---
-**Fonte originale:** [[Paper - Effects of Gardening Activities on Parenting Stress]]
+**Fonte originale:** [[Paper - Recommendations for Implementing Therapeutic Gardens]]
+**Fonti integrative:** rootinnature.ca, nih.gov (letteratura HT sudcoreana)
