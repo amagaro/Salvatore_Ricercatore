@@ -2,6 +2,7 @@
 title: 🌐 Salvatore - Digital Garden di Ricerca Bibliografica
 layout: layout
 ---
+![Salvatore - Digital Second Brain](salvatore.png)
 
 # 🧠 Benvenuti nel Giardino Digitale di Salvatore
 
