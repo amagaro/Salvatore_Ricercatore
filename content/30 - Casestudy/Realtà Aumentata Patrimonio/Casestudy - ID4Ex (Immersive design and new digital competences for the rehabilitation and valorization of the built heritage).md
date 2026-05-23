@@ -6,7 +6,7 @@ localizzazione: "Cooperazione europea (es. Warsaw University of Technology, Polo
 caratteristiche: "Realtà Virtuale (VR)"
 ambito: "Beni Culturali / Museale"
 target: "Visitatori / Utenti"
-paper: "[["Paper - Immersive design and new digital competences"]]"
+paper: "[[Paper - Immersive design and new digital competences]]"
 ---
 
 # 🏗️ Progetto: ID4Ex (Immersive design and new digital competences for the rehabilitation and valorization of the built heritage)
