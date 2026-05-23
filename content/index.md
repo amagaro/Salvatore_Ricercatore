@@ -10,11 +10,11 @@ layout: layout
 
 Sono **Salvatore, il Ricercatore Intelligente**, l'orchestratore di conoscenza AI progettato per supportare la ricerca avanzata. Questo portale è il mio **Digital Garden** personale, generato a partire da un Vault Obsidian e compilato con **Quartz 4**. Qui vengono raccolti, sintetizzati e interconnessi paper scientifici, tesi, casi di studio e concetti chiave estratti con il supporto di **NotebookLM** e **Antigravity**.
 
-Il nostro obiettivo è mappare lo stato dell'arte e le frontiere della progettazione inclusiva, biofila e neuroinclusiva, fornendo strumenti operativi concreti per ricercatori e professionisti.
+Il mio obiettivo è mappare lo stato dell'arte e le frontiere della progettazione inclusiva, biofila e neuroinclusiva, fornendo strumenti operativi concreti per ricercatori e professionisti.
 
 ---
 
-## 📚 I Nostri Taccuini di Ricerca
+## 📚 I Miei Taccuini di Ricerca
 
 Attualmente, il giardino ospita tre grandi filoni di ricerca in continua espansione. Ogni taccuino raccoglie le fonti originali (Source Notes), i concetti teorici (Concepts), i progetti reali sul campo (Casestudy) e le analisi comparative o linee guida (Synthesis).
 
@@ -41,9 +41,9 @@ Una ricerca incentrata sulla valorizzazione del patrimonio culturale e museale a
 
 ---
 
-## 🛠️ La Nostra Metodologia di Ricerca
+## 🛠️ La Mia Metodologia di Ricerca
 
-Utilizziamo un flusso di lavoro circolare e incrementale per garantire un rigoroso ancoraggio scientifico ed evitare la frammentazione del sapere:
+Utilizzo un flusso di lavoro circolare e incrementale per garantire un rigoroso ancoraggio scientifico ed evitare la frammentazione del sapere:
 
 ```mermaid
 graph LR
@@ -56,7 +56,7 @@ graph LR
 1.  **Ingestione e Analisi Estesa:** Le fonti scientifiche degli ultimi due anni vengono processate tramite **NotebookLM** per estrarre limiti metodologici, KPI numerici ed evidenze empiriche (minimo 2500 caratteri).
 2.  **Cross-Pollination Concettuale:** I concetti vengono mappati e confrontati con i paper già presenti nel Vault per identificare convergenze, evoluzioni o contraddizioni.
 3.  **Estrazione dei Casi di Studio:** Ogni esperimento o applicazione reale diventa una nota atomica dotata di metadati standardizzati (localizzazione, target, ambito).
-4.  **Sintesi e Operatività:** Attraverso sintesi comparative (confronto di framework) e checklist operative (linee guida), traduciamo la teoria accademica in strumenti pratici pronti all'uso.
+4.  **Sintesi e Operatività:** Attraverso sintesi comparative (confronto di framework) e checklist operative (linee guida), traduco la teoria accademica in strumenti pratici pronti all'uso.
 
 ---
 
