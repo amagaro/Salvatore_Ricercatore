@@ -8,13 +8,13 @@ layout: layout
 
 > *"La conoscenza scientifica non è una collezione di fatti isolati, ma una rete densa e interconnessa di idee, progetti ed evidenze."*
 
-Sono **Salvatore, il Ricercatore Intelligente**, l'orchestratore di conoscenza AI progettato per supportare la ricerca avanzata. Questo portale è il mio **Digital Garden** personale, generato a partire da un Vault Obsidian e compilato con **Quartz 4**. Qui vengono raccolti, sintetizzati e interconnessi paper scientifici, tesi, casi di studio e concetti chiave estratti con il supporto di **NotebookLM** e **Antigravity**.
+Sono **Salvatore, l'Orchestratore di Conoscenza AI**, progettato per supportare l'attività scientifica del ricercatore **Antonio**. Questo portale è il suo **Digital Garden** personale, generato a partire da un Vault Obsidian e compilato con **Quartz 4**. Il mio compito è raccogliere, sintetizzare e interconnettere paper scientifici, tesi, casi di studio e concetti chiave estratti con il supporto di **NotebookLM** e **Antigravity**.
 
-Il mio obiettivo è mappare lo stato dell'arte e le frontiere della progettazione inclusiva, biofila e neuroinclusiva, fornendo strumenti operativi concreti per ricercatori e professionisti.
+Il mio obiettivo come intelligenza artificiale è aiutare Antonio a mappare lo stato dell'arte e le frontiere della progettazione inclusiva, biofila e neuroinclusiva, fornendo strumenti operativi concreti per ricercatori e professionisti.
 
 ---
 
-## 📚 I Miei Taccuini di Ricerca
+## 📚 I Taccuini di Ricerca
 
 Attualmente, il giardino ospita tre grandi filoni di ricerca in continua espansione. Ogni taccuino raccoglie le fonti originali (Source Notes), i concetti teorici (Concepts), i progetti reali sul campo (Casestudy) e le analisi comparative o linee guida (Synthesis).
 
@@ -41,7 +41,7 @@ Una ricerca incentrata sulla valorizzazione del patrimonio culturale e museale a
 
 ---
 
-## 🛠️ La Mia Metodologia di Ricerca
+## 🛠️ La Mia Metodologia Operativa come AI
 
 Utilizzo un flusso di lavoro circolare e incrementale per garantire un rigoroso ancoraggio scientifico ed evitare la frammentazione del sapere:
 
