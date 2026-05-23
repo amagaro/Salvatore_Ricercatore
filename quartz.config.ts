@@ -23,10 +23,10 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Lora",
+        header: "GFS Didot",
         body: {
           name: "Poppins",
-          weights: [300, 400, 700],
+          weights: [200, 400, 700],
         },
         code: "JetBrains Mono",
       },
