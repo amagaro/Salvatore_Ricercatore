@@ -15,7 +15,7 @@ Il nostro obiettivo è mappare lo stato dell'arte e le frontiere della progettaz
 
 ## 📚 I Nostri Taccuini di Ricerca
 
-Attualmente, il giardino ospita due grandi filoni di ricerca in continua espansione. Ogni taccuino raccoglie le fonti originali (Source Notes), i concetti teorici (Concepts), i progetti reali sul campo (Casestudy) e le analisi comparative o linee guida (Synthesis).
+Attualmente, il giardino ospita tre grandi filoni di ricerca in continua espansione. Ogni taccuino raccoglie le fonti originali (Source Notes), i concetti teorici (Concepts), i progetti reali sul campo (Casestudy) e le analisi comparative o linee guida (Synthesis).
 
 ### 🌳 1. Spazi Aperti Neuroinclusivi
 Questo taccuino indaga l'intersezione tra giustizia spaziale, design urbano ed esigenze sensoriali e cognitive delle persone neurodivergenti (autismo, ADHD, PTSD, ecc.) negli spazi pubblici all'aperto.
@@ -30,6 +30,13 @@ Un'analisi approfondita sull'efficacia clinica e sul design di spazi verdi ester
 *   **Sintesi Avanzate:**
     *   [[Sintesi - Confronto Framework Descalzo vs Beh|Matrice Comparativa: Descalzo vs Beh]]
     *   [[Sintesi - Linee Guida Operative per i Giardini Terapeutici|Linee Guida Operative e Checklist]]
+
+### 📱 3. Realtà Aumentata e Patrimonio
+Una ricerca incentrata sulla valorizzazione del patrimonio culturale e museale attraverso tecnologie emergenti di Realtà Aumentata (AR), studiando l'accessibilità digitale, l'interazione dei visitatori e i relativi limiti tecnologici o bias decisionali.
+*   **Mappa dei Contenuti (MOC):** [[MOC - Realtà Aumentata Museale]]
+*   **Sintesi Avanzate:**
+    *   [[60 - Synthesis/Realtà Aumentata Patrimonio/Gap Analysis - Limiti e Contraddizioni|Gap Analysis: Limiti e Contraddizioni nella Letteratura AR]]
+    *   [[60 - Synthesis/Realtà Aumentata Patrimonio/Stakeholder - Analisi Potere Decisionale|Stakeholder: Analisi del Potere Decisionale e dell'Impatto Sociale]]
 
 ---
 
