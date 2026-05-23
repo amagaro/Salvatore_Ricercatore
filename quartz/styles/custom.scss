@@ -3,19 +3,11 @@
 
 
 // 1. GLOBAL BACKGROUND AURORA
-html[saved-theme="dark"] body {
+html body {
   background: 
     radial-gradient(circle at 0% 10%, rgba(20, 184, 166, 0.15), transparent 40%),
     radial-gradient(circle at 100% 80%, rgba(14, 165, 233, 0.15), transparent 40%),
     #0a0a0f !important;
-  background-attachment: fixed !important;
-}
-
-html[saved-theme="light"] body {
-  background: 
-    radial-gradient(circle at 0% 10%, rgba(20, 184, 166, 0.1), transparent 40%),
-    radial-gradient(circle at 100% 80%, rgba(14, 165, 233, 0.1), transparent 40%),
-    #fafcff !important;
   background-attachment: fixed !important;
 }
 
@@ -62,11 +54,7 @@ html[saved-theme="light"] body {
   margin-top: 2rem !important;
 }
 
-html[saved-theme="light"] .center {
-  background: rgba(255, 255, 255, 0.7) !important;
-  border: 1px solid rgba(0, 0, 0, 0.05) !important;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.05) !important;
-}
+
 
 // 4. ANIMATIONS & HOVER STATES
 a {
