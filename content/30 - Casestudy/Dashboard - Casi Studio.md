@@ -31,5 +31,17 @@ WHERE contains(file.folder, "Realtà Aumentata Patrimonio")
 SORT file.name ASC
 ```
 
+## ⚖️ Normativa Neurodivergenze Italia
+```dataview
+TABLE 
+  localizzazione AS "📍 Luogo", 
+  ambito AS "🏛️ Ambito",
+  target AS "👥 Target",
+  caratteristiche AS "✨ Caratteristiche"
+FROM #casestudy
+WHERE contains(file.folder, "Normativa Neurodivergenze Italia")
+SORT file.name ASC
+```
+
 ---
-**Ultimo aggiornamento:** 2026-05-12
+**Ultimo aggiornamento:** 2026-05-23
