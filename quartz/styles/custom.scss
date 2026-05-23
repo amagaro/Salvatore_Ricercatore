@@ -2,22 +2,24 @@
 
 
 
-// 1. GLOBAL BACKGROUND (Per far risaltare l'effetto Glass)
-html[saved-theme="dark"] {
-  body {
-    background: radial-gradient(circle at top right, #111827, #0a0a0f 60%) !important;
-    background-attachment: fixed !important;
-  }
+// 1. GLOBAL BACKGROUND AURORA
+html[saved-theme="dark"] body {
+  background: 
+    radial-gradient(circle at 0% 10%, rgba(20, 184, 166, 0.15), transparent 40%),
+    radial-gradient(circle at 100% 80%, rgba(14, 165, 233, 0.15), transparent 40%),
+    #0a0a0f !important;
+  background-attachment: fixed !important;
 }
 
-html[saved-theme="light"] {
-  body {
-    background: radial-gradient(circle at top right, #f1f5f9, #fafcff 60%) !important;
-    background-attachment: fixed !important;
-  }
+html[saved-theme="light"] body {
+  background: 
+    radial-gradient(circle at 0% 10%, rgba(20, 184, 166, 0.1), transparent 40%),
+    radial-gradient(circle at 100% 80%, rgba(14, 165, 233, 0.1), transparent 40%),
+    #fafcff !important;
+  background-attachment: fixed !important;
 }
 
-// 2. LAYOUT FIX (Mantiene la soluzione funzionante)
+// 2. LAYOUT FIX
 @media all and (min-width: 1000px) {
   .page {
     display: flex !important;
@@ -48,14 +50,14 @@ html[saved-theme="light"] {
   }
 }
 
-// 3. MAIN ARTICLE CARD (Vero Glassmorphism)
+// 3. MAIN ARTICLE CARD (Glassmorphism Reale)
 .center {
-  background: rgba(255, 255, 255, 0.03) !important;
+  background: rgba(255, 255, 255, 0.05) !important;
   backdrop-filter: blur(20px) !important;
   -webkit-backdrop-filter: blur(20px) !important;
   border-radius: 16px !important;
   padding: 3rem !important;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3) !important;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5) !important;
   border: 1px solid rgba(255, 255, 255, 0.08) !important;
   margin-top: 2rem !important;
 }
