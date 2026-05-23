@@ -26,7 +26,7 @@ const config: QuartzConfig = {
         header: "GFS Didot",
         body: {
           name: "Poppins",
-          weights: [200, 400, 700],
+          weights: [200, 400],
         },
         code: "JetBrains Mono",
       },
