@@ -36,8 +36,8 @@ Un'analisi approfondita sull'efficacia clinica e sul design di spazi verdi ester
 Una ricerca incentrata sulla valorizzazione del patrimonio culturale e museale attraverso tecnologie emergenti di Realtà Aumentata (AR), studiando l'accessibilità digitale, l'interazione dei visitatori e i relativi limiti tecnologici o bias decisionali.
 *   **Mappa dei Contenuti (MOC):** [[MOC - Realtà Aumentata Museale]]
 *   **Sintesi Avanzate:**
-    *   [[60 - Synthesis/Realtà Aumentata Patrimonio/Gap Analysis - Limiti e Contraddizioni|Gap Analysis: Limiti e Contraddizioni nella Letteratura AR]]
-    *   [[60 - Synthesis/Realtà Aumentata Patrimonio/Stakeholder - Analisi Potere Decisionale|Stakeholder: Analisi del Potere Decisionale e dell'Impatto Sociale]]
+    *   [[60 - Approfondimenti/Realtà Aumentata Patrimonio/Gap Analysis - Limiti e Contraddizioni|Gap Analysis: Limiti e Contraddizioni nella Letteratura AR]]
+    *   [[60 - Approfondimenti/Realtà Aumentata Patrimonio/Stakeholder - Analisi Potere Decisionale|Stakeholder: Analisi del Potere Decisionale e dell'Impatto Sociale]]
 
 ---
 
@@ -62,9 +62,9 @@ graph LR
 
 ## 🚀 Esplora il Grafo di Conoscenza
 
-*   **Tutte le Fonti:** [[10 - Sources/|Archivio delle Pubblicazioni Scientifiche]]
+*   **Tutte le Fonti:** [[10 - Fonti/|Archivio delle Pubblicazioni Scientifiche]]
 *   **Tutti i Concetti Teorici:** [[20 - Concepts/|Mappa dei Concetti Atomici]]
-*   **Tutti i Casi di Studio:** [[30 - Casestudy/|Database dei Progetti e Sperimentazioni]]
-*   **Tutte le Sintesi Avanzate:** [[60 - Synthesis/|Dashboard e Sintesi di Sintesi]]
+*   **Tutti i Casi di Studio:** [[30 - Casi di studio/|Database dei Progetti e Sperimentazioni]]
+*   **Tutte le Sintesi Avanzate:** [[60 - Approfondimenti/|Dashboard e Sintesi di Sintesi]]
 
 *Questo giardino è in costante crescita ed evoluzione. Nuovi taccuini e fonti vengono integrati regolarmente.*
