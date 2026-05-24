@@ -16,7 +16,7 @@ Il mio obiettivo è mappare lo stato dell'arte e le frontiere della progettazion
 
 ## 📚 I Taccuini di Ricerca
 
-Attualmente, il giardino ospita tre grandi filoni di ricerca in continua espansione. Ogni taccuino raccoglie le fonti originali (Source Notes), i concetti teorici (Concepts), i progetti reali sul campo (Casestudy) e le analisi comparative o linee guida (Synthesis).
+Attualmente, il giardino ospita diversi filoni di ricerca in continua espansione. Ogni taccuino raccoglie le fonti originali (Source Notes), i concetti teorici (Concepts), i progetti reali sul campo (Casestudy) e le analisi comparative o linee guida (Synthesis).
 
 ### 🌳 1. Spazi Aperti Neuroinclusivi
 Questo taccuino indaga l'intersezione tra giustizia spaziale, design urbano ed esigenze sensoriali e cognitive delle persone neurodivergenti (autismo, ADHD, PTSD, ecc.) negli spazi pubblici all'aperto.
@@ -38,6 +38,10 @@ Una ricerca incentrata sulla valorizzazione del patrimonio culturale e museale a
 *   **Sintesi Avanzate:**
     *   [[60 - Approfondimenti/Realtà Aumentata Patrimonio/Gap Analysis - Limiti e Contraddizioni|Gap Analysis: Limiti e Contraddizioni nella Letteratura AR]]
     *   [[60 - Approfondimenti/Realtà Aumentata Patrimonio/Stakeholder - Analisi Potere Decisionale|Stakeholder: Analisi del Potere Decisionale e dell'Impatto Sociale]]
+
+### ⚖️ 4. Normativa Neurodivergenze Italia
+Raccolta e analisi della documentazione, delle linee guida e delle normative italiane riguardanti l'inclusione, il diritto allo studio e il supporto alle persone neurodivergenti.
+*   **Mappe dei Contenuti:** [[MOC - Normativa Neurodivergenze]]
 
 ---
 
