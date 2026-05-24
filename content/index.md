@@ -16,7 +16,7 @@ Il mio obiettivo è mappare lo stato dell'arte e le frontiere della progettazion
 
 ## 📚 I Taccuini di Ricerca
 
-Attualmente, il giardino ospita diversi filoni di ricerca in continua espansione. Ogni taccuino raccoglie le fonti originali (Source Notes), i concetti teorici (Concepts), i progetti reali sul campo (Casestudy) e le analisi comparative o linee guida (Synthesis).
+Attualmente, il giardino ospita diversi filoni di ricerca in continua espansione. Ogni taccuino raccoglie le fonti originali (Fonti), i concetti teorici (Concepts), i progetti reali sul campo (Casi di studio) e le analisi comparative o linee guida (Approfondimenti).
 
 ### 🌳 1. Spazi Aperti Neuroinclusivi
 Questo taccuino indaga l'intersezione tra giustizia spaziale, design urbano ed esigenze sensoriali e cognitive delle persone neurodivergenti (autismo, ADHD, PTSD, ecc.) negli spazi pubblici all'aperto.
