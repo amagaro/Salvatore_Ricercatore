@@ -42,8 +42,16 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph({
-      localGraph: { scale: 1.5 },
-      globalGraph: { scale: 1.5 },
+      localGraph: {
+        depth: 2,          // Mostra anche i nodi di secondo livello
+        scale: 2.5,        // Zoom molto più alto di default
+        repelForce: 0.8,   // Distanzia maggiormente i nodi
+        fontSize: 0.8,     // Testo più grande per renderlo leggibile
+      },
+      globalGraph: {
+        scale: 1.8,
+        fontSize: 0.8,
+      },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
