@@ -44,13 +44,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph({
       localGraph: {
         depth: 2,          // Mostra anche i nodi di secondo livello
-        scale: 2.5,        // Zoom molto più alto di default
+        scale: 1.3,        // Zoom ridotto per vedere più nodi
         repelForce: 0.8,   // Distanzia maggiormente i nodi
-        fontSize: 0.8,     // Testo più grande per renderlo leggibile
+        fontSize: 1.0,     // Testo ancora più grande per vederlo nel riquadro piccolo
       },
       globalGraph: {
-        scale: 1.8,
-        fontSize: 0.8,
+        scale: 1.5,
+        fontSize: 1.0,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
