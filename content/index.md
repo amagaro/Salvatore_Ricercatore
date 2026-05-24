@@ -20,21 +20,21 @@ Attualmente, il giardino ospita tre grandi filoni di ricerca in continua espansi
 
 ### 🌳 1. Spazi Aperti Neuroinclusivi
 Questo taccuino indaga l'intersezione tra giustizia spaziale, design urbano ed esigenze sensoriali e cognitive delle persone neurodivergenti (autismo, ADHD, PTSD, ecc.) negli spazi pubblici all'aperto.
-*   **Mappa dei Contenuti (MOC):** [[MOC - Spazi Aperti Neuroinclusivi]] *(in arrivo / in generazione)*
+*   **Mappe dei Contenuti:** [[MOC - Spazi Aperti Neuroinclusivi]] *(in arrivo / in generazione)*
 *   **Sintesi Avanzate:**
     *   [[Sintesi - Sinergia tra Giustizia Spaziale e Urbanismo Neuro-Non-Tipico|Giustizia Spaziale e Urbanismo Neuro-Non-Tipico]]
     *   [[Sintesi - Trend Temporale ed Evoluzione della Co-creazione|Evoluzione temporale della co-creazione]]
 
 ### 🌿 2. Giardini Terapeutici
 Un'analisi approfondita sull'efficacia clinica e sul design di spazi verdi esterni orientati alla salute mentale, al recupero cognitivo e al benessere di pazienti in contesti ospedalieri, scolastici o urbani.
-*   **Mappa dei Contenuti (MOC):** [[MOC - Giardini Terapeutici]] *(in arrivo / in generazione)*
+*   **Mappe dei Contenuti:** [[MOC - Giardini Terapeutici]] *(in arrivo / in generazione)*
 *   **Sintesi Avanzate:**
     *   [[Sintesi - Confronto Framework Descalzo vs Beh|Matrice Comparativa: Descalzo vs Beh]]
     *   [[Sintesi - Linee Guida Operative per i Giardini Terapeutici|Linee Guida Operative e Checklist]]
 
 ### 📱 3. Realtà Aumentata e Patrimonio
 Una ricerca incentrata sulla valorizzazione del patrimonio culturale e museale attraverso tecnologie emergenti di Realtà Aumentata (AR), studiando l'accessibilità digitale, l'interazione dei visitatori e i relativi limiti tecnologici o bias decisionali.
-*   **Mappa dei Contenuti (MOC):** [[MOC - Realtà Aumentata Museale]]
+*   **Mappe dei Contenuti:** [[MOC - Realtà Aumentata Museale]]
 *   **Sintesi Avanzate:**
     *   [[60 - Approfondimenti/Realtà Aumentata Patrimonio/Gap Analysis - Limiti e Contraddizioni|Gap Analysis: Limiti e Contraddizioni nella Letteratura AR]]
     *   [[60 - Approfondimenti/Realtà Aumentata Patrimonio/Stakeholder - Analisi Potere Decisionale|Stakeholder: Analisi del Potere Decisionale e dell'Impatto Sociale]]
@@ -49,7 +49,7 @@ Utilizzo un flusso di lavoro circolare e incrementale per garantire un rigoroso 
 graph LR
     Fonti["📄 Paper Scientifici <br>(Ultimi 2 anni)"] --> NBLM["🧠 NotebookLM <br>(Analisi & Sintesi Estesa)"]
     NBLM --> Vault["🗂️ Obsidian Vault <br>(Note Atomiche & Casi Studio)"]
-    Vault --> Graph["🕸️ Grafo Connesso <br>(Wikilinks & MOCs)"]
+    Vault --> Graph["🕸️ Grafo Connesso <br>(Wikilinks & Mappe)"]
     Graph --> Quartz["🌐 Quartz 4 <br>(Digital Garden Web)"]
 ```
 
