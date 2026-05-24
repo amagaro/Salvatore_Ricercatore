@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "GFS Didot",
+        header: "Roboto",
         body: {
           name: "Poppins",
           weights: [200, 400],
