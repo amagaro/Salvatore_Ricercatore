@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html lang="it-IT" xml:lang="it-IT">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		PER UNA COMUNICAZIONE ACCESSIBILE NELLE PUBBLICHE AMMINISTRAZIONI: L’ESEMPIO DELLA FORMAZIONE SUL LINGUAGGIO FACILE DA LEGGERE E DA CAPIRE PER IL PERSONALE DELL’UNIVERSITÀ DI TRIESTE
+							| Italiano LinguaDue
+			</title>
+
+	
+<meta name="generator" content="Open Journal Systems 3.3.0.21" />
+<meta name="keywords" content="Italiano LinguaDue,riviste unimi,rivisteunimi,ojs,riviste università degli studi di milano,journals unimi,journals università degli studi di milano,university of milan journals,riviste oa unimi,riviste open access unimi">
+<meta name="gs_meta_revision" content="1.1"/>
+<meta name="citation_journal_title" content="Italiano LinguaDue"/>
+<meta name="citation_journal_abbrev" content="ILD"/>
+<meta name="citation_issn" content="2037-3597"/> 
+<meta name="citation_author" content="Floriana Carlotta Sciumbata"/>
+<meta name="citation_author_institution" content="Università degli Studi di Trieste"/>
+<meta name="citation_title" content="PER UNA COMUNICAZIONE ACCESSIBILE NELLE PUBBLICHE AMMINISTRAZIONI: L’ESEMPIO DELLA FORMAZIONE SUL LINGUAGGIO FACILE DA LEGGERE E DA CAPIRE PER IL PERSONALE DELL’UNIVERSITÀ DI TRIESTE"/>
+<meta name="citation_language" content="it"/>
+<meta name="citation_date" content="2024/06/23"/>
+<meta name="citation_volume" content="16"/>
+<meta name="citation_issue" content="1"/>
+<meta name="citation_firstpage" content="156"/>
+<meta name="citation_lastpage" content="169"/>
+<meta name="citation_doi" content="10.54103/2037-3597/23831"/>
+<meta name="citation_abstract_html_url" content="https://riviste.unimi.it/index.php/promoitals/article/view/23831"/>
+<meta name="citation_pdf_url" content="https://riviste.unimi.it/index.php/promoitals/article/download/23831/21242"/>
+<meta name="citation_reference" content="Bredel U., Maaß C. (2016), Leichte Sprache: Theoretische Grundlagen. Orientierung für die Praxis, Duden, Berlin."/>
+<meta name="citation_reference" content="Codice di stile (1993) = Codice di stile delle comunicazioni scritte ad uso delle amministrazioni pubbliche, Dipartimento per la funzione pubblica, Istituto Poligrafico e Zecca dello Stato, Roma."/>
+<meta name="citation_reference" content="Cortelazzo M. A. (2021), Il linguaggio amministrativo. Principi e pratiche di modernizzazione, Carocci, Roma."/>
+<meta name="citation_reference" content="Cortelazzo M. A., Pellegrino F. (2003), Guida alla scrittura istituzionale, Laterza, Roma-Bari."/>
+<meta name="citation_reference" content="De Mauro T. (2016), “Il nuovo Vocabolario di Base”, in Internazionale."/>
+<meta name="citation_reference" content="https://www.internazionale.it/opinione/tullio-de-mauro/2016/12/23/il-nuovo-vocabolario-di-base-della-lingua-italiana."/>
+<meta name="citation_reference" content="Fioritto A. (1997), Manuale di stile: strumenti per semplificare il linguaggio delle amministrazioni pubbliche, il Mulino, Bologna."/>
+<meta name="citation_reference" content="Fioritto A. (2009), Manuale di stile dei documenti amministrativi, il Mulino, Bologna."/>
+<meta name="citation_reference" content="Freyhoff G., Hess G., Kerr L., Menzel E., Tronbacke B., Van Der Veken K. (1998), Make it simple: European guidelines for the production of easy-to-read information for people with learning disability for authors, editors, information providers, translators and other interested persons, ILSMH European Association, Bruxelles."/>
+<meta name="citation_reference" content="García Muñoz Ó. (2012), Lectura fácil: métodos de redacción y evaluación, Real Patronato sobre Discapacidad &amp; Ministerio de Sanidad, Servicios Sociales e Igualdad, Madrid."/>
+<meta name="citation_reference" content="García Muñoz Ó. (2014), Lectura fácil. Guías prácticas de orientaciones para la inclusión educativa, Ministerio de Educación, Cultura y Deporte, Madrid."/>
+<meta name="citation_reference" content="Inclusion Europe (2013), “Informazioni per tutti”, Inclusion Europe, Bruxelles:"/>
+<meta name="citation_reference" content="https://www.inclusion-europe.eu/wp-content/uploads/2017/06/IT_Information_for_all.pdf."/>
+<meta name="citation_reference" content="ITTIG = Gruppo di lavoro promosso da Istituto di teoria e tecniche dell’informazione giuridica e Accademia della Crusca (a cura di) (2011), Guida alla redazione degli attiamministrativi. Regole e suggerimenti, Istituto di teoria e tecniche dell’informazione giuridica del Cnr, Firenze."/>
+<meta name="citation_reference" content="Lubello S. (2014), Il linguaggio burocratico, Carocci, Roma."/>
+<meta name="citation_reference" content="Maaß C. (2020), Easy Language – Plain Language – Easy Language Plus: Balancing Comprehensibility and Acceptability, Frank &amp; Timme, Berlino."/>
+<meta name="citation_reference" content="Nomura M., Nielsen G. S., Tronbacke B. (2010), “Guidelines for easy-to-read materials”, in IFLA Professional Reports, 120, pp. 2-28."/>
+<meta name="citation_reference" content="Raso T. (2005), La scrittura burocratica. La lingua e l’organizzazione del testo, Carocci, Roma."/>
+<meta name="citation_reference" content="Sciumbata F. C. (2020), Il linguaggio facile da leggere e da capire per persone con disabilità intellettive: nuove linee guida per l’italiano e applicazione a testi di promozione turistica del Friuli-Venezia Giulia. Tesi di dottorato non pubblicata, Università di Udine."/>
+<meta name="citation_reference" content="Sciumbata F. C. (2021a), “Dall’inclusione alla didattica della scrittura con il linguaggio facile da leggere e da capire per persone con disabilità intellettive”, in Garulli V., Pasetti L., Viale M. (a cura di), Disturbi specifici dell’apprendimento e insegnamento linguistico. La didattica dell’italiano e delle lingue classiche nella scuola secondaria di secondo grado alla prova dell’inclusione, Bononia University Press, Bologna, pp. 129-136."/>
+<meta name="citation_reference" content="Sciumbata F. C. (2021b), “Dal plain language all’easy-to-read per lettori con disabilità intellettive: oltre la semplificazione”, in Lingue &amp; Linguaggi, 41, pp. 199-213."/>
+<meta name="citation_reference" content="Sciumbata F. C. (2022a), Manuale dell’italiano facile da leggere e da capire. Come scrivere testi semplici per persone con disabilità intellettive e difficoltà di lettura, Franco Cesati Editore, Firenze."/>
+<meta name="citation_reference" content="Sciumbata F. C. (2022b), “Il linguaggio facile da leggere e da capire va all’università. Appunti da un corso di scrittura facilitata per il personale dell’Università di Trieste”, in Rivista Internazionale di Tecnica della Traduzione – International Journal of Translation, 24, pp. 217-233."/>
+<meta name="citation_reference" content="Tronbacke B. I. (1993), “The publishing of Easy-to-Read in Sweden”, Lezione alla Biblioteca Nazionale dell’Australia, Canberra, settembre 1993."/>
+<meta name="citation_reference" content="Vellutino D. (2018), L’italiano istituzionale per la comunicazione pubblica, il Mulino, Bologna."/>
+<meta name="citation_reference" content="Viale M. (2008), Studi e ricerche sul linguaggio amministrativo, CLEUP, Padova."/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Creator.PersonalName" content="Floriana Carlotta Sciumbata"/>
+<meta name="DC.Date.created" scheme="ISO8601" content="2024-06-23"/>
+<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2024-06-21"/>
+<meta name="DC.Date.issued" scheme="ISO8601" content="2024-06-23"/>
+<meta name="DC.Date.modified" scheme="ISO8601" content="2024-06-23"/>
+<meta name="DC.Description" xml:lang="de" content=""/>
+<meta name="DC.Description" xml:lang="fr" content=""/>
+<meta name="DC.Description" xml:lang="en" content=""/>
+<meta name="DC.Description" xml:lang="it" content="Il lavoro descrive il contenuto, i metodi e i risultati del primo corso italiano di scrittura in linguaggio facile da leggere e da capire per lettori con disabilità intellettive e altre difficoltà di lettura, rivolto specificamente al personale di un’università. Il corso ha fornito ai partecipanti le linee guida per la stesura e ha esplorato l’applicazione del linguaggio facile a materiali amministrativi. Dopo aver presentato la struttura, gli obiettivi e i risultati del corso, viene presentato un testo creato dai partecipanti come esercizio di applicazione dei principi appresi. Inoltre, sono presentati i risultati di un questionario compilato dai partecipanti a un anno dal corso, che evidenziano l’impatto a lungo termine della formazione e sottolineano l’importanza di sensibilizzare sulla comunicazione efficace.
+&amp;nbsp;
+Towards accessible communication in public administration: the example of training in easy-to-read and easy-to-understand language for staff at the University of Trieste
+This study delineates the content, methodologies, and outcomes of the first Italian course on easy-to-read writing, tailored for individuals with intellectual disabilities and other reading challenges, specifically targeting university personnel. The course provided participants with drafting guidelines and explored the feasibility of administrative materials in easy-to-read format. After presenting the course’s structure, objectives, and achievements, this paper will comment on a participant-generated text as a case study, demonstrating the practical application of easy-to-read principles. Furthermore, it will detail the findings of a follow-up questionnaire completed by participants one year after taking the course, shedding light on the enduring impact of the training and underscoring the significance of raising awareness about writing effectively"/>
+<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+<meta name="DC.Identifier" content="23831"/>
+<meta name="DC.Identifier.pageNumber" content="156-169"/>
+<meta name="DC.Identifier.DOI" content="10.54103/2037-3597/23831"/>
+<meta name="DC.Identifier.URI" content="https://riviste.unimi.it/index.php/promoitals/article/view/23831"/>
+<meta name="DC.Language" scheme="ISO639-1" content="it"/>
+<meta name="DC.Rights" content="Copyright (c) 2024 "/>
+<meta name="DC.Rights" content="https://creativecommons.org/licenses/by-sa/4.0"/>
+<meta name="DC.Source" content="Italiano LinguaDue"/>
+<meta name="DC.Source.ISSN" content="2037-3597"/>
+<meta name="DC.Source.Issue" content="1"/>
+<meta name="DC.Source.Volume" content="16"/>
+<meta name="DC.Source.URI" content="https://riviste.unimi.it/index.php/promoitals"/>
+<meta name="DC.Title" content="PER UNA COMUNICAZIONE ACCESSIBILE NELLE PUBBLICHE AMMINISTRAZIONI: L’ESEMPIO DELLA FORMAZIONE SUL LINGUAGGIO FACILE DA LEGGERE E DA CAPIRE PER IL PERSONALE DELL’UNIVERSITÀ DI TRIESTE"/>
+<meta name="DC.Type" content="Text.Serial.Journal"/>
+<meta name="DC.Type.articleType" content="ITALIANO LINGUA SECONDA/STRANIERA"/>
+<link rel="alternate" type="application/atom+xml" href="https://riviste.unimi.it/index.php/promoitals/gateway/plugin/WebFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://riviste.unimi.it/index.php/promoitals/gateway/plugin/WebFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://riviste.unimi.it/index.php/promoitals/gateway/plugin/WebFeedGatewayPlugin/rss2">
+	<link rel="stylesheet" href="https://riviste.unimi.it/index.php/promoitals/$$$call$$$/page/page/css?name=stylesheet" type="text/css" /><link rel="stylesheet" href="https://riviste.unimi.it/index.php/promoitals/$$$call$$$/page/page/css?name=font" type="text/css" /><link rel="stylesheet" href="https://riviste.unimi.it/lib/pkp/styles/fontawesome/fontawesome.css?v=3.3.0.21" type="text/css" /><link rel="stylesheet" href="https://riviste.unimi.it/plugins/generic/orcidProfile/css/orcidProfile.css?v=3.3.0.21" type="text/css" /><link rel="stylesheet" href="https://riviste.unimi.it/public/journals/12/styleSheet.css?d=" type="text/css" /><link rel="stylesheet" href="https://riviste.unimi.it/public/site/styleSheet.css?v=3.3.0.21" type="text/css" />
+</head>
+<body class="pkp_page_article pkp_op_view" dir="ltr">
+	<div class="pkp_structure_page">
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+						
+ <nav class="cmp_skip_to_content" aria-label="Salta ai link del contenuto">
+	<a href="#pkp_content_main">Salta al contenuto principale</a>
+	<a href="#siteNav">Salta al menu principale di navigazione</a>
+		<a href="#pkp_content_footer">Salta al piè di pagina del sito</a>
+</nav>
+
+			<div class="pkp_head_wrapper">
+
+				<div class="pkp_site_name_wrapper">
+					<button class="pkp_site_nav_toggle">
+						<span>Open Menu</span>
+					</button>
+										<div class="pkp_site_name">
+																<a href="						https://riviste.unimi.it/index.php/promoitals/index
+					" class="is_text">Italiano LinguaDue</a>
+										</div>
+				</div>
+
+				
+				<nav class="pkp_site_nav_menu" aria-label="Navigazione sito">
+					<a id="siteNav"></a>
+					<div class="pkp_navigation_primary_row">
+						<div class="pkp_navigation_primary_wrapper">
+																				<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+								<li class="">
+				<a href="https://riviste.unimi.it/index.php/promoitals/issue/current">
+					Ultimo fascicolo
+				</a>
+							</li>
+								<li class="">
+				<a href="https://riviste.unimi.it/index.php/promoitals/issue/archive">
+					Archivio
+				</a>
+							</li>
+								<li class="">
+				<a href="https://riviste.unimi.it/index.php/promoitals/about">
+					Info
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://riviste.unimi.it/index.php/promoitals/about">
+										Sulla rivista
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://riviste.unimi.it/index.php/promoitals/about/submissions">
+										Proposte
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://riviste.unimi.it/index.php/promoitals/about/editorialTeam">
+										Comitato Scientifico ed Editoriale
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://riviste.unimi.it/index.php/promoitals/about/privacy">
+										Informativa sulla privacy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://riviste.unimi.it/index.php/promoitals/about/contact">
+										Contatti
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://riviste.unimi.it/index.php/promoitals/quaderniILD">
+					Quaderni di ILD
+				</a>
+							</li>
+								<li class="">
+				<a href="https://riviste.unimi.it/index.php/promoitals/qcer">
+					QCER-Volume Complementare
+				</a>
+							</li>
+								<li class="">
+				<a href="https://riviste.unimi.it/index.php/promoitals/announcement">
+					Avvisi
+				</a>
+							</li>
+			</ul>
+
+				
+
+																						<div class="pkp_navigation_search_wrapper">
+									<a href="https://riviste.unimi.it/index.php/promoitals/search" class="pkp_search pkp_search_desktop">
+										<span class="fa fa-search" aria-hidden="true"></span>
+										Cerca
+									</a>
+								</div>
+													</div>
+					</div>
+					<div class="pkp_navigation_user_wrapper" id="navigationUserWrapper">
+							<ul id="navigationUser" class="pkp_navigation_user pkp_nav_list">
+								<li class="profile">
+				<a href="https://riviste.unimi.it/index.php/promoitals/user/register">
+					Registrazione
+				</a>
+							</li>
+								<li class="profile">
+				<a href="https://riviste.unimi.it/index.php/promoitals/login">
+					Login
+				</a>
+							</li>
+										</ul>
+
+					</div>
+				</nav>
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+						<div class="pkp_structure_content has_sidebar">
+			<div class="pkp_structure_main" role="main">
+				<a id="pkp_content_main"></a>
+
+<div class="page page_article">
+			<nav class="cmp_breadcrumbs" role="navigation" aria-label="Tu sei qui:">
+	<ol>
+		<li>
+			<a href="https://riviste.unimi.it/index.php/promoitals/index">
+				Home
+			</a>
+			<span class="separator">/</span>
+		</li>
+		<li>
+			<a href="https://riviste.unimi.it/index.php/promoitals/issue/archive">
+				Fascicoli
+			</a>
+			<span class="separator">/</span>
+		</li>
+					<li>
+				<a href="https://riviste.unimi.it/index.php/promoitals/issue/view/2253">
+					V. 16 N. 1 (2024): ITALIANO LINGUADUE
+				</a>
+				<span class="separator">/</span>
+			</li>
+				<li class="current" aria-current="page">
+			<span aria-current="page">
+									ITALIANO LINGUA SECONDA/STRANIERA
+							</span>
+		</li>
+	</ol>
+</nav>
+	
+		  	 <article class="obj_article_details">
+
+		
+	<h1 class="page_title">
+		PER UNA COMUNICAZIONE ACCESSIBILE NELLE PUBBLICHE AMMINISTRAZIONI: L’ESEMPIO DELLA FORMAZIONE SUL LINGUAGGIO FACILE DA LEGGERE E DA CAPIRE PER IL PERSONALE DELL’UNIVERSITÀ DI TRIESTE
+	</h1>
+
+	
+	<div class="row">
+		<div class="main_entry">
+
+							<section class="item authors">
+					<h2 class="pkp_screen_reader">Autori/Autrici</h2>
+					<ul class="authors">
+											<li>
+							<span class="name">
+								Floriana Carlotta Sciumbata
+							</span>
+															<span class="affiliation">
+									Università degli Studi di Trieste
+																	</span>
+																						<span class="orcid">
+																			<svg class="orcid_icon" viewBox="0 0 256 256" aria-hidden="true">
+	<style type="text/css">
+		.st0{fill:#A6CE39;}
+		.st1{fill:#FFFFFF;}
+	</style>
+	<path class="st0" d="M256,128c0,70.7-57.3,128-128,128C57.3,256,0,198.7,0,128C0,57.3,57.3,0,128,0C198.7,0,256,57.3,256,128z"/>
+	<g>
+		<path class="st1" d="M86.3,186.2H70.9V79.1h15.4v48.4V186.2z"/>
+		<path class="st1" d="M108.9,79.1h41.6c39.6,0,57,28.3,57,53.6c0,27.5-21.5,53.6-56.8,53.6h-41.8V79.1z M124.3,172.4h24.5
+			c34.9,0,42.9-26.5,42.9-39.7c0-21.5-13.7-39.7-43.7-39.7h-23.7V172.4z"/>
+		<path class="st1" d="M88.7,56.8c0,5.5-4.5,10.1-10.1,10.1c-5.6,0-10.1-4.6-10.1-10.1c0-5.6,4.5-10.1,10.1-10.1
+			C84.2,46.7,88.7,51.3,88.7,56.8z"/>
+	</g>
+</svg>
+																		<a href="https://orcid.org/0000-0002-2732-3542" target="_blank">
+										https://orcid.org/0000-0002-2732-3542
+									</a>
+								</span>
+													</li>
+										</ul>
+				</section>
+			
+																												<section class="item doi">
+						<h2 class="label">
+														DOI:
+						</h2>
+						<span class="value">
+							<a href="https://doi.org/10.54103/2037-3597/23831">
+								https://doi.org/10.54103/2037-3597/23831
+							</a>
+						</span>
+					</section>
+							
+						
+										<section class="item abstract">
+					<h2 class="label">Abstract</h2>
+					<p>Il lavoro descrive il contenuto, i metodi e i risultati del primo corso italiano di scrittura in linguaggio facile da leggere e da capire per lettori con disabilità intellettive e altre difficoltà di lettura, rivolto specificamente al personale di un’università. Il corso ha fornito ai partecipanti le linee guida per la stesura e ha esplorato l’applicazione del linguaggio facile a materiali amministrativi. Dopo aver presentato la struttura, gli obiettivi e i risultati del corso, viene presentato un testo creato dai partecipanti come esercizio di applicazione dei principi appresi. Inoltre, sono presentati i risultati di un questionario compilato dai partecipanti a un anno dal corso, che evidenziano l’impatto a lungo termine della formazione e sottolineano l’importanza di sensibilizzare sulla comunicazione efficace.</p>
+<p> </p>
+<p><strong>Towards accessible communication in public administration: the example of training in easy-to-read and easy-to-understand language for staff at the University of Trieste</strong></p>
+<p>This study delineates the content, methodologies, and outcomes of the first Italian course on easy-to-read writing, tailored for individuals with intellectual disabilities and other reading challenges, specifically targeting university personnel. The course provided participants with drafting guidelines and explored the feasibility of administrative materials in easy-to-read format. After presenting the course’s structure, objectives, and achievements, this paper will comment on a participant-generated text as a case study, demonstrating the practical application of easy-to-read principles. Furthermore, it will detail the findings of a follow-up questionnaire completed by participants one year after taking the course, shedding light on the enduring impact of the training and underscoring the significance of raising awareness about writing effectively</p>
+				</section>
+			
+			<div class="item downloads_chart">
+	<h3 class="label">
+		Downloads
+	</h3>
+	<div class="value">
+		<canvas class="usageStatsGraph" data-object-type="Submission" data-object-id="23831"></canvas>
+		<div class="usageStatsUnavailable" data-object-type="Submission" data-object-id="23831">
+			I dati di download non sono ancora disponibili.
+		</div>
+	</div>
+</div>
+
+
+																			
+										<section class="item references">
+					<h2 class="label">
+						Riferimenti bibliografici
+					</h2>
+					<div class="value">
+																					<p>Bredel U., Maaß C. (2016), Leichte Sprache: Theoretische Grundlagen. Orientierung für die Praxis, Duden, Berlin. </p>
+															<p>Codice di stile (1993) = Codice di stile delle comunicazioni scritte ad uso delle amministrazioni pubbliche, Dipartimento per la funzione pubblica, Istituto Poligrafico e Zecca dello Stato, Roma. </p>
+															<p>Cortelazzo M. A. (2021), Il linguaggio amministrativo. Principi e pratiche di modernizzazione, Carocci, Roma. </p>
+															<p>Cortelazzo M. A., Pellegrino F. (2003), Guida alla scrittura istituzionale, Laterza, Roma-Bari. </p>
+															<p>De Mauro T. (2016), “Il nuovo Vocabolario di Base”, in Internazionale. </p>
+															<p><a href="https://www.internazionale.it/opinione/tullio-de-mauro/2016/12/23/il-nuovo-vocabolario-di-base-della-lingua-italiana">https://www.internazionale.it/opinione/tullio-de-mauro/2016/12/23/il-nuovo-vocabolario-di-base-della-lingua-italiana</a>. </p>
+															<p>Fioritto A. (1997), Manuale di stile: strumenti per semplificare il linguaggio delle amministrazioni pubbliche, il Mulino, Bologna. </p>
+															<p>Fioritto A. (2009), Manuale di stile dei documenti amministrativi, il Mulino, Bologna. </p>
+															<p>Freyhoff G., Hess G., Kerr L., Menzel E., Tronbacke B., Van Der Veken K. (1998), Make it simple: European guidelines for the production of easy-to-read information for people with learning disability for authors, editors, information providers, translators and other interested persons, ILSMH European Association, Bruxelles. </p>
+															<p>García Muñoz Ó. (2012), Lectura fácil: métodos de redacción y evaluación, Real Patronato sobre Discapacidad &amp; Ministerio de Sanidad, Servicios Sociales e Igualdad, Madrid. </p>
+															<p>García Muñoz Ó. (2014), Lectura fácil. Guías prácticas de orientaciones para la inclusión educativa, Ministerio de Educación, Cultura y Deporte, Madrid. </p>
+															<p>Inclusion Europe (2013), “Informazioni per tutti”, Inclusion Europe, Bruxelles: </p>
+															<p><a href="https://www.inclusion-europe.eu/wp-content/uploads/2017/06/IT_Information_for_all.pdf">https://www.inclusion-europe.eu/wp-content/uploads/2017/06/IT_Information_for_all.pdf</a>. </p>
+															<p>ITTIG = Gruppo di lavoro promosso da Istituto di teoria e tecniche dell’informazione giuridica e Accademia della Crusca (a cura di) (2011), Guida alla redazione degli attiamministrativi. Regole e suggerimenti, Istituto di teoria e tecniche dell’informazione giuridica del Cnr, Firenze. </p>
+															<p>Lubello S. (2014), Il linguaggio burocratico, Carocci, Roma. </p>
+															<p>Maaß C. (2020), Easy Language – Plain Language – Easy Language Plus: Balancing Comprehensibility and Acceptability, Frank &amp; Timme, Berlino. </p>
+															<p>Nomura M., Nielsen G. S., Tronbacke B. (2010), “Guidelines for easy-to-read materials”, in IFLA Professional Reports, 120, pp. 2-28. </p>
+															<p>Raso T. (2005), La scrittura burocratica. La lingua e l’organizzazione del testo, Carocci, Roma. </p>
+															<p>Sciumbata F. C. (2020), Il linguaggio facile da leggere e da capire per persone con disabilità intellettive: nuove linee guida per l’italiano e applicazione a testi di promozione turistica del Friuli-Venezia Giulia. Tesi di dottorato non pubblicata, Università di Udine. </p>
+															<p>Sciumbata F. C. (2021a), “Dall’inclusione alla didattica della scrittura con il linguaggio facile da leggere e da capire per persone con disabilità intellettive”, in Garulli V., Pasetti L., Viale M. (a cura di), Disturbi specifici dell’apprendimento e insegnamento linguistico. La didattica dell’italiano e delle lingue classiche nella scuola secondaria di secondo grado alla prova dell’inclusione, Bononia University Press, Bologna, pp. 129-136. </p>
+															<p>Sciumbata F. C. (2021b), “Dal plain language all’easy-to-read per lettori con disabilità intellettive: oltre la semplificazione”, in Lingue &amp; Linguaggi, 41, pp. 199-213. </p>
+															<p>Sciumbata F. C. (2022a), Manuale dell’italiano facile da leggere e da capire. Come scrivere testi semplici per persone con disabilità intellettive e difficoltà di lettura, Franco Cesati Editore, Firenze. </p>
+															<p>Sciumbata F. C. (2022b), “Il linguaggio facile da leggere e da capire va all’università. Appunti da un corso di scrittura facilitata per il personale dell’Università di Trieste”, in Rivista Internazionale di Tecnica della Traduzione – International Journal of Translation, 24, pp. 217-233. </p>
+															<p>Tronbacke B. I. (1993), “The publishing of Easy-to-Read in Sweden”, Lezione alla Biblioteca Nazionale dell’Australia, Canberra, settembre 1993. </p>
+															<p>Vellutino D. (2018), L’italiano istituzionale per la comunicazione pubblica, il Mulino, Bologna. </p>
+															<p>Viale M. (2008), Studi e ricerche sul linguaggio amministrativo, CLEUP, Padova. </p>
+																		</div>
+				</section>
+			
+		</div><!-- .main_entry -->
+
+		<div class="entry_details">
+
+										<div class="item cover_image">
+					<div class="sub_item">
+													<a href="https://riviste.unimi.it/index.php/promoitals/issue/view/2253">
+								<img src="https://riviste.unimi.it/public/journals/12/cover_issue_2253_it_IT.jpg" alt="">
+							</a>
+											</div>
+				</div>
+			
+										<div class="item galleys">
+					<h2 class="pkp_screen_reader">
+						Dowloads
+					</h2>
+					<ul class="value galleys_links">
+													<li>
+								
+	
+							
+
+<a class="obj_galley_link pdf" href="https://riviste.unimi.it/index.php/promoitals/article/view/23831/21242">
+
+		
+	PDF
+
+	</a>
+							</li>
+											</ul>
+				</div>
+						
+						<div class="item published">
+				<section class="sub_item">
+					<h2 class="label">
+						Pubblicato
+					</h2>
+					<div class="value">
+																			<span>2024-06-23</span>
+																	</div>
+				</section>
+							</div>
+			
+										<div class="item citation">
+					<section class="sub_item citation_display">
+						<h2 class="label">
+							Come citare
+						</h2>
+						<div class="value">
+							<div id="citationOutput" role="region" aria-live="polite">
+								<div class="csl-bib-body">
+  <div class="csl-entry">Sciumbata, F. C. (2024). PER UNA COMUNICAZIONE ACCESSIBILE NELLE PUBBLICHE AMMINISTRAZIONI: L’ESEMPIO DELLA FORMAZIONE SUL LINGUAGGIO FACILE DA LEGGERE E DA CAPIRE PER IL PERSONALE DELL’UNIVERSITÀ DI TRIESTE. <i>Italiano LinguaDue</i>, <i>16</i>(1), 156–169. https://doi.org/10.54103/2037-3597/23831</div>
+</div>
+							</div>
+							<div class="citation_formats">
+								<button class="cmp_button citation_formats_button" aria-controls="cslCitationFormats" aria-expanded="false" data-csl-dropdown="true">
+									Ulteriori formati di citazione
+								</button>
+								<div id="cslCitationFormats" class="citation_formats_list" aria-hidden="true">
+									<ul class="citation_formats_styles">
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/acm-sig-proceedings?submissionId=23831&amp;publicationId=21877"
+													data-load-citation
+													data-json-href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/acm-sig-proceedings?submissionId=23831&amp;publicationId=21877&amp;return=json"
+												>
+													ACM
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/acs-nano?submissionId=23831&amp;publicationId=21877"
+													data-load-citation
+													data-json-href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/acs-nano?submissionId=23831&amp;publicationId=21877&amp;return=json"
+												>
+													ACS
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/apa?submissionId=23831&amp;publicationId=21877"
+													data-load-citation
+													data-json-href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/apa?submissionId=23831&amp;publicationId=21877&amp;return=json"
+												>
+													APA
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=23831&amp;publicationId=21877"
+													data-load-citation
+													data-json-href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=23831&amp;publicationId=21877&amp;return=json"
+												>
+													ABNT
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/chicago-author-date?submissionId=23831&amp;publicationId=21877"
+													data-load-citation
+													data-json-href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/chicago-author-date?submissionId=23831&amp;publicationId=21877&amp;return=json"
+												>
+													Chicago
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/harvard-cite-them-right?submissionId=23831&amp;publicationId=21877"
+													data-load-citation
+													data-json-href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/harvard-cite-them-right?submissionId=23831&amp;publicationId=21877&amp;return=json"
+												>
+													Harvard
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/ieee?submissionId=23831&amp;publicationId=21877"
+													data-load-citation
+													data-json-href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/ieee?submissionId=23831&amp;publicationId=21877&amp;return=json"
+												>
+													IEEE
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/modern-language-association?submissionId=23831&amp;publicationId=21877"
+													data-load-citation
+													data-json-href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/modern-language-association?submissionId=23831&amp;publicationId=21877&amp;return=json"
+												>
+													MLA
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=23831&amp;publicationId=21877"
+													data-load-citation
+													data-json-href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=23831&amp;publicationId=21877&amp;return=json"
+												>
+													Turabian
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/vancouver?submissionId=23831&amp;publicationId=21877"
+													data-load-citation
+													data-json-href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/vancouver?submissionId=23831&amp;publicationId=21877&amp;return=json"
+												>
+													Vancouver
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/wirtschaftsuniversitat-wien-handel-und-marketing?submissionId=23831&amp;publicationId=21877"
+													data-load-citation
+													data-json-href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/get/wirtschaftsuniversitat-wien-handel-und-marketing?submissionId=23831&amp;publicationId=21877&amp;return=json"
+												>
+													WU H&amp;M
+												</a>
+											</li>
+																			</ul>
+																			<div class="label">
+											Scarica citazione
+										</div>
+										<ul class="citation_formats_styles">
+																							<li>
+													<a href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/download/ris?submissionId=23831&amp;publicationId=21877">
+														<span class="fa fa-download"></span>
+														Citavi/Endnote/Zotero/Mendeley (RIS)
+													</a>
+												</li>
+																							<li>
+													<a href="https://riviste.unimi.it/index.php/promoitals/citationstylelanguage/download/bibtex?submissionId=23831&amp;publicationId=21877">
+														<span class="fa fa-download"></span>
+														BibTeX
+													</a>
+												</li>
+																					</ul>
+																	</div>
+							</div>
+						</div>
+					</section>
+				</div>
+			
+										<div class="item issue">
+
+											<section class="sub_item">
+							<h2 class="label">
+								Fascicolo
+							</h2>
+							<div class="value">
+								<a class="title" href="https://riviste.unimi.it/index.php/promoitals/issue/view/2253">
+									V. 16 N. 1 (2024): ITALIANO LINGUADUE
+								</a>
+							</div>
+						</section>
+					
+											<section class="sub_item">
+							<h2 class="label">
+								Sezione
+							</h2>
+							<div class="value">
+								ITALIANO LINGUA SECONDA/STRANIERA
+							</div>
+						</section>
+					
+									</div>
+			
+															
+										<div class="item copyright">
+					<h2 class="label">
+						Licenza
+					</h2>
+																									<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" src="//i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><p>Questo lavoro è fornito con la licenza <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0</a>.</p>
+																
+				</div>
+			
+			
+
+		</div><!-- .entry_details -->
+	</div><!-- .row -->
+
+</article>
+
+	
+
+</div><!-- .page -->
+
+	</div><!-- pkp_structure_main -->
+
+									<div class="pkp_structure_sidebar left" role="complementary" aria-label="Barra a lato">
+				<div class="pkp_block block_language">
+	<h2 class="title">
+		Lingua
+	</h2>
+
+	<div class="content">
+		<ul>
+							<li class="locale_it_IT current" lang="it-IT">
+					<a href="https://riviste.unimi.it/index.php/promoitals/user/setLocale/it_IT?source=%2Findex.php%2Fpromoitals%2Farticle%2Fview%2F23831">
+						Italiano
+					</a>
+				</li>
+							<li class="locale_en_US" lang="en-US">
+					<a href="https://riviste.unimi.it/index.php/promoitals/user/setLocale/en_US?source=%2Findex.php%2Fpromoitals%2Farticle%2Fview%2F23831">
+						English
+					</a>
+				</li>
+					</ul>
+	</div>
+</div><!-- .block_language -->
+
+			</div><!-- pkp_sidebar.left -->
+			</div><!-- pkp_structure_content -->
+
+<div class="pkp_structure_footer_wrapper" role="contentinfo">
+	<a id="pkp_content_footer"></a>
+
+	<div class="pkp_structure_footer">
+
+					<div class="pkp_footer_content">
+				<div class="row">
+<div class="col-12"><a href="https://www.unimi.it" target="_blank" rel="noopener"><img style="height: 52px; padding-right: 15px;" src="https://riviste.unimi.it/public/site/images/galimberti/ateneo-02.png" /></a><a href="https://milanoup.unimi.it/" target="_blank" rel="noopener"><img style="height: 52px; padding-right: 15px;" src="https://riviste.unimi.it/public/site/images/galimberti/logomilanoup-grande-nero-trasp-.png" alt="" /></a></div>
+<p><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Licenza Creative Commons" /></a><br />Italiano LinguaDue by <a href="https://riviste.unimi.it/index.php/promoitals//" rel="cc:attributionURL">Promoitals</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution - Share alike  4.0 International</a>.</p>
+<p>Made with software <a href="http://pkp.sfu.ca/ojs/">OJS</a> managed and maintained by <a href="https://www.archicoop.it/">Archimede Informatica Società cooperativa</a>.</p>
+<pre>ISSN: 2037-3597<br />Italiano linguadue<br />[Online]</pre>
+</div>
+			</div>
+		
+		<div class="pkp_brand_footer" role="complementary">
+			<a href="https://riviste.unimi.it/index.php/promoitals/about/aboutThisPublishingSystem">
+				<img alt="Informazioni aggiuntive su questo sistema di e-publishing, sulla piattaforma e sul workflow curato da OJS/PKP." src="https://riviste.unimi.it/templates/images/ojs_brand.png">
+			</a>
+		</div>
+	</div>
+</div><!-- pkp_structure_footer_wrapper -->
+
+</div><!-- pkp_structure_page -->
+
+<script src="https://riviste.unimi.it/lib/pkp/lib/vendor/components/jquery/jquery.min.js?v=3.3.0.21" type="text/javascript"></script><script src="https://riviste.unimi.it/lib/pkp/lib/vendor/components/jqueryui/jquery-ui.min.js?v=3.3.0.21" type="text/javascript"></script><script src="https://riviste.unimi.it/plugins/themes/default/js/lib/popper/popper.js?v=3.3.0.21" type="text/javascript"></script><script src="https://riviste.unimi.it/plugins/themes/default/js/lib/bootstrap/util.js?v=3.3.0.21" type="text/javascript"></script><script src="https://riviste.unimi.it/plugins/themes/default/js/lib/bootstrap/dropdown.js?v=3.3.0.21" type="text/javascript"></script><script src="https://riviste.unimi.it/plugins/themes/default/js/main.js?v=3.3.0.21" type="text/javascript"></script><script src="https://riviste.unimi.it/plugins/generic/citationStyleLanguage/js/articleCitation.js?v=3.3.0.21" type="text/javascript"></script><script type="text/javascript">var pkpUsageStats = pkpUsageStats || {};pkpUsageStats.data = pkpUsageStats.data || {};pkpUsageStats.data.Submission = pkpUsageStats.data.Submission || {};pkpUsageStats.data.Submission[23831] = {"data":{"2024":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":25,"7":21,"8":8,"9":27,"10":21,"11":22,"12":12},"2025":{"1":13,"2":14,"3":19,"4":29,"5":22,"6":38,"7":8,"8":15,"9":7,"10":13,"11":18,"12":20},"2026":{"1":19,"2":17,"3":30,"4":34,"5":26,"6":3,"7":0,"8":0,"9":0,"10":0,"11":0,"12":0}},"label":"Tutti i downloads","color":"79,181,217","total":481};</script><script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.0.1/Chart.js?v=3.3.0.21" type="text/javascript"></script><script type="text/javascript">var pkpUsageStats = pkpUsageStats || {};pkpUsageStats.locale = pkpUsageStats.locale || {};pkpUsageStats.locale.months = ["Gen","Feb","Mar","Apr","Mag","Giu","Lug","Ago","Set","Ott","Nov","Dic"];pkpUsageStats.config = pkpUsageStats.config || {};pkpUsageStats.config.chartType = "bar";</script><script src="https://riviste.unimi.it/plugins/generic/usageStats/js/UsageStatsFrontendHandler.js?v=3.3.0.21" type="text/javascript"></script><script type="text/javascript">
+(function (w, d, s, l, i) { w[l] = w[l] || []; var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
+j.src = 'https://www.googletagmanager.com/gtag/js?id=' + i + dl; f.parentNode.insertBefore(j, f); 
+function gtag(){dataLayer.push(arguments)}; gtag('js', new Date()); gtag('config', i); })
+(window, document, 'script', 'dataLayer', 'UA-12351123-4');
+</script><script type="text/javascript">			var _paq = _paq || [];
+			  _paq.push(['trackPageView']);
+			  _paq.push(['enableLinkTracking']);
+			  (function() {
+			    var u="//researchdashboard.unimi.it/matomo/";
+			    _paq.push(['setTrackerUrl', u+'piwik.php']);
+			    _paq.push(['setSiteId', 43]);
+			    _paq.push(['setDocumentTitle', "promoitals"]);
+			    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+			    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			  })();</script>
+
+
+</body>
+</html>

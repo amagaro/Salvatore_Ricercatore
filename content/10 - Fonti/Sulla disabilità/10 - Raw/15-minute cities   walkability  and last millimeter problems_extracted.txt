@@ -1,0 +1,248 @@
+Disability & Society
+ISSN: 0968-7599 (Print) 1360-0508 (Online) Journal homepage: www.tandfonline.com/journals/cdso20
+15-minute cities, ‘walkability’ and last millimeter
+problems
+Ronald Buliung
+To cite this article: Ronald Buliung (2025) 15-minute cities, ‘walkability’ and last millimeter
+problems, Disability & Society, 40:5, 1425-1429, DOI: 10.1080/09687599.2024.2385919
+To link to this article:  https://doi.org/10.1080/09687599.2024.2385919
+© 2024 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 02 Aug 2024.
+Submit your article to this journal 
+Article views: 3626
+View related articles 
+View Crossmark data
+Citing articles: 13 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=cdso20
+Disability & Society
+2025, VOL. 40, NO. 5, 1425–1429
+15-minute cities, ‘walkability’ and last millimeter 
+problems
+Ronald Buliung 
+Department of Geography, Geomatics and Environment, University of Toronto Mississauga, 
+Mississauga, Ontario, Canada
+ABSTRACT
+The 15-minute city concept is about planning and building 
+cities so that most essential activities can be accessed within 
+15-minutes of a residence on foot or by bicycle. The possi­
+bilities and limitations of the concept for disabled persons 
+have yet to be fully considered. Here I centre disability in a 
+hopeful critique of concepts central to 15-minute city imple­
+mentation. I argue that greater attention should be given to 
+what I call last millimeter problems, barriers within small 
+spaces (e.g. subway platform gaps) disabled persons face in 
+transportation systems and the built environment that can 
+make any city, including a 15-minute city, an impassable city.
+Introduction
+As far as urban planning concepts go, the 15-minute city has become some­
+what of a global phenomenon. Urbanist Carlos Moreno is typically credited 
+with conceiving of this latest iteration of the x-minute city. The x-minute city 
+idea, where x refers to minutes of travel to reach essential centers or ameni­
+ties, has been around for a while. Moreno’s public works begin around 2016 
+with an academic article arriving later. The concept is described as, ‘an urban 
+set-up where locals are able to access all of their basic essentials at distances 
+that would not take them more than 15 min by foot or by bicycle’ and is 
+thought to hold promise for producing healthy, sustainable and inclusive 
+urban futures (Moreno et  al. 2021). Having what you need close by is not a 
+terrible idea, and certainly could benefit many disabled persons who often 
+face temporal problems with urban transportation (e.g. Bezyak, Sabella, and 
+Gattis 2017; Galer, 2023). That said, disability is entirely absent from the foun­
+dational 15-minute conceptual texts and negligibly considered in related pos­
+itivist or post-positivist proof of concept studies (e.g. Capasso Da Silva, King, 
+© 2024 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+CONTACT Ronald Buliung 
+ ron.buliung@utoronto.ca
+https://doi.org/10.1080/09687599.2024.2385919
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 
+License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduc­
+tion in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way. 
+The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the 
+author(s) or with their consent.
+ARTICLE HISTORY
+Received 31 March 2024
+Accepted 15 July 2024
+KEYWORDS
+15-minute city; x-minute 
+city; disability; ableism; 
+walkability; walking; 
+barriers
+CURRENT ISSUE
+1426
+R. BULIUNG
+and Lemar 2019; Weng et al. 2019; Willberg, Fink, and Toivonen 2023; Yu and 
+Higgins 2024).
+Reaction to the 15-minute city concept includes enthusiasm from many 
+planners and other urbanists and an unproductive conspiracy minded focus 
+on possible threats to individual liberty and automobiles (Patterson and 
+Barrie 2023). In this commentary I center disability in a critique of 15-minute 
+city rhetoric and research. Using a critical disability studies lens to work 
+through the concept is a necessary intervention. Like Khavarian-Garmsir, 
+Sharifi, and Sadeghi (2023), I think about how the concept hints at physical 
+determinism and a lack of attention given to the how (will we build it), what 
+(will it look like) and for whom (who is included) aspects of the conversation. 
+I am less fixated on the 15-minutes per se and more concerned about what 
+things might look like and how they might work (or not) when they are built. 
+I consider the invisibility of disability and the application of ableist concep­
+tualizations of mobility like ‘walkability’ and ‘walk scores’, concepts and meth­
+ods that appear central to x-minute thinking. I draw on a history of disability 
+and urban transportation problems to illustrate how cities can become 
+impassible in the presence of small scale, big impact, limitations and failings 
+in infrastructure and services.
+The problem with ‘walkability’
+Walkability has been defined as the manner in which land use and the built 
+environment coalesce to support or encourage walking for recreation, work, 
+or to access services (Leslie, Butterworth, and Edwards 2006). Walkability is 
+often assessed using walk scores; comprehensive measures of neighbour­
+hood walkability based on shortest distances to destinations, block length, 
+intersection density, and sometimes population density (Hall and Ram 2018; 
+WalkScore.com). Walk scores affect housing prices (Gilderbloom, Riggs, and 
+Meares 2015). Walkability and walk scores are ableist constructs.
+According to the Oxford English Dictionary ‘to walk’ means to:.
+‘move at a regular pace by lifting and setting down each foot in turn, never having 
+both feet off the ground at once’.
+According to walkscore.com, my home’s walk score is 98/100. I basically live 
+in a 15-minute walkable neighbourhood; I like it but it is not a universally 
+accessible neighbourhood. WalkScore.com tells me my ‘location is a Walker’s 
+Paradise so daily errands do not require a car’. This ‘paradise’ assumes one 
+‘walks’ according to plan. By giving primacy to a bipedal universal concep­
+tualisation of locomotion and walking bodies, walk scores are ableist. They 
+also provide a partial and ableist representation of neighbourhood 
+accessibility.
+Disability & Society
+1427
+My daughter uses a power wheelchair. She uses the term ‘walking’ to 
+describe her neighbourhood travel. Despite living in ‘paradise’ my daughter 
+cannot get into (i.e. stepped entry, narrow door width, interior obstacles) all 
+of the places where she wants or needs to go including the nearest school. 
+Walk scores stop at the door offering no information about doorways condi­
+tions (i.e. thresholds), internal navigation of destinations, or infrastructure 
+surface conditions (e.g. cracked or sloping sidewalks, etc.).
+If one of the key quantifiable pillars of the walk score is distance to desti­
+nations, what happens to a walk score when we start to eliminate destina­
+tions that are entirely inaccessible to wheelchair users? What happens to the 
+walk score if we embed within it, the diversity of disability? Numerically 
+speaking, my paradise might begin to look more like an accessibility desert.
+Indeed, what’s the point in having something close by if you can’t even 
+get in the door?.
+As for schools, Moreno’s original paper mentions schools and school play­
+grounds several times. An inaccessible neighbourhood school is 550 metres 
+away. My daughter’s assigned school is 4.1 km away. Google Maps tells me 
+the school trip is 8 min by car, 29 min by transit, 44 min by walking and 
+12 min on a bike. My daughter’s 15-minute city does not include a school 
+because of historical (i.e. the closest school was built in the nineteenth cen­
+tury) and contemporary intersections between ableism and education policy.
+Walkability, walking in the 15-minute city, and walk scores, are very much 
+focused on the moving around on two feet. Attention is primarily given to 
+door-to-door analysis, rather than ‘can I get out this door and then in that 
+door at the other end of my trip?’ analysis. The latter problem requires a sort 
+of embodied analysis that is missing from x-minute discourse and research.
+Last mile, last millimetre, 15-minute(s) late … or perhaps not at all
+The urban transportation problems faced by disabled persons are well 
+documented. Consider paratransit, i.e. door-to-door service for disabled transit 
+users. As Galer notes, ‘Ever since paratransit services were introduced by the 
+Toronto Transit Commission in 1975, there were problems’ (Galer, 175, 2023). 
+Problems include employment discrimination; vehicles arriving late or not at 
+all; schedule complexity; cost; and even injury and death (Galer, 2023). In 1980, 
+Lynne Pyke died while exiting a Wheeltrans vehicle in Toronto, in 2023 
+Guillermo Aviles died in Los Angeles following a drop off. Yes, people die using 
+public transit, but the death of disabled persons arguably arises through ableist 
+causal mechanisms. The urban transportation problems of disabled persons are 
+troubling, unnecessary, costly, and historically persistent (e.g. Bezyak, Sabella, 
+and Gattis 2017; [removed for anonymity]; Sitter and Mitchell 2020).
+When I think about these issues, I think about what I call last millimeter prob­
+lems, i.e. limitations or failures of design and legislative compliance and the poor 
+1428
+R. BULIUNG
+physical condition of infrastructure (mobile or fixed) within small areas that can 
+turn any city, including a 15-minute city, into an impassable city. Some of these 
+problems include: door widths; subway platform gaps; stepped-up curbs and 
+doorways; missing surfaces that provide guidance or warning to Blind pedestrians 
+through tactile feedback; door actuator button obstruction or height; excessive 
+ramp or sidewalk slope; loose carpets; non-permitted use of disabled parking 
+spots; vegetation encroachment onto sidewalks; ice and snow accumulation on 
+sidewalks; and so on. Trips can end before they even begin.
+My daughter’s chair has become lodged in the horizontal gap between a sub­
+way’s platform and car. The Toronto Transit Commission accepted the recommen­
+dation of it’s Advisory Committee on Accessible Transit regarding acceptable 
+89 mm and 38 mm for horizontal and vertical gaps respectively; last millimeter 
+problems indeed. A partial retrofit campaign will cost at least $28 million.
+What about time? When does the 15-minute clock start? Does it include the 
+extra time disabled persons spend on trip planning irrespective of the travel 
+mode? Does it include care time; the time before leaving that can involve com­
+plex preparation and care (Stevens 2018)? Or the time it might take some peo­
+ple with a physical disability to move from place to place? And what happens 
+when my 15-minutes falls apart because a transit vehicle is excessively delayed 
+or a school bus doesn’t show up at all? Plans made then unmade by the sys­
+temic failure to provide reliable service to disabled persons.
+Fifteen-minute city thinking seems largely focused on the important prob­
+lem of getting ‘to’ things, with less attention given to experiences along the 
+way or the problem of getting across a threshold at the beginning or end of 
+a trip. I am reminded of a piece by Koch (2008) where he described a concep­
+tual rift between geographical accessibility research and disability studies. The 
+former tends to dominate 15-minute studies and includes a sort of disembod­
+ied analysis of the layout of cities and transport connectivity. The latter tends 
+to focus on the lived experiences of disabled persons offering a necessary 
+understanding of the barriers disabled persons face in cities. Indeed, there are 
+experiential, legal, economic and intellectual consequences associated with a 
+failure to explicitly include disability in city building discourse and scholarship 
+from the beginning. If 15-minute urbanism is going to even come close to its 
+supposed promise, particularly regarding the production of healthy and inclu­
+sive urban futures, then more attention must be given to the how, what and 
+for whom questions. The privileging of non-disabled bodies in x-minute rheto­
+ric and proof of concept research cannot continue. The invisibility of disability 
+in this work could have terrible knock-on effects as rhetoric becomes plans, 
+and plans become the material urban settings of everyday life.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Disability & Society
+1429
+ORCID
+Ronald Buliung 
+ http://orcid.org/0000-0003-4748-3321
+References
+Bezyak, J. L., S. A. Sabella, and R. H. Gattis. 2017. “Public Transportation: An Investigation 
+of Barriers for People with Disabilities.” Journal of Disability Policy Studies 28 (1): 52–60. 
+https://doi.org/10.1177/1044207317702070.
+Capasso Da Silva, D., D. A. King, and S. Lemar. 2019. “Accessibility in Practice: 20-Minute 
+City as a Sustainability Planning Goal.” Sustainability 12 (1): 129. https://doi.org/10.3390/
+su12010129.
+Gilderbloom, J. I., W. W. Riggs, and W. L. Meares. 2015. “Does Walkability Matter? An 
+Examination of Walkability’s Impact on Housing Values, Foreclosures and Crime.” Cities 
+42: 13–24. https://doi.org/10.1016/j.cities.2014.08.001.
+Hall, C. M., and Y. Ram. 2018. “Walk Score® and Its Potential Contribution to the Study of 
+Active Transport and Walkability: A Critical and Systematic Review.” Transportation Research 
+Part D: Transport and Environment 61: 310–324. https://doi.org/10.1016/j.trd.2017.12.018.
+Khavarian-Garmsir, A. R., A. Sharifi, and A. Sadeghi. 2023. “The 15-Minute City: Urban 
+Planning and Design Efforts toward Creating Sustainable Neighborhoods.” Cities 132: 
+104101. https://doi.org/10.1016/j.cities.2022.104101.
+Koch, T. 2008. “Spaced Out in the City: The Wrinkled World of Transit for Those with 
+Limited Mobility.” Disability Studies Quarterly 28 (2). https://doi.org/10.18061/dsq.v28i2.94.
+Leslie, E., I. Butterworth, and M. Edwards. 2006. “Measuring the Walkability of Local 
+Communities Using Geographic Information Systems Data.” In Walk21-VII, “The Next 
+Steps”, The 7th International Conference on Walking and Liveable Communities, Vol. 6. 
+Melbourne, October. http://www. walk21.com/papers/m.
+Moreno, C., Z. Allam, D. Chabaud, C. Gall, and F. Pratlong. 2021. “Introducing the ‘15-Minute 
+City’: Sustainability, Resilience and Place Identity in Future Post-Pandemic Cities.” Smart 
+Cities 4, 93–111. https://doi.org/10.3390/smartcities4010006
+Patterson, C., and L. Barrie. 2023. Forget the conspiracies, 15-minute cities will free us to 
+improve our mental health and wellbeing. The Conversation, March 12. https://
+theconversation.com/forget-the-conspiracies-15-minute-cities-will-free-us-to-impr
+ove-our-mental-health-and-wellbeing-200823
+Sitter, K. C., and J. Mitchell. 2020. “Perceptions of Paratransit Accessibility among Persons 
+with Disabilities: An Adapted Photovoice Study.” Health Promotion Practice 21 (5): 769–
+779. https://doi.org/10.1177/1524839919888484.
+Stevens, S. E. 2018. “Care Time.” Disability Studies Quarterly 38 (4). https://doi.org/10.18061/
+dsq.v38i4.6090.
+Weng, M., N. Ding, J. Li, X. Jin, H. Xiao, Z. He, and S. Su. 2019. “The 15-Minute Walkable 
+Neighborhoods: Measurement, Social Inequalities and Implications for Building Healthy 
+Communities in Urban China.” Journal of Transport & Health 13: 259–273. https://doi.org/
+10.1016/j.jth.2019.05.005.
+Willberg, E., C. Fink, and T. Toivonen. 2023. “The 15-Minute City for All?–Measuring 
+Individual and Temporal Variations in Walking Accessibility.” Journal of Transport 
+Geography 106: 103521. https://doi.org/10.1016/j.jtrangeo.2022.103521.
+Yu, A., and C. D. Higgins. 2024. “Travel Behaviour and the 15-Min City: Access Intensity, 
+Sufficiency, and Non-Work Car Use in Toronto.” Travel Behaviour and Society 36: 100786. 
+https://doi.org/10.1016/j.tbs.2024.100786.

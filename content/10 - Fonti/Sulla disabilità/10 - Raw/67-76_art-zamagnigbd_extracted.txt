@@ -1,0 +1,1193 @@
+www.epiprev.it
+R A S S E G N E  E  A R T I C O L I
+ anno 50 (1) gennaio-febbraio 2026
+67
+Epidemiol Prev 2026; 50 (1):67-76. doi: 10.19191/EP26.1.A991.020
+The burden of disease in Italy, 1990-2023: a subnational analysis 
+from the Global Burden of Disease Study 2023
+Il carico di malattia in Italia, dal 1990 al 2023: un’analisi regionale dal Global Burden 
+of Disease Study 2023
+Giulia Zamagni1, Benedetta Armocida2, Giulio Castelpietra3, Sara Conti4, Paolo Angelo Cortesi5, Pietro Ferrara5, Carla Fornari5, Silvano Gallus6, 
+Matilde Leonardi7, Roberto Passera8, Norberto Perico9, Alberto Raggi7, Giuseppe Remuzzi9, Luca Ronfani1, Lorenzo Monasta1
+1 Clinical Epidemiology and Public Health Research Unit, Insitute for Maternal and Child Health - IRCCS "Burlo Garofolo", Trieste (Italy)
+2 Department of Cardiovascular, Endocrine-metabolic Diseases and Aging, Istituto Superiore di Sanità-ISS, Rome (Italy)
+3 CNP Centre neuchâtelois de psychiatrie, Marin-Epagnier (Switzerland)
+4 Occupational Health Service, University of Milano-Bicocca, Milano (Italy)
+5 Research Centre on Public Health (CESP), University of Milano-Bicocca, Monza (Italy)
+6 Department of Medical Epidemiology, Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Milan (Italy)
+7 Neurology, Public Health and Disability Unit, Fondazione IRCCS Istituto Neurologico Carlo Besta, Milan (Italy)
+8 Department of Medical Sciences, University of Torino, Turin (Italy)
+9 Istituto di Ricerche Farmacologiche Mario Negri, IRCCS, Bergamo (Italy)
+Corresponding author: Giulia Zamagni; giulia.zamagni@burlo.trieste.it 
+What is already known
+n	 In recent decades, Italy has undergone profound 
+demographic and epidemiological changes, characterised 
+by an ageing population and changes in disease patterns.
+n	 Despite high life expectancy, geographical inequalities 
+between the North-Centre and South&Islands still persist today.
+n	 Non-communicable diseases are the main source of 
+disease burden and pressure on the health system.
+What this study adds
+n	 Between 1990 and 2023, life expectancy increased in all 
+Italian regions and for both sexes, but sex and regional gaps 
+persist, although these narrow and disappear when healthy 
+life expectancy is considered. 
+n	 Ischaemic heart disease remains the leading cause 
+of DALYs in males, while Alzheimer’s disease and other 
+dementias emerge as the main drivers in females.
+n	 The results highlight a shift in the burden of disease 
+towards chronic conditions characterised by a high 
+disability burden, with significant implications in terms of 
+prevention and long-term care.
+Abstract
+Objectives: to provide a comprehensive and compara­
+ble assessment of life expectancy (LE), health-adjusted 
+life expectancy (HALE), Years Lived with Disability (YLDs), 
+Years of Life Lost (YLLs), and Disability-Adjusted Life Years 
+(DALYs) across Italian regions from 1990 to 2023, identify­
+ing temporal, geographical, and sex-specific patterns to in­
+form targeted public health strategies.
+Design: descriptive epidemiological study using estimates 
+from the Global Burden of Disease Study (GBD) 2023.
+Setting and participants: the analysis covered the Ital­
+ian population, stratified by sex, five macro-regions, and 21 
+subnational locations, including 19 Regions and 2 Autono­
+mous Provinces.
+Main outcome measures: LE, HALE, all-age and 
+age-standardized rates YLDs, YLLs, and DALYs per 100,000 
+population; all estimates were presented with their 95% un­
+certainty intervals.
+Results: between 1990 and 2023, LE increased substan­
+tially across all regions and in both sexes, despite the tem­
+porary decline associated with the COVID-19 pandemic. In 
+2023, the highest LE was recorded in the North-East, with 
+81.4 years (95%CI 81.1-81.6) for males and 85.8 years 
+(95%CI 85.6-86.1) for females, while the lowest values 
+were found in the Islands, at 79.7 years (95%CI 79.3-80.1) 
+for males and 84.2 years (95%CI 83.9-84.5) for females. 
+However, differences diminished when considering HALE. 
+YLDs increased steadily over time, reflecting not only pop­
+ulation ageing but also the expanding burden of chronic 
+and non-fatal conditions. In contrast, YLLs declined mark­
+edly in both sexes, driven particularly by substantial reduc­
+tions in mortality from neoplasms and cardiovascular dis­
+eases. However, in 2023, ischemic heart disease remained 
+the leading contributor to all-age DALYs among males, 
+while Alzheimer’s disease was the top cause among fe­
+males. Anxiety disorders represented the leading cause of 
+age-standardized DALYs in females and showed marked in­
+creases since 1990. Among males, ischemic heart disease 
+continued to appear as the primary cause of age-standard­
+ized DALYs.
+Conclusions: health in Italy improved substantially over 
+the past three decades, primarily due to declining prema­
+ture mortality. However, the burden of disability increased, 
+particularly among women, and important geographical 
+and sex-specific inequalities persist. Strengthening preven­
+tion policies, addressing behavioural and metabolic risk 
+factors and mental health, improving long-term care, and 
+promoting healthy ageing are essential to reducing health 
+disparities.
+Keywords: burden of disease, health inequalities, Global Burden of 
+Disease Study.
+Riassunto
+Obiettivi: fornire una valutazione comprensiva e com­
+parabile dell’aspettativa di vita alla nascita (LE), dell’a­
+spettativa di vita in salute (HALE), degli anni di vita vissu­
+ti con disabilità (YLDs), degli anni di vita persi per morte 
+prematura (YLLs) e degli anni di vita vissuti aggiustati 
+per disabilità (DALYs) nelle regioni italiane dal 1990 al 
+2023, identificando andamenti temporali, differenze ge­
+ografiche e di genere al fine di orientare le strategie di sa­
+lute pubblica.
+Epidemiol Prev 2026; 50 (1):67-76. doi: 10.19191/EP26.1.A991.020
+www.epiprev.it
+R A S S E G N E  E  A R T I C O L I
+68
+ anno 50 (1) gennaio-febbraio 2026
+Background
+Over the past three decades, Italy has undergone pro­
+found demographic and epidemiological transforma­
+tions, characterized by sustained population ageing, 
+declining fertility, and marked shifts in the distribu­
+tion of diseases and risk factors. This pattern repre­
+sents a critical challenge from economic, social, and 
+political perspectives. In 2023, Italy was the oldest 
+country in Europe, with a mean age of 48.4 years, one 
+of the lowest birth rates (7 per 1,000 population), and 
+a fertility rate of 1.2 children per woman, well below 
+the replacement level and approaching its historical 
+minimum.1 Moreover, although life expectancy (LE) 
+at birth in Italy has long been among the highest in 
+Europe, substantial regional inequalities persist, par­
+ticularly between the northern and central regions 
+and the South and Islands.2 At the same time, the bur­
+den of non-communicable diseases (NCDs), including 
+cardiovascular diseases, cancers, diabetes, musculo­
+skeletal disorders, and neurodegenerative conditions, 
+has progressively increased, reshaping the health 
+needs of the population and exerting growing pres­
+sure on the national health system. In particular, data 
+from the “Progressi delle Aziende Sanitarie per la Sa­
+lute in Italia” (PASSI) surveillance system showed that, 
+between 2023 and 2024, 18% of individuals aged 18-
+69 years reported having been diagnosed with at least 
+one chronic disease during their lifetime. Among 
+these, chronic respiratory diseases were the most 
+frequently reported (6%), followed by cardiovascular 
+diseases and diabetes (both 5%).3 The proportion of 
+people living with at least one chronic condition in­
+creased sharply among older adults, reaching 57% in 
+those aged 70 years and over.4 In this age group, 27% 
+of respondents reported cardiopathy, 20% reported 
+diabetes, and 13% reported a previous cancer diag­
+nosis. Understanding these dynamics is essential for 
+public health planning, especially in contexts in which 
+population ageing accelerates and where mortality 
+reductions have shifted the burden of disease toward 
+disability rather than early death. However, tradition­
+al health indicators often fail to capture this complex­
+ity: metrics such as LE provide crucial information 
+on survival, but do not account for the quality of the 
+years lived, as they do not incorporate the substan­
+tial impact of non-fatal conditions that increasingly 
+shape population health in high-income settings.
+In this framework, the Global Burden of Disease (GBD) 
+Study offers a comprehensive and standardized ap­
+proach for quantifying health loss across diseases, in­
+juries, risk factors, and populations, allowing the si­
+multaneous assessment of mortality and disability 
+and enabling meaningful comparisons across loca­
+tions, age groups, sex, and time. 
+This study presents the most comprehensive subna­
+tional analysis to date of life expectancy, health-ad­
+justed life expectancy, years lived with disability, 
+years of life lost, and disability-adjusted life years in 
+Italy from 1990 to 2023, stratified by sex and subna­
+tional area, and represents a natural extension of pre­
+vious work that covered the period up to 2021.2 Ac­
+cordingly, comparisons are presented over the full 
+Disegno: studio epidemiologico descrittivo basato sulle 
+stime del Global Burden of Disease Study (GBD) 2023.
+Setting e partecipanti: l’analisi si concentra sulla popola­
+zione italiana, stratificata per sesso, per cinque macrore­
+gioni e per 21 unità subnazionali, comprendenti 19 Regioni 
+e 2 Province Autonome.
+Principali misure di outcome: LE, HALE, tassi grez­
+zi e standardizzati per età di YLDs, YLLs, and DALYs per 
+100,000 individui; tutte le stime sono accompagnate dai re­
+lativi intervalli di incertezza al 95%.
+Risultati: tra il 1990 e il 2023, l’aspettativa di vita è aumen­
+tata in modo significativo in tutte le regioni e per entram­
+bi i sessi, nonostante la temporanea diminuzione verifica­
+tasi durante la pandemia di COVID-19. Nel 2023, i valori più 
+elevati di aspettativa di vita si registrano nel Nord-Est, con 
+81,4 anni (IC95% 81,1-81,6) per i maschi e 85,8 anni (IC95% 
+85,6-86,1) per le femmine, mentre i valori più bassi si rile­
+vano nelle Isole, con 79,7 anni (IC95% 79,3-80,1) nei ma­
+schi e 84,2 anni (IC95% 83,9-84,5) nelle femmine. Tuttavia, 
+le differenze geografiche e di sesso si attenuano sensibil­
+mente quando si considera l’aspettativa di vita in salute. Gli 
+YLDs sono aumentati in modo marcato nel tempo in tutte 
+le regioni, riflettendo sia l’invecchiamento della popolazio­
+ne sia il crescente peso delle condizioni croniche e non fa­
+tali. Al contrario, gli YLLs sono diminuiti sostanzialmente 
+in entrambi i sessi, trainati soprattutto da riduzioni signifi­
+cative della mortalità per tumori e malattie cardiovascola­
+ri. Nel 2023, la cardiopatia ischemica rimane la principale 
+causa di DALYs a tutte le età nei maschi, mentre la malat­
+tia di Alzheimer rappresenta la prima causa nelle femmine. 
+I disturbi d’ansia costituiscono, invece, la principale causa 
+di DALYs standardizzati per età nelle femmine, mostrando 
+aumenti rilevanti dal 1990. Nei maschi, invece, la cardiopa­
+tia ischemica continua a essere la prima causa di DALYs 
+standardizzati per età.
+Conclusioni: la salute della popolazione italiana è miglio­
+rata sensibilmente negli ultimi trent’anni, grazie soprattutto 
+alla riduzione della mortalità prematura. Tuttavia, il carico 
+di disabilità è aumentato, in particolare tra le donne, e per­
+sistono importanti disuguaglianze geografiche e di genere. 
+Per ridurre queste disparità, è fondamentale rafforzare le 
+politiche di prevenzione, affrontare i fattori di rischio com­
+portamentali e metabolici, intervenire sui disturbi mentali, 
+potenziare l’assistenza a lungo termine e promuovere un 
+invecchiamento in buona salute.
+Parole chiave: carico di malattia, disuguaglianze di salute, Global 
+Burden of Disease Study
+Epidemiol Prev 2026; 50 (1):67-76. doi: 10.19191/EP26.1.A991.020
+www.epiprev.it
+R A S S E G N E  E  A R T I C O L I
+69
+ anno 50 (1) gennaio-febbraio 2026
+1990-2023 period to characterize the overall trajecto­
+ry of disease burden using the most recent available 
+estimates, as pre-pandemic trends and the effect of 
+COVID-19 on the burden of disease have already been 
+examined in a previous work.2
+By jointly examining temporal trends, leading causes, 
+and geographical and sex-specific patterns, we aim to 
+offer an evidence base that can inform equitable and 
+targeted public health strategies.
+Methods
+Overview
+Italy contributes 1,661 data sources to the GBD 2023 
+Study, including vital registration systems, national 
+surveys, disease registries, and administrative datasets. 
+These sources underpin all GBD estimates and are ful­
+ly documented in the GBD 2023 Sources Tool, available 
+from: https://ghdx.healthdata.org/gbd-2023/sourc­
+es. The study adheres to GATHER reporting standards, 
+and detailed methodological descriptions are provided 
+in the GBD 2023 capstone papers.5-7
+GBD measures
+In this analysis, the burden of disease was assessed 
+using the following metrics: life expectancy at birth 
+(LE), health-adjusted life expectancy (HALE), years 
+lived with disability (YLDs), years of life lost (YLLs), 
+and disability-adjusted life years (DALYs).
+Specifically, HALE extends the concept of LE by cap­
+turing quality of life in addition to length of life. It rep­
+resents the average number of years an individual can 
+expect to live in full health and is calculated using 
+age-specific mortality rates together with per-capita 
+YLDs. YLDs are estimated by combining disease prev­
+alence with corresponding disability weights that re­
+flect the severity of different health states. On the 
+other hand, YLLs are calculated by multiplying the 
+number of deaths at each age by a reference LE that 
+is identical for males and females. This reference LE is 
+derived from the lowest age-specific mortality rates 
+observed across countries and reflects the normative 
+assumption that individuals of both sexes are entitled 
+to the same standard of potential longevity. Finally, 
+DALYs, defined as the sum of YLLs and YLDs, quantify 
+overall health loss by integrating the contributions of 
+premature mortality and non-fatal health outcomes.
+YLDs, YLLs, and DALYs were reported as all-age and 
+age-standardized rates per 100,000 population, with 
+95% uncertainty intervals (UIs). UIs were derived as 
+the 2.5th and 97.5th percentiles of 250 posterior draws 
+and incorporate multiple sources of uncertainty, in­
+cluding variability in input data, measurement er­
+ror, model specification, and parameter estimation. 
+As such, the resulting UIs represent the combined 
+uncertainty surrounding each estimate rather than 
+sampling variability alone. Age-standardization was 
+performed using the GBD standard population, de­
+rived from the estimated global population by age 
+(World Population Prospects 2012 revision). The GBD 
+standard age structure was obtained by computing 
+the simple arithmetic mean of all country-level age 
+distributions. The GBD classifies health conditions in 
+a hierarchy of four levels, with increasing levels of de­
+tail, starting from three level 1 groups comprising:
+n	 communicable, maternal, neonatal, and nutritional 
+diseases;
+n	 non-communicable diseases;
+n	 injuries.
+To ensure the highest level of granularity, this work 
+will focus on estimates for level-4 causes.
+Data presentation
+Estimates were reported for five macro-regions 
+(North-West, North-East, Centre, South, and Islands), 
+and for 21 subnational locations (19 Regions and 2 Au­
+tonomous Provinces – APs), following the NUTS-1 and 
+NUTS-2 classification.8
+Trends in LE, HALE, and all-cause rates of DALYs, YLDs, 
+and YLLs from 1990 to 2023 were analysed separate­
+ly for males and females. Temporal changes between 
+1990 and 2023 were assessed using percent chang­
+es and their corresponding 95% UIs, as directly esti­
+mated within the GBD framework. For cross-sectional 
+comparisons across sex and macro-regions, differenc­
+es were evaluated by examining the extent of over­
+lap between 95% UIs. When the 95% uncertainty in­
+tervals overlapped, this was interpreted as insufficient 
+evidence to support the presence of a substantial dif­
+ference among groups. This approach was adopted as 
+a descriptive criterion to characterize potential differ­
+ences, in the absence of formal hypothesis testing.
+For each macro-region and sex, the ten level-4 lead­
+ing causes of YLDs, YLLs, and DALYs in 2023 were 
+identified. For each cause, we reported the corre­
+sponding burden and the percent change since 1990, 
+to distinguish true changes in disease burden from 
+ranking dynamics.
+Statistical analysis
+The analysis followed two main paths: first, the assess­
+ment of the actual burden of disease through all-age 
+rates, which allowed for the assessment of the bur­
+den of disease without considering the effect of differ­
+ent population structures in different regions; second, 
+the evaluation of health status across years, sexes, and 
+macro-regions using age-standardized rates to allow 
+for comparisons to be drawn across macro-regions as 
+if they had the same age structure, thus adjusting for 
+differences in population age structure.
+Epidemiol Prev 2026; 50 (1):67-76. doi: 10.19191/EP26.1.A991.020
+www.epiprev.it
+R A S S E G N E  E  A R T I C O L I
+70
+ anno 50 (1) gennaio-febbraio 2026
+Results
+Life expectancy at birth
+Between 1990 and 2023, LE at birth showed an upward 
+trend across all Italian regions, despite the marked 
+shock caused by the COVID-19 pandemic in 2020 
+(Figure 1). Sex differences were persistent throughout 
+the period, with females consistently showing higher 
+LE than males. A stable geographical gradient also re­
+mained, with lower LEs in the South and the Islands 
+(Table S1, online Supplementary Materials).
+In 2023, the highest LE was recorded in the North-
+East, with 81.4 years (95%UI 81.1-81.6) for males and 
+85.8 years (95%UI 85.6-86.1) for females. Converse­
+ly, the lowest values were found in the Islands, at 
+79.7 years (95%UI 79.3-80.1) for males and 84.2 years 
+(95%UI 83.9-84.5) for females.
+However, when considering HALE, the sex gap nar­
+rowed substantially (Figure S1), and the differenc­
+es observed for LE were no longer evident once 
+uncertainty was taken into account. Similarly, the ge­
+ographical gradient was also attenuated after consid­
+ering the uncertainty around the estimates (Table S2).
+All-age burden of disease
+Figure 2 illustrates the decomposition of all-age DALYs 
+in Italy for males and females. Among males, YLLs con­
+sistently represented most of the burden, whereas in 
+females, the contribution of YLLs and YLDs remained 
+more evenly distributed throughout the period. Spe­
+cifically, the proportion of YLLs within total DALYs de­
+creased from 68.2% to 59.0% in males, while in females 
+it increased slightly from 46.3% to 51.4% (Figure 3).
+In 2023, all-age DALY rates for all causes in males 
+were 34,326.2 (95%UI 30,843.3-38,121.3) in the Is­
+lands, 32,700.5 (95%UI 29,544.9-36,273.0) in the 
+South, 32,489.9 (95%UI 29,207.1-36,368.7) in the Cen­
+tre, 31,920.3 (95%UI 28,637.5-35,715.1) in the North-
+East and 32,480.0 (95%UI 29,498.2-36,137.3) in the 
+North-West (Table 1). Among females, DALY rates 
+were 32,825.2 (95%UI 28,698.0-37,628.2) in the Is­
+lands, 31,372.7 (95%UI 27,413.3-35,798.7) in the South, 
+32,381.3 (95%UI 28,364.9-37,312.5) in the Centre, 
+31,693.0 (95%UI 27,693.0-36,207.3) in the North-East 
+and 32,866.6 (95%UI 29,091.0-37,659.8) in the North-
+West. Despite geographical differences in point esti­
+mates, the overlap of 95% UIs suggested limited evi­
+dence for clear inequalities.  
+All-age DALYs decreased considerably over time 
+among males only in the North-West, North-East and 
+Centre, whereas they remained essentially stable in 
+the South and Islands (Figure 4a). On the other hand, 
+among females, DALY rates in 2023 were substantial­
+ly higher compared to 1990 in all macro-regions ex­
+cept the North-East, where they remained largely un­
+changed (Figure 4b).
+Analysis of all-age YLDs showed consistently higher 
+rates in females than in males across all macro-regions 
+(Figure S2). In both sexes, YLDs increased steadily over 
+time, especially in the South and Islands; however, by 
+2023, YLD rates were comparable across macro-re­
+gions for both males and females (Table S3). Converse­
+ly, YLLs decreased substantially among males in all 
+macro-regions since 1990, whereas in females, reduc­
+tions were limited to the North-West, North-East, and 
+Centre. By contrast, female YLLs increased over time 
+in the South and Islands (Figure S3, Table S4).
+Regarding the leading causes of DALYs in 2023, ischae­
+mic heart disease was the primary contributor among 
+males in all macro-regions, with rates of 2,439.6 (95%UI 
+2,198.4-2,662.7) in the North-West, 2,326.0 (95%UI 
+2,071.1-2,566.2) in the North-East, 2,604.9 (95%UI 
+2,340.9-2,875.8) in the Centre, 2,890.4 (95%UI 2,652.6-
+3,142.3) in the South, and 2,717.9 (95%UI 2,491.3-2,967.9) 
+in the Islands (Figure S4, Table S5). Among females, 
+Alzheimer’s disease and other dementias was the lead­
+ing cause of DALYs throughout the country, with rates 
+of 1,109.3 (95%UI 505.2-2,306.1) in the North-West, 
+1,160.3 (95%UI 536.5-2408.6) in the North-East, 1,127.2 
+(95%UI 511.8-2,347.3) in the Centre, 1,321.6 (95%UI 
+600.2–2,852.3) in the South, and 1,330.4 (95%UI 614.1-
+2,881.8) in the Islands (Figure S5, Table S6).
+The leading causes of all-age YLDs are reported in 
+Figure S6 and Table S7 for males and in Figure S7 and 
+Table S8 for females. For YLLs, results are shown in 
+Figure S8 and Table S9 for males and Figure S9 and 
+Table S10 for females.
+Age-standardized burden of disease
+As shown in Figure S10, the decomposition of 
+age-standardized DALYs in Italy has changed sub­
+stantially over time, with distinct patterns for males 
+and females. Among males, YLLs consistently repre­
+sented the predominant share of total DALYs; howev­
+er, their contribution declined markedly throughout 
+the period, decreasing from 67.5% in 1990 to 51.2% in 
+2023, resulting in a more even distribution between 
+YLLs and YLDs (Figure S11). In females, YLLs were al­
+ready the smaller component in 1990, accounting for 
+49.2% of total DALYs, and their share further declined 
+to 34.1% by 2023. In both sexes, reductions in mortal­
+ity were not accompanied by a comparable compres­
+sion of morbidity, resulting in a growing relative con­
+tribution of YLDs to the overall burden of disease.
+Age-standardized DALY rates declined substantially 
+over time for both sexes in all macro-regions, reflect­
+ing long-term improvements in population health 
+(Figure S12). A marked spike is observed in 2020-
+2021, corresponding to the COVID-19 pandemic, after 
+which rates partially returned toward the pre-pan­
+demic trajectory. In 2023, the South and Islands con­
+www.epiprev.it
+R A S S E G N E  E  A R T I C O L I
+ anno 50 (1) gennaio-febbraio 2026
+71
+Epidemiol Prev 2026; 50 (X): xzxzxzxzx
+sistently showed higher point estimates suggesting 
+the presence of a geographical gradient; however, 
+overlapping 95% UI indicated limited evidence for 
+clear difference (Table S11). 
+Regarding YLDs, rates remained relatively stable across 
+all regions and for both sexes up to 2019, followed by a 
+marked rise in 2020 and the subsequent years (Figure 
+S13). By 2023, YLD levels were not different from those 
+observed in 1990 for males across all macro-regions, 
+whereas females showed an increase in the North-
+West and North-East (Table S12). Conversely, YLL rates 
+declined substantially in all regions between 1990 and 
+2023 for both sexes (Figure S14). The reduction was 
+steeper among males than females, likely reflecting a 
+Figura 1. Andamento dell’aspettativa di vita alla nascita dal 1990 al 2023 nei maschi e nelle femmine, per macroregione. 
+Le linee grigie rappresentano gli andamenti delle singole regioni.
+Figure 1. Trend in life expectancy at birth from 1990 to 2023 in males and females, by Italia macroregion.
+Grey lines represent the trends of individual regions.
+Figura 2. Anni di vita vissuti aggiustati per disabilità (DALYs) per tutte le età nel 2023 in Italia, per maschi e femmine, 
+scomposti in anni di vita persi per morte prematura (YLLs) e anni di vita vissuti con disabilità (YLDs).
+Figure 2. All-age Disability-Adjusted Life Years (DALYs) in Italy in 2023, for males and females, and decomposed into 
+years of life lost due to premature mortality (YLLs) and years lived with disability (YLDs).
+Males
+Males
+Females
+Females
+Epidemiol Prev 2026; 50 (1):67-76. doi: 10.19191/EP26.1.A991.020
+www.epiprev.it
+R A S S E G N E  E  A R T I C O L I
+72
+ anno 50 (1) gennaio-febbraio 2026
+Figura 4. Andamento degli anni di vita vissuti aggiustati per diabilità (DALYs) dal 1990 al 2023 nei maschi e nelle femmine, 
+per macroregione. Le linee grigie rappresentano gli andamenti delle singole regioni.
+Figure 4 Trend in all-age Disability-Adjusted Life Years (DALYs) from 1990 to 2023 in males and females, by Italian 
+macroregion. Grey lines represent the trends of individual regions.
+Figura 3. Percentuale di 
+anni di vita persi per morte 
+prematura (YLLs) e anni di 
+vita vissuti con disabilità 
+(YLDs) sugli anni di vita 
+vissuti aggiustati per disabilità 
+(DALYs) per tutte le età. Italia, 
+2023, maschi e femmine.
+Figure 3 Percentage of Years 
+of Life Lost due to premature 
+mortality (YLLs) and Years 
+Lived with Disability (YLDs) 
+out of total Disability-Adjusted 
+Life Years (DALYs). Italy, 2023, 
+males and females.
+Males
+Females
+Males
+Females
+Epidemiol Prev 2026; 50 (1):67-76. doi: 10.19191/EP26.1.A991.020
+www.epiprev.it
+R A S S E G N E  E  A R T I C O L I
+73
+ anno 50 (1) gennaio-febbraio 2026
+Area
+Disability-Adjusted Life Years per 100,000 (95%UI)
+Males
+Females
+1990
+2023
+Change (%)
+1990
+2023
+Change (%)
+North-Western Italy
+37,559.3
+(34,730.5; 40,757.9)
+32,480.0
+(29,498.2; 36,137.3)
+-13.5 
+(-16.7; -10.2)
+31,732.3 
+(28,245.2; 35,775.0)
+32,866.6 
+(29,091.0; 37,659.8)
+3.6 
+(0.9; 6.3)
+Piemonte
+38,438.3 
+(35,349.5; 41,795.5)
+35,459.9 
+(32,144.0; 39,313.6)
+-7.7
+ (-12.6; -3.0)
+33,076.3
+(29,682.3; 37,137.6)
+34,573.4 
+(30,487.7; 39,114.7)
+4.5 
+(0.5; 9.2)
+Valle d’Aosta
+39,890.1 
+(36,186.1; 43,738.2)
+33,580.6 
+(29,692.5; 37,958.7)
+-15.8
+ (-22.7; -8.9)
+31,752.8
+(27,871.2; 36,328.6)
+32,249.5 
+(27,312.8; 37,515.8)
+1.6
+ (-4.7; 8.1)
+Lombardia
+36,136.1
+ (33,344.2; 39,153.6)
+30,524.5 
+(27,513.2; 34,169.7)
+-15.5
+ (-19.5; -12.0)
+30,167.0
+(26,693.1; 34,262.5)
+31,488.3 
+(27,771.8; 36,174.5)
+4.4 
+(1.3; 7.6)
+Liguria
+42,701.0 
+(39,106.5; 46,729.7)
+37,206.5 
+(33,488.6; 42,158.7)
+-12.9
+ (-18.1; -7.7)
+36,409.8 
+(32,547.6; 41,407.6)
+37,189.7 
+(32,774.9; 42,580.5)
+2.1 
+(-3.4; 7.6)
+North-Eastern Italy
+37,852.8 
+(35,077.3; 41,223.5)
+31,920.3
+(28,637.5; 35,715.1)
+-15.7
+ (-19.1; -12.2)
+31,438.3 
+(27,904.1; 35,477.4)
+31,693.0 
+(27,693.0; 36,207.3)
+0.8 
+(-2.0; 3.5)
+AP Trento
+36,339.6 
+(33,277.9; 39,932.8)
+30,693.4
+(27,164.9; 34,833.5)
+-15.5
+ (-21.6; -9.6)
+29,931.7 
+(26,397.0; 33,994.4)
+29,207.4 
+(24,864.1; 33,939.2)
+-2.4 
+(-8.4; 3.2)
+AP Bolzano
+32,599.5 
+(29,435.1; 36,415.2)
+28,131.3
+ (24,434.4; 32,147.4)
+-13.7 
+(-19.9; -7.2)
+27,049.0
+ (23,842.7; 31,028.6)
+27,720.2 
+(23,710.4; 32,634.2)
+2.5 
+(-3.9; 8.7)
+Veneto
+34,906.0
+(32,008.6; 38,360.4)
+31,716.0 
+(28,374.7; 35,514.4)
+-9.1 
+(-13.2; -4.9)
+29,125.6
+ (25,707.6; 32,988.7)
+31,100.0 
+(27,067.8; 35,490.8)
+6.8
+ (2.7; 10.5)
+Friuli Venezia Giulia
+40,748.5 
+(37,532.1; 44,447.6)
+34,328.0 
+(30,623.3; 38,565.4)
+-15.8 
+(-20.7; -10.2)
+34,834.2 
+(30,885.5; 39,208.0)
+34,132.6 
+(29,847.5; 39,260.2)
+-2.0 
+(-7.1; 3.2)
+Emilia-Romagna
+41,050.1 
+(37,793.9; 44,836.9)
+32,115.8 
+(28,677.6; 36,175.8)
+-21.8 
+(-25.8; -17.2)
+33,613.4 
+(29,893.5; 38,122.8)
+32,458.3 
+(28,234.6; 37,366.4)
+-3.4 
+(-7.6; 0.5)
+Central Italy
+34,919.8 
+(31,727.2; 38,340.9)
+32,489.9
+ (29,207.1; 36,368.7)
+-7.0 
+(-9.9; -4.3)
+30,183.6 
+(26,670.2; 34,114.3)
+32,381.2
+(28,364.9; 37,312.5)
+7.3 
+(4.0; 10.5)
+Toscana
+37,391.3 
+(33,966.7; 41,184.4)
+33,240.1 
+(29,870.1; 37,175.3)
+-11.1 
+(-15.0; -6.9)
+32,770.9 
+(28,853.4; 37,164.2)
+33,808.3 
+(29,435.6; 38,844.6)
+3.2 
+(-1.1; 7.0)
+Umbria
+36,647.6
+ (32,758.5; 41,023.8)
+33,576.1
+ (29,923.8; 37,521.1)
+-8.4 
+(-14.7; -2.0)
+30,930.5 
+(27,554.6; 35,253.8)
+33,439.4 
+(29,005.4; 38,273.3)
+8.1 
+(2.0; 14.2)
+Marche
+34,314.7 
+(31,238.0; 37,971.8)
+32,155.5 
+(28,540.8; 35,915.8)
+-6.3 
+(-12.4; -0.5)
+29,279.2 
+(25,896.9; 33,166.8)
+32,072.9
+ (27,980.0; 36,824.7)
+9.5 
+(4.6; 14.9)
+Lazio
+33,118.5
+ (29,907.5; 36,464.1)
+31,939.2 
+(28,622.4; 35,789.1)
+-3.6
+(-7.2; 0.7)
+28,523.5 
+(25,072.4; 32,590.1)
+31,400.4
+ (27,529.3; 36,193.7)
+10.1 
+(6.2; 14.2)
+Southern Italy
+30,859.0
+ (28,288.8; 33,797.0)
+32,700.5
+(29,544.9; 36,273.0)
+6.0 
+(2.9; 8.6)
+26,883.2 
+(23,870.7; 30,713.6)
+31,372.7
+(27,413.3; 35,798.7)
+16.7
+ (13.4; 20.3)
+Abruzzo
+33,888.2
+ (30,658.7; 37,377.4)
+34,317.4
+(30,743.7; 38,333.5)
+1.3 
+(-4.9; 6.7)
+29,106.1
+ (25,740.6; 33,187.0)
+32,399.2 
+(27,851.3; 37,363.6)
+11.3
+ (6.0; 17.0)
+Molise
+34,327.3
+ (31,204.9; 37,861.3)
+36,254.1
+ (31,978.8; 40,617.2)
+5.6
+ (-2.2; 13.6)
+30,171.2
+ (26,406.9; 34,170.8)
+34,959.4
+ (30,664.2; 39,470.8)
+15.9
+ (8.2; 24.1)
+Campania
+30,952.1 
+(28,250.4; 33,948.4)
+31,809.3
+ (28,669.9; 35,479.4)
+2.8
+ (-1.9; 7.0)
+27,032.9
+ (24,033.1; 30,709.5)
+30,657.6
+ (26,795.5; 35,180.3)
+3.4
+ (9.3; 18.2)
+Puglia
+29,471.4 
+(26,928.9; 32,453.0)
+32,579.3
+ (29,137.5; 36,358.7)
++10.5
+ (5.6; 15.5)
+25,709.7
+ (22,750.4; 29,437.9)
+31,572.6 
+(27,611.4; 35,969.0)
++22.8
+ (17.6; 27.8)
+Basilicata
+31,664.7 
+(28,655.2; 35,110.9)
+34,242.8
+ (30,305.2; 38,476.2)
++8.1
+ (1.0; 15.5)
+27,635.7
+ (24,359.6; 31,675.4)
+32,695.2 
+(28,529.1; 37,316.3)
++18.3 
+(11.3; 25.7)
+Calabria
+30,684.1 
+(28,109.8; 34,047.1)
+33,524.3
+ (30,267.9; 37,376.4)
++9.3 
+(3.2; 15.3)
+26,669.6
+ (23,728.1; 30,737.1)
+31,486.7 
+(27,415.7; 35,979.8)
++18.1 
+(12.5; 23.6)
+Italian Islands
+32,562.0 
+(29,789.0; 35,925.9)
+34,326.2
+(30,843.3; 38,121.3)
++5.4
+ (1.3; 9.1)
+28,138.4
+(24,893.2; 32,135.7)
+32,825.2
+(28,698.0; 37,628.2)
++16.7 
+(13.2; 20.0)
+Sicilia
+32,801.6
+ (29,911.9; 36,198.6)
+33,460.8
+ (30,054.7; 37,378.3)
++2.0 
+(-3.0; 6.6)
+28,866.8
+ (25,691.6; 32,749.0)
+32,632.2
+ (28,784.9; 37,581.1)
++13.0 (8.9; 
+17.0)
+Sardegna
+31,849.8 
+(28,878.4; 34,906.9)
+36,893.7
+ (32,800.2; 41,084.6)
++15.8
+ (9.7; 21.9)
+25,911.9
+ (22,691.3; 30,086.1)
+33,412.3 
+(28,956.7; 38,133.7)
++28.9
+(23.0; 34.4)
+Table 1. All-age Disability-Adjusted Life Year (DALY) rates for males and females across Italian regions and macro-regions. Rates are reported 
+with 95% uncertainty intervals (95%UI).
+Tabella 1. Tassi di anni di vita vissuti aggiustati per disabilità (DALYs) per tutte le età per maschi e femmine nelle regioni e macroregioni italiane. 
+I tassi sono riportati con i relativi intervalli di incertezza al 95% (95%UI).
+Epidemiol Prev 2026; 50 (1):67-76. doi: 10.19191/EP26.1.A991.020
+www.epiprev.it
+R A S S E G N E  E  A R T I C O L I
+74
+ anno 50 (1) gennaio-febbraio 2026
+floor effect in females, whose YLL rates were already 
+lower in 1990, potentially due to sex-specific differ­
+ences in baseline risk factor profiles and their trajecto­
+ries over time. A clear geographical gradient persisted 
+throughout the period, with higher YLL rates in the 
+South and the Islands (Table S13).
+The leading causes of age-standardized DALYs for 
+males are reported in Table S14 and illustrated in Fig­
+ure S15. Ischaemic heart disease remained the pri­
+mary contributor to DALYs in all macro-regions, ac­
+counting for 1,105.2 DALYs (95%UI 1,007.2-1,203.1) in 
+the North-West, 1,035.3 (95%UI 936.5-1,141.7) in the 
+North-East, 1,126.5 (95%UI 1,022.6-1,226.4) in the Cen­
+tre, 1360.4 (95%UI 1,241.9-1,485.0) in the South, and 
+1237.6 (95%UI 1,124.2-1,356.3) in the Islands. For fe­
+males, anxiety disorders were the leading cause of 
+DALYs across all macro-regions (Figure S16), with es­
+timates of 1,365.3 (95%UI 855.2-,021.8) DALYs in the 
+North-West, 1,346.3 (95%UI 838.3-2,005.3) in the 
+North-East, 1,337.4 (95%UI 835.8-2,005.3) in the Cen­
+tre, 1,339.5 (95%UI 833.8-1,990.3) in the South, and 
+1293.6 (95%UI 806.3-1,941.5) in the Islands. The bur­
+den of anxiety disorders has nearly doubled since 
+1990 in every macro-region (Table S15).  
+Results for YLDs are presented in Table S16 and Fig­
+ure S17 for males, and in Table S17 and Figure S18 for 
+females. Corresponding results for YLLs are reported 
+in Table S18 and Figure S19 for males, and in Table S19 
+and Figure S20 for females.
+ 
+Discussion
+The analysis here presented shows that LE at birth in­
+creased substantially in Italy between 1990 and 2023 
+across all regions and in both sexes, despite the tem­
+porary decline associated with the COVID-19 pandem­
+ic. However, a persistent sex gap remains, with fe­
+males consistently showing higher values than males 
+throughout the period. A stable geographical gradi­
+ent also persists, with the South and Islands exhibiting 
+lower LE than the Centre and the North for both sex­
+es. Notably, when HALE is considered, both the mag­
+nitude of the sex difference and the geographical gra­
+dient attenuate and ultimately disappear, reflecting 
+the well-described male-female health-survival para­
+dox: women live longer, but spend more years in poor 
+health.9 Therefore, the overall increase in LE was main­
+ly due to the reductions in YLL rates, especially those 
+from neoplasms and cardiovascular diseases. For ne­
+oplasms, declines in YLLs may reflect major advance­
+ments in early detection and treatment. Specifically, 
+screening programmes have increased the likelihood 
+of early identification and management of several can­
+cers, particularly breast, cervical, and colorectal can­
+cers, contributing to improved survival outcomes.10-12 
+Moreover, additional improvements may stem from 
+public health interventions targeting key risk factors, 
+such as smoking cessation campaigns, reductions in 
+environmental and occupational carcinogens, and the 
+implementation of HPV vaccination campaigns.
+In general, Italy performs comparatively well in sev­
+eral domains of NCD control, particularly tobac­
+co regulation: the WHO Noncommunicable Diseases 
+Progress Monitor 2025 reports that Italy has imple­
+mented all MPOWER-recommended policies for to­
+bacco control at the highest level.13 However, the re­
+port highlights gaps in other domains, such as limited 
+implementation of policies targeting unhealthy diets 
+and insufficient national action plans to comprehen­
+sively address NCD prevention. These mixed perfor­
+mances are consistent with patterns observed in our 
+analysis, where significant progress in mortality re­
+duction coexists with persistent regional inequalities 
+and an important burden of disability. For this reason, 
+strengthening prevention-oriented strategies, espe­
+cially those addressing metabolic and behavioural risk 
+factors, remains essential. 
+In 2023, all-age DALY rates were comparable across 
+macro-regions and sexes, although the composition 
+of the burden differed markedly by sex. In males, YLLs 
+dominated the burden throughout the study period, al­
+though their contribution declined over time, reflect­
+ing progresses in reducing premature mortality.14,15 In 
+females, DALYs were more evenly distributed between 
+YLLs and YLDs. Overall, trends in all-age YLDs indi­
+cate a substantial increase over time across most mac­
+ro-regions, consistent with population ageing and the 
+rising prevalence of chronic, non-fatal conditions. In 
+contrast, all-age YLLs declined markedly in both sex­
+es and across all regions, reflecting sustained reduc­
+tions in premature mortality. These opposing patterns 
+highlight the epidemiological transition in Italy, where 
+gains in survival have shifted the burden of disease to­
+ward disability rather than early death. Moreover, the 
+analysis of leading causes of DALYs highlights marked 
+sex-specific differences. Among males, ischaemic 
+heart disease remained the primary contributor across 
+all macro-regions, despite a substantial reduction 
+in its burden since 1990. In contrast, among females, 
+Alzheimer’s disease and other dementias emerged as 
+the leading cause of DALYs in 2023, with burdens that 
+more than doubled over the study period. 
+The rapid increase of Alzheimer’s disease, observed in 
+both sexes albeit with different magnitudes, is largely 
+attributable to population ageing, increased survival at 
+older ages, and the limited availability of disease-mod­
+ifying treatments. Improved awareness and diagnostic 
+capacity may have also contributed to higher recorded 
+prevalence, particularly in regions with stronger pri­
+mary care and specialist services. Evidence suggests 
+Epidemiol Prev 2026; 50 (1):67-76. doi: 10.19191/EP26.1.A991.020
+www.epiprev.it
+R A S S E G N E  E  A R T I C O L I
+75
+ anno 50 (1) gennaio-febbraio 2026
+that the risk of cognitive decline and dementia can be 
+mitigated through modifiable behavioural and meta­
+bolic factors, including regular physical activity, smok­
+ing cessation, moderation in alcohol consumption, and 
+weight control.16 Therefore, our findings reinforce the 
+need to strengthen long-term care, expand communi­
+ty-based services, and enhance caregiver support na­
+tionwide, while underscoring the importance of com­
+prehensive prevention strategies alongside improved 
+care for affected individuals.
+It is important to consider that, within the GBD frame­
+work, uncertainty intervals reflect multiple sourc­
+es of model-based uncertainty. Consequently, the ab­
+sence of statistically significant differences among the 
+considered macro-regions should not be interpreted 
+as evidence of homogeneous health needs, but rath­
+er as an indication that such differences warrant fur­
+ther, area-specific investigation. Persistent differences 
+in point estimates, consistent geographical gradients, 
+and stable ranking patterns over time may still indicate 
+meaningful disparities with important implications for 
+health system planning and resource allocation.
+A further notable finding concerns type-2 diabetes 
+mellitus. Among males, diabetes ranked within the 
+top ten causes of all-age DALYs in all macro-regions, 
+rising from ninth position in the North-West to sec­
+ond in the Islands. This gradient is largely driven by 
+YLDs, which were almost three times higher in the 
+Islands than in the North-West. In females, diabe­
+tes entered the top ten only in the South and Islands. 
+This pattern mirrors the geographical distribution of 
+risk factors across Italy, especially obesity and seden­
+tary behaviour, which show a higher prevalence in the 
+South and Islands, as highlighted in the Osservasa­
+lute report 2023.17 For this reason, targeted preven­
+tion strategies addressing such disparities are crucial.
+As for all-age YLDs, low back pain emerged as the 
+leading cause in both sexes, in line with other GBD 
+findings showing this condition as a primary driver of 
+disability worldwide.18 This finding underscores the 
+importance of comprehensive strategies to promote 
+physical activity, weight management, injury preven­
+tion, and adequate access to rehabilitation services. 
+For YLLs, ischaemic heart disease remained the dom­
+inant contributor in males across all macro-regions, 
+whereas among females it was the leading cause only 
+in the South, with Alzheimer’s disease ranking first in 
+the other macro-regions.
+Age-standardized DALY rates decreased marked­
+ly in both sexes over time, confirming improvements 
+in population health independent of demograph­
+ic ageing. However, while age-standardized YLDs re­
+mained stable in males across all regions, they in­
+creased markedly among females in the North-West 
+and North-East, suggesting a rising burden of disa­
+bility among women in these regions that cannot be 
+explained by ageing alone. Conversely, age-standard­
+ized YLLs declined sharply in all macro-regions and 
+in both sexes, indicating sustained reductions in pre­
+mature mortality. Finally, while ischaemic heart dis­
+ease remained the leading cause of age-standardized 
+DALYs in males, anxiety disorders emerged as the lead­
+ing contributor among females, with burdens nearly 
+doubling since 1990. This trend aligns with recent re­
+ports documenting rising mental health needs glob­
+ally, especially among women and common mental 
+health disorders, and underscores the critical impor­
+tance of expanding mental-health support, strength­
+ening early identification, and reducing barriers to 
+treatment, in particular enhancing access at the pri­
+mary care level.19 The lower burden observed in males 
+may also indicate underdiagnosis, given the under­
+estimation of anxiety symptoms and gender-related 
+stigma surrounding mental health.20,21 For this rea­
+son, gender-sensitive prevention and facilitated care 
+pathways, alongside real-time mental health surveil­
+lance, are essential to curb this tendency.
+This analysis has limitations, some inherent to estima­
+tion processes and others described in the GBD 2023 
+capstone papers.5-7 First, disability weights used to cal­
+culate YLDs may not fully capture cultural and contex­
+tual variations in perceived health loss. Moreover, the 
+accuracy of results depends on data quality: although 
+Italy has substantial and relatively high-quality data, 
+important gaps remain. Conditions managed primari­
+ly in outpatient settings or through local mental-health 
+services may be underrepresented. Moreover, outpa­
+tient hospital data are not ICD-coded and are there­
+fore more difficult to incorporate into GBD estimates. 
+In addition, general practitioners and paediatricians 
+use systems not integrated with hospital or mortality 
+databases. Last, national surveillance data are not ful­
+ly accessible to the GBD and official mortality data are 
+released with a two-year lag, which affects timeliness. 
+Therefore, all these gaps contribute to wider uncer­
+tainty intervals for some conditions.
+Conclusions
+This study moves beyond mortality-centric assess­
+ments by documenting how regional convergence in 
+life expectancy masks widening inequalities in disa­
+bility burden. The comprehensive assessment of LE, 
+HALE, YLDs, and YLLs across Italy underscores the 
+need for a multifaceted public health strategy that 
+addresses persistent sex- and geographically-based 
+inequalities and supports the organization of inte­
+grated care pathways spanning health promotion, 
+prevention, diagnosis, treatment, rehabilitation, and 
+palliative care, in order to better respond to popu­
+Epidemiol Prev 2026; 50 (1):67-76. doi: 10.19191/EP26.1.A991.020
+www.epiprev.it
+R A S S E G N E  E  A R T I C O L I
+76
+ anno 50 (1) gennaio-febbraio 2026
+lation needs and improve overall population health. 
+Strengthening 
+preventive 
+interventions, 
+ensur­
+ing equitable access to high-quality care, promoting 
+healthy ageing, and tackling the social and econom­
+ic determinants of health will be essential to reducing 
+the burden of disease nationwide. 
+In this epidemiological context, the GBD framework 
+represents an added value through its capacity to 
+model and quantify the burden of disability, which is 
+a dimension of population health that remains largely 
+underrepresented in conventional indicators and rou­
+tinely collected health statistics. However, in high-in­
+come settings such as Italy, which have undergone ad­
+vanced epidemiological and demographic transitions, 
+disability – rather than mortality – represents the ma­
+jor unresolved challenge. By providing comparable, 
+comprehensive estimates of non-fatal health loss, the 
+GBD enables a deeper understanding of the condi­
+tions driving reduced quality of life and functional de­
+cline, thereby offering critical insights to inform public 
+health priorities in societies where ageing and chronic 
+disease have become dominant.
+Conflicts of interest: none declared
+Financing: GZ, LM, and LR reported support from the Italian Ministry of 
+Health, through the contribution given to the Institute for Maternal and 
+Child Health IRCCS Burlo Garofolo, Trieste (Italy).
+References
+1. Istituto Nazionale di Statistica. Indicatori demografici. Rome: ISTAT; 2023. 
+Available from: https://www.istat.it/it/files/2024/03/Indicatori_demografici.pdf 
+(last accessed: 18.12.2025).
+2. Naghavi M, GBD 2021 Italy Subnational Burden of Disease Collaborators. 
+State of health and inequalities among Italian regions from 2000 to 2021: 
+a systematic analysis based on the Global Burden of Disease Study 
+2021. Lancet Public Health 2025;10(4):e309-20. doi: 10.1016/S2468- 
+2667(25)00045-3
+3. Italian National Health Institute. La sorveglianza PASSI. Available from: https://
+www.epicentro.iss.it/passi/dati/croniche (last accessed: 18.12.2025).
+4. Italian National Health Institute. La sorveglianza PASSI d’Argento. Available 
+from: https://www.epicentro.iss.it/passi-argento/dati/croniche#dati (last 
+accessed: 18.12.2025).
+5. GBD 2023 Disease and Injury and Risk Factor Collaborators. Burden of 375 
+diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life 
+expectancy in 204 countries and territories, including 660 subnational locations, 
+1990-2023: a systematic analysis for the Global Burden of Disease Study 2023. 
+Lancet 2025;406(10513):1873-922. doi: 10.1016/S0140-6736(25)01637-X
+6. GBD 2023 Demographics Collaborators. Global age-sex-specific all-cause 
+mortality and life expectancy estimates for 204 countries and territories 
+and 660 subnational locations, 1950-2023: a demographic analysis for the 
+Global Burden of Disease Study 2023. Lancet 2025;406(10513):1731-810. doi: 
+10.1016/S0140-6736(25)01330-3
+7. GBD 2023 Causes of Death Collaborators. Global burden of 292 causes of 
+death in 204 countries and territories and 660 subnational locations, 1990-
+2023: a systematic analysis for the Global Burden of Disease Study 2023. 
+Lancet 2025;406(10513):1811-872. doi: 10.1016/S0140-6736(25)01917-8
+8. Eurostat. Statistical regions in the European Union and partner countries: 
+NUTS and statistical regions 2021. 2022 edition. Available from: https://
+ec.europa.eu/eurostat/documents/3859598/15193590/KS- GQ-22-010-
+EN-N.pdf/82e738dc-fe63-6594-8b2c-1b131ab3f877?t=1666687530717 (last 
+accessed: 18.12.2025).
+9. Alberts SC, Archie EA, Gesquiere LR, et al. The Male-Female Health-Survival 
+Paradox: A Comparative Perspective on Sex Differences in Aging and 
+Mortality. In: Committee on Population; Division of Behavioral and Social 
+Sciences and Education; National Research Council; Weinstein M, Lane MA 
+(eds). Sociality, Hierarchy, Health: Comparative Biodemography: A Collection 
+of Papers. Washington (DC): National Academies Press (US); 2014. Available 
+from: https://www.ncbi.nlm.nih.gov/books/NBK242444/
+10. Zorzi M, Urso EDL. Impact of colorectal cancer screening on incidence, 
+mortality and surgery rates: Evidences from programs based on the fecal 
+immunochemical test in Italy. Dig Liver Dis 2023;55(3):336-41. doi: 10.1016/j.
+dld.2022.08.013
+11. Restivo V, Minutolo G, Maranto M, et al. Impact of Preventive Strategies on 
+HPV-Related Diseases: Ten-Year Data from the Italian Hospital Admission 
+Registry. Cancers (Basel) 2023;15(5):1452. doi: 10.3390/cancers15051452
+12. Independent UK Panel on Breast Cancer Screening. The benefits and harms of 
+breast cancer screening: an independent review. Lancet 2012;380(9855):1778-
+86. doi: 10.1016/S0140- 6736(12)61611-0
+13. World Health Organization. Noncommunicable diseases progress monitor 
+2025. Geneva: WHO; 2025. Available from: https://iris.who.int/server/api/
+core/bitstreams/7a228681-a190-4c29-b2a8-9d4255dc49d1/content (last 
+accessed: 18.12.2025).
+14. Bosetti C, Traini E, Alam T, et al. National burden of cancer in Italy, 1990-2017: 
+a systematic analysis for the global burden of disease study 2017. Sci Rep 
+2020;10(1):22099. doi: 10.1038/s41598-020-79176-3
+15. Associazione Italiana Registro Tumori. I numeri del cancro in Italia, 2023. 
+Brescia: Intermedia; 2023. Available from: https://www.aiom.it/wp-content/
+uploads/2023/12/2023_AIOM_NDC-web.pdf (last accessed: 18.12.2025).
+16. Livingston G, Huntley J, Sommerlad A, et al. Dementia prevention, 
+intervention, and care: 2020 report of the Lancet Commission. Lancet 
+2020;396(10248):413-46. doi: 10.1016/S0140-6736(20)30367-6
+17. Rapporto Osservasalute 2023. Available from: https://osservatoriosullasalute.
+it/osservasalute/rapporto-osservasalute-2023 (last accessed: 18.12.2025).
+18. GBD 2021 Low Back Pain Collaborators. Global, regional, and national burden 
+of low back pain, 1990-2020, its attributable risk factors, and projections to 
+2050: a systematic analysis of the Global Burden of Disease Study 2021. 
+Lancet Rheumatol 2023;5(6):e316-29. doi: 10.1016/S2665- 9913(23)00098-X
+19. World Health Organization. Mental Health Atlas 2024. Geneva: WHO; 2025. 
+Available from: https://iris.who.int/server/api/core/bitstreams/5897b3c7-
+2848-47a7-ba22-0a7902342a81/content (last accessed: 18.12.2025).
+20. Chatmon BN. Males and Mental Health Stigma. Am J Mens Health 
+2020;14(4):1557988320949322. doi: 10.1177/1557988320949322
+21. McKenzie SK, Oliffe JL, Black A, Collings S. Men’s Experiences of Mental 
+Illness Stigma Across the Lifespan: A Scoping Review. Am J Mens Health 
+2022;16(1):15579883221074789. doi: 10.1177/15579883221074789

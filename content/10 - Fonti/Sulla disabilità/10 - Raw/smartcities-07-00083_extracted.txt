@@ -1,0 +1,1106 @@
+Citation: Allam, Z.; Khavarian-
+Garmsir, A.R.; Lassaube, U.; Chabaud,
+D.; Moreno, C. Mapping the
+Implementation Practices of the
+15-Minute City. Smart Cities 2024, 7,
+2094–2109. https://doi.org/10.3390/
+smartcities7040083
+Academic Editor: Pierluigi Siano
+Received: 24 June 2024
+Revised: 18 July 2024
+Accepted: 23 July 2024
+Published: 1 August 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+smart cities
+Brief Report
+Mapping the Implementation Practices of the 15-Minute City
+Zaheer Allam 1,*
+, Amir Reza Khavarian-Garmsir 2
+, Ulysse Lassaube 1
+, Didier Chabaud 1 and Carlos Moreno 1
+1
+Chaire Entrepreneuriat Territoire Innovation (ETI), IAE Paris—Sorbonne Business School, Université Paris 1
+Panthéon-Sorbonne, 75013 Paris, France
+2
+Department of Geography and Urban Planning, Faculty of Geographical Sciences and Planning, University of
+Isfahan, Isfahan 8174673441, Iran; a.khavarian@geo.ui.ac.ir
+*
+Correspondence: zaheerallam@gmail.com
+Abstract: This paper delves into the rapidly progressing 15-Minute City concept, an innovative urban
+planning model that envisions a city where residents can access essential services and amenities
+within a 15-min walk or bike ride from their homes. Endorsed by UN-Habitat as a critical strategy for
+sustainable urban regeneration, this concept has gained considerable worldwide recognition since
+its introduction in 2016. The 15-Minute City framework aims to enhance accessibility, sustainability,
+and social cohesion by emphasizing mixed-use development, compact urban design, and efficient
+transportation systems. Nevertheless, the swift expansion of this concept has surpassed the produc-
+tion of academic literature on the topic, leading to a knowledge gap that calls for alternative research
+methodologies. To address this gap, our paper adopts a mixed-method approach, systematically
+analyzing the scholarly literature, gray literature, media articles, and policy documents to offer a
+holistic understanding of the 15-Minute City concept, its real-world application, and the primary
+principles embraced by policymakers. By investigating the various manifestations of the 15-Minute
+City model and its potential advantages, challenges, and implications for urban planning and policy,
+this paper contributes to the ongoing conversation on sustainable urban development and planning.
+Through this study, we aim to inform policymakers, urban planners, and researchers about the
+current state of the 15-Minute City movement and its possible future trajectory.
+Keywords: 15-minute city; sustainable development; mixed-method approach; social cohesion;
+compact urban design; proximity; SDG 11
+1. Introduction
+The 15-Minute City has emerged as a powerful and transformative global policy mea-
+sure for sustainability, resilience, and health, capturing the attention of urban planners,
+policymakers, and researchers alike. Recognized by UN-Habitat as a vital instrument for
+urban regeneration, this innovative model envisions a city where residents can fulfill their
+essential needs—work, shopping, education, leisure, and healthcare—within a 15-min walk
+or bike ride from their homes. By fostering local, accessible, and inclusive neighborhoods,
+the 15-Minute City aims to enhance the quality of life for urban dwellers while simultane-
+ously addressing pressing environmental challenges such as climate change, air pollution,
+and resource depletion [1,2].
+The origins of the 15-Minute City can be traced back to 2016, when Carlos Moreno first
+proposed the concept as a means of reimagining urban living in the 21st century [3]. Since
+then, the idea has gained significant traction in the urban planning community and has
+been embraced by cities worldwide. Paris, under the leadership of Mayor Anne Hidalgo,
+was the first to adopt this model in 2018, integrating the concept into its urban policy and
+development strategy [4]. Following Paris’s example, numerous cities, neighborhoods,
+and regions worldwide, from Melbourne to Montreal, have also implemented various
+forms of the 15-Minute City model. Figure 1 showcases the popularity of the concept
+from 2016 to 2022, and underlines that the concept is yet to peak. Going forward, as the
+Smart Cities 2024, 7, 2094–2109. https://doi.org/10.3390/smartcities7040083
+https://www.mdpi.com/journal/smartcities
+Smart Cities 2024, 7
+2095
+concept continues to gain popularity, it is crucial to better understand its implementation,
+the common goals pursued by policymakers, and emerging trends and themes in the field.
+ 
+Figure 1. Popularity of the term ‘15 Minute City’ from 2016 to 2022 [5], with the x-axis highlighting
+the dates and y-axis evaluating popularity (measured from 0–100).
+At its core, the 15-Minute City model seeks to create urban environments that prioritize
+accessibility, sustainability, and social cohesion. This is achieved by promoting mixed-use
+development, compact urban form, and efficient transportation networks, all of which
+contribute to reducing the need for long commutes and car dependency. By bringing
+essential services and amenities closer to where people live, the 15-Minute City fosters
+more walkable, bikeable, and transit-oriented communities, ultimately leading to reduced
+greenhouse gas emissions, improved air quality, and enhanced public health [6].
+In addition to its environmental and health benefits, the 15-Minute City also seeks to
+foster social equity and inclusion by ensuring that all residents have equal access to essential
+services, opportunities, and amenities. This is particularly relevant in light of the growing
+concerns about social polarization, spatial segregation, and gentrification in contemporary
+cities [7,8]. By emphasizing local economies, public spaces, and community networks,
+the 15-Minute City aims to create more equitable and resilient urban environments that
+cater to the diverse needs and aspirations of all residents [3]. Despite its potential benefits,
+the implementation of the 15-Minute City model also faces several challenges, including
+resistance from vested interests causing a wave of conspiracy theories [9,10], inadequate
+regulatory frameworks [11], and financial constraints [12]. Moreover, the concept’s rapid
+proliferation has outpaced the production of the academic literature on the subject, creating
+a knowledge gap that underscores the need for alternative research methodologies to
+capture the full scope and nuance of this burgeoning urban planning paradigm. Recent
+studies have further elaborated on the theoretical and practical aspects of the 15-Minute
+City concept. For instance, Papadopoulos et al. [13] provide a comprehensive overview
+of the major components and requirements for measuring compliance with the 15-Minute
+City concept, while Lima and Costa [14] systematically review computational approaches
+to achieving proximity. Additionally, Wang et al. [15] and Liu et al. [16] examine spatial
+distribution and inequality issues in accessibility, providing critical insights into the im-
+plementation of 15-Minute City principles in different urban contexts. While exploring
+gray literature, this paper also acknowledges recent works by offering a holistic analysis
+of global initiatives, thereby distinguishing our review through its emphasis on practical
+application and diverse geographic contexts.
+In this paper, we provide empirical evidence from various 15-Minute City projects,
+elucidating the real-world advancements of this emerging concept. The key contributions of
+Smart Cities 2024, 7
+2096
+this study are delineated as follows. First, it highlights how the 15-Minute City framework
+has been practically implemented across different global contexts, showcasing tangible
+progress and lessons learned. Second, this study identifies that the 15-Minute City model
+has been discussed under different terminologies in other projects and scholarly works,
+yet previous studies have rarely examined these similar and related concepts collectively.
+Third, we explore the thematic domains within the 15-Minute City concept, offering a
+comprehensive overview of the current state of knowledge through bibliometric analysis
+tools. Fourth, this study evaluates the extent to which various 15-Minute City goals have
+been achieved in different projects, identifying which objectives have been prioritized and
+which have not. Consequently, it provides clear insights into the practical realization of the
+15-Minute City model globally and offers guidance for future research by addressing the
+current knowledge gap and highlighting the novel contributions of our work.
+2. Methods
+2.1. Research Design
+In this study, we employed a mixed-method approach to investigate the ‘15-Minute
+City’ concept. A mixed-method approach combines both qualitative and quantitative
+research methods to provide a comprehensive analysis. This allows for a more holistic
+understanding of complex issues by integrating various types of data and perspectives.
+2.2. Data Sources
+Various sources including scientific papers, book chapters, gray literature (referring
+to materials and research produced by organizations outside of traditional commercial or
+academic publishing and distribution channels, such as reports, whitepapers, and policy
+documents), online pages, and newspapers were reviewed to understand the evolution, ap-
+plications, and implications of this concept for urban planning and policy. Compiling both
+scientific and gray literature has been proven as being an effective research method [17–19].
+Our methodology, designed to be rigorous and replicable, provides a solid foundation for
+further research and comprehensive analysis of available information, for the timeframe of
+the inception of the concept.
+2.3. Methodological Steps
+Overall, this research was conducted in two phases. In the first phase, the gray
+literature was reviewed to identify the common discourses surrounding the 15-Minute
+City concept. In the second phase, a bibliometric analysis was performed on scientific
+publications to identify the main thematic focuses that have been of interest to researchers
+in recent years.
+2.3.1. Phase 1: Gray Literature Review and Media Analysis
+In the first phase, the media analysis systematically tracked and reviewed news articles,
+editorials, and opinion pieces to explore public discourse around the concept in February
+2023. A combination of keyword-based search strings, such as “15-Minute City”, “Ville
+du quart d’heure”, “Ciudad de los 15 minutos”, “urban planning”, “sustainable city”,
+“15-Minute Neighbourhood”, “Walkable Cities”, “Pedestrian-friendly Cities”, “Compact
+Cities” and “walkable neighborhood,” were used to identify new publications in real-time.
+We conducted a content analysis, focusing on key themes, trends, and debates that shaped
+the ‘15-Minute City’ narrative, tracing its evolution in the public sphere and gaining insights
+into its potential impact on urban policy and planning. The gray literature survey included
+reports, whitepapers, and other non-peer-reviewed publications from governmental, non-
+governmental, and private organizations. Manual searches of databases and institutional
+websites were conducted using similar keyword-based search strings as the media analysis.
+Lastly, we triangulated our findings from the media analysis and gray literature survey,
+corroborating our results and providing a more robust and nuanced understanding of the
+‘15-Minute City’ concept. Triangulation involved comparing and integrating data from
+Smart Cities 2024, 7
+2097
+different sources, methods, or theoretical perspectives, enabling us to identify patterns
+and relationships that may not have been apparent when examining each data source in
+isolation. By combining insights from the media analysis and gray literature survey, we
+ensured a comprehensive and in-depth exploration of the ‘15-Minute City’ concept and its
+implications for urban planning and policy.
+2.3.2. Phase 2: Bibliometric Analysis
+The second phase was conducted in May 2024. We searched the Web of Science
+databases to find relevant publications. With over one billion cited references and extensive
+bibliometric data collected over many years, this database enables academics to focus on
+various topics using bibliometric software tools. To ensure the study included as many
+relevant papers as possible (“15-min city” OR “minute city” OR “minute neighborhood”
+OR “minute town” OR “minute community” OR “minute districts” OR “Ciudad de los
+15 minutos” OR “Ville du Quart d’Heure”), we utilized a broad search string, resulted in
+133 records. About 17 documents that were not related to 15-Minute Cities were excluded.
+Therefore, 116 documents dealing with this concept were considered relevant and selected
+for in-depth research. We utilized VOSviewer software to perform a term co-occurrence
+analysis, which highlighted the primary thematic focus areas in the field over the past forty
+years. The software visualized the most commonly co-occurring keywords and used colors
+to group frequently co-occurring terms into thematic clusters. A network graph, composed
+of nodes and links, illustrated the results of the analysis. The size of each node reflected
+the frequency of its associated keywords. Links between nodes indicated keywords that
+appeared together in a minimum of three publications, with the thickness of the lines
+representing the strength of these co-occurrences.
+This study distinguishes itself from previous reviews by adopting a mixed-method
+approach that not only synthesizes scholarly and gray literature but also incorporates
+media analysis and bibliometric analysis to capture a comprehensive and nuanced under-
+standing of the 15-Minute City concept. Previous reviews, such as those by Papadopoulos,
+Sdoukopoulos, and Politis [13] and Lima and Costa [14], have primarily focused on theo-
+retical frameworks and computational methodologies. In contrast, our approach integrates
+empirical evidence from various global initiatives, highlighting the practical implications
+and challenges faced during the implementation of the 15-Minute City model. Further-
+more, we extend the analysis to include considerations of social equity and safety, thereby
+providing a broader perspective on the model’s impact on urban planning and policy.
+3. Results and Discussion
+3.1. Geographic Distribution
+In total, we mapped 77 initiatives, illustrated in Table 1, demonstrating the growing
+interest in adopting the 15-Minute City concept worldwide. For the purposes of this study,
+‘initiatives’ refer to specific projects, policies, or programs implemented by cities, local
+governments, or organizations aimed at applying the principles of the 15-Minute City
+model in urban planning and development. Table 1 shows the geographic distribution of
+15-minute initiatives. The geographic distribution of 15-min initiatives worldwide indicates
+that Western Europe leads with 37 initiatives, constituting 48% of the total. Within this
+region, France is the most active country, contributing 20 initiatives (26%), followed by
+the United Kingdom with 8 initiatives (10%), and Italy with 2 initiatives (3%). Several
+other Western European countries each account for 1% of the total, including Belgium,
+Denmark, Finland, Ireland, the Netherlands, Spain, and Sweden. North America follows
+with 20 initiatives, or 26% of the total, primarily from the USA (13 initiatives, 17%) and
+Canada (7 initiatives, 9%). Oceania, with seven initiatives (9%), is represented by Australia
+(five initiatives, 6%) and New Zealand (two initiatives, 3%). Asia accounts for six initiatives
+(8%), led by Korea with three initiatives (4%), followed by China with two initiatives (3%),
+and Singapore with one initiative (1%). Latin America contributes four initiatives (5%), with
+Argentina, Colombia, Ecuador, and Uruguay each accounting for 1%. Central and Eastern
+Smart Cities 2024, 7
+2098
+Europe has two initiatives (3%), represented by Poland and Romania each contributing 1%.
+Lastly, the Mediterranean and Middle East region has a single initiative (1%) from Tunisia.
+This distribution highlights the concentration of initiatives in Western Europe and North
+America, with notable contributions from Oceania and Asia.
+Table 1. The geographic distribution of 15-minute initiatives from 2008 to 2023.
+Region
+Number
+%
+Country
+Number
+%
+Western Europe
+37
+48%
+France
+20
+26%
+United Kingdom
+8
+10%
+Italy
+2
+3%
+Belgium
+1
+1%
+Denmark
+1
+1%
+Finland
+1
+1%
+Ireland
+1
+1%
+Netherlands
+1
+1%
+Spain
+1
+1%
+Sweden
+1
+1%
+North America
+20
+26%
+USA
+13
+17%
+Canada
+7
+9%
+Oceania
+7
+9%
+Australia
+5
+6%
+New Zealand
+2
+3%
+Asia
+6
+8%
+Korea
+3
+4%
+China
+2
+3%
+Singapore
+1
+1%
+Latin America
+4
+5%
+Argentina
+1
+1%
+Colombia
+1
+1%
+Ecuador
+1
+1%
+Uruguay
+1
+1%
+Central And
+Eastern Europe
+2
+3%
+Poland
+1
+1%
+Romania
+1
+1%
+Mediterranean and
+Middle East
+1
+1%
+Tunisia
+1
+1%
+Overall, it implies that the 15-Minute City initiatives are predominantly concentrated
+in Western Europe, North America, and Oceania, with France having the highest number
+of initiatives (18). The “Ville Du Quart D’heure” concept was launched in Paris in 2020 [20],
+and has since been adopted by various cities and regions across the country. Other European
+countries, such as the United Kingdom and the Netherlands, have also embraced the
+concept, with initiatives like the “20-Min Neighbourhood” in Edinburgh, Scotland [21],
+and the “10-Min City” in Utrecht, Netherlands [22]. In Asia, China’s “15-Min Community
+Life Circle” in Shanghai was launched in 2014 [23], making it one of the earliest examples
+of such initiatives in the region. South Korea has since followed suit with the “15-Min City”
+initiatives in Busan and Jeju Province [24]. Latin America has also seen the emergence
+of 15-Minute City projects, including the “Ciudad De Los 15 Minutos” in Montevideo,
+Uruguay and the “15-Min City” in Quito, Ecuador.
+The implementation of 15-Minute City initiatives spans various administrative scales,
+from the city level (e.g., Copenhagen’s “5-Min Principal” in the Nordhaven neighborhood)
+to the regional level (e.g., New South Wales’ “15-Min Neighbourhood/30 min-City”). This
+reflects the flexibility of the concept, which can be adapted to suit the unique spatial and
+infrastructural contexts of different urban areas. A further analysis of the terminologies
+is presented in Section 3.2. The analysis further showcases that while the C40 is actively
+promoting the concept of sustainable urban planning [25], only 21% of cities implementing
+the concept are members of C40. A significant 69% of cities embracing these planning
+strategies are not part of the C40 network. This highlights the widespread popularity and
+acceptance of the concept, which transcends the driving agendas of specific organizations,
+like the C40. It indicates that cities across the globe are recognizing the importance of
+Smart Cities 2024, 7
+2099
+sustainable urban planning and taking independent action to develop urban environments
+that prioritize accessibility, sustainability, and the wellbeing of their residents. In fact, a
+recent UN Resolution supports that behavioral changes can further urban sustainability
+goals [26].
+While the concept is not yet prevalent in Eastern Europe or as popular as in its western
+counterparts, Mocák et al. [27] highlight the application of this model in Slovak cities,
+underscoring its potential as a sustainable urban development alternative. Similarly, Neu-
+mannová [28] discusses the development of smart districts in Brno, Czech Republic, as
+a manifestation of sustainable urban planning. Including these cases provides a compre-
+hensive understanding of the diverse geographic contexts in which the 15-Minute City is
+being implemented. Additionally, examining the implications of such planning on resi-
+dents’ quality of life and considering geographic determinism in the construction of public
+infrastructure can further enrich our discussion. For instance, Heged˝us et al. [29] analyze
+suburbanization in Debrecen, Hungary, while Tóth [30] examines mixed-use developments
+in Phoenix and Tempe, Arizona, offering valuable insights into sustainability concerns and
+current trends. The higher geographic distribution of the 15-Minute City suggests that
+Western Europe and North America have a greater focus on implementing these urban
+planning concepts, possibly due to a higher level of urban development and emphasis
+on sustainability. In contrast, Africa, Central and Eastern Europe, and Latin America
+exhibit lower percentages, suggesting that these territories are yet to fully embrace and
+implement these urban planning concepts. This discrepancy could result from a number of
+factors, including the fact that parts of those territories are urbanizing along historically
+and geographically specific trajectories, and may also point to a lack of financial means
+to invest in urban regeneration projects within these regions [31], underlining the need
+for context-specific mechanisms. To facilitate the adoption of such sustainable urban plan-
+ning concepts, it may be necessary for the territories within these regions to explore and
+implement fiscal mechanisms and support systems. This contrasts with Western Europe
+and North America, where financial resources accompanying the implementation of urban
+sustainability measures, including investments in infrastructural reforms, are already in
+place, thus enabling the adoption and implementation of these urban planning concepts.
+3.2. Terminology Variations
+Table 2 shows the distribution of 15-Minute City initiatives across different admin-
+istrative scales and under various terminologies. The most prevalent term is “15-Min
+City,” accounting for 32.5% (25 out of 77) of the total initiatives, primarily within cities
+(22). “Ville Du Quart D’heure” follows with 24.7% (19 initiatives), mostly in cities (15), but
+is also present in neighborhoods (2), metropolitan areas (1), and regions (1). Other terms
+include “20-Min Neighbourhood” (eight initiatives, 10.4%), “15-Min Neighbourhood” (five
+initiatives, 6.5%), and “20-Min City” (three initiatives, 3.9%). Less common terms such
+as “10-Min City” and “15-Min Community Life Circle” each have two initiatives (2.6%),
+while others like “5-Min City”, “Ciudad De Los 15 Minutos”, and “Ville En 15 Min” each
+constitute 1.3% of the total with single instances.
+Based on Table 2, the main administrative scales represented in the initiatives include
+cities, neighborhoods, metropolitan areas, regions, and countries. Cities dominate with
+79.2% of the initiatives (61 out of 77), highlighting the focus on urban centers for imple-
+menting the 15-Minute City concept. Neighborhoods account for 9.1% (seven initiatives),
+illustrating the importance of localized interventions. Metropolitan areas represent 5.2%
+(four initiatives), regions account for 3.9% (three initiatives), and countries have 2.6%
+(two initiatives), showcasing the broader regional and national policy efforts to promote
+compact, sustainable, and walkable urban environments.
+Overall, the distribution of 15-Minute City initiatives across both terminology and
+administrative scales highlights a strong emphasis on city-level implementation. While
+cities are the primary focus, the presence of initiatives in neighborhoods, metropolitan areas,
+regions, and countries underscores the concept’s flexibility and adaptability to different
+Smart Cities 2024, 7
+2100
+contexts. This integration of vertical (administrative scale) and horizontal (terminology)
+axes demonstrates the widespread adoption and diverse application of the 15-Minute City
+concept, reflecting its potential to address urban challenges through localized and scalable
+interventions.
+Table 2. Distribution of initiatives by administrative scale. Percentages represent the proportion of
+total initiatives recorded at each scale. Color coding is applied as follows: red indicates no initiatives
+(nil), yellow represents a low number of initiatives, and green denotes a higher number of initiatives.
+Initiative Name
+City
+Neighborhood
+Metropolitan
+Area
+Region
+Country
+Count
+%
+Count
+%
+Count
+%
+Count
+%
+Count
+%
+15-Min City
+22
+29%
+2
+3%
+0
+0%
+1
+1%
+0
+0%
+Ville Du Quart D’heure
+15
+19%
+2
+3%
+1
+1%
+1
+1%
+0
+0%
+20-Min Neighborhood
+6
+8%
+0
+0%
+1
+1%
+0
+0%
+1
+1%
+15-Min Neighborhood
+4
+5%
+1
+1%
+0
+0%
+0
+0%
+0
+0%
+20-Min City
+3
+4%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+10-Min City
+2
+3%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+15-Min Community Life Circle
+2
+3%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+10-Min Neighborhood
+1
+1%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+10-Min Town
+0
+0%
+1
+1%
+0
+0%
+0
+0%
+0
+0%
+15-Min Districts
+1
+1%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+15-Min Neighborhood/30min-City
+0
+0%
+0
+0%
+0
+0%
+1
+1%
+0
+0%
+30-Min City
+0
+0%
+0
+0%
+1
+1%
+0
+0%
+0
+0%
+5-Min City
+1
+1%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+5-Min Principal
+0
+0%
+1
+1%
+0
+0%
+0
+0%
+0
+0%
+Ciudad De Los 15 Minutos
+1
+1%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Ciutat De 15 Minuts
+1
+1%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+One-Minute City
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+1
+1%
+Territoire De La Demi-Heure
+0
+0%
+0
+0%
+1
+1%
+0
+0%
+0
+0%
+Ville En 15 Min
+1
+1%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Ville À 10 Min
+1
+1%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+3.3. Implementation Timeline
+Figure 2 shows the number of 15-Minute City initiatives per year. The evolution and
+implementation of the 15-Minute City concept have demonstrated a clear and progressive
+trajectory over the years, marked by significant milestones and periods of rapid expansion.
+Initially surfacing sporadically, the concept was referenced in the early part of the last
+decade with instances in 2008, 2011, and 2012. A pivotal shift occurred in 2014, evidenced
+by an increase to a total of three initiatives. Following this, there were fluctuations until
+2018, which then gave way to a period of explosive growth.
+The years 2019 to 2022 were particularly critical, witnessing a sharp rise in the number
+of initiatives from 6 in 2019 to a peak of 26 in 2022. This four-year period saw substantial
+growth, with increases of 200% in 2019, 66.67% in 2020, and 90% in 2021. This rapid ex-
+pansion reflects the growing awareness among urban planners and decision-makers of the
+potential benefits associated with prioritizing accessibility and proximity in urban design.
+The chronological distribution of the 15-Minute City initiatives, from Copenhagen’s
+Nordhavn [32] in 2008 to Boulder’s efforts [33] in 2022, underscores the enduring relevance
+of the concept in contemporary urban planning. Early adopters like Copenhagen have
+provided valuable insights and best practices, serving as catalysts for wider adoption.
+These early implementations highlighted the potential of the 15-Minute City concept to
+create more livable and sustainable urban spaces, thereby informing subsequent initiatives
+in other cities.
+Smart Cities 2024, 7
+2101
+ 
+Figure 2. Number of 15-Minute City initiatives per year (2008 to 2022), where the bars represent the
+annual number of 15-Minute City initiatives from 2008 to 2022, and the line shows the cumulative
+total, illustrating escalating adoption by city councils.
+The temporal distribution of the 15-Minute City concept’s implementation mirrors
+the shifting priorities and emerging trends in urban planning, such as increased emphasis
+on environmental sustainability, social equity, and resilience against global challenges like
+climate change. The adaptability of the 15-Minute City concept to the unique character-
+istics of each adopting city ensures its continued relevance in the dynamic landscape of
+urban planning.
+As cities continue to adopt and refine the 15-Minute City concept, its implementation
+is expected to become more widespread and varied. This ongoing evolution not only
+reflects the complex nature of urban planning but also demonstrates the concept’s ability to
+meet the evolving needs and challenges of urban environments across the globe.
+The study’s analysis of the various 15-Minute City initiatives reveals interesting in-
+sights into the adoption and implementation of the concept. It was found that 26.3% of
+the initiatives are declarative, signifying formal announcements made by policymakers,
+politicians, and other relevant stakeholders. For instance, Ciudad de Buenos Aires, Man-
+durah, Busan Metropolitan City, and Jeju Province have all made formal announcements
+regarding the adoption of the 15-Minute City concept. This demonstrates a clear intention
+to publicize and garner support for the concept among the public and urban planning
+community. Moreover, 40.8% of the initiatives have been voted on in local councils as part
+of formal administrative processes. Cities such as Pleszew, Montevideo, Sousse, Edmonton,
+and North Vancouver have incorporated the 15-Minute City concept through local council
+votes. This underscores the commitment of policymakers to integrate the 15-Minute City
+concept into urban planning strategies and regulations, fostering a more comprehensive
+approach to creating sustainable and accessible urban environments.
+Furthermore, the study identified that 32.9% of the initiatives have established struc-
+tures to measure key performance indicators (KPIs), which are a critical aspect in evaluating
+the impact of the 15-Minute City concept on urban residents’ quality of life. For exam-
+ple, Greater Melbourne, Copenhagen (Nordhaven), Detroit, and Urban Guangzhou have
+implemented KPI measurement structures to assess the success of their initiatives. The
+presence of KPI measurement structures indicates that both short-term and long-term
+results are expected from the implementation of the concept, allowing for evidence-based
+decision-making and continuous improvement.
+Additionally, it was noted that 85% of the 15-Minute City efforts are led by public
+initiatives, while 12% are driven by private developments and 3% through public–private
+Smart Cities 2024, 7
+2102
+partnerships (PPP). This suggests that public authorities play a pivotal role in shaping
+urban environments and fostering sustainable, compact, and walkable cities. For example,
+cities like Paris, Melbourne, and Barcelona have witnessed significant public investment in
+pedestrian and bicycle infrastructure, green spaces, and local amenities, thus facilitating
+the 15-Minute City vision. Conversely, private developments, such as those in Poblenou
+(Barcelona) and Hackney (London), have contributed to the transformation of neighbor-
+hoods through mixed-use projects and the introduction of public squares and playgrounds.
+The relatively low prevalence of PPP formats underscores the need for further collaboration
+between public and private entities to effectively address the challenges associated with
+urban growth, sustainability, and equitable access to resources and services.
+3.4. Themes and Goals of the 15-Minute City
+3.4.1. Thematic Clusters of the 15-Minute City
+Figure 3 shows the most widely used keywords in the literature on 15-Minute Cities
+with the highest co-occurrence. The five keywords of (1) accessibility, (2) walkability,
+(3) mobility, (4) sustainability, and (5) proximity have the highest co-occurrence. This
+means that a significant proportion of previous studies have used these keywords as
+the main concepts of their research. Accessibility refers to how easily individuals can
+access locations and opportunities, including jobs, health and education services, cultural
+activities, green spaces, and other critical amenities [34]. The emphasis on this concept
+stems from the crucial role that access to services and amenities plays within 15-Minute
+Cities. Figure 3 further highlights the focus on walkability and mobility as the two key
+elements of urban movement. Walkability, which refers to the ease and safety of individuals
+walking within urban environments, has been a key research focus in 15-Minute Cities. It
+encompasses various physical and social factors that influence the quality of the walking
+experience. Mobility is a broader concept that emphasizes the efficiency and ease of
+the movement of people and goods by different transportation modes [35]. As ease of
+movement plays a crucial role in enhancing the quality of life through physical health,
+reducing car dependence, mitigating air pollution, and fostering social interactions, research
+on 15-Minute Cities strongly emphasizes walkability and mobility. Sustainability is a
+buzzword in urban studies, providing a comprehensive framework for examining various
+aspects of urban planning. Given the strong alignment between the goals of 15-Minute
+Cities and the principles of sustainable development, numerous studies have adopted
+sustainability as their overarching conceptual framework. Finally, proximity, as expected,
+has been a main focus in the literature. It has been directly and indirectly linked to
+various dimensions of 15-Minute Cities, including accessibility, walkability, mixed-use
+development, efficiency, and social interaction, and has become a focus in many studies.
+The identification of the three main thematic clusters in Figure 3 was performed using
+VOSviewer software, version 1.6.20, which allows for the visualization of bibliometric
+networks. The software generates a term co-occurrence map based on the frequency of
+keyword appearances in the selected literature. The clustering algorithm groups terms
+into clusters based on their co-occurrence patterns, revealing the primary thematic areas
+of research. Each cluster is represented by a different color, and the size of the nodes
+corresponds to the frequency of the keywords. Links between nodes indicate keywords that
+have appeared together in at least three records, with the thickness of the lines representing
+the strength of these co-occurrences. Figure 3 illustrates the three main thematic clusters
+in 15-Minute City studies. The first cluster (red) includes terms centered on accessibility,
+positioned at the top of Figure 3. The second cluster (green) encompasses terms focused on
+walkability, located on the right side of this figure. The third cluster (blue) comprises terms
+situated at the bottom of Figure 3 with the centrality of sustainability.
+Smart Cities 2024, 7
+2103
+Figure 3. The term co-occurrence map. The size of the node is according to the frequency of the
+keyword. Links between nodes indicate keywords that have appeared in at least three records
+together. The thickness of the line corresponds to the degree of co-occurrence.
+The red cluster has been the largest thematic focus in 15-Minute City studies over
+the past few years, emphasizing concepts such as accessibility, proximity, mobility, and
+equity, particularly during the COVID-19 pandemic. Accessibility, the central theme of
+these studies, examines how urban design, the distribution of urban services, and public
+transportation influence residents’ access to urban amenities, including parks and health-
+care facilities. Numerous studies in Norway, Estonia, Ghana, Canada, and Poland have
+shown that while some cities possess 15-Minute City characteristics, in some cases, prox-
+imity to facilities and urban services has not led to improved access for residents [36–39].
+Consequently, these studies have stressed the 15-Minute City’s attention to temporal and
+spatial aspects of accessibility, equity, and the integration of accessibility with critical urban
+planning concepts. Moreover, a line of studies within this cluster focused on proximity,
+demonstrating that mixed-used and equitable distribution of amenities can enhance resi-
+dents’ access to urban services [40,41]. Nevertheless, these studies continue to highlight
+social and economic inequalities and vulnerable populations as two fundamental challenges
+faced by 15-Minute Cities in implementing proximity-oriented urban planning [40,42].
+The green cluster largely focuses on factors influencing the promotion of walkability
+and its associated outcomes, particularly for health. Within this cluster, factors that con-
+tribute to enhanced walkability, such as density, urban form, and the design of buildings,
+streets, and public spaces, are extensively discussed. Moreover, some studies delve into
+Smart Cities 2024, 7
+2104
+the health implications of creating walkable 15-Minute Cities [43,44]. These studies posit
+the development of 15-Minute Cities as a strategy to promote walking, reduce car depen-
+dency, and consequently mitigate air pollution and carbon emissions, ultimately leading
+to improved health outcomes. Furthermore, proximity to green spaces is highlighted as a
+strategy for enhancing mental wellbeing by studies within this cluster [45,46].
+Finally, the blue cluster, the smallest thematic focus, concentrates mostly on evaluating
+the 15-Minute City concept in light of important ideas like smart cities and sustainability.
+A group of studies within this cluster investigated the implications of 15-Minute Cities
+for sustainable development, notably in terms of lowering carbon emissions, optimizing
+energy use, and lowering infrastructure costs. Furthermore, some studies have attempted
+to combine smart technology and data analytics into 15-Minute Cities to boost mobility,
+service delivery, and resource optimization [47–49].
+3.4.2. Mapping of Goals of the 15-Minute City
+Figure 4 provides implementation rates of primary goals achieved by existing 15-Minute
+City concepts. Accessibility emerges as a dominant goal, with a strong emphasis on access
+to essential services like groceries (85.71%) and transportation (85.71%). Green spaces
+(84.42%) also feature prominently within the accessibility category, reflecting a concern for
+integrating nature into the 15-Minute City framework. This goal focuses on the importance
+of making all essential services and amenities available within a short distance from
+residents, typically within a 15-min walk or bike ride. This approach encourages sustainable
+transportation modes, such as walking, cycling, and public transport, thereby reducing the
+reliance on private automobiles. Consequently, this alleviates traffic congestion, reduces
+greenhouse gas emissions, and contributes to a healthier environment. The Ciudad de
+Buenos Aires, Greater Melbourne, and Shanghai have successfully incorporated essential
+services and amenities within a 15-min radius for their residents.
+ 
+Figure 4. Mapping of primary goals achieved by existing 15-Minute City concepts.
+Smart Cities 2024, 7
+2105
+Sustainability is another key theme, with a focus on the local economy (81.82%). This
+suggests an interest in fostering self-sufficient neighborhoods that minimize reliance on
+external resources. Equity (57.14%) and biodiversity (55.84%) are additional sustainability
+concerns, highlighting the importance of promoting social justice and environmental well-
+being within 15-Minute City designs. Sustainable development is a fundamental aspect
+of the 15-Minute City, as demonstrated by cities like Boulder (Colorado), Helsinki, and
+Sydney. These cities have made strides in balancing economic growth, social equity, and
+environmental protection, contributing to the United Nations’ Sustainable Development
+Goals. For instance, Sydney has implemented policies to promote local businesses, green
+spaces, and sustainable transportation modes, fostering a low-carbon, circular economy.
+By promoting local businesses, green spaces, and sustainable transportation modes, the
+15-Minute City can foster a low-carbon, circular economy, ultimately contributing to the
+United Nations’ Sustainable Development Goals.
+Urban planning is well-represented, with a strong focus on mobility (80.52%). This
+aligns with the core principle of the 15-Minute City, which emphasizes efficient movement
+within the local area. Land use (67.53%) is another crucial aspect of urban planning in
+this context, suggesting a need to explore optimal configurations for mixed-use devel-
+opments (55.84%) that integrate residential, commercial, and recreational spaces within
+a short walking or cycling distance. Overall, urban planning plays a crucial role in the
+successful implementation of the 15-Minute City concept, as evidenced in cities such as
+Laval, Montréal, and Utrecht. These cities have prioritized the strategic allocation of land
+uses, the design of pedestrian-friendly streets, and the incorporation of sustainable in-
+frastructure. In Montréal, for example, the city has focused on creating a human-centric
+urban environment, promoting mobility, land use efficiency, and biodiversity. Sensible
+and sustainable urban planning further involves the strategic allocation of land uses, the
+design of pedestrian-friendly streets, and the incorporation of sustainable infrastructure.
+By adopting a human-centric approach, urban planners can create vibrant, inclusive, and
+resilient communities that are equipped to meet the challenges of the 21st century.
+Liveability is also a prominent goal, with social inclusion (58.44%) and access to
+health services (58.44%) receiving significant attention. This reflects a focus on creating
+neighborhoods that cater to the diverse needs of residents and promote a healthy lifestyle.
+However, aspects like community participation (53.25%) and job opportunities (46.75%)
+appear to be addressed to a lesser extent. In general, liveability relates to the overall
+satisfaction and well-being of residents in the 15-Minute City. As urban spaces are designed
+to be compact, walkable, and diverse, individuals can enjoy convenient access to essential
+services, social interactions, and recreational opportunities. This contributes to a sense of
+belonging, increased physical activity, and improved mental health, ultimately enhancing
+the overall liveability of the urban environment. Liveability is a key aspect that cities like
+Copenhagen (Nordhavn), Ottawa, and Toronto (Downsview Airport) excel in. These cities
+provide a high quality of life for their residents by fostering community participation, social
+inclusion, and job opportunities. Additionally, the availability of green spaces and efficient
+transport systems contributes to increased physical activity and improved mental health
+for citizens.
+Finally, the figure highlights a limited focus on optimal land use beyond mixed-use
+development. Real estate considerations (42.86%) and urban regeneration (33.77%) receive
+moderate attention, while green construction (23.38%) and attractiveness (19.48%) are the
+least explored sub-sections. It should be noted that optimal land use is a key aspect of the
+15-Minute City, as it promotes the efficient use of available land resources. By integrating
+residential, commercial, and recreational areas, a harmonious urban fabric can be achieved,
+fostering strong community bonds and facilitating the local economy. This mixed-use
+development strategy also helps to minimize urban sprawl, preserving green spaces and
+enhancing the overall quality of life for residents. Optimal land use is exemplified by
+cities such as Montevideo, Paris, and Rome, which have effectively integrated residential,
+commercial, and recreational areas. This mixed-use development strategy can be seen in the
+Smart Cities 2024, 7
+2106
+use of real estate for multiple purposes and the regeneration of urban spaces. Notably, Paris
+has been a pioneer in the 15-Minute City concept, with a focus on mixed-use development
+and urban regeneration to enhance community life and reduce urban sprawl.
+In addition to the primary goals illustrated in Figure 4, it is crucial to address the issue
+of crime and residents’ perceptions of safety, which are essential components of urban
+planning policy within the 15-Minute City framework. The concept of crime prevention
+through environmental design (CPTED) provides valuable insights into how the physical
+environment can be designed or modified to reduce crime and enhance residents’ sense of
+security. Integrating CPTED principles, such as natural surveillance, access control, and
+territorial reinforcement, can significantly contribute to creating safer urban spaces. For
+instance, Matloviˇcová et al. [50] highlight how environmental modifications can prevent
+crime and improve the quality of life in urban estates. By considering these aspects, the
+15-Minute City model can not only promote accessibility and sustainability but also ensure
+that neighborhoods are safe and secure for all residents.
+4. Conclusions
+This study highlights the growing global interest in the 15-Minute City concept and
+its various incarnations. The diverse range of terminologies, administrative levels of
+implementation, and time-based urban planning approaches demonstrates the adaptability
+and relevance of the concept in addressing the challenges and opportunities presented by
+different urban settings. The 15-Minute City’s emphasis on accessibility, proximity, and
+sustainability has resonated with urban planners, policymakers, and residents alike, as it
+strives to enhance the quality of life and promote more sustainable, inclusive, and resilient
+urban environments.
+Our analysis reveals several key findings.
+First, the geographic distribution of
+15-Minute City initiatives is predominantly concentrated in Western Europe, North Amer-
+ica, and Oceania, with notable examples from Slovakia and the Czech Republic demon-
+strating the model’s broader applicability. The flexible nature of the concept allows it
+to be adapted across different urban contexts, addressing unique local challenges and
+opportunities. Second, the thematic clusters identified through our bibliometric analysis—
+accessibility, walkability, sustainability, and proximity—underscore the core principles that
+underpin the 15-Minute City model. These clusters highlight the importance of designing
+urban environments that prioritize ease of access to essential services, promote active trans-
+portation, and support sustainable development goals. Furthermore, our study emphasizes
+the need for comprehensive urban planning that incorporates not only physical infrastruc-
+ture but also social equity and community well-being. Third, our findings suggest that the
+implementation of the 15-Minute City concept is often driven by public sector initiatives,
+with varying degrees of involvement from private developers and public–private partner-
+ships. The success of these initiatives hinges on the establishment of robust measurement
+structures to evaluate their impact on residents’ quality of life, as evidenced by cities like
+Greater Melbourne and Copenhagen.
+In terms of practice, it is crucial to consider the implications of such planning on
+residents’ quality of life, particularly in terms of safety and crime prevention. Integrating
+principles from crime prevention through environmental design (CPTED) can enhance
+the overall effectiveness of the 15-Minute City model by fostering safer and more secure
+environments. As Matloviˇcová et al. [50] demonstrate, environmental modifications can
+prevent crime and improve the quality of life in urban estates. Moving forward, our
+recommendations for further research include exploring the long-term sustainability and
+resilience of 15-Minute City initiatives, particularly in underrepresented regions like Africa
+and Central and Eastern Europe. Additionally, future studies should investigate the impact
+of geographic determinism on the construction of essential public infrastructure and its
+sustainability. Understanding the socio-economic and environmental factors that influence
+the successful implementation of the 15-Minute City model will provide valuable insights
+for policymakers and urban planners.
+Smart Cities 2024, 7
+2107
+The ongoing evolution and implementation of this concept and its variations under-
+score the need for further research and practice in this field, as we strive to shape the urban
+landscapes of the future.
+Author Contributions: Conceptualization, D.C. and C.M.; methodology, U.L. and A.R.K.-G.; formal
+analysis, Z.A. and A.R.K.-G.; data curation, U.L. and A.R.K.-G.; writing—original draft preparation,
+Z.A. and A.R.K.-G.; writing—review and editing, Z.A., U.L., A.R.K.-G., D.C. and C.M. All authors
+have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Data Availability Statement: Data to be shared upon request.
+Conflicts of Interest: The authors declare no conflicts of interest.
+References
+1.
+Allam, Z.; Nieuwenhuijsen, M.; Chabaud, D.; Moreno, C. The 15-minute city offers a new framework for sustainability, liveability,
+and health. Lancet Planet. Health 2022, 6, e181–e183. [CrossRef]
+2.
+Allam, Z.; Bibri, S.E.; Chabaud, D.; Moreno, C. The ‘15-Minute City’ concept can shape a net-zero urban future. Humanit. Soc. Sci.
+Commun. 2022, 9, 126. [CrossRef]
+3.
+Moreno, C.; Allam, Z.; Chabaud, D.; Gall, C.; Pratlong, F. Introducing the “15-Minute City”: Sustainability, Resilience and Place
+Identity in Future Post-Pandemic Cities. Smart Cities 2021, 4, 93–111. [CrossRef]
+4.
+Allam, Z.; Moreno, C.; Chabaud, D.; Pratlong, F. Proximity-Based Planning and the “15-Minute City”: A Sustainable Model for
+the City of the Future. In The Palgrave Handbook of Global Sustainability; Springer International Publishing: Cham, Switzerland,
+2020; pp. 1–20.
+5.
+GoogleTrends. Popularity of the Term 15-Minute City. Available online: https://trends.google.com/trends/explore?date=2008-0
+1-01%202022-12-31&q=15%20Minute%20City&hl=en (accessed on 1 April 2023).
+6.
+Allam, Z.; Chabaud, D.; Gall, C.; Pratlong, F.; Moreno, C. Chapter 7-On proximity-based dimensions and urban planning:
+Historical precepts to the 15-minute city. In Resilient and Sustainable Cities; Allam, Z., Chabaud, D., Gall, C., Pratlong, F., Moreno,
+C., Eds.; Elsevier: Amsterdam, The Netherlands, 2023; pp. 107–119.
+7.
+Chen, B.; Wu, S.; Song, Y.; Webster, C.; Xu, B.; Gong, P. Contrasting inequality in human exposure to greenspace between cities of
+Global North and Global South. Nat. Commun. 2022, 13, 4636. [CrossRef] [PubMed]
+8.
+Pandey, B.; Brelsford, C.; Seto, K.C. Infrastructure inequality is a characteristic of urbanization. Proc. Natl. Acad. Sci. USA 2022,
+119, e2119890119. [CrossRef] [PubMed]
+9.
+Fertel, I. Fact Check: False Claim ‘15-Minute Cities’ Are Actually ‘Climate Lockdowns’. Available online: https://www.usatoday.
+com/story/news/factcheck/2023/02/06/fact-check-false-claim-15-minute-cities-plan-confine-residents/11179132002/ (ac-
+cessed on 6 March 2023).
+10.
+Parry, R.L. Conspiracy Theories on ‘15-Minute Cities’ Flourish. Available online: https://phys.org/news/2023-02-conspiracy-
+theories-minute-cities-flourish.html (accessed on 5 March 2023).
+11.
+Allam, Z.; Chabaud, D.; Gall, C.; Pratlong, F.; Moreno, C. Chapter 6-Enter the 15-minute city: Revisiting the smart city concept
+under a proximity based planning lens. In Resilient and Sustainable Cities; Allam, Z., Chabaud, D., Gall, C., Pratlong, F., Moreno,
+C., Eds.; Elsevier: Amsterdam, The Netherlands, 2023; pp. 93–105.
+12.
+Allam, Z.; Chabaud, D.; Gall, C.; Pratlong, F.; Moreno, C. Chapter 8-Financing the 15-minute city concept and its infrastructural
+ecosystem in developing nations through fiscal mechanisms. In Resilient and Sustainable Cities; Allam, Z., Chabaud, D., Gall, C.,
+Pratlong, F., Moreno, C., Eds.; Elsevier: Amsterdam, The Netherlands, 2023; pp. 121–133.
+13.
+Papadopoulos, E.; Sdoukopoulos, A.; Politis, I. Measuring compliance with the 15-minute city concept: State-of-the-art, major
+components and further requirements. Sustain. Cities Soc. 2023, 104875. [CrossRef]
+14.
+Lima, F.T.; Costa, F. The quest for proximity: A systematic review of computational approaches towards 15-minute cities.
+Architecture 2023, 3, 393–409. [CrossRef]
+15.
+Wang, J.; Kwan, M.-P.; Liu, D.; Peng, X. Assessing the spatial distribution of and inequality in 15-minute PCR test site accessibility
+in Beijing and Guangzhou, China. Appl. Geogr. 2023, 154, 102925. [CrossRef]
+16.
+Liu, D.; Kwan, M.P.; Wang, L.; Kan, Z.; Wang, J.; Huang, J. Development of a Chrono-Urbanism Status Composite Index under
+the 5/10/15-Minute City Concept Using Social Media Big Data. Tijdschr. Voor Econ. En Soc. Geogr. 2024. [CrossRef]
+17.
+Kitchenham, B.; Madeyski, L.; Budgen, D. How Should Software Engineering Secondary Studies Include Grey Material? Trans.
+Softw. Eng. 2022, 49, 872–882. [CrossRef]
+18.
+D’Eer, L.; Quintiens, B.; Van den Block, L.; Dury, S.; Deliens, L.; Chambaere, K.; Smets, T.; Cohen, J. Civic engagement in serious
+illness, death, and loss: A systematic mixed-methods review. Palliat. Med. 2022, 36, 625–651. [CrossRef] [PubMed]
+19.
+Sweeney, M.R.; Boilson, A.; White, C.; Nevin, M.; Casey, B.; Boylan, P.; Staines, A. Experiences of residents, family members and
+staff in residential care settings for older people during COVID-19: A mixed methods study. J. Nurs. Manag. 2022, 30, 872–882.
+[CrossRef] [PubMed]
+Smart Cities 2024, 7
+2108
+20.
+Paris. Paris Ville du Quart D’heure, Ou le Pari de la Proximité. Available online: https://www.paris.fr/dossiers/paris-ville-du-
+quart-d-heure-ou-le-pari-de-la-proximite-37 (accessed on 12 April 2023).
+21.
+Lawrence, P. 20-Minute Neighbourhood Strategy: Living Well Locally; The City of Edinburgh Council: Edinburgh, UK, 2023.
+22.
+Utrecht, G. Summary RSU2040, ‘Utrecht Nearby: The Ten-Minute City’. Available online: https://omgevingsvisie.utrecht.nl/de-
+koers/ruimtelijke-strategie-utrecht-2040/samenvatting/ (accessed on 12 April 2023).
+23.
+Wu, H.; Wang, L.; Zhang, Z.; Gao, J. Analysis and optimization of 15-minute community life circle based on supply and demand
+matching: A case study of Shanghai. PLoS ONE 2021, 16, e0256904. [CrossRef] [PubMed]
+24.
+Kyung-hee, K. Jeju, a 15-Minute City Shared with World-Renowned Scholars. Available online: http://www.ilganjeju.com/
+news/articleView.html?idxno=105951 (accessed on 12 April 2023).
+25.
+Logan, T.; Hobbs, M.; Conrow, L.; Reid, N.; Young, R.; Anderson, M. The x-minute city: Measuring the 10, 15, 20-minute city and
+an evaluation of its use for sustainable urban design. Cities 2022, 131, 103924. [CrossRef]
+26.
+Allam, Z.; Sharma, A.; Cheshmehzangi, A. LiFE in the city: Behavioural changes can drive urban sustainability goals. Cities 2024,
+151, 105163. [CrossRef]
+27.
+Mocák, P.; Kvetoslava, M.; René, M.; János, P.; Piotr, P.; Mishra, P.K.; Katarína, K.; Michaela, D. 15-minute city concept as a
+sustainable urban development alternative: A brief outline of conceptual frameworks and Slovak cities as a case. Folia Geogr.
+2022, 64, 69.
+28.
+Neumannová, M. Smart districts: New phenomenon in sustainable urban development Case Study of Špitálka in Brno, Czech
+Republic. Folia Geogr. 2022, 64, 27.
+29.
+Heged˝us, L.; Túri, Z.; Apáti, N.; Pénzes, J. Analysis of the Intra-Urban Suburbanization with GIS Methods: The Case of Debrecen
+Since the 1980s. Folia Geogr. 2023, 65, 23–39.
+30.
+Tóth, B. Mix-Use Developments in Phoenix and Tempe, Arizona: Sustainability Concerns and Current Trends. Folia Geogr. 2023,
+65, 55–77.
+31.
+Randolph, G.F.; Storper, M. Is urbanisation in the Global South fundamentally different? Comparative global urban analysis for
+the 21st century. Urban Stud. 2023, 60, 3–25. [CrossRef]
+32.
+Lawton, P.; Kayanan, C.M. From Edge City to City Edge. Built Environ. 2023, 49, 58–74. [CrossRef]
+33.
+Boulder, C.O. City Council Finalizes Adoption of East Boulder Subcommunity Plan. Available online: https://bouldercolorado.
+gov/news/city-council-finalizes-adoption-east-boulder-subcommunity-plan (accessed on 12 April 2023).
+34.
+Tiznado-Aitken, I.; Muñoz, J.C.; Hurtubia, R. The Role of Accessibility to Public Transport and Quality of Walking Environment
+on Urban Equity: The Case of Santiago de Chile. Transp. Res. Rec. 2018, 2672, 129–138. [CrossRef]
+35.
+Nasution, M.A. Walkability in Banda Aceh: An approach in urban mobility development. IOP Conf. Ser. Earth Environ. Sci. 2020,
+452, 012148. [CrossRef]
+36.
+Moreno-Camacho, C.A.; Montoya-Torres, J.R.; Jaegler, A.; Gondran, N. Sustainability metrics for real case applications of the
+supply chain network design problem: A systematic literature review. J. Clean. Prod. 2019, 231, 600–618. [CrossRef]
+37.
+Dumedah, G.; Iddrisu, S.; Kpevu, G.A.; Dakurah, G.; Adams, C.A. Do informal urban communities in Ghana qualify as a
+15-Minute City based on access to socioeconomic activities? Afr. Geogr. Rev. 2024, 1–17. [CrossRef]
+38.
+Hosford, K.; Beairsto, J.; Winters, M. Is the 15-minute city within reach? Evaluating walking and cycling accessibility to grocery
+stores in Vancouver. Transp. Res. Interdiscip. Perspect. 2022, 14, 100602. [CrossRef]
+39.
+Noworól, A.; Kopyci´nski, P.; Hałat, P.; Salamon, J.; Hołuj, A. The 15-Minute City—The Geographical Proximity of Services in
+Krakow. Sustainability 2022, 14, 7103. [CrossRef]
+40.
+Olivari, B.; Cipriano, P.; Napolitano, M.; Giovannini, L. Are Italian cities already 15-minute? Presenting the Next Proximity Index:
+A novel and scalable way to measure it, based on open data. J. Urban Mobil. 2023, 4, 100057. [CrossRef]
+41.
+Pajares, E.; Büttner, B.; Jehle, U.; Nichols, A.; Wulfhorst, G. Accessibility by proximity: Addressing the lack of interactive
+accessibility instruments for active mobility. J. Transp. Geogr. 2021, 93, 103080. [CrossRef]
+42.
+Calafiore, A.; Dunning, R.; Nurse, A.; Singleton, A. The 20-minute city: An equity analysis of Liverpool City Region. Transp. Res.
+Part D Transp. Environ. 2022, 102, 103111. [CrossRef]
+43.
+Ulloa-Leon, F.; Correa-Parra, J.; Vergara-Perucich, F.; Cancino-Contreras, F.; Aguirre-Nuñez, C. “15-Minute City” and Elderly
+People: Thinking about Healthy Cities. Smart Cities 2023, 6, 1043–1058. [CrossRef]
+44.
+Song, G.; He, X.; Kong, Y.; Li, K.; Song, H.; Zhai, S.; Luo, J. Improving the Spatial Accessibility of Community-Level Healthcare
+Service toward the ‘15-Minute City’ Goal in China. ISPRS Int. J. Geo-Inf. 2022, 11, 436. [CrossRef]
+45.
+Luo, J.; Zhai, S.; Song, G.; He, X.; Song, H.; Chen, J.; Liu, H.; Feng, Y. Assessing Inequity in Green Space Exposure toward a
+“15-Minute City” in Zhengzhou, China: Using Deep Learning and Urban Big Data. Int. J. Environ. Res. Public Health 2022, 19, 5798.
+[CrossRef] [PubMed]
+46.
+Dong, H.; Chen, Y.; Huang, X. A new framework for analysis of the spatial patterns of 15-minute neighbourhood green space to
+enhance carbon sequestration performance: A case study in Nanjing, China. Ecol. Indic. 2023, 156, 111196. [CrossRef]
+47.
+Tammaru, T.; Sevtsuk, A.; Witlox, F. Towards an equity-centred model of sustainable mobility: Integrating inequality and
+segregation challenges in the green mobility transition. J. Transp. Geogr. 2023, 112, 103686. [CrossRef]
+48.
+Khavarian-Garmsir, A.R.; Sharifi, A.; Hajian Hossein Abadi, M.; Moradi, Z. From Garden City to 15-Minute City: A Historical
+Perspective and Critical Assessment. Land 2023, 12, 512. [CrossRef]
+Smart Cities 2024, 7
+2109
+49.
+Khavarian-Garmsir, A.R.; Sharifi, A.; Sadeghi, A. The 15-minute city: Urban planning and design efforts toward creating
+sustainable neighborhoods. Cities 2023, 132, 104101. [CrossRef]
+50.
+Matloviˇcová, K.; Mocák, P.; Kolesárová, J. Environment of estates and crime prevention through urban environment formation
+and modification. Geogr. Pannonica 2016, 20, 168–180. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

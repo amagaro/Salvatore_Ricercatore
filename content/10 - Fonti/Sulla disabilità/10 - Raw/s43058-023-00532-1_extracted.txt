@@ -1,0 +1,771 @@
+Balis and Houghtaling ﻿
+Implementation Science Communications           (2023) 4:144  
+https://doi.org/10.1186/s43058-023-00532-1
+DEBATE
+Matching barriers and facilitators 
+to implementation strategies: recommendations 
+for community settings
+Laura E. Balis1,2*    and Bailey Houghtaling1,2,3 
+Abstract 
+Background  Implementation science aims to improve the integration of evidence-based interventions in real-
+world settings. While its methods and models could potentially apply to any field with evidence-based interventions, 
+most research thus far has originated in clinical settings. Community settings often have fewer resources, missions 
+beyond health, and a lack of support and expertise to implement evidence-based interventions when compared 
+to many clinical settings. Thus, selecting and tailoring implementation strategies in community settings is particularly 
+challenging, as existing compilations are primarily operationalized through clinical setting terminology. In this debate, 
+we (1) share the process of using an existing match tool to select implementation strategies to increase uptake 
+of nutrition and physical activity policy, systems, and environment interventions in community settings and (2) dis-
+cuss the challenges of this process to argue that selecting implementation strategies in community settings has lim-
+ited transferability from clinical settings and may require a unique implementation strategy compilation and prag-
+matic matching tool.
+Matching barriers to implementation strategies  The impetus for this debate paper came from our work select-
+ing implementation strategies to improve the implementation and eventual scaling of nutrition and physical activity 
+policy, systems, and environment interventions in a community settings. We conducted focus groups with practition-
+ers and used the Consolidated Framework for Implementation Research-Expert Recommendations for Implementing 
+Change match tool to select potential implementation strategies to overcome prominent barriers. There was lim-
+ited congruence between tool outputs and optimal strategies, which may in part be due to differences in context 
+between clinical and community settings. Based on this, we outline needs and recommendations for developing 
+a novel and pragmatic matching tool for researchers and practitioners in community settings.
+Conclusions  More work is needed to refine the implementation barrier-strategy matching process to ensure it 
+is relevant, rapid, and rigorous. As leading implementation strategy scholars note, as more researchers document 
+contextual factors and strategies selected to address them, the knowledge base will increase, and refined mapping 
+processes can emerge.
+Keywords  Implementation strategies, Community settings, Contextual factors, Pragmatism, Primary prevention, 
+Public health
+Open Access
+© The Author(s) 2023. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecom-
+mons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Implementation Science
+Communications
+*Correspondence:
+Laura E. Balis
+lbalis@centerfornutrition.org
+Full list of author information is available at the end of the article
+Page 2 of 8
+Balis and Houghtaling ﻿Implementation Science Communications           (2023) 4:144 
+Contributions to the literature
+•Implementation science methods and models could 
+be broadly applied to settings outside of health services 
+research, but terminology and transferability are chal-
+lenges
+•Suggested methods for matching implementation 
+determinants to strategies are resource intensive and 
+less feasible in community public health settings.
+•We argue that due to differences between settings and 
+the need for pragmatic, practitioner-friendly tools, a 
+new implementation strategy compilation and match-
+ing tool for community settings is needed
+Background
+Implementation science seeks to understand and 
+improve the integration of evidence-based interventions 
+(EBIs) within specific settings [1, 2]. Thus, by definition, 
+implementation science applies to any field with EBIs 
+and real-world settings in which to apply them. Although 
+implementation science has roots in multiple disciplines 
+from agriculture to public policy [3, 4], current research 
+on implementation methods, models, and measures 
+primarily originated in clinical settings [5–9]. This has 
+resulted in valuable contributions to the field, includ-
+ing the establishment of taxonomies of implementation 
+strategies and guidance on implementation outcomes 
+[5, 7]. However, it is challenging to apply this research to 
+settings (e.g., community-based public health) outside of 
+clinical health services [10–12].
+Consider the differences between clinical and commu-
+nity settings. Community practice settings implement 
+chronic disease prevention interventions where people 
+live, work, and play [11–14]. These settings are often 
+challenged with fewer resources (e.g., staff and funding) 
+for program implementation [11, 15]. As well, commu-
+nity-based organizations and the settings they deliver EBI 
+in typically have missions beyond public health (e.g., a 
+primary focus on youth development, education, or retail 
+sales and profit) [11, 16, 17], which can result in a mis-
+match between EBIs and organizational missions [15]. 
+Overall, community-based organizations face a lack of 
+support and expertise to implement EBIs [15] when com-
+pared to clinical settings. For example, implementation 
+science is embedded within the Veterans Administra-
+tion as part of the organization’s mission, with resources, 
+funding, and personnel dedicated to implementation 
+science [18, 19], while, to the best of our knowledge, an 
+equivalent, robust structure does not exist in community 
+settings.
+Therefore, selecting and tailoring implementation 
+strategies (i.e., methods or techniques used to improve 
+the integration of research into practice settings) [20] in 
+community settings can be particularly challenging [10]. 
+Multiple compilations of implementation strategies exist, 
+but are primarily operationalized through clinical set-
+ting terminology [5, 6, 9, 21], limiting the extent to which 
+they apply to community settings [10, 22]. Selecting 
+which implementation strategies to use to address imple-
+mentation determinants – a key step in implementation 
+research and practice [23] – is also challenging. Recom-
+mendations for linking implementation determinants to 
+implementation strategies using theoretical or concep-
+tual reasoning exist (e.g., concept mapping, group model 
+building, conjoint analysis, implementation mapping, 
+and causal pathway development), but typically require 
+specific software, specialized statistical analysis, or 
+lengthy processes that may not be accessible or feasible 
+in community settings [22, 24, 25]. While these methods 
+have been used in behavioral health settings (e.g., clinical 
+practice with the Department of Veterans Affairs) [24], 
+there is limited evidence of their use for selection and tai-
+loring of implementation strategies in varied community 
+settings [26–28].
+One method of selecting and tailoring implementation 
+strategies that may be more feasible for community set-
+tings is the Consolidated Framework for Implementation 
+Research (CFIR)—Expert Recommendations for Imple-
+menting Change (ERIC) match tool [29]. CFIR is one of 
+the most widely used determinant frameworks in imple-
+mentation science [29, 30] and was developed to encom-
+pass several pre-existing implementation determinant 
+frameworks [31]. It includes multiple domains (innova-
+tion, outer setting, inner setting, individuals, and imple-
+mentation process), of which one or more can be selected 
+for identifying contextual factors that influence or “deter-
+mine” adoption, implementation, or maintenance [31, 
+32]. ERIC is a compilation of implementation strategies 
+developed through a multi-phase Delphi process with 
+experts in clinical implementation research [5]. The com-
+pilation serves as a useful starting point for selecting 
+implementation strategies, provides common language 
+and terminology for these strategies in clinical settings, 
+and allows for systematic reporting and synthesis across 
+studies to better understand which strategies are effective 
+for which EBIs in which contexts [29]. The CFIR-ERIC 
+match tool was developed by a panel of expert imple-
+mentation science researchers and practitioners by rank-
+ing implementation strategies that best address barriers 
+corresponding with each CFIR construct [29]. The tool 
+is open-access and simple to use through imputing CFIR 
+constructs identified as barriers and receiving an output 
+of matched implementation strategies.
+Page 3 of 8
+Balis and Houghtaling ﻿Implementation Science Communications           (2023) 4:144 
+	
+The purpose of this debate is twofold. First, we docu-
+ment the process of using the CFIR-ERIC match tool to 
+select implementation strategies to increase uptake of 
+nutrition and physical activity policy, systems, and envi-
+ronment (PSE) interventions in community settings. Sec-
+ond, we discuss limitations of this process to argue that 
+selecting implementation strategies in community set-
+tings has limited transferability from clinical settings. A 
+unique implementation strategy compilation and prag-
+matic matching tool that researchers and practitioners in 
+community settings can easily use may be required.
+Matching barriers to implementation strategies: 
+a community setting example
+The impetus for this debate paper came from our work 
+selecting implementation strategies to improve the 
+implementation and eventual scaling of PSEs deliv-
+ered through Louisiana Cooperative Extension Service 
+(LCES) [33]. Extension is a national public health deliv-
+ery system associated with US land grant universities 
+that has recently been tasked with PSE change imple-
+mentation [33–36]. Nutrition and physical activity PSE 
+interventions implemented through Extension vary by 
+community; examples include healthy food retail, com-
+plete streets policies, safe routes to school, workplace 
+policies, and shared use agreements [37]. While there 
+have been successes, PSE interventions are challenging to 
+implement, and they have not yet penetrated the national 
+Extension system [16, 38]. In our formative study, we 
+assessed barriers and facilitators to PSE implementation 
+in LCES using semi-structured focus groups with deliv-
+ery agents serving rural Louisiana communities following 
+the 2022 CFIR [31, 32]. Key findings revealed imple-
+mentation barriers at multiple levels [33]. In particular, 
+communications, access to knowledge and information, 
+partnerships and connections, individuals’ opportunity 
+and capability, and innovation complexity were men-
+tioned most frequently [33].
+We used the identified barriers as inputs to the CFIR-
+ERIC match tool and reviewed the resultant output of 
+implementation strategies. However, it was difficult to 
+determine which implementation strategies to select, 
+given inconsistencies with our community setting. For 
+example, “Build a coalition” is often already the starting 
+point for community work, including for LCES deliv-
+ery agents [33], and other highly ranked strategies have 
+limited relevance to community practice amid limited 
+resources (e.g., “Conduct small cyclical tests of change.”) 
+Therefore, we chose to instead review the full output of 
+ERIC implementation strategies in comparison to noted 
+barriers to nutrition and physical activity PSE interven-
+tions within LCES [33] and independently selected and 
+came to agreement on relevant strategies. Then, given 
+similarity between certain implementation strategies, and 
+the need for an abbreviated list suitable for LCES partner 
+feedback, we used Leeman’s categories [20] as a guide to 
+classify selected strategies and broadened some strategy 
+descriptions to encompass similarities and decrease rep-
+etition. This resulted in a condensed list of implementa-
+tion strategies relevant to addressing barriers to nutrition 
+and physical activity PSE interventions in rural Louisiana 
+for the purpose of gaining partner feedback about strat-
+egy importance and future tailoring needs (see Table 1). 
+As one example of this process, a prominent barrier to 
+PSE implementation identified through the formative 
+work was Communication (the “Networks and Commu-
+nication” construct in the original version of the CFIR, 
+which is used in the CFIR-ERIC matching tool). The high-
+est ranked implementation strategy to address this bar-
+rier was “Promote network weaving.” This was reviewed 
+with other similar strategies (“Shadow other networks” 
+and “Visit other sites”) and condensed into “Peer learn-
+ing” to capture multiple methods of learn from others 
+(e.g., learning collaboratives, shadowing other delivery 
+agents, sharing success stories) that are more commonly 
+used within community settings.
+Despite the promise of the CFIR-ERIC match tool, it 
+did not work as an easy, accurate matching system for the 
+PSE intervention-LCES context. First, we acknowledge 
+that this may be due to known limitations of the match-
+ing tool. As the authors note, the tool should be used 
+with caution given a lack of consensus in specific barrier-
+implementation strategy matches (i.e., there was much 
+heterogeneity in participants’ responses to the barrier 
+prompts during tool development) [29]. Thus, the tool 
+output does not present one implementation strategy 
+per CFIR construct; a list of potential strategies with per-
+centages of agreement are provided [29]. This can make 
+it difficult for tool users to decide how many and which 
+implementation strategies to select to address barriers, 
+as there are no specific recommendations such as using 
+a certain number of output strategies or a recommended 
+cutoff point regarding cumulative percent (i.e., the level 
+of endorsement across CFIR barriers [29]). Second, we 
+recognize that using the match tool is only the first step 
+in selecting and tailoring implementation strategies, as it 
+can be useful for narrowing down implementation strat-
+egy options to determine strategies for full consideration 
+before using other methods (e.g., conjoint analysis) [24, 
+29]. However, in our case, the tool output was not use-
+ful for narrowing the list of relevant implementation 
+strategies.
+Some of the challenges with using the matching tool 
+could also be due to the differences in context between 
+clinical and community settings. Implementation deter-
+minants are often different in clinic and community 
+Page 4 of 8
+Balis and Houghtaling ﻿Implementation Science Communications           (2023) 4:144 
+Table 1  Revised implementation strategies for integrating policy, systems, and environment interventions in a community setting
+Revised strategy
+Definition
+Original ERIC strategies
+Educate other groups
+Hold meetings for different groups (e.g., policy 
+makers, administrators, other staff, community 
+members) to explain PSE changes and increase 
+demand for them
+Conduct educational meetings
+Training
+Interactive, ongoing training, including training-
+the-trainer strategies, to improve knowledge, 
+skills, self-efficacy, and motivation
+Conduct ongoing training
+Make training dynamic
+Use train the trainer strategies
+Technical assistance
+Offering of interactive problem-solving, techni-
+cal assistance, and consultation support by local 
+personnel or other experts
+Provide local technical assistance
+Centralize technical assistance
+Facilitation
+Provide supervision
+Peer learning
+Share and learn from others through a learning 
+collaborative, shadowing other Agents, sharing 
+success stories, or by visiting other sites
+Shadow other experts
+Visit other sites
+Promote network weaving
+Start small
+Use small PSE change pilots or temporary dem-
+onstration projects (e.g., pop-up event)
+Stage implementation scale up
+Develop and share a formal plan and terminol-
+ogy
+Have a glossary of key PSE change terms 
+with an implementation blueprint that includes 
+goals and performance measures to share 
+with implementers and community partners
+Provide ongoing consultation
+Use an implementation adviser
+Develop an implementation glossary
+Develop a formal implementation blueprint
+Organize implementation team meetings
+Assess for readiness and identify barriers 
+and facilitators
+Identify and engage dedicated partners
+Identify and leverage leaders in communities 
+(e.g., PSE champions, early adopters)
+Increase demand
+Create a learning collaborative
+Identify and prepare champions
+Identify early adopters
+Strengthen existing processes
+Build on existing procedures to strengthen 
+approach, including assessing partners’ readi-
+ness, working with coalitions, and sharing PSE 
+change resources
+Build a coalition
+Capture and share local knowledge
+Develop resource sharing agreements
+Increase access to new funding streams
+Access new sources of funding for PSE changes 
+such as from grants, contracts, or local govern-
+ment
+Access new funding
+Fund and contract for the evidence-based 
+program
+Engage community members
+Solicit feedback from community members 
+and involve them in PSE planning and imple-
+mentation
+Involve priority population and support network
+Obtain and use priority population and support 
+network feedback
+Change organizational structures
+Recruit and train leaders to prioritize and provide 
+supervision in PSE changes, revise professional 
+roles in Extension, and create incentive struc-
+tures for PSE change facilitation
+Alter incentive/allowance structures
+Recruit, designate and train for leadership
+Revise professional roles
+Create new delivery agent teams
+Mandate change
+Change record system
+Use capitated payments
+Monitor and evaluate
+Have access to tools and systems to monitor PSE 
+change implementation to inform continuous 
+quality improvement
+Develop and implement tools for quality  
+monitoring
+Develop and organize quality monitoring systems
+Purposely reexamine the implementation
+Page 5 of 8
+Balis and Houghtaling ﻿Implementation Science Communications           (2023) 4:144 
+	
+settings and may add challenges to implementation 
+strategy matching — even when using a broad deter-
+minant framework such as CFIR [31, 32]. For example, 
+constructs within the CFIR inner setting domain differ 
+between community and clinical settings, as the infra-
+structure, culture, and funding of community settings is 
+either not solely or at all focused on delivering evidence-
+based public health interventions [11, 17]. As well, the 
+outer setting of CFIR can differ between community and 
+clinical settings, given the outer setting often consists 
+of the communities in which interventions are imple-
+mented, which are heavily influenced by local politics 
+and dynamics, for example [33]. Finally, the innovation 
+domain of CFIR also differs, as community organizations 
+are increasingly implementing policy and environment-
+level interventions in real-world settings to change com-
+plex social determinants of health such as food access 
+and built environments [11, 37, 39].
+Another challenge is the difference in feasibility and 
+importance of implementation strategies [6] in commu-
+nity settings. For example, strategies such as “use capi-
+tated payments” or “create or change credentialing and/
+or licensure standards” may be less applicable for com-
+munity settings, even with tailored definitions and exam-
+ples [10]. Certain implementation strategies are already 
+inherent to the process of implementation in community 
+settings, such as coalition building example noted above, 
+and are thus not relevant recommendations to improve 
+implementation. As well, challenges using the match 
+tool likely also reflect the fact that different strategies are 
+needed to implement different EBIs [29], and primary 
+prevention interventions delivered in community settings 
+have different implementation processes than clinical 
+interventions delivered in health care settings.
+New terminology and tools for community settings
+To overcome these limitations and speed the translation 
+of research to practice in community settings, we pro-
+vide ideas and recommendations to inform the develop-
+ment and dissemination of a novel and pragmatic set of 
+implementation strategies and accompanying matching 
+tool. First, this tool should be accessible to practitioners 
+overseeing the delivery of evidence-based interventions 
+without access to research partnerships and resources. 
+Community settings do not have the time, staffing, or 
+implementation science expertise to engage in detailed 
+processes of selecting and tailoring implementation 
+strategies. For example, community settings (without 
+research partners bringing in grant funding) usually do 
+not have the resources to devote to reviewing all possible 
+implementation strategies (e.g., up to 100 h [40]). Over-
+all, the current recommended approaches to implemen-
+tation strategy selection require practitioners to partner 
+with researchers, which perpetuates researchers holding 
+the “power” rather than stepping away and giving control 
+back to communities [41–43]. Community practitioners 
+need pragmatic, evidence-based tools to select imple-
+mentation strategies to address barriers and capitalize 
+on facilitators — whether or not researchers are involved 
+with improving program implementation.
+Community setting practitioners are already using 
+implementation strategies and will continue to use them 
+with or without research partnerships. Providing prac-
+titioners with a tool they could use to select implemen-
+tation strategies could improve practice in community 
+settings. Use of a broader range of implementation strat-
+egies that address multiple levels of contextual factors 
+could provide more “practice-based evidence” to inform 
+evidence-based practice [44]. Otherwise, those in com-
+munity settings typically resort to “training and hoping” 
+[45] or defer to other strategies targeting individuals’ 
+knowledge, skills, and abilities (e.g., educational mate-
+rials or outreach visits) [46], and may miss potentially 
+effective strategies aimed at overcoming organization 
+and system-level barriers. Further, without an easy-to-
+use compilation and match tool, these technical assis-
+tance and educational support efforts often get lumped 
+together, disallowing a collective understanding which 
+specific strategies are most effective.
+Second, we recommend a future matching tool employ 
+a strength-based approach. Public health literature rec-
+ommends using a strength-based approach to assess both 
+needs and resources [47–51]. For example, rather than 
+conducting a “needs assessment,” researchers and practi-
+tioners are encouraged to conduct a “strength and needs 
+assessment” to understand barriers and facilitators [47–
+51]. Yet, the current literature on matching contextual 
+factors to implementation strategies is focused on over-
+coming barriers rather than building on facilitators [29, 
+52]. The Implementation Research Logic Model includes 
+a recommendation to consider both barriers and facilita-
+tors under implementation determinants, but lacks spe-
+cific guidance on how to integrate facilitators to select 
+and tailor implementation strategies [23]. While over-
+coming barriers is a necessary and important goal, for 
+community settings, there is a need to also incorporate 
+the preference for capitalizing on facilitators.
+Overall, there is a need for specific guidance on 
+incorporating facilitators into implementation strategy 
+selection and tailoring. This could include changing 
+which strategies are selected to complement existing 
+strengths within systems or providing recommenda-
+tions to tailor implementation strategies to capitalize 
+on facilitators. For example, working with community 
+coalitions has been identified as both a barrier and 
+facilitator to integrate nutrition and physical activity 
+Page 6 of 8
+Balis and Houghtaling ﻿Implementation Science Communications           (2023) 4:144 
+PSE interventions in community settings [33, 35, 36]. 
+Thus, the strategy “build a coalition” could be tailored 
+to “offer coalition coaching” to capitalize on the pres-
+ence of community coalitions while addressing the bar-
+rier of challenges with coalition processes [36].
+Third, we recommend the new matching tool be 
+developed for and by community setting practitioners 
+and researchers across multiple settings. As recom-
+mended by implementation strategy experts, the tool 
+should avoid jargon and embody real-world perspec-
+tives [53]. With diverse input, the tool could apply 
+broadly to multiple community settings (from faith-
+based to education to social services or healthy food 
+retail, for example) [11, 17] and patterns/practices (e.g., 
+chronic disease primary prevention, including nutri-
+tion, physical activity, and tobacco use), and could be 
+tailored for project-related needs for specific settings 
+(e.g., Early Head Start as one educational setting). 
+While the matching tool should be designed for ease 
+of use by practitioners, its use by community-engaged 
+researchers would also build the evidence base on for 
+whom, under what conditions, and how [54] implemen-
+tation strategies work in community settings. Indeed, 
+developing a new compilation of implementation 
+strategies for community settings is a focus area of the 
+National Institute of Health’s Consortium for Cancer 
+Implementation Science, with a funded project in pro-
+gress to develop a public good to share this compilation 
+[55].
+Conclusion
+The goal of this debate was to share our approach to 
+selecting implementation strategies in a community 
+setting to inform pragmatic tools for researchers and 
+practitioners. More work is needed to refine the imple-
+mentation barrier-strategy matching process to ensure 
+it is relevant, rapid, and rigorous for community public 
+health work [56]. As leading implementation strategy 
+scholars note, as more researchers document contex-
+tual factors and strategies selected to address them, the 
+knowledge base will increase and a refined mapping 
+processes can emerge [29].
+Abbreviations
+EBIs	
+Evidence-based interventions
+CFIR	
+Consolidated Framework for Implementation Research
+ERIC	
+Expert Recommendations for Implementing Change
+PSE	
+Policy, systems, and environment
+LCES	
+Louisiana Cooperative Extension Service
+Acknowledgements
+Not applicable.
+Authors’ contributions
+LB and BH both contributed to conceptualizing and writing the manuscript 
+and read and approved the final manuscript.
+Funding
+This work was supported by the US Department of Agriculture, National Insti-
+tute of Food and Agriculture, Agriculture and Food Research Initiative, project 
+1028278. Funders had no role in the conceptualization and interpretation of 
+this work.
+Availability of data and materials
+Data sharing is not applicable to this article as no datasets were generated or 
+analyzed during the current study.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1 Gretchen Swanson Center for Nutrition, Omaha, NE 68514, USA. 2 Department 
+of Human Nutrition, Virginia Tech, Foods, and Exercise, Blacksburg, VA 24061, 
+USA. 3 School of Nutrition and Food Sciences, Louisiana State University (LSU) 
+& LSU Agricultural Center, Baton Rouge, LA 70803, USA. 
+Received: 22 June 2023   Accepted: 13 November 2023
+References
+	1.	
+Holtrop JS, Rabin BA, Glasgow RE. Dissemination and implementation 
+science in primary care research and practice: contributions and oppor-
+tunities. J Am Board Fam Med. 2018;31:466–78.
+	2.	
+Brownson RC, Colditz GS, Proctor EK. Dissemination and Implementa-
+tion Research in Health: Translating Science to Practice. 1st ed. United 
+Kingdom: Oxford University Press; 2012.
+	3.	
+Rogers E. Diffusion of Innovations. 4th ed. New York: Free Press; 2010.
+	4.	
+Bertram R, Edwards D, Engell T, Kerns SEU, Øvretveit J, Rojas-Andrade R, 
+et al. Welcome to global implementation research and applications. Glob 
+Implement Res Appl. 2021;1:1–4.
+	5.	
+Powell BJ, Waltz TJ, Chinman MJ, Damschroder LJ, Smith JL, Matthieu MM, 
+et al. A refined compilation of implementation strategies: results from 
+the Expert Recommendations for Implementing Change (ERIC) project. 
+Implement Sci. 2015;10:1–4.
+	6.	
+Waltz TJ, Powell BJ, Matthieu MM, Damschroder LJ, Chinman MJ, Smith 
+JL, et al. Use of concept mapping to characterize relationships among 
+implementation strategies and assess their feasibility and importance: 
+results from the Expert Recommendations for Implementing Change 
+(ERIC) study. Implement Sci. 2015;10:109.
+	7.	
+Proctor E, Silmere H, Raghavan R, Hovmand P, Aarons G, Bunger A, et al. 
+Outcomes for Implementation Research: Conceptual Distinctions, Meas-
+urement Challenges, and Research Agenda. Adm Policy Ment Health. 
+2011;38:65–76.
+	8.	
+Aarons G, Sklar M, Mustanski B, Benbow N, Hendricks Brown C. “Scaling-
+out” evidence-based interventions to new populations or new health 
+care delivery systems. Implement Sci. 2017;12(111).
+	9.	
+Proctor E, Powell B, McMillen JC. Implementation strategies: recommen-
+dations for specifying and reporting. Implement Sci. 2013;8(139):1–11.
+	10.	 Balis LE, Houghtaling B, Harden SM. Using implementation strategies in 
+community settings: an introduction to the Expert Recommendations for 
+Implementing Change (ERIC) compilation and future directions. Transl 
+Behav Med. 2022;12:965–78.
+Page 7 of 8
+Balis and Houghtaling ﻿Implementation Science Communications           (2023) 4:144 
+	
+	11.	 Mazzucca S, Arredondo EM, Hoelscher DM, Haire-Joshu D, Tabak RG, 
+Kumanyika SK, et al. Expanding implementation research to prevent 
+chronic diseases in community settings. Annu Rev Public Health. 
+2021;42:135–58.
+	12.	 Rabin BA, Glasgow RE, Kerner JF, Klump MP, Brownson RC. Dissemination 
+and implementation research on community-based cancer prevention. 
+Am J Prev Med. 2010;38:443–56.
+	13.	 Pronk N, Kleinman DV, Goekler SF, Ochiai E, Blakey C, Brewer KH. Promot-
+ing health and well-being in Healthy People 2030. J Public Health Manag 
+Pract. 2021;27:S242.
+	14.	 McLeroy K, Bibeau D, Steckler A, Glanz K. An ecological perspective on 
+health promotion programs. Health Educ Q. 1988;15(4):361–77.
+	15.	 Bach-Mortensen AM, Lange BCL, Montgomery P. Barriers and facilita-
+tors to implementing evidence-based interventions among third sector 
+organisations: a systematic review. Implement Sci. 2018;13(103).
+	16.	 Balis L, Harden S. Scaling out a 4-H Healthy Meeting Initiative: Challenges 
+in Implementation and Comprehensive Evaluation. J Nutr Educ Behav. 
+2019;51(8):1020–4.
+	17.	 Houghtaling B, Misyak S, Serrano E, et al. Using the Exploration, Prepara-
+tion, Implementation, and Sustainment (EPIS) Framework to Advance 
+the Science and Practice of Healthy Food Retail. J Nutr Educ Behav. 
+2023;55(3):245–51.
+	18.	 Quality Enhancement Research Initiative (QUERI). 2022. Available at: 
+https://​www.​queri.​resea​rch.​va.​gov. Accessed 29 Dec 2022.
+	19.	 Health Services Research and Development. HSR Special Issue on the 
+Importance of Research Translation. 2022. Available at: https://​www.​hsrd.​
+resea​rch.​va.​gov/​resea​rch/​citat​ions/​PubBr​iefs/​artic​les.​cfm?​Recor​dID=​
+1176. Accessed 29 Dec 2022.
+	20.	 Leeman J, Birken SA, Powell BJ, Rohweder C, Shea CM. Beyond “imple-
+mentation strategies”: classifying the full range of strategies used in 
+implementation science and practice. Implement Sci. 2017;12:125.
+	21.	 Effective Practice and Organisation of Care (EPOC). EPOC Taxonomy. 
+2015. Available at https://​zenodo.​org/​record/​51058​50. Accessed 29 Dec 
+2022.
+	22.	 Beidas RS, Dorsey S, Lewis CC, Lyon AR, Powell BJ, Purtle J, et al. Promises 
+and pitfalls in implementation science from the perspective of US-based 
+researchers: learning from a pre-mortem. Implement Sci. 2022;17(1):55.
+	23.	 Smith JD, Li DH, Rafferty MR. The Implementation Research Logic Model: 
+a method for planning, executing, reporting, and synthesizing implemen-
+tation projects. Implement Sci. 2020;15(1):84.
+	24.	 Powell BJ, Beidas RS, Lewis CC, Aarons GA, McMillen JC, Proctor EK, et al. 
+Methods to Improve the Selection and Tailoring of Implementation 
+Strategies. J Behav Health Serv Res. 2017;44(2):177–94.
+	25.	 Lewis CC, Klasnja P, Powell BJ, Lyon AR, Tuzzio L, Jones S, et al. From 
+Classification to Causality: Advancing Understanding of Mechanisms of 
+Change in Implementation Science. Front Public Health. 2018;6:136.
+	26.	 Peskin MF, Hernandez BF, Gabay EK, Cuccaro P, Li DH, Ratliff E, et al. Using 
+Intervention Mapping for Program Design and Production of iCHAMPSS: 
+An Online Decision Support System to Increase Adoption, Implementa-
+tion, and Maintenance of Evidence-Based Sexual Health Programs. Front 
+Public Health. 2017;5:203.
+	27.	 van Nassau F, Singh AS, van Mechelen W, Paulussen TG, Brug J, Chinapaw 
+MJ. Exploring facilitating factors and barriers to the nationwide dissemi-
+nation of a Dutch school-based obesity prevention program “DOiT”: a 
+study protocol. BMC Public Health. 2013;13(1):1201.
+	28.	 Bustos TE, Sridhar A, Drahota A. Community-based implementation strat-
+egy use and satisfaction: A mixed-methods approach to using the ERIC 
+compilation for organizations serving children on the autism spectrum. 
+Implement Res Pract. 2021;2:263348952110580.
+	29.	 Waltz TJ, Powell BJ, Fernández ME, Abadie B, Damschroder LJ. Choosing 
+implementation strategies to address contextual barriers: diversity in 
+recommendations and future directions. Implement Sci. 2019;14(1):42.
+	30.	 Tabak R, Khoong EC, Chambers DA, Brownson R. Bridging Research and 
+Practice: Models for Dissemination and Implementation Research. Am J 
+Prev Med. 2012;43(3):337–50.
+	31.	 Damschroder L, Aron D, Keith R, Kirsh S, Alexander J, Lowery J. Fostering 
+implementation of health services research findings into practice: a con-
+solidated framework for advancing implementation science. Implement 
+Sci. 2009;4(50).
+	32.	 Damschroder LJ, Reardon CM, Widerquist MAO, Lowery J. The updated 
+Consolidated Framework for Implementation Research based on user 
+feedback. Implement Sci. 2022;17(1):75.
+	33.	 Houghtaling B, Balis L, Pradhananga N, Cater M, Holston D. Healthy eating 
+and active living policy, systems, and environmental changes in rural 
+Louisiana: a contextual inquiry to inform implementation strategies. Int J 
+Behav Nutr Phys Act. 2023;20:132.
+	34.	 Strayer T III, Balis L, Harden S. Partnering for successful dissemination: 
+how to improve public health with the National Cooperative Extension 
+System. J Public Health Manag Pract. 2020;26(2):184–6.
+	35.	 Balis LE, Grocke-Dewey M. Built environment approaches: Extension 
+personnel’s preferences, barriers, and facilitators. Front Public Health. 
+2022;10: 960949.
+	36.	 Balis LE, Vincent J. Implementation Strategies to Support Built Envi-
+ronment Approaches in Community Settings. Health Promot Pract. 
+2023;24(3):502–13.
+	37.	 USDA. SNAP-Ed Toolkit: Obesity Prevention Interventions and Evaluation 
+Framework. 2019. Available from: https://​snape​dtool​kit.​org/. Accessed 26 
+Sept 2023.
+	38.	 Balis L, Strayer T III. Evaluating, “Take the Stairs, Wyoming!” Through the 
+RE-AIM Framework: Challenges and Opportunities. Front Public Health. 
+2019;7:368.
+	39.	 Burton D, Canto A, Coon T, Eschbach C, Gutter M, Jones M, et al. Coopera-
+tive Extension’s National Framework for Health Equity and Well-Being. 
+Extension Committee on Organization and Policy; 2021. Available from: 
+https://​www.​aplu.​org/​wp-​conte​nt/​uploa​ds/​20212​0Equi​tyHea​lth20​Sum.​pdf
+	40.	 Waltz T. Tailoring Strategies for Implementing Behavioral Health Programs 
+in Churches. Washington, DC: Presented at the 15th Annual Conference 
+on the Science of Dissemination and Implementation in Health; 2022.
+	41.	 High S. Sharing Authority: An Introduction. J Can Stud. 2009;43(1):12–34.
+	42.	 Wallerstein N, Muhammad M, Sanchez-Youngman S, Rodriguez Espinosa 
+P, Avila M, Baker EA, et al. Power Dynamics in Community-Based Participa-
+tory Research: A Multiple-Case Study Analysis of Partnering Contexts, 
+Histories, and Practices. Health Educ Behav. 2019;46:19S–32S.
+	43.	 Harden S, Balis L, Wilson M, Strayer T. Assess, plan, do, evaluate, and 
+report: iterative cycle to remove academic control of a community-based 
+physical activity program. Prev Chronic Dis. 2021;18(200513).
+	44.	 Green L. Making research relevant: if it is an evidence-based practice, 
+where’s the practice-based evidence? Fam Pract. 2008;25:i20–4.
+	45.	 Fixsen D, Naoom S, Blase K, Friedman R, Wallace F. Implementation 
+Research: a synthesis of the literature. Tampa, FL: University of South 
+Florida, Louis de la Parte Florida Mental Health Institute, The National 
+Implementation Research Network; 2012. p. 119 FMHI Publication #231.
+	46.	 Wolfenden L, Reilly K, Kingsland M, Grady A, Williams CM, Nathan N, et al. 
+Identifying opportunities to develop the science of implementation for 
+community-based non-communicable disease prevention: A review of 
+implementation trials. Prev Med. 2019;118:279–85.
+	47.	 Brough M, Bond C, Hunt J. Strong in the City: towards a strength-based 
+approach in Indigenous health promotion. Health Promot J Austr. 
+2004;15(3):215–20.
+	48.	 Witham S, Carr T, Badea A, Ryan M, Stringer L, Barreno L, et al. Sâkipa-
+kâwin: Assessing indigenous cancer supports in Saskatchewan using a 
+strength-based approach. Curr Oncol. 2021;29:132–43.
+	49.	 Israel B, Eng E, Schulz A, Parker E. Methods in Community-Based Participa-
+tory Research for Health. San Francisco: Jossey-Bass; 2005.
+	50.	 Center for Community Health and Development at the University of Kan-
+sas. Assessing Community Needs and Resources- Community Toolbox. 
+2022. Available at: https://​ctb.​ku.​edu/​en/​asses​sing-​commu​nity-​needs-​
+and-​resou​rces. Accessed 29 Dec 2022.
+	51.	 Lind C, Smith D. Analyzing the State of Community Health Nursing: 
+Advancing From Deficit to Strengths-Based Practice Using Appreciative 
+Inquiry. Adv Nurs Sci. 2008;31(1):28–41.
+	52.	 Colquhoun HL, Squires JE, Kolehmainen N, Fraser C, Grimshaw JM. 
+Methods for designing interventions to change healthcare professionals’ 
+behaviour: a systematic review. Implement Sci. 2017;12(1):30.
+	53.	 Yakovchenko V, Chinman MJ, Lamorte C, Powell BJ, Waltz TJ, Merante M, 
+et al. Refining Expert Recommendations for Implementing Change (ERIC) 
+strategy surveys using cognitive interviews with frontline providers. 
+Implement Sci Commun. 2023;4(1):42.
+Page 8 of 8
+Balis and Houghtaling ﻿Implementation Science Communications           (2023) 4:144 
+•
+ 
+fast, convenient online submission
+ 
+•
+  
+thorough peer review by experienced researchers in your ﬁeld
+• 
+ 
+rapid publication on acceptance
+• 
+ 
+support for research data, including large and complex data types
+•
+  
+gold Open Access which fosters wider collaboration and increased citations 
+ 
+maximum visibility for your research: over 100M website views per year 
+•
+  
+At BMC, research is always in progress.
+Learn more biomedcentral.com/submissions
+Ready to submit your research
+Ready to submit your research ?  Choose BMC and benefit from: 
+?  Choose BMC and benefit from: 
+	54.	 Pawson R, Greenhalgh T, Harvey G, Walshe K. Realist review - a new 
+method of systematic review designed for complex policy interventions. 
+J Health Serv Res Policy. 2005;10:21–34.
+	55.	 National Cancer Institute. Division of Cancer Control and Population 
+Sciences. Consortium for Cancer Implementation Science Public Goods. 
+2023. Available at: https://​cance​rcont​rol.​cancer.​gov/​is/​initi​atives/​ccis/​
+public-​goods. Accessed 29 Dec 2022.
+	56.	 Peek CJ, Glasgow RE, Stange KC, Klesges LM, Purcell EP, Kessler RS. The 5 
+R’s: An Emerging Bold Standard for Conducting Relevant Research in a 
+Changing World. Ann Fam Med. 2014;12:447–55.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.

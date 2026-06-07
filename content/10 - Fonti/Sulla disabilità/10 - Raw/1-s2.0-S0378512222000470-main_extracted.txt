@@ -1,0 +1,849 @@
+Maturitas 161 (2022) 49–54
+Available online 26 February 2022
+0378-5122/© 2022 Elsevier B.V. All rights reserved.
+Original Article 
+Longitudinal trajectories of intrinsic capacity and their association with 
+quality of life and disability 
+Aar´on Salinas-Rodríguez a, Emmanuel Gonz´alez-Bautista b, Ana Rivera-Almaraz a, 
+Betty Manrique-Espinoza a,* 
+a Center for Evaluation and Surveys Research, National Institute of Public Health, Av. Universidad #655. Colonia Santa María Ahuacatitlan, Cuernavaca, Morelos ZC 
+62100, Mexico 
+b Gerontopole of Toulouse, Institute of Aging, Toulouse University Hospital (CHU Toulouse). CERPOP, Universit´e de Toulouse, Inserm, UPS, Toulouse, France   
+A R T I C L E  I N F O   
+Keywords: 
+Intrinsic capacity 
+Quality of life 
+Disability 
+Growth mixture modeling 
+Longitudinal trajectories 
+A B S T R A C T   
+Objectives: Intrinsic capacity (IC) is a key concept within the World Health Organization’s (WHO) healthy aging 
+model. The systematic assessment of IC could provide a better understanding of the functional trajectories of 
+individuals. Our aims were to identify the longitudinal trajectories of IC and estimate their association with 
+quality of life and disability. 
+Study design: The study data comes from the three waves of the WHO Study on global AGEing and adult health 
+(SAGE) in Mexico (2009, 2014, 2017). In total, 2735 adults aged 50 years or more were included. An IC score 
+was constructed using item response theory. We used growth mixture modeling (GMM) to investigate the lon­
+gitudinal trajectories of IC. Three-level linear mixed effect models were used to estimate the associations of IC 
+with quality of life and disability. 
+Main outcome measures: Disability was measured using the WHO Disability Assessment Schedule (WHODAS 2.0) 
+and quality of life using the WHOQOL (WHO Quality of Life) instrument. 
+Results: Three classes were identified: low baseline IC with a steeply decreasing trajectory, medium baseline IC 
+with a slightly decreasing trajectory, and high baseline IC with a moderately increasing trajectory. The class with 
+the better trajectory (higher baseline IC score and a moderately increasing pattern) exhibited higher quality-of- 
+life scores and lower disability scores. 
+Conclusions: The findings show that older Mexican adults exhibit different IC trajectories, and that these may be 
+associated with quality of life and disability. Results highlight the need for health policies and strategies to 
+maintain intrinsic capacity and to promote primary prevention.   
+1. Introduction 
+Healthy aging has become a central concept for geriatric practice, 
+clinical and epidemiological research, as well as for the implementation 
+of public policies directed towards the older adult population [1,2]. In 
+the most recent World Report on Aging and Health, the World Health 
+Organization (WHO) reaffirmed the concept that healthy aging is more 
+than just the absence of disease, defining it as the process of promoting 
+and maintaining the functional capacity that enables well-being in old 
+age [3]. 
+This definition emphasizes the interaction between the individual 
+and his/her environment. While it is recognized that each individual has 
+their intrinsic capacity (which is the result of their genetic inheritance, 
+personal and health characteristics), it is also emphasized that in­
+dividuals live in a specific environment that can change over time and is 
+highly dependent on the political, economic and social resources of each 
+society. In the end, the interaction between intrinsic capacity and 
+environmental characteristics determines functional capacity. 
+Intrinsic capacity (IC) is the composite of the physical and mental 
+capacities which an individual may draw upon as they age [3]. The 
+rationale for this construct relies on distinguishing the physiological or 
+“intrinsic” determinants of healthy aging from those environmental or 
+Abbreviations: FML, Full-maximum likelihood; GMM, growth mixture modelling; GRM, graded response model; IC, intrinsic capacity; IRT, item response theory; 
+LCGA, latent class growth analysis; SAGE, study on global AGEing and adult health; WHODAS, WHO Disability Assessment Schedule; WHOQOL, WHO Quality of Life. 
+* Corresponding author. 
+E-mail address: bmanrique@insp.mx (B. Manrique-Espinoza).  
+Contents lists available at ScienceDirect 
+Maturitas 
+journal homepage: www.elsevier.com/locate/maturitas 
+https://doi.org/10.1016/j.maturitas.2022.02.005 
+Received 10 June 2021; Received in revised form 1 February 2022; Accepted 18 February 2022   
+Maturitas 161 (2022) 49–54
+50
+“external” determinants. This duality is enrooted in the disablement 
+model of Verbrugge and Jette who present the “intra-individual factors” 
+as opposed to the “extra-individual factors” [4]. Later, Ustun et al. 
+propose the capacity approach to measure health and distinguish it from 
+external environmental factors [5]. 
+Evidence indicates that various factors influence the health of older 
+people [6,7]. Nonetheless, it has been assumed that a single aging profile 
+-good health followed by a rapid decline and then death- is the expected 
+trajectory for all older people. However, it has been suggested that aging 
+is instead a heterogeneous process [8]. Then, there is a need to explore 
+dynamic and non-static measurements of IC if we are to advance toward 
+healthier aging and provide policymakers and clinicians with evidence 
+on the potential aging trajectories and their effects on essential out­
+comes for older adults like disability and quality of life. The ultimate 
+goal would be to contribute to more effective strategies that enable 
+healthy aging. 
+Given that IC is a key concept within the healthy aging model pro­
+posed by the World Health Organization (WHO) [3], an assessment of IC 
+is necessary for a better understanding of the functional trajectories and 
+health-related outcomes of the individuals. Although some studies have 
+estimated the trajectories of several constructs related to healthy aging 
+[9–11], there are no specific studies about longitudinal trajectories of IC. 
+This study aimed to identify the longitudinal trajectories of IC and es­
+timate their association with quality of life and disability. 
+2. Methods 
+2.1. Population and sample 
+Data from the three waves of World Health Organization (WHO) 
+Study on global AGEing and adult health (SAGE) in Mexico were used. A 
+multi-country, longitudinal study, SAGE was based on nationally 
+representative samples of individuals aged 50+ years. It has been con­
+ducted in six countries (China, Ghana, India, Mexico, Russia, and South 
+Africa) with different geographic distributions, population sizes, income 
+levels (low and medium) and demographic as well as epidemiological 
+transition phases. To date, SAGE has three longitudinal measurements in 
+Mexico, Wave 1 in 2009, Wave 2 in 2014, and Wave 3 in 2017. Details of 
+the study design have been published elsewhere [12]. 
+2.2. Mexican sample 
+For the SAGE Mexican sample, data for Wave 1 (baseline) was 
+collected between July and September 2009, with a total sample of 2404 
+respondents. Wave 2 data was collected in July-October 2014, with a 
+refreshed sample of 618 individuals, and Wave 3 in August-November 
+2017 with 2937 participants (including 255 new interviews). In total, 
+3277 individuals were interviewed in the three waves. Participants were 
+included in the study if they were 50 years or older and had at least two 
+IC measurements, given that we aimed to identify longitudinal trajec­
+tories of intrinsic capacity. Individuals with severe memory problems 
+(measured through self-report) or bedridden due to serious illness were 
+excluded from the study. Hence, the final analytical sample had 2735 
+subjects, with an overall response rate of 83%. Baseline differences be­
+tween the final sample and excluded participants occurred in several 
+analytical variables; the latter were older, had higher prevalence of 
+frailty and a greater prevalence of multimorbidity (p < 0.05). 
+2.3. Measurements 
+Height and weight (measured through stadiometers and calibrated 
+electronic weighting scales) were used to create the body mass index 
+(kg/m2). Grip strength was measured twice for both hands using the 
+hand dynamometer (Baseline Electronic Smedley Hand Dynamometer, 
+Fabrication Enterprises, White Plains, NY, USA). Four meters time walk 
+was used to measure the gait speed. Participants were asked to walk at a 
+normal pace. Walking aids (like a cane) were allowed to guarantee the 
+security of the individuals. 
+2.4. Definition of variables 
+2.4.1. Outcomes 
+Quality of life (QoL). It was assessed using the WHOQOL (WHO 
+Quality of Life) instrument. This eight-item questionnaire covers the 
+following core domains (two items per domain): physical, psychological, 
+social, and environmental. The results of the eight items were summed 
+for an overall score ranging from 0 to 100. The higher the score, the 
+higher quality of life [13]. 
+Disability. The cross-culturally validated 12-item version of the WHO 
+Disability Assessment Schedule Version 2.0 (WHODAS 2.0) was used. 
+The WHODAS 2.0 scale measures limitations in activity and daily-life 
+participation from the last month. It covers six domains explored 
+through a total of 12 items (two per domain): (1) cognition and 
+communication, (2) self-care, (3) mobility, (4) interpersonal relations, 
+(5) life activities, and (6) participation. The results of the 12 items are 
+summed to obtain a global score expressed on a continuous scale from 
+0 (no disability) to 100 (complete disability) [14]. 
+2.4.2. Main exposure: intrinsic capacity 
+The five domains proposed by Cesari et al. were used: cognition, 
+psychological (mood), sensory, vitality, and locomotion [15], according 
+to available information in the SAGE survey, to construct an IC score 
+through Item Response Theory (IRT). Specifically, a graded response 
+model (GRM) was adjusted given that variables used for each domain of 
+IC have ordered responses [16,17]. The final extracted IC score was 
+transformed to a 0–100 scale with higher scores indicating higher IC. 
+Description of the five domains, their operationalization, and details 
+about GRM are presented in Appendix 1 of the Supplemental Material. 
+2.4.3. Covariates 
+The following health and socioeconomic variables were used as po­
+tential confounders: sex (female = 1), age, marital status (with couple =
+1), paid job (yes = 1), years of formal education, and dwelling area 
+(rural = 1). We included the following lifestyle-related behaviors: 
+physical activity, tobacco use, alcohol consumption, and daily vegetable 
+and fruit intake. Four variables related to geriatric syndromes were also 
+included: mild cognitive impairment (MCI), sarcopenia, frailty status 
+(frail, pre-frail and not frail or robust), and falls. A list of 12 chronic 
+diseases contained in the SAGE study was also included. The following 
+conditions were measured according to self-reported medical diagnoses: 
+diabetes, stroke, hypercholesterolemia, hypertriglyceridemia, osteopo­
+rosis, cataracts, asthma, chronic obstructive pulmonary disease (COPD), 
+and angina pectoris. Depression and arthritis were estimated based on 
+symptomatology and self-reported treatment. Hypertension was deter­
+mined by either blood pressure measurement and/or self-reported 
+treatment. Regarding functionality, we included the limitations in ac­
+tivities of daily living (ADL) and instrumental activities of daily living 
+(IADL). A complete description of the covariates and their operational­
+ization can be found in Appendix 2 of the Supplemental Material. 
+2.5. Statistical analysis 
+Baseline characteristics are presented in percentages and means 
+(standard deviation) as appropriate. Health and socioeconomic profiles 
+related to longitudinal trajectories of IC were determined by comparing 
+the mean or proportion of each covariate using Chi-square or ANOVA 
+tests. 
+Growth mixture modeling (GMM) was used to investigate the lon­
+gitudinal trajectories of the intrinsic capacity [18]. GMM is useful since 
+it provides information about the growth factors (intercept and slope) of 
+each trajectory. The growth factors are interpreted as usual in longitu­
+dinal modeling: the level of outcome variable when time is equal to zero 
+A. Salinas-Rodríguez et al.                                                                                                                                                                                                                    
+Maturitas 161 (2022) 49–54
+51
+(intercept) and the rate of change in the outcome over time (slope). 
+According to current recommendations [19], a single-class latent 
+growth curve model to determine the pattern of change over time was 
+initially specified. Given the number of available measurements in the 
+SAGE study (three waves) a linear and a quadratic pattern of change 
+were examined. Then three different GMM specifications were applied: 
+(1) Latent Class Growth Analysis (LCGA), a specific type of GMM where 
+it is assumed that the estimated variance and covariance of the growth 
+factors within each class are fixed to zero, i.e., fixed intercept and slope, 
+(2) Growth Mixture Modeling with class-specific random intercepts 
+(GMM-1), and (3) Growth Mixture Modeling with class-specific random 
+intercepts and slopes (GMM-2). An exploratory approach was applied 
+fitting models with an increasing number of classes to identify the 
+optimal latent class model. 
+The selection of the best model (the one with the optimal number of 
+classes) was based upon a combination of statistical criteria, parsimony, 
+and interpretability [19]. Specifically, the following were considered: 
+(1) the lowest values of the goodness of fit measures Bayes Information 
+Criteria (BIC), Akaike Information Criteria (AIC) and the sample-size 
+adjusted BIC (aBIC), (2) the next versions of the likelihood ratio tests 
+(LRT): Vuong-Lo-Mendell-Rubin, Lo-Mendell-Rubin adjusted, and 
+Bootstrapped, (3) the way to which the trajectory classes captured 
+distinct and important patterns in the data, and (4) the quality of the 
+model in terms of posterior probability diagnostics, namely the entropy 
+and average posterior probability for each trajectory class. 
+Linear mixed-effects regression models were used to analyze the 
+association between IC trajectories and two distal outcomes: QoL and 
+disability. Given that all individuals aged 50 years or older within the 
+same household were included in the SAGE-Mexico study, and the 
+repeated measurements of QoL and disability, data had a three-level 
+hierarchical structure: measurement occasions at level 1, individuals 
+at level 2, and households at level 3. In particular, random intercept 
+models with subject and household IDs, as random effects, were 
+adjusted. Regression coefficients and 95% confidence intervals were 
+reported. 
+Models for the GMM were estimated in Mplus v8.5 by full maximum 
+likelihood (FML) and robust standard errors to non-normality [20]. To 
+avoid local maxima for the EM (expectation-maximization) algorithm, 
+models with 200 random starting values and 100 iterations per set of 
+start values were estimated According to the guidelines for reporting on 
+latent trajectory studies [21], the syntax code is provided in Appendix 3 
+of the Supplemental Material. The Models to estimate the association of 
+IC trajectories and distal outcomes were adjusted in Stata 16.1. The 
+power of this study was based on two-tailed tests, significance level 0.05, 
+intraclass correlation coefficient 0.70 (for repeated measures), and a 
+significant slope (β⧧0). A power of 0.88 was estimated for the observed 
+sample size with these input data. 
+2.6. Ethics approval and consent to participate 
+All procedures performed involving human participants were in 
+accordance with the ethical standards of the Ethics Committee, National 
+Institute of Public Health, Cuernavaca, Mexico, and with the 1964 
+Helsinki declaration and its later amendments or comparable ethical 
+standards. Informed consent was obtained from all individual partici­
+pants included in the study. 
+3. Results 
+3.1. Trajectories of intrinsic capacity 
+The results of the single-class latent growth curve model, comparing 
+linear versus quadratic patterns of change over time, showed favorable 
+evidence for the linear model (p < 0.01) over the quadratic model (p =
+0.99). Models from one to four trajectories were adjusted for each of 
+three different GMM specifications: LCGA, GMM-1, and GMM-2. Table 1 
+provides the information of the Model Selection Criteria for all the 
+models tested. In all the three GMM specifications, the three-class model 
+was the best model according to the fit indices in combination with the 
+entropy and the p-values associated with the three LRT used (Vuong-Lo- 
+Mendell-Rubin, Lo-Mendell-Rubin adjusted, and Bootstrapped). Then, 
+the three-class model with random intercept (GMM-1) was selected 
+Table 1 
+Model Selection Criteria of the Growth Mixture Model (GMM) analysis.    
+Latent class growth analysis (LCGA) 
+Likelihood Ratio Test p-value   
+Free 
+parameters 
+LL 
+AIC 
+BIC 
+aBIC 
+Classes- 
+size 
+Entropy 
+Bootstrapped 
+Vuong-Lo- 
+Mendell- 
+Rubin 
+Lo-Mendell- 
+Rubin  
+1-class 
+13 
+−47,404.08 
+94,834.16 
+94,911.05 
+94,869.75 
+100      
+2- 
+classes 
+12 
+−24,610.94 
+49,245.88 
+49,316.86 
+49,278.73 
+51, 49 
+0.76 
+<0.01 
+<0.01 
+<0.01  
+3- 
+classes 
+19 
+−24,245.24 
+48,528.49 
+48,640.86 
+48,580.50 
+50, 27 
+,23 
+0.74 
+<0.01 
+<0.01 
+<0.01  
+4- 
+classes 
+26 
+−24,245.24 
+48,542.49 
+48,696.27 
+48,613.66 
+50, 27, 
+23, 0 
+0.79 
+0.49 
+0.49 
+1   
+Growth mixture model (GMM) 
+Likelihood Ratio Test p-value   
+Free 
+parameters 
+LL 
+AIC 
+BIC 
+aBIC 
+Classes- 
+size 
+Entropy 
+Bootstrapped 
+Vuong-Lo- 
+Mendell- 
+Rubin 
+Lo-Mendell- 
+Rubin 
+Random 
+intercept 
+(GMM-1) 
+1-class 
+14 
+−46,551.05 
+93,130.09 
+93,212.90 
+93,168.41 
+100     
+2- 
+classes 
+13 
+−24,380.96 
+48,787.92 
+48,864.81 
+48,823.51 
+52, 48 
+0.71 
+<0.01 
+<0.01 
+<0.01 
+3- 
+classes 
+20 
+−24,176.72 
+48,393.44 
+48,511.73 
+48,448.18 
+50, 26, 
+24 
+0.70 
+<0.01 
+<0.01 
+<0.01 
+4- 
+classes 
+27 
+−24,176.72 
+48,407.44 
+48,567.13 
+48,481.35 
+50, 26, 
+24, 0 
+0.76 
+0.5 
+0.5 
+1 
+Random 
+intercept and 
+slope 
+(GMM-2) 
+1-class 
+16 
+−46,524.01 
+93,080.01 
+93,174.65 
+93,123.81 
+100     
+2- 
+classes 
+15 
+−24,379.72 
+48,789.45 
+48,878.17 
+48,830.51 
+52, 48 
+0.71 
+<0.01 
+<0.01 
+<0.01 
+3- 
+classes 
+22 
+−24,176.71 
+48,397.41 
+48,527.53 
+48,457.63 
+50, 26, 
+24 
+0.70 
+<0.01 
+<0.01 
+<0.01 
+4- 
+classes 
+29 
+−24,176.71 
+48,411.41 
+48,582.94 
+48,490.79 
+50, 26, 
+24, 0 
+0.76 
+0.49 
+0.49 
+1 
+Notes: LL: Log Likelihood; AIC: Akaike’s information criteria; BIC: Bayes Information criteria; aBIC: sample-size adjusted BIC. 
+A. Salinas-Rodríguez et al.                                                                                                                                                                                                                    
+Maturitas 161 (2022) 49–54
+52
+based on the lower values of AIC, BIC, and aBIC. 
+Fig. 1 shows the trajectories for the three classes estimated with the 
+random intercept model. Based on the growth factors (intercepts and 
+slopes), the first class (Group 1) was identified as “steeply declining” 
+(low baseline IC with a steeply decreasing trajectory). There were 475 
+individuals (17% of the sample) with an average baseline IC of 36.92 
+(SE:0.99, p-value < 0.01) and a steep average decline rate of −4.38 
+(SE:0.38, p-value < 0.01). The second class (Group 2) “slightly 
+declining” (medium baseline IC with a slightly decreasing trajectory) 
+had 1366 individuals (50.0%) with moderate IC at baseline (inter­
+cept:49.28, SE:0.62, p-value < 0.01) and slight decline (slope: −1.47, 
+SE:1.36, p-value < 0.01). The third class (Group 3) “moderately 
+increasing” (high baseline IC with a moderately increasing trajectory) 
+had 894 participants (33%). This group had the higher average baseline 
+IC score (intercept:61.20, SE:0.79, p-value < 0.01) and a moderately 
+increasing average rate of 1.12 (SE:0.44, p-value < 0.01) (Table 2). 
+Tables S2 and S3, in Appendix 4 of the Supplemental Material, shows the 
+baseline socio-demographic and health characteristics of participants by 
+trajectories of IC. 
+3.2. Associations of IC trajectories with QoL and disability 
+The associations of IC trajectories with the distal outcomes QoL 
+(WHOQoL score) and disability (WHODAS 2.0 score) are depicted in 
+Table 3. Regarding QoL, the class with better trajectory (higher baseline 
+IC score with a moderately increasing pattern) was associated with a 
+higher QoL score (β = 2.65; 95% CI: 1.14;4.15). There were no signifi­
+cant differences in QoL between the two groups with decreasing tra­
+jectories of IC. For disability, the group with low baseline IC and a 
+steeply decreasing trajectory (class 1) had the highest scores in the 
+WHODAS 2.0, and therefore higher levels of disability compared to the 
+groups with a slightly decreasing trajectory (β = −6.86; 95% CI: 
+−8.21;−5.52) and a moderately increasing trajectory (β = −11.58; 95% 
+CI: −13.27;−9.90), respectively. 
+4. Discussion 
+This study identified three longitudinal trajectories of IC in a na­
+tionally representative sample of older Mexican adults after eight years 
+of follow-up: “steeply declining”, “moderately declining”, and “slightly 
+increasing”. People in the declining trajectories had low or medium 
+levels of IC at baseline, exhibited declining IC over time, and ended with 
+the worst levels of QoL and disability. The older adults in the increasing 
+group started with a higher IC level and concluded with slightly higher 
+IC. They also exhibited the lowest levels of disability and the highest 
+levels of QoL. These results contribute to the current body of evidence in 
+at least two ways. First, and to the best of our knowledge, this is the first 
+study that analyzes the specific longitudinal trajectories of IC. Other 
+studies have analyzed potential healthy aging trajectories (a construct 
+that includes three elements: functional ability, intrinsic capacity, and 
+Fig. 1. Trajectories of intrinsic capacity (IC) for the 3-class model. Notes: Steep declining: Low baseline IC with steeply decreasing trajectory (n = 475, 17%). 
+Moderate declining: Medium baseline IC with slightly decreasing trajectory (n = 1366, 50%). Slight increasing: High baseline IC with moderately increasing tra­
+jectory (n = 894, 33%). 
+Table 2 
+Parameter estimates for the three-class model.   
+Group 1Steep 
+declining 
+Group 2Moderate 
+declining 
+Group 3Slight 
+increasing 
+Sample size 
+n = 475 (17%) 
+n = 1366 (50%) 
+n = 894 (33%) 
+Average probability of 
+class membership 
+0.843 
+0.820 
+0.872 
+Latent variables means    
+Intercept 
+36.92 (SE =
+0.99) 
+49.28 (SE = 0.62) 
+61.20 (SE =
+0.79) 
+Slope 
+−4.38 (SE =
+0.38) 
+−1.47 (SE =
+1.36) 
+1.12 (SE =
+0.44) 
+Latent variables 
+variance    
+Intercept variance 
+8.88 (SE =
+25.37) 
+67.38 (SE =
+21.13) 
+55.77 (SE =
+8.36) 
+Residual variance 
+70.60 (SE =
+3.77) 
+86.09 (4.55) 
+110.96 (SE =
+8.26) 
+Notes: SE: standard error. Group 1: Low baseline IC with a steeply decreasing 
+trajectory; Group 2: Medium baseline IC with a slightly decreasing trajectory; 
+Group 3: High baseline IC with a moderately increasing trajectory. 
+A. Salinas-Rodríguez et al.                                                                                                                                                                                                                    
+Maturitas 161 (2022) 49–54
+53
+environments), but none focused on the IC. Second, it was shown that 
+the increasing trajectory (related to higher levels of quality of life and 
+lower disability) could be identified as the ideal healthy aging 
+trajectory. 
+The findings on distinct trajectories of IC are consistent with previous 
+research indicating that aging is a rather heterogeneous process 
+[22–24]. It is difficult to benchmark the results regarding evidence 
+about IC trajectories because no other study had a similar scope. Even so, 
+some studies that analyzed the healthy aging trajectories have been 
+chosen, given their relevance. Several studies in high-income countries 
+have identified trajectories of similar constructs such as successful or 
+healthy aging. In a cohort study of English and Welsh older adults, three 
+trajectories were identified using a successful aging index: highest 
+functioning, moderate functioning, and low functioning [24]. Although 
+they found similar trajectories, their three groups exhibited descending 
+trajectories, while our study identified a group of individuals with an 
+increasing trajectory. One potential explanation for this difference is 
+that the successful aging index included some indicators related to the 
+perception of older adults about their health, whereas our study used the 
+five domains that have been proposed to assess IC objectively. Another 
+study based on the English Longitudinal Study of Aging (ELSA) used the 
+healthy aging construct, through which three trajectories were identi­
+fied: high stable, low stable, and rapid decline [25]. Although the au­
+thors defined two trajectories as stable, overall, all three showed a 
+downward trend. The healthy aging construct is broader than IC (in fact, 
+IC is one of the components of healthy aging), so its trajectories could be 
+a summary measure of a global trend that does not necessarily reflect 
+what happens to its components (physical, cognitive, emotional).  A 
+further study with a cohort of Australian older adults, using the 
+construct of aging-well (good self-rated health, independent capacities 
+in instrumental ADLs, and good psychological wellbeing) identified the 
+following trajectories: stable-good aging well, initially aging well then 
+deteriorating; and stable-poor [22]. Although the metric used in this 
+study is more limited in terms of the number of indicators analyzed, the 
+observed trajectories also showed a descending pattern. A further study, 
+with a cohort of 534 Belgian older adults, examined the transitions of 
+four of the IC components (cognition, nutrition, mobility, and psycho­
+social) and their association with all-cause mortality during a 5-year 
+follow-up [26]. Three possible transitions (stable, deteriorated, 
+improved) were analyzed. Their findings showed that individuals with 
+the worst transition (deteriorated) had a higher mortality risk. Two 
+major differences should be highlighted concerning our study. First, this 
+was not a study about trajectories but transitions. Although they are 
+related concepts, transitions refer to changes in discrete states, while 
+trajectories occur on a continuous line of time. Second, the analyzed 
+outcome (mortality) is different from Qol and disability. The last two 
+could be intermediate outcomes since a lower QoL, and greater 
+disability would point to higher mortality. Subsequent studies could 
+analyze this potential sequence (CI → QoL & disability → mortality) 
+with improved designs and statistical methods. Finally, using the 
+Mexican Health and Aging Study, one study with older Mexican adults 
+reported the following four healthy aging trajectories: decliners, 
+moderate-stable, high-stable, and low-stable [27]. As in the previous 
+comparisons, no upward sloping trajectory was reported. Both studies 
+agree that the class with the best trajectory has a higher proportion of 
+individuals. However, one critical difference is that they designed their 
+healthy aging score based on functional ability rather than intrinsic 
+capacity. 
+Regarding the associations between IC, QoL, and disability, most 
+studies have focused on the predictors of healthy aging trajectories 
+rather than the potential effects on the outcomes analyzed here. Two 
+studies that looked at such outcomes were identified. First, one study 
+with a cohort of older women in the United States identified three tra­
+jectories of physical functioning (maintaining, slowly declining, and 
+rapidly declining) and evaluated their association with quality of life 
+using the 36-Item Short Form Health Survey (SF- 36). Its results showed 
+that women with the best trajectory (maintaining) had the highest SF-36 
+scores [28]. Another study with Taiwanese older adults, with two co­
+horts of adults (young cohort 50–66 and older cohort 60+), analyzed 
+successful aging trajectories and their relationship with life satisfaction. 
+The authors reported four groups: successful aging, usual aging, insecure 
+aging, and health declining. The trajectories with more significant 
+deterioration predicted lower life satisfaction in both cohorts [29]. The 
+findings of this study, although using different outcomes, corroborate 
+that healthier aging trajectories are associated with better health out­
+comes such as a higher quality of life and lower levels of disability. 
+One strength of this study is the application of the GMM approach 
+that can be useful to identify distinct trajectories of healthy aging, and 
+hence could help researchers and policymakers design early specific 
+interventions focused on individuals with the worse aging profiles. 
+However, some limitations must be also considered. First, the attrition 
+rate (17%) that occurred during the eight years of follow-up. Significant 
+attrition because of death could create a survival bias. So, the association 
+between IC trajectories and the distal outcomes would be under­
+estimated since the healthiest older people were included in the study. 
+Second, recall bias could be another limitation for epidemiological 
+studies with older adult participants. It could be, for example, that older 
+adults with alterations in any of the IC five domains tend to overestimate 
+their physical limitations compared to healthiest individuals. Third, 
+most of the variables in the SAGE study, including the questions related 
+to the IC, are self-reported. This fact may have led to an unknown bias 
+(overestimation or underestimation) of the actual IC measurement. 
+5. Conclusion 
+The findings of this study show significant heterogeneity in aging 
+trajectories among older Mexicans and that these trajectories are asso­
+ciated with QoL and disability. These findings suggest that IC could help 
+to predict a healthy aging trajectory. In fact, the association between IC 
+trajectories and distal outcomes remains significant after adjusting for 
+relevant factors such as chronological age, frailty, comorbidities, and 
+socioeconomic status, which usually explain most of the disability 
+variation in older ages. Our results also highlight the need for health 
+policies and prevention strategies in middle-aged adults to strengthen 
+IC. Specifically, we see two main opportunity areas for population-based 
+interventions: (a) intervene in those with low IC levels to prevent them 
+Table 3 
+Estimated associations between trajectories of intrinsic capacity (IC) and distal 
+outcomes: QoL and disability.   
+Quality of life (WHOQoL 
+score) 
+Disability(WHODAS 2.0 
+score)  
+Coefficient 
+95% CI 
+Coefficient 
+95% CI 
+Group 1 
+Ref.  
+Ref.  
+Group 2 
+0.47 
+(−0.72 ; 
+1.66) 
+−6.86 
+(−8.21 ; 
+−5.52) 
+Group 3 
+2.65 
+(1.14 ; 4.15) 
+−11.58 
+(−13.27 ; 
+−9.90) 
+Variance 
+components     
+Subject 
+11.16 
+(4.85 ; 
+25.68) 
+43.88 
+(32.45 ; 
+59.33) 
+Household 
+19.04 
+(12.15 ; 
+29.82) 
+7.72 
+(1.78 ; 33.46) 
+Intraclass 
+correlation     
+Subject 
+0.20 
+(0.16 ; 0.24) 
+0.28 
+(0.24 ; 0.32) 
+Household 
+0.12 
+(0.08 ; 0.19) 
+0.04 
+(0.01 ; 0.17) 
+Notes: Group 1 “steep declining”: Low baseline IC with a steeply decreasing 
+trajectory. 
+Group 2 “moderate declining”: Medium baseline IC with a slightly decreasing 
+trajectory. 
+Group 3 “slight increasing”: High baseline IC with a moderately increasing 
+trajectory. 
+A. Salinas-Rodríguez et al.                                                                                                                                                                                                                    
+Maturitas 161 (2022) 49–54
+54
+from further decline, and (b) intervene in those with average IC levels to 
+re-adjust their trajectory into a non-declining one. These findings have 
+significant relevance in Mexico because of the rapid growth of our aging 
+population and the need for population health interventions to ensure 
+healthy aging. 
+Contributors 
+Aar´on 
+Salinas-Rodríguez: 
+Conceptualization, 
+Visualization, 
+Formal analysis, Data curation, Writing – original draft. Emmanuel 
+Gonz´alez-Bautista: Data curation, Writing – original draft. Ana Riv­
+era-Almaraz: Data curation, Writing – original draft. Betty Manrique- 
+Espinoza: Conceptualization, Visualization, Formal analysis, Data 
+curation, Writing – original draft. 
+Funding 
+No external funding was received for this study. However, SAGE is 
+supported by WHO and the US National Institute on Aging through 
+Interagency Agreements (OGHA04034785, YA1323-08-CN-0020, and 
+Y1-AG-1005-01) and competitive grant: R01AG034479. 
+Ethical approval 
+The study was approved by the research and ethics committees of the 
+National Institute of Public Health, Cuernavaca, Mexico (CI/2013/550). 
+All procedures performed involving human participants were in accor­
+dance with the ethical standards of the Ethics Committee, National 
+Institute of Public Health, Cuernavaca, Mexico, and with the 1964 
+Helsinki declaration and its later amendments or comparable ethical 
+standards. Informed consent was obtained from all individual partici­
+pants included in the study. 
+Provenance and peer review 
+This article was not commissioned and was externally peer reviewed. 
+Research data (data sharing and collaboration) 
+The datasets analyzed in the current study are available in the WHO 
+repository, http://apps.who.int/healthinfo/systems/surveydata/index. 
+php/catalog/sage/about. 
+Declaration of competing interest 
+The authors declare that they have no competing interests. 
+Supplementary materials 
+Supplementary material associated with this article can be found, in 
+the online version, at doi:10.1016/j.maturitas.2022.02.005. 
+References 
+[1] Z. Ungvari, R. Adany, The future of healthy aging: translation of geroscience 
+discoveries to public health practice, Eur. J. Public Health 31 (2021) 455–456, 
+https://doi.org/10.1093/eurpub/ckaa212. 
+[2] K. Donnellan, T. Sands, E. Bayer, M. Plescia, Creating a culture of healthy aging in 
+public health, J. Public. Health Manag. Pract. 27 (2021) 213–214, https://doi.org/ 
+10.1097/PHH.0000000000001339. 
+[3] World Health Organization, World Report on Ageing and Health, WHO Press, 
+Geneva, 2015. 
+[4] L.M. Verbrugge, A.M. Jette, The disablement process, Soc. Sci. Med. 38 (1994) 
+1–14, https://doi.org/10.1016/0277-9536(94)90294-1. 
+[5] T.V. Ustun, N. Kostanjesek, S. Chatterji, J. Rehm, & World Health Organization, 
+Measuring Health and Disability: Manual for WHO Disability Assessment Schedule 
+WHODAS 2.0, WHO Press, Geneva, 2010. 
+[6] C. Kralj, C. Daskalopoulou, F. Rodríguez-Artalejo, E. García-Esquinas, T.D. Cosco, 
+M. Prince, A.M. Prina. Healthy ageing: a systematic review of risk factors. (ATHLOS 
+Consortium. London). http://athlosproject.eu/wp-content/uploads/2018/05/ 
+KIOPPN_HealthyAgeing-Report2018.pdf, 2021 (accessed 2 May 2021). 
+[7] C.A. Depp, D.V. Jeste, Definitions and predictors of successful aging: a 
+comprehensive review of larger quantitative studies, Am. J. Geriatr. Psychiatry 14 
+(2006) 6–20, https://doi.org/10.1097/01.JGP.0000192501.03069.bc. 
+[8] World Health Organization, Ageing and Health, World Health Organization, 2021. 
+http://www.who.int/en/news-room/fact-sheets/detail/ageing-and-health. 
+accessed 13 May 2021. 
+[9] A.A.L. Kok, M.J. Aartsen, D.J.H. Deeg, M. Huisman, Capturing the diversity of 
+successful aging: an operational definition based on 16-year trajectories of 
+functioning, Gerontologist (2015) gnv127, https://doi.org/10.1093/geront/ 
+gnv127. 
+[10] J. de la Fuente, F.F. Caballero, A. S´anchez-Niub´o, D.B. Panagiotakos, A.M. Prina, 
+H. Arndt, J.M. Haro, S. Chatterji, J.L. Ayuso-Mateos, Determinants of health 
+trajectories in England and the United States: an approach to identify different 
+patterns of healthy aging, J. Gerontol. Ser. A 73 (2018) 1512–1518, https://doi. 
+org/10.1093/gerona/gly006. 
+[11] J.E. Byles, M.M. Rahman, E.M. Princehorn, E.G. Holliday, L. Leigh, D. Loxton, 
+J. Beard, P. Kowal, C. Jagger, Successful ageing from old to very old: a longitudinal 
+study of 12,432 women from Australia, Age Ageing 48 (2019) 803–810, https:// 
+doi.org/10.1093/ageing/afz116. 
+[12] W. He, M.N. Muenchrath, P. Kowal, Shades of Gray: A Cross-Country Study of 
+Health andwell-Being of the Older Populations in SAGE Countries, 2007–2010, US 
+Government Printing Office, Washington, DC, 2012. 
+[13] S.M. Skevington, M. Lotfy, K.A. O’Connell, The world health organization’s 
+WHOQOL-BREF quality of life assessment: psychometric properties and results of 
+the international field trial. A report from the WHOQOL Group, Qual. Life Res. 13 
+(2004) 299–310, https://doi.org/10.1023/B:QURE.0000018486.91360.00. 
+[14] T.B. Üstün, S. Chatterji, N. Kostanjsek, J. Rehm, C. Kennedy, J. Epping-Jordan, 
+S. Saxena, M. von Korff, C. Pull, Developing the world health organization 
+disability assessment schedule 2.0, Bull. World Health Organ. 88 (2010) 815–823, 
+https://doi.org/10.2471/BLT.09.067231. 
+[15] M. Cesari, I. Araujo de Carvalho, J. Amuthavalli Thiyagarajan, C. Cooper, F. 
+C. Martin, J.Y. Reginster, B. Vellas, J.R. Beard, Evidence for the domains 
+supporting the construct of intrinsic capacity, J. Gerontol. Ser. A 73 (2018) 
+1653–1660, https://doi.org/10.1093/gerona/gly011. 
+[16] F. Samejima, Estimatio of latent ability using a response pattern of graded scores, 
+ETS Res. Bull. Ser. 1968 (1968) i–169, https://doi.org/10.1002/j.2333-8504.1968. 
+tb00153.x. 
+[17] D. Thissen, L. Steinberg, A taxonomy of item response models, Psychometrika 51 
+(1986) 567–577, https://doi.org/10.1007/BF02295596. 
+[18] N. Ram, K.J. Grimm, Methods and measures: growth mixture modeling: a method 
+for identifying differences in longitudinal change among unobserved groups, Int. J. 
+Behav. Dev. 33 (2009) 565–576, https://doi.org/10.1177/0165025409343765. 
+[19] K.L. Nylund, T. Asparouhov, B.O. Muth´en, Deciding on the number of classes in 
+latent class analysis and growth mixture modeling: a monte carlo simulation study, 
+Struct. Equ. Model. A Multidiscip. J. 14 (2007) 535–569, https://doi.org/10.1080/ 
+10705510701575396. 
+[20] L.K. Muth´en, B.O. Muth´en, Mplus User’s Guide, 8th ed., Muth´en & Muth´en, Los 
+Angeles, CA, 1998. –2017. 
+[21] R. van de Schoot, M. Sijbrandij, S.D. Winter, S. Depaoli, J.K. Vermunt, T. GRoLTS- 
+Checklist, Guidelines for reporting on latent trajectory studies, Struct. Equ. Model. 
+A Multidiscip. J. 24 (2017) 451–467, https://doi.org/10.1080/ 
+10705511.2016.1247646. 
+[22] C.J. Browning, J.C. Enticott, S.A. Thomas, H. Kendig, Trajectories of ageing well 
+among older Australians: a 16-year longitudinal study, Ageing Soc. 38 (2018) 
+1581–1602, https://doi.org/10.1017/S0144686X17000162. 
+[23] N.H. Jonkman, V. Del Panta, T. Hoekstra, M. Colpo, N.M. van Schoor, S. Bandinelli, 
+L. Cattelani, J.L. Helbostad, B. Vereijken, M. Pijnappels, A.B. Maier, Predicting 
+trajectories of functional decline in 60- to 70-year-old people, Gerontology 64 
+(2018) 212–221, https://doi.org/10.1159/000485135. 
+[24] T.D. Cosco, B.C.M. Stephan, C. Brayne, G. Muniz, Education and successful aging 
+trajectories: a longitudinal population-based latent variable modelling analysis, 
+Can. J. Aging 36 (2017) 427–434, https://doi.org/10.1017/S0714980817000344. 
+/La Rev. Can. Du Vieil. 
+[25] H. Nguyen, D. Moreno-Agostino, K.C. Chua, S. Vitoratou, A.M. Prina, Trajectories 
+of healthy ageing among older adults with multimorbidity: a growth mixture 
+model using harmonised data from eight ATHLOS cohorts, PLoS One 16 (2021), 
+e0248844, https://doi.org/10.1371/journal.pone.0248844. 
+[26] M. Locquet, D. Sanchez-Rodriguez, O. Bruy`ere, A. Geerinck, L. Lengel´e, J. 
+Y. Reginster, C. Beaudart, Intrinsic capacity defined using four domains and 
+mortality risk: a 5-year follow-up of the SarcoPhAge cohort, J. Nutr. Health Aging 
+26 (2022) 23–29, https://doi.org/10.1007/s12603-021-1702-7. 
+[27] C. Daskalopoulou, A. Koukounari, Y.T. Wu, G.M. Terrera, F.F. Caballero, J. de la 
+Fuente, S. Tyrovolas, D.B. Panagiotakos, M. Prince, M. Prina, Healthy ageing 
+trajectories and lifestyle behaviour: the Mexican health and aging study, Sci. Rep. 9 
+(2019) 11041, https://doi.org/10.1038/s41598-019-47238-w. 
+[28] L. Vaughan, X. Leng, M.J. La Monte, H.A. Tindle, B.B. Cochrane, S.A. Shumaker, 
+Functional independence in late-life: maintaining physical functioning in older 
+adulthood predicts daily life function after age 80, J. Gerontol. Ser. A Biol. Sci. 
+Med. Sci. 71 (2016) S79–S86, https://doi.org/10.1093/gerona/glv061. 
+[29] H.C. Hsu, B.L. Jones, Multiple trajectories of successful aging of older and younger 
+cohorts, Gerontologist 52 (2012) 843–856, https://doi.org/10.1093/geront/ 
+gns005. 
+A. Salinas-Rodríguez et al.                                                                                                                                                                                                                    

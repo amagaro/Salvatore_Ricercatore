@@ -1,0 +1,587 @@
+Commentary
+The evolution of disability language: Choosing terms to describe
+disability
+Erin E. Andrews, PsyD, ABPP a, b, Robyn M. Powell, PhD, JD c, d, *, Kara Ayers, PhD e, f
+a VA Texas Valley Coastal Bend Health Care System, USA
+b University of Texas at Austin Dell Medical School, USA
+c Stetson University College of Law, USA
+d Lurie Institute for Disability Policy, Brandeis University, USA
+e University of Cincinnati College of Medicine, USA
+f Cincinnati Children’s Hospital Medical Center, USA
+a r t i c l e
+i n f o
+Article history:
+Received 12 January 2022
+Received in revised form
+2 April 2022
+Accepted 13 April 2022
+a b s t r a c t
+The use of disability language in academic scholarship has changed signiﬁcantly over the past several
+years. Although it would be helpful to have concrete guidelines and rules that could generalize across
+situations regarding disability terminology, language itself is a phenomenon that evolves and varies over
+time in response to cultural shifts. People with disabilities have varied preferences about the language
+they use to describe themselves and what language they prefer to be used to describe them. At the same
+time, disability researchers, including the current authors, are often given prescriptive guidance by
+journal editors about the speciﬁc disability language they should use (i.e., person-ﬁrst language). Thus,
+the tension between approaches to disability language underscores a need for open dialogue about a
+culturally informed choice of disability language in scholarly publications. Accordingly, this commentary
+discusses the history and evolution of disability language, explores current trends, and recommends
+language for academic articles.
+© 2022 Elsevier Inc. All rights reserved.
+There have been signiﬁcant changes in the use of disability
+language in academic scholarship over the past several years.1,2
+Since language is a phenomenon that evolves over time in
+response to cultural shifts, it is not advised to establish permanent
+guidance about the use of disability language.1 Recent trends sug-
+gest that people with disabilities vary in their language preferences,
+with some preferring person-ﬁrst language and others preferring
+identity-ﬁrst
+language.2
+Increasingly,
+disability
+researchers,
+including the current authors, have received requests by journal
+editors and reviewers to replace identity-ﬁrst language with
+person-ﬁrst language in manuscripts or vice versa.3 Related, several
+major journal style guides require authors to use person-ﬁrst lan-
+guage. However, these requests and policies ignore the varying
+language preferences among disabled people, including disabled
+researchers. Accordingly, these tensions concerning disability lan-
+guage underscore a need for open dialogue about a culturally
+informed choice of disability language in scholarly publications.
+This commentary discusses the history and evolution of terminol-
+ogy, explores current trends, and makes recommendations for
+disability language in scholarly writing. To do so, we examine these
+facets of language from the context of writing and communication
+in the United States. Ultimately, we recommend academic journals
+allow for ﬂexibility in using person-ﬁrst and identity-ﬁrst disability
+language. Similarly, journals should focus on ensuring that the
+language used in their publications does not stigmatize disabled
+people, including avoiding euphemisms for disability.
+The history of societal, economic, and environmental disad-
+vantages has resulted in health disparities for people with dis-
+abilities and other marginalized groups. With the goal of public
+health to improve health outcomes for all populations, it is
+important to consider the potential impact of terminology on
+marginalized groups. From language about substance use to body
+weight, evidence suggests terminology contributes to attitude
+formation, self-perception, and behaviors.4,5 Word choice reﬂects
+dominant attitudes, which may further oppress or empower his-
+torically excluded groups. Given the potential role of terminology in
+improving health equity for people with disabilities, discussion
+about the role of language in shaping our reality and subsequent
+* Corresponding author. Stetson University College of Law 1401 61st Street S.
+Gulfport, FL 33707, USA.
+E-mail address: rpowell3@law.stetson.edu (R.M. Powell).
+Contents lists available at ScienceDirect
+Disability and Health Journal
+journal homepage: www.disabilityandhealthjnl.com
+https://doi.org/10.1016/j.dhjo.2022.101328
+1936-6574/© 2022 Elsevier Inc. All rights reserved.
+Disability and Health Journal 15 (2022) 101328
+behaviors is merited. Many diverse groups and social movements
+have attempted to modify terminology to disrupt dominant stig-
+matizing attitudes.6 This can include introducing new terminology
+or taking back terms previously used in a derogatory fashion and
+using
+them
+as
+insider
+slang.7
+For
+example,
+members
+of
+LGBTQI þ communities moved to take back the terms “gay” and
+“queer.”8 Word choice about disability stems from numerous
+sources, including socialization, media portrayals, and medical
+training.9 Like the LGBTQI þ community, some disabled people
+have reclaimed previously harmful language, such as adopting the
+word cripple (often “crip”) as a source of pride.10 Likewise, mad
+studies has reclaimed the identiﬁer “mad” to describe individuals
+with psychiatric disabilities and recognize social understandings of
+the complex relationship between disabled people and psychiatric
+services and systems.11 Ultimately, scholars caution that the
+shortcomings of existing vocabularies should not truncate dialogue
+around the evolution of language to describe disability.11
+Words used socially and in public policy to refer to historically
+marginalized groups have also evolved. For instance, in 2013, the
+US Census Bureau dropped the word “Negro” from surveys, leaving
+“African-American” or “black”.12 Likewise, differences between the
+terms “Hispanic” and “Latino” are extremely nuanced and reﬂect
+various geographic and sociopolitical differences.13,14 “Latinx,”
+meant to address the intersectionality of gender identity and
+ethnicity, has recently seen a considerable increase in its usage in
+social media, advocacy, and academia.15 “Latinx” has received sig-
+niﬁcant criticism and is far from accepted universally,16,17 but it did
+not yet exist when Comas-Diaz predicted, “names that are appro-
+priate today may be obsolete or even offensive tomorrow” (p.
+116).18 Similarly, the social evolution of language related to
+disability is also reﬂected in policy changes. In 2010, Congress
+passed Rosa’s Law, named after a young girl with Down syndrome
+whose family sought to have disability represented as diversity
+rather than the stigmatization associated with outdated terminol-
+ogy, replaced several, but not all, instances of “mental retardation”
+with “intellectual disability” in US federal law.19
+History of disability terminology
+The language used to discuss disability stems from theoretical
+models, or ways of understanding disability, that have framed
+disability in the past and through contemporary culture. The oldest
+model of disability is the moral model, which associates disability
+with sin or moral failing.20 Terms used to describe disability asso-
+ciated with the moral model include “gimp,” “cripple,” “handicap,”
+or “imbecile.”20 The terms “cripple” and “lame” are traced back to
+the early 9th century but were not perceived as stigmatizing until
+the 17th century, demonstrating that what may be a currently ac-
+curate term can change in meaning and impact across time.
+Another long-established model is the biomedical model of
+disability, a deﬁcit orientation that situates disability as a problem
+within the person.21 Because this model emphasizes diagnostic
+categorization and pathology, associated terminology tends to be
+clinical in nature, such as all-encompassing categorizations such as
+“the blind” or “the mentally ill.“22 Language stemming from this
+model can reduce people to their diagnoses or conditions (e.g., “the
+spastic quadriplegic”).
+In the last 50 years, there has been a move away from the
+biomedical model of disability, reﬂecting a shift in how disability is
+perceived. For example, the social model of disability views
+disability as socially constructed.23 Thus, according to the social
+model of disability, the oppression and exclusion that people with
+disabilities experience are related to environmental factors, cultural
+attitudes, and social biases that inﬂuence how disabled people
+participate
+in
+society,
+and
+not
+merely
+a
+result
+of
+their
+impairments.23 Moreover, critics of the biomedical model intro-
+duced “person-ﬁrst” language, an approach to disability language
+that emphasizes distinguishing the person from the disability by
+referring to those with disabilities ﬁrst as individuals and then
+mentioning their disability second and only when needed.24
+Eminent rehabilitation psychologist Beatrice Wright championed
+person-ﬁrst language in the ﬁeld of psychology as an effort to
+reduce stigma and curb the phenomenon of “spread effect,”
+wherein negative perceptions inherent to impairment would
+develop into more global negative appraisals of the individual.25e27
+Wright’s position was that to accentuate their humanity, the person
+should grammatically be positioned ahead of the disability.26
+Subsequently,
+the
+phrase
+“people
+with
+disabilities”
+became
+widely adopted, including in many disability language guidelines
+and the 1990 Americans with Disabilities Act.6,10 Parent advocate
+Kathy Snow also championed person-ﬁrst language among advo-
+cacy organizations.28 Thus, for decades, person-ﬁrst language was
+promoted not only as a positive approach, but also as the correct
+way to discuss disability.
+The diversity or sociopolitical model is built upon the social
+model’s emphasis on the importance of the environment, including
+the role of prejudice and discrimination.22,29 The diversity model is
+rooted in civil rights. Thus, from this viewpoint, “a perfect world is
+not a world without disabilities but a world in which accommo-
+dations and services are provided to people with disabilities, and
+more important, disability is not viewed as inferiority” (p. 35).30
+Like the sociopolitical movements of other groups, including
+feminism, LGBTQI þ communities, and people of color, the
+disability diversity movement has reframed the narrative. Rather
+than viewing disability as a personal tragedy, the diversity model of
+disability encourages self-acceptance and the deliberate rejection
+of shame and internalized ableism. Because the diversity model
+rejects disability as inferior and promotes disability pride, modern
+disability rights advocates often elect to use identity-ﬁrst language,
+emphasizing disability as central to identity.29,31 This is a wider
+adoption of that of Deaf culture, which has long claimed the term
+“Deaf” (with a capital D, denoting cultural identity) and rebuffed
+the label of “persons with deafness”.31 It is the responsibility of
+culturally competent healthcare providers and researchers to
+remain aware of and sensitive to changes in lexicons used by
+marginalized groups. This responsibility extends to the language
+used in scholarly publications.
+Re-examination of person-ﬁrst language
+Person-ﬁrst language places the person before the disability
+(e.g., “person with autism” or “person with spinal cord injury”).
+Traditionally, writing and style guidelines, including the Associated
+Press, the American Psychological Association, the American
+Medical Association, and the American Speech-Language-Hearing
+Association, as well as many academic journals, have required
+person-ﬁrst language.1,32,33 Due to space considerations, person-
+ﬁrst terminology often ends up abbreviated. For example, authors
+often use the term “people with disabilities” initially and then elect
+to use “PWD” in subsequent sentences throughout a manuscript,
+making
+the
+relationship
+between
+person-ﬁrst
+language
+and
+readers’ perception of disabled people unclear.1 Adherence to
+person-ﬁrst language can also become needlessly cumbersome; for
+example, having to avoid concise and accurate descriptors such as
+“amputee.” More importantly, however, some disabled people have
+questioned the continued importance of separating the individual
+from the disability, which triggered a re-examination of whether
+person-ﬁrst language achieves what it was intended to do.1,3
+Notably, research on the efﬁcacy of person-ﬁrst language has
+been mixed. For example, one study found that when presented
+E.E. Andrews, R.M. Powell and K. Ayers
+Disability and Health Journal 15 (2022) 101328
+2
+with a forced choice between identity-ﬁrst and person-ﬁrst lan-
+guage, 76% of blind people surveyed preferred identity-ﬁrst lan-
+guage, with no differences based on age or gender.34 Conversely,
+another study found that 60% of state employees preferred the
+phrase “person with a disability”.35 Still, interestingly, 26% of re-
+spondents considered “person with a disability” and “disabled
+person” to be equal terms. Another study measured attitudes
+concerning disabled people by comparing groups using people-ﬁrst
+and disability-ﬁrst descriptors and did not ﬁnd any signiﬁcant
+differences.36 In contrast, another study found a positive correla-
+tion between the use of person-ﬁrst language and positive in-
+tentions toward people with disabilities.37 Interestingly, one study
+indicated that person-ﬁrst language was more prevalent in de-
+scriptions of disabled children, while identity-ﬁrst language was
+used more often to describe disability among those who were
+incarcerated, ﬁctional characters, and victims, suggesting a perhaps
+implicit bias that some disabled people are more deserving of
+person-ﬁrst language than others.38 Further, in a study where
+participants were asked to read several passages and divided into
+two groups, those in the group that did not receive prior infor-
+mation about person-ﬁrst language did not show any differences in
+perceived
+inclusivity
+between the person-ﬁrst
+passages and
+identity-ﬁrst passages, while the group that received information
+beforehand about the intent of person-ﬁrst language rated the
+person-ﬁrst passages as moderately more inclusive.39 Finally, one
+study found that person-ﬁrst language was used most frequently to
+refer to children rather than adults, and to describe children with
+the most stigmatized disabilities, such as autism and intellectual
+disabilities.32 While this researcher does not question the good
+intentions of using person-ﬁrst language, she points out that by
+separating the person from the identity, person-ﬁrst language
+implicitly indicates that disability is an undesirable characteristic.
+Thus, person-ﬁrst language may have inadvertently overcorrected
+and further stigmatized disability.1
+Some argue that person-ﬁrst language could even be harmful
+due to the unintended consequences of separating the person from
+the disability.40 In other words, using person-ﬁrst language may
+inadvertently contribute to a fragmented sense of identity, rein-
+force internalized ableism, and impede positive disability identity
+formation.1,2 According to Botha and colleagues, using person-ﬁrst
+language can raise concerns about how disabled people feel when a
+part of them and their identity is framed as something to be
+eliminated.41 Perhaps the most worrisome of these implications is
+the case of ﬁlicide, prejudicially referred to as “altruistic ﬁlicide,”
+wherein a disabled person is killed, most often by a family member,
+and the defense includes some variation of relieving suffering.
+These assailants have even singled out disability as the intended
+victim rather than the person, underscoring the reality that dis-
+abilities can only exist within persons and the potential dangers of
+emphasizing separation.41
+Notably, person-ﬁrst language is rarely, if ever, used to describe
+other groups of people. Although terms have changed and prefer-
+ences have evolved related to other diverse groups, person-ﬁrst
+language has not been recommended to refer to members of
+other marginalized groups. For example, it is not mandated to write
+people who are women, people who are Jewish, people who are
+lesbians, or people who are Black. In fact, it would be entirely
+permissible to describe a Black Jewish lesbian woman as just that.
+Identity-ﬁrst language
+Identity-ﬁrst language, sometimes referred to as disability-ﬁrst
+language, places the disability ﬁrst in phrasing (e.g., “disabled
+person,” “autistic person,” or “amputee”). As discussed above, an
+identity-ﬁrst approach has been used for many years in Deaf
+culture but has more recently been adopted by a wider swath of the
+disability community, particularly those who identify as disability
+rights advocates. For example, autistic self-advocates, many of
+whom are scholars, have adopted identity-ﬁrst language.42 Some
+scholars have posited that abandonment of person-ﬁrst language
+and adoption of identity-ﬁrst language is an unfortunate return to
+old ways of stigmatizing and objectifying disabled people. How-
+ever, scholars such as Vivanti argue that identity-ﬁrst language is
+“increasingly endorsed as an expression of positive social identity,
+whereby the language historically used to dehumanize and
+marginalize a minority group is redeployed as a form of empow-
+erment.”3 In their response, Botha and colleagues argue that
+identity-ﬁrst language as it is currently used is not done so in
+congruence with the medical model of pathology, but rather initi-
+ated by much of the disability community themselves in an effort
+toward autonomy.41
+Indeed, the current adoption of identity-ﬁrst language is a
+manifestation of disability pride, consistent with the sociopolitical
+or diversity model of disability. The difference between identity-
+ﬁrst language in its present form and older dehumanizing termi-
+nology is that current trends in identity-ﬁrst language do not
+describe people as their disability (e.g., “the disabled”) or portray
+disability as an afﬂiction (e.g., “the cerebral palsied”) but rather use
+disability as an important identiﬁer, like any other group label (e.g.,
+“disabled people”). This movement allows disability to be one of
+several individual identiﬁers; for example, all the current authors
+identify as disabled women.
+Euphemisms and the importance of using the term
+“disability”
+Another concern relating to disability language involves the use
+of euphemisms, such as “differently abled,” “physically challenged,”
+or “special needs,” which are ostensibly meant to be less offensive
+alternatives to the term “disability.“43 These terms were created by
+nondisabled people, are often endorsed by nondisabled parents of
+disabled children, and have largely been rejected by the disability
+community as superﬁcial, infantilizing, and patronizing.2 “Special
+needs” is a particularly popular euphemism, predominantly in the
+educational system and among nondisabled parents of children
+with disabilities. The term “special needs” began gaining traction in
+the 1920s and peaked in the 1990s. Although its use appears to be
+declining, it is still commonly used today.44 Gernsbacher and col-
+leagues’ research indicates that outsiders view people more nega-
+tively when described as having “special needs” than when they are
+described as having a disability or having a certain disability.44 The
+term “special needs” has been rejected by most adults with dis-
+abilities, as it connotes segregation and implies special rights as
+opposed to equal rights.43 Powell argues that “special needs” others
+disabled people by implying that their needs are different than
+those of the nondisabled population, contributing to the perception
+that these needs are optional or burdensome.45 In the words of
+disability activist Lawrence Carter-Long (2017), “a need isn’t special
+if it’s something everyone else takes for granted.”46
+Hence, it is essential that researchers use the term “disability”
+and entirely avoid euphemisms. Indeed, the term “disability” is
+widely used and universally accepted by leading state and inter-
+national organizations (e.g., World Health Organization Interna-
+tional Classiﬁcation of Functioning, Disability, and Health; National
+Institute on Disability and Rehabilitation
+Research;
+National
+Council on Disability). Moreover, the social media campaign
+#SaytheWord was created by people with disabilities to claim the
+term and encourage nondisabled people to stop attempting to
+avoid and replace disability as an identity. Outspoken activism
+about identity erasure follows on the heels of global movements
+E.E. Andrews, R.M. Powell and K. Ayers
+Disability and Health Journal 15 (2022) 101328
+3
+like black Lives Matter, which highlights social injustice to illustrate
+the continued signiﬁcance of race in the lives of black people.
+Similarly, disability is an important identity that should not be
+erased.
+Importantly, many people with objective impairments do not
+identify themselves either as “disabled persons” or “persons with
+disabilities.” This challenge further complicates using language to
+describe disability because many people with objective impair-
+ments do not self-identify with any disability-related terminology.
+Societal entanglement of culture, ethnic diversity, poverty, stigma,
+and ableism contribute to how people with disabilities answer
+questions about their identity.6 The reluctance to identify as having
+a disability may also be a missed opportunity to reduce disparities
+since recent research shows that those who both personally iden-
+tify as disabled and feel connected to the larger disability com-
+munity experience improved well-being, self-esteem, and quality
+of life across a wide range of disabilities.1,32,47e50
+Conclusion
+Disability language has undergone signiﬁcant evolution in
+response to cultural changes and advocacy, and the use of person-
+ﬁrst or identity-ﬁrst language can be contentious in the disability
+community. Person-ﬁrst language was developed with the good
+intention of reducing stigma. Yet, as research demonstrates, it is
+unclear if person-ﬁrst language works as intended, and its usage
+may have unintended consequences. Ultimately, decisions about
+language are personal and may differ based on several factors,
+including whether disabilities are acquired or congenital, previous
+experiences with negative and objectifying terminology, and de-
+gree of personal disability identity.
+The tensions between person-ﬁrst and identity-ﬁrst language
+are also present in academic publishing. For decades, the American
+Psychological Association (APA) Style Manual, used in academic
+publishing worldwide, instructed writers to use person-ﬁrst lan-
+guage exclusively.51 However, the most recent (7th) edition rec-
+ognizes that both person-ﬁrst and identity-ﬁrst approaches to
+language are designed to respect disabled people and states that
+authors may use person-ﬁrst language or identity-ﬁrst language in
+scholarly writing.51 We recommend that other publishing and
+writing guidelines adopt a similar approach, and allow authors to
+use either person-ﬁrst or identity-ﬁrst language in accord with
+their preferences and that of the groups they are writing about.
+Further, the recent APA Style Manual urges authors to avoid con-
+descending euphemisms, such as “special needs” and “physically
+challenged.”51 We, too, believe that authors must refrain from eu-
+phemisms and instead use the term “disability.” At the same time,
+we recognize that although the language is critical, simply chang-
+ing how disability is described is inadequate for fully confronting
+disparities experienced by disabled people. Thus, in addition to
+questioning and reshaping the words used to describe disability, we
+must ensure that we are doing so in a way that can have a real
+impact. To that end, disability researchers must support disabled
+people as we continue to reclaim and destigmatize language con-
+cerning disability while also working with disabled people to
+achieve health equity and social inclusion.
+Funding
+No funding was used to support this article.
+Conﬂicts of interest
+The authors have no conﬂicts of interest to report.
+References
+1. Dunn DS, Andrews EE. Person-ﬁrst and identity-ﬁrst language: developing
+psychologists' cultural competence using disability language. Am Psychol.
+2015;70(3):255e263. https://doi.org/10.1037/a0038636.
+2. Andrews EE. Disability as Diversity: Developing Cultural Competence. New York,
+NY: Oxford University Press; 2019.
+3. Vivanti G. Ask the editor: what is the most appropriate way to talk about in-
+dividuals with a diagnosis of autism? J Autism Dev Disord. 2020;50(2):691e693.
+4. Kelly JF, Dow SJ, Westerhoff C. Does our choice of substance-related terms
+inﬂuence perceptions of treatment need? An empirical investigation with two
+commonly used terms. J Drug Issues. 2010;40(4):805e818.
+5. Rathod S, Irfan M, Bhargava R, et al. Multinational comparative cross-sectional
+survey of views of medical students about acceptable terminology and sub-
+groups in schizophrenia. BMJ Open. 2018;8(6), e021461.
+6. Nario-Redmond MR. Ableism: The Causes and Consequences of Disability Preju-
+dice. John Wiley & Sons; 2020.
+7. Croom AM. Slurs, stereotypes, and in-equality: a critical review of “how epi-
+thets and stereotypes are racially unequal. Lang Sci. 2015;52:139e154.
+8. Blazucki S, McMillan J. The association of LGBTQ journalists stylebook on
+lesbian, gay, bisexual, transgender and queer terminology. Available from:
+https://www.nlgja.org/stylebook/; 2020.
+9. Galvan R. The making of the disabled identity: a linguistic analysis of mar-
+ginalisation. Disabil Stud Q. 2003;23(2).
+10. Haller B, Dorries B, Rahn J. Media labeling versus the US disability community
+identity: a study of shifting cultural language. Disabil Soc. 2006;21(1):61e75.
+11. Beresford P. ‘Mad’, Mad studies and advancing inclusive resistance. Disabil Soc.
+2020;35(8):1337e1342.
+12. Fama J. US census Bureau drops ‘Negro’ from surveys. ABC News; 2013 February.
+Retrieved
+from
+http://abcnews.go.com/Politics/OTUS/us-census-bureau-
+dropsnegro-surveys/story?id¼18591761#.UZAJLcpCodo.
+13. Taylor P, Lopez MH, Martinez JH, Velasco G. When Labels Don't Fit: Hispanics
+and Their Views of Identity. Washington, DC: Pew Hispanic Center; 2012.
+14. Valdeon RA. The use of Latin American, Hispanic and Latino in US academic
+articles, 2000e2010. Termin Int J Theor Appl Issues Spec Commun. 2013;19(1):
+112e137.
+15. Scharron-del Río MR, Aja AA. The case FOR ‘Latinx’: why intersectionality is not a
+choice. Latino Rebels; 2015. Retrieved from https://www.latinorebels.com/
+2015/12/05/the-case-for-latinx-why-intersectionality-is-not-a-choice/.
+16. Alamo HL. The x-ing of language: the case AGAINST ‘Latinx’. Latino Rebels; 2015
+December 12. Retrieved from http://www.latinorebels.com/2015/12/12/the-x-
+ing-of-language-the-case-against-latinix/.
+17. Guerra G, Orbea G. The argument against the use of the term “Latinx.”. Phoenix.
+2015;19. Retrieved from: https://swarthmorephoenix.com/2015/11/19/the-
+argument-against-the-use-of-the-term-latinx/.
+18. Comas-Diaz L. Hispanics, latinos, or americanos: the evolution of identity. Cult
+Divers Ethnic Minor Psychol. 2001;7(2):115e120.
+19. Portnova AA, Sivolap YP. Rosa's law as a symbol of destigmatizing in psychi-
+atry. Neurology Bulletin. 2020;52(4):5e7.
+20. Olkin R. Disability-afﬁrmative Therapy: A Case Formulation Template for Clients
+with Disabilities. Oxford University Press; 2017.
+21. Olkin R. What Psychotherapists Should Know about Disability. New York: Guil-
+ford Press; 1999.
+22. Smart JF. The power of models of disability. J Rehabil. 2009;75(2):3e11.
+23. Oliver M. Deﬁning impairment and disability: issues at stake. In: Barnes C,
+Mercer G, eds. Exploring the Divide: Illness and Disability. Leeds, UK: The
+Disability Press; 1996:39e53.
+24. Wright BA. Labeling: the need for greater person-environment individuation.
+In: Snyder CR, Forsyth DR, eds. Handbook of Social and Clinical Psychology: The
+Health Perspective. 1991:469e487.
+25. Wright BA. Spread in adjustment to disability. Bull Menninger Clin. 1964;28(4):
+198.
+26. McCarthy H. A modest festschrift and insider perspective on Beatrice Wright's
+contributions to rehabilitation theory and practice. Rehabil Counsel Bull.
+2011;54(2):67e81.
+27. Wright B. Physical Disability: A Psychosocial Approach. second ed. New York, NY:
+Harper & Row; 1983. https://doi.org/10.1037/10589-000. New York.
+28. Snow K. To Ensure Inclusion, Freedom, and Respect for All, We Must Use People
+First
+Language;
+2005.
+Retrieved
+from
+https://nebula.wsimg.com/
+1c1af57f9319dbf909ec52462367fa88?
+AccessKeyId¼9D6F6082FE5EE52C3DC6&amp;disposition¼0&amp;
+alloworigin¼1.
+29. Andrews EE. Disability models. In: Practical Psychology in Medical Rehabilita-
+tion. Springer; 2017:77e83.
+30. Smart JF, Smart D. Models of disability: implications for the counseling pro-
+fession. J Counsel Dev. 2006;84(1):29e40.
+31. Forber-Pratt AJ, Mueller CO, Andrews EE. Disability identity and allyship in
+rehabilitation psychology: sit, stand, sign, and show up. Rehabil Psychol.
+2019;64(2):119e129. https://doi.org/10.1037/rep0000256.
+32. Gernsbacher MA. Editorial perspective: the use of person-ﬁrst language in
+scholarly writing may accentuate stigma. JCPP (J Child Psychol Psychiatry).
+2017;58(7):859e861. https://doi.org/10.1111/jcpp.12706.
+33. Peers D, Spencer-Cavaliere N, Eales L. Say what you mean: rethinking disability
+language in adapted physical activity quarterly. Adapt Phys Act Q (APAQ).
+E.E. Andrews, R.M. Powell and K. Ayers
+Disability and Health Journal 15 (2022) 101328
+4
+2014;31:265e282. https://doi.org/10.1123/apaq.2013-0091.
+34. Bickford JO. Preferences of individuals with visual impairments for the use of
+person-ﬁrst language. Rehab Edu Blind Vis Impair. 2004;36:120e126. https://
+doi.org/10.3200/REVU.36.3.120-126.
+35. Lynch RT, Thuli K, Groombridge L. Person-ﬁrst disability language: a pilot
+analysis of public perceptions. J Rehabil. 1994;60:18e22.
+36. Patterson JB, Witten BJ. Disabling language and attitudes toward persons with
+disabilities. Rehabil Psychol. 1987;32(4):245.
+37. Feldman D, Gordon PA, White MJ, Weber C. The effects of people-ﬁrst language
+and demographic variables on beliefs, attitudes and behavioral intentions to-
+ward people with disabilities. J Appl Rehabil Counsel. 2002;33(3):18e25.
+38. Halmari H. Political correctness, euphemism, and language change: the case of
+‘people ﬁrst. J Pragmat. 2011;43(3):828e840.
+39. Gomes M. A study of the effectiveness of people-ﬁrst language. In: Proceedings
+of the 4th Annual Linguistics Conference at University of Georgia. Athens, GA: The
+Linguistics Society at UGA; 2018:; vols. 1e19.
+40. Jaarsma P, Welin S. Autism as a natural human variation: reﬂections on the
+claims of the neurodiversity movement. Health Care Anal. 2012;20(1):20e30.
+https://doi.org/10.1007/s10728-011-0169-9.
+41. Botha M, Hanlon J, Williams GL. Does language matter? Identity-ﬁrst versus
+person-ﬁrst language use in autism research: a response to Vivanti. J Autism
+Dev Disord. 2021:1e9.
+42. Brown LXZ. The Signiﬁcance of Semantics: Person-First Language: Why it Matters;
+2011. Retrieved from https://www.autistichoya.com/2011/08/signiﬁcance-of-
+semantics-person-ﬁrst.html.
+43. Hojati A. A study of euphemisms in the context of English-speaking media. Int J
+Ling. 2012;4(4):552e562. https://doi.org/10.5296/ijl.v4i4.2933.
+44. Gernsbacher MA, Raimond AR, Balinghasay MT, Boston JS. Special needs” is an
+ineffective
+euphemism.
+Cognitive
+Research:
+Principles
+and
+Implications.
+2016;1(1):1e13.
+45. Powell R. I Prefer that You Say I'm “Disabled. DAME; 2019. Retrieved from
+https://www.damemagazine.com/2019/01/15/i-prefer-that-you-say-im-
+disabled/.
+46. Carter-Long L. Nothing Feels Real a Third of the Time. Transcript of Ouch Talk
+Show presented by Kate Monaghan and Simon Minty. British Broadcasting
+Company;
+2017.
+Retrieved
+from:
+https://www.bbc.com/news/disability-
+42223698.
+47. Bogart KR. Disability identity predicts lower anxiety and depression in multiple
+sclerosis. Rehabil Psychol. 2015;60(1):105.
+48. Bogart KR, Rottenstein A, Lund EM, Bouchard L. Who self-identiﬁes as
+disabled? An examination of impairment and contextual predictors. Rehabil
+Psychol. 2017;62(4):553.
+49. Nario-Redmond MR, Noel JG, Fern E. Redeﬁning disability, re-imagining the
+self: disability identiﬁcation predicts self-esteem and strategic responses to
+stigma. Self Ident. 2013;12(5):468e488.
+50. Zapata MA. Group identity in blindness groups predicts life satisfaction and
+lower anxiety and depression. Rehabil Psychol. 2022;67(1):42e52. https://
+doi.org/10.1037/rep0000432.
+51. American Psychological Association. Publication manual of the American Psy-
+chological Association. 2020 (seventh ed.). Washington, DC: (Author).
+E.E. Andrews, R.M. Powell and K. Ayers
+Disability and Health Journal 15 (2022) 101328
+5

@@ -1,0 +1,704 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="mja270183" xml:lang="en" article-type="other" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Med J Aust</journal-id><journal-id journal-id-type="iso-abbrev">Med J Aust</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">MJA2</journal-id><journal-title-group><journal-title>The Medical Journal of Australia</journal-title></journal-title-group><issn pub-type="ppub">0025-729X</issn><issn pub-type="epub">1326-5377</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13077731</article-id><article-id pub-id-type="pmcid-ver">PMC13077731.1</article-id><article-id pub-id-type="pmcaid">13077731</article-id><article-id pub-id-type="pmcaiid">13077731</article-id><article-id pub-id-type="pmid">41979113</article-id><article-id pub-id-type="doi">10.5694/mja2.70183</article-id><article-id pub-id-type="publisher-id">MJA270183</article-id><article-id pub-id-type="other">mja25.01333.R1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="JEL-classification"><subject>Health Services Administration</subject></subj-group><subj-group subj-group-type="JEL-classification"><subject>Information Science</subject></subj-group><subj-group subj-group-type="JEL-classification"><subject>Mental Disorders</subject></subj-group><subj-group subj-group-type="JEL-classification"><subject>Social Determinants of Health</subject></subj-group><subj-group subj-group-type="JEL-classification"><subject>Statistics, Epidemiology and Research Design</subject></subj-group><subj-group subj-group-type="overline"><subject>Perspective</subject></subj-group><subj-group subj-group-type="heading"><subject>Perspective</subject></subj-group></article-categories><title-group><article-title>Advancing Inclusive Design Practice for Queer Youth Using Digital Technologies for Mental Health</article-title></title-group><contrib-group><contrib id="mja270183-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Poulsen</surname><given-names initials="A">Adam</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0001-3894</contrib-id><xref rid="mja270183-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>adam.poulsen@sydney.edu.au</email></address></contrib><contrib id="mja270183-cr-0002" contrib-type="author"><name name-style="western"><surname>Hickie</surname><given-names initials="IB">Ian B.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8832-9895</contrib-id><xref rid="mja270183-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="mja270183-cr-0003" contrib-type="author"><name name-style="western"><surname>Hockey</surname><given-names initials="SJ">Samuel J.</given-names></name><xref rid="mja270183-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="mja270183-cr-0004" contrib-type="author"><name name-style="western"><surname>Iorfino</surname><given-names initials="F">Frank</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1109-0972</contrib-id><xref rid="mja270183-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="mja270183-cr-0005" contrib-type="author"><name name-style="western"><surname>LaMonica</surname><given-names initials="HM">Haley M.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6563-5467</contrib-id><xref rid="mja270183-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="mja270183-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Brain and Mind Centre</named-content>
+<institution>University of Sydney</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">New South Wales</named-content>
+<country country="AU">Australia</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Adam Poulsen (<email>adam.poulsen@sydney.edu.au</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>4</month><year>2026</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2026</year></pub-date><volume>224</volume><issue seq="110">4</issue><issue-id pub-id-type="pmc-issue-id">511575</issue-id><issue-id pub-id-type="doi">10.5694/mja2.v224.4</issue-id><elocation-id>e70183</elocation-id><history>
+<date date-type="rev-recd"><day>10</day><month>2</month><year>2026</year></date>
+<date date-type="received"><day>27</day><month>10</month><year>2025</year></date>
+<date date-type="accepted"><day>05</day><month>3</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>14</day><month>04</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>15</day><month>04</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-04-15 11:25:14.150"><day>15</day><month>04</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Medical Journal of Australia</italic> published by John Wiley &amp; Sons Australia, Ltd on behalf of AMPCo Pty Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="MJA2-224-0.pdf"><?pdf-name MJA2-224-0.pdf?><?pdf-size 341260?><?pdf-md5 99248dceb2523f93ac88e3e3e6b4df2a?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:243e/13077731/99248dceb252/MJA2-224-0.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:MJA2-224-0.pdf"/><abstract><title>ABSTRACT</title><p>Youth mental ill health has increased worldwide, and non‐inclusive technology design practice risks overlooking queer youth. This article calls for greater inclusivity and equity in the design of digital technologies used by queer youth to access mental health resources, support and service pathways across diverse global contexts, including internet‐based tools, digital platforms and digitally enabled therapeutic interventions, such as mobile applications (apps), online services, chatbots and social media. It warns of threats such as persistent invisibility and prejudiced technology design practice markedly affecting mental health equity and access for queer youth. It proposes three key principles to guide practitioners and researchers in designing digital technologies used by queer youth for mental health: (i) partner and design with queer young people; (ii) embed queer theory into research and design; and (iii) design for sustainability. The principles and recommendations presented here are also relevant to other digital health fields and practitioners should consider applying them in their own practice, where appropriate, to advance inclusivity and equity in technology design.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mja270183-kwd-0001">eHealth</kwd><kwd id="mja270183-kwd-0002">gender identity</kwd><kwd id="mja270183-kwd-0003">healthcare disparities</kwd><kwd id="mja270183-kwd-0004">mental health services</kwd><kwd id="mja270183-kwd-0005">research design</kwd><kwd id="mja270183-kwd-0006">social determinants of health</kwd><kwd id="mja270183-kwd-0007">social justice</kwd><kwd id="mja270183-kwd-0008">technology</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Bill &amp; Patricia Richie Foundation</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>National Health and Medical Research Council</institution><institution-id institution-id-type="doi">10.13039/501100000925</institution-id></institution-wrap>
+</funding-source><award-id>GNT2016346</award-id><award-id>GNT2018157</award-id></award-group></funding-group><counts><fig-count count="0"/><table-count count="0"/><page-count count="6"/><word-count count="4600"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.3 mode:remove_FC converted:14.04.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="mja270183-body-0001"><sec id="mja270183-sec-0002"><label>1</label><title>Introduction</title><p>Design is never neutral. As researchers, we did not have to look far to find evidence of queer marginalisation in youth digital mental health design. Here, <italic toggle="yes">queer</italic> is used as an inclusive umbrella term, consistent with research and inclusive language guidance concerning young people [<xref rid="mja270183-bib-0001" ref-type="bibr">1</xref>, <xref rid="mja270183-bib-0002" ref-type="bibr">2</xref>], to describe a heterogeneous and intersectional group who are gender and/or sexually diverse. During co‐design research workshops with young people, conducted as part of our broader participatory research exploring youth digital mental health, our attention was repeatedly drawn to how digital technologies for mental health threaten to reinforce prejudice and exclude nuanced queer identities and experiences. Although the workshops focused on artificial intelligence in youth digital mental health and did not centre on queer identities, the young people reflected on digital technologies for mental health more broadly, asking why they often infer users' gender rather than enabling users to self‐identify their gender and pronouns. Further, they were concerned these technologies would likely demonstrate a binary view of gender and sexuality, perpetuating bisexual and transgender stereotypes and erasure. These reflections offered more than feedback, revealing the quiet, often unnoticed harm of digital exclusion of queer experiences. As digital technologies for mental health proliferate, who gets left behind by design?</p></sec><sec id="mja270183-sec-0003"><label>2</label><title>How Technology Supports Youth Mental Health</title><p>We are in the middle of a global youth mental health crisis. Rising mental ill health is a multifaceted problem impacted by environmental, social, economic, political and technological change stressors and persistent stigma and discrimination about mental health [<xref rid="mja270183-bib-0003" ref-type="bibr">3</xref>, <xref rid="mja270183-bib-0004" ref-type="bibr">4</xref>]. Young people (aged 12–25 years) are particularly at risk, as many mental disorders emerge during developmental stages [<xref rid="mja270183-bib-0005" ref-type="bibr">5</xref>] and are exacerbated by social challenges and inequities, including climate change, employment insecurity, wage theft and intergenerational inequity [<xref rid="mja270183-bib-0003" ref-type="bibr">3</xref>, <xref rid="mja270183-bib-0006" ref-type="bibr">6</xref>]. The issue is further exacerbated by persistently overburdened services [<xref rid="mja270183-bib-0007" ref-type="bibr">7</xref>] and ongoing failures to implement evidence‐based support effectively and in a timely manner [<xref rid="mja270183-bib-0008" ref-type="bibr">8</xref>]. Among the many factors influencing youth mental health, queer experiences stand out as a well‐documented determinant, driven by persistent systemic failures at community, school and family levels to foster inclusivity, acceptance and belonging and to reduce institutional barriers and prejudicial sentiments experienced by queer young people across these contexts [<xref rid="mja270183-bib-0009" ref-type="bibr">9</xref>, <xref rid="mja270183-bib-0010" ref-type="bibr">10</xref>]. Like other underserved groups, such as young Aboriginal and Torres Strait Islander Australians [<xref rid="mja270183-bib-0011" ref-type="bibr">11</xref>], young queer people encounter substantial mental health disparities [<xref rid="mja270183-bib-0012" ref-type="bibr">12</xref>]. Research shows that queer‐identifying youth in Australia experience high rates of depression, anxiety [<xref rid="mja270183-bib-0013" ref-type="bibr">13</xref>], suicidal behaviours and self‐harm [<xref rid="mja270183-bib-0014" ref-type="bibr">14</xref>]. The 2021 Writing Themselves In four surveys of 6418 queer young people in Australia (aged 14–21 years) found that 81% of participants reported high or very high levels of psychological distress, 78% reported having ever had suicidal ideation (58% in the past 12 months), 25% reported having ever had a suicide attempt (10% in the past 12 months) and 62% reported having ever self‐harmed (40% in the past 12 months) [<xref rid="mja270183-bib-0015" ref-type="bibr">15</xref>]. Furthermore, compared with heterosexual and cisgender young people, they face considerable difficulties accessing mental health professionals and peer support [<xref rid="mja270183-bib-0016" ref-type="bibr">16</xref>]. These trends are reflected on the global scale, with research indicating that queer young people are at elevated risk of poor mental health outcomes worldwide [<xref rid="mja270183-bib-0017" ref-type="bibr">17</xref>, <xref rid="mja270183-bib-0018" ref-type="bibr">18</xref>].</p><p>Digital technologies for mental health promise improved outcomes for young people [<xref rid="mja270183-bib-0019" ref-type="bibr">19</xref>], as well as increased access, efficiency and scalability [<xref rid="mja270183-bib-0008" ref-type="bibr">8</xref>, <xref rid="mja270183-bib-0020" ref-type="bibr">20</xref>, <xref rid="mja270183-bib-0021" ref-type="bibr">21</xref>]. Today, young people use a range of digital technologies to access mental health resources, support and service pathways. These include internet search engines, online support services (e.g., BeyondBlue), phone services (e.g., Lifeline), social media platforms (e.g., TikTok and Instagram) and purpose‐built digital mental health technologies (DMHTs) or interventions. DMHTs include, for instance, mobile applications (apps) for mental health self‐management, interactive technologies (e.g., artificial intelligence chatbots) and immersive technologies (e.g., virtual reality) [<xref rid="mja270183-bib-0011" ref-type="bibr">11</xref>]. However, there is limited research at the intersection of diverse queer experiences and digital technologies for mental health [<xref rid="mja270183-bib-0022" ref-type="bibr">22</xref>], with only a small number of studies examining experiences involving, for example, queer‐positive school‐based mental health programmes [<xref rid="mja270183-bib-0023" ref-type="bibr">23</xref>], online knowledge‐seeking [<xref rid="mja270183-bib-0024" ref-type="bibr">24</xref>] and queer‐focused, online mental health services for young people living in rural/remote areas [<xref rid="mja270183-bib-0016" ref-type="bibr">16</xref>]. Worse still, non‐inclusive technology design practice persists, directly affecting the lives of queer young people.</p></sec><sec id="mja270183-sec-0004"><label>3</label><title>Why Traditional Technology Design Practice Falls Short</title><p>Digital technologies, including those used for mental health support and access, often reflect non‐inclusive traditional design practice that overlooks the specific needs, values, expectations, patterns of engagement, user requirements and lived experiences of underserved communities. This problem stems from the persistence of conventional design practice (i.e., ‘the way design is actually done in real‐world design projects, rather than how design is prescribed’ [<xref rid="mja270183-bib-0025" ref-type="bibr">25</xref>]), which promotes greater utility rather than equity [<xref rid="mja270183-bib-0020" ref-type="bibr">20</xref>]. This is demonstrated by, for instance, online algorithms perpetuating prejudice against gender diversity [<xref rid="mja270183-bib-0026" ref-type="bibr">26</xref>], digital technologies continuing to emphasise gender binaries [<xref rid="mja270183-bib-0027" ref-type="bibr">27</xref>] and ‘biased by design’ big data and artificial intelligence solutions in health services failing to incorporate queer voices and account for health disparities, ultimately risking suboptimal outcomes [<xref rid="mja270183-bib-0028" ref-type="bibr">28</xref>]. Overall, these patterns reflect the pervasive embedding of heteronormative assumptions across health technology design [<xref rid="mja270183-bib-0029" ref-type="bibr">29</xref>].</p><p>Despite calls in the research literature and from national governments for greater personalisation and contextualisation of digital technologies for mental health [<xref rid="mja270183-bib-0008" ref-type="bibr">8</xref>], lingering, conventional technology design practice that configures the user as ‘everybody’ [<xref rid="mja270183-bib-0030" ref-type="bibr">30</xref>] excludes queer youth. This exclusion occurs through, for example, user research that treats identity as a single dimension rather than intersectional [<xref rid="mja270183-bib-0031" ref-type="bibr">31</xref>], homogeneous technology development team composition [<xref rid="mja270183-bib-0032" ref-type="bibr">32</xref>] and heteronormative assumptions in design decision‐making [<xref rid="mja270183-bib-0033" ref-type="bibr">33</xref>]. This manifests in, for instance, game‐based digital mental health interventions for young people being designed without features enabling users to customise gender and pronouns, thus failing to recognise gender and/or sexually diverse identities and expressions [<xref rid="mja270183-bib-0034" ref-type="bibr">34</xref>]. Although meaningful efforts to better engage queer communities in the design of digital technologies for mental health are reported in the literature, the extent of their engagement and the impact of their contributions on shaping these technologies are inconsistently reported [<xref rid="mja270183-bib-0035" ref-type="bibr">35</xref>]. Consequently, the potential for purposefully inclusive design in this space (e.g., Rainbow SPARX, which is a computerised cognitive behavioural therapy programme for queer youth [<xref rid="mja270183-bib-0036" ref-type="bibr">36</xref>]) to transform real‐world design practice at scale is limited. Ultimately, this widespread exclusion risks deepening existing inequities experienced by queer youth, disregarding their voices and arguably alienating them from digital mental health resources, support and service pathways. In addition, this exclusion threatens to miss opportunities to realise mental health benefits associated with enabling peer‐to‐peer support, diverse exploration of identity and expression, and safe, queer‐inclusive spaces via digital technologies [<xref rid="mja270183-bib-0037" ref-type="bibr">37</xref>]. Dealing with this issue at the root of technology design practice is critical to advancing digital mental health equity and accessibility for queer youth globally.</p><p>Although human–computer interaction (HCI) is essential to designing for successful user experiences, especially with DMHTs [<xref rid="mja270183-bib-0038" ref-type="bibr">38</xref>], research into the interplay of HCI, mental health and queer youth is limited. Moreover, the scarcity of queer representation in the design of digital technologies for youth mental health research reinforces existing social biases and stigma [<xref rid="mja270183-bib-0039" ref-type="bibr">39</xref>], thereby undermining effectiveness, relevancy, acceptability and uptake by design [<xref rid="mja270183-bib-0030" ref-type="bibr">30</xref>]. For example, design choices that embed gender binary prejudice in biased gender classification algorithms utilised on social media platforms, which this community often uses to access mental health information or peer support [<xref rid="mja270183-bib-0040" ref-type="bibr">40</xref>], may be inappropriately replicated across other digital technologies for mental health if design practice remains stagnant [<xref rid="mja270183-bib-0026" ref-type="bibr">26</xref>]. In fact, this issue is already evident in the design and evaluation of mental health apps, which persistently overlook gender and sexual diversity in both content development and visual representation [<xref rid="mja270183-bib-0041" ref-type="bibr">41</xref>]. The enduring self‐as‐user approach to HCI and technology design, which centres designers themselves as the key user, falls short of an equitable understanding of technology users [<xref rid="mja270183-bib-0042" ref-type="bibr">42</xref>]. This is particularly the case given the homogeneity of the information technology sector workforce, which remains dominated by ‘Global Northern, educated, middle‐class, white, heterosexual, young to middle‐aged men’ [<xref rid="mja270183-bib-0031" ref-type="bibr">31</xref>]. Without equitable technology design practice that appreciates diverse queer experiences, this community remains at the whim of apathetic and potentially harmful systems.</p></sec><sec id="mja270183-sec-0005"><label>4</label><title>Breaking the Cycle</title><p>A substantial shift in design practice is needed to ensure greater inclusivity and equity when designing for queer young users. We propose three key principles for practitioners and researchers to consider when designing digital technologies used by queer youth to access mental health resources, support and service pathways: (i) partner and design with queer young people; (ii) embed queer theory into research and design; (iii) and design for sustainability.</p><sec id="mja270183-sec-0006"><label>4.1</label><title>Partner and Design With Queer Young People</title><p>First, it is essential to incorporate and survey diverse queer voices and experiences. At present, knowledge gaps exist at the intersection of queer youth, HCI and the design and use of digital technologies for mental health, with inadequate engagement with this community and an insufficient understanding of their relevant needs, values, expectations, attitudes and user requirements. Given that this area is underexplored and sensitive, the social and ethical considerations of these technologies within the queer youth mental health care ecosystem remain unclear and thus require investigation. For example, considerations include perceptions about potential added value and possible risks, as well as broader implications for care practice and policy. In line with best practice, researchers and practitioners should adopt a co‐design approach, utilising user‐centred and participatory design techniques to enact the principles of co‐production, within which co‐design represents one component [<xref rid="mja270183-bib-0043" ref-type="bibr">43</xref>]. Co‐designers should emphasise participation, collaboration and power‐sharing by directly involving queer young people in research and design processes and helping to create conditions for developing solutions that meet their needs [<xref rid="mja270183-bib-0044" ref-type="bibr">44</xref>]. Co‐design methods may include workshops, cultural probes, storyboarding, user personas, paper prototyping and think‐aloud activities. Online surveys and A/B testing can be used to support asynchronous, remote or anonymous participation while gathering sensitive feedback regarding identity and inclusivity and accessibility needs and preferences. Crucially, these methods also prioritise safety and privacy, which are key requirements for queer communities in digital mental health design [<xref rid="mja270183-bib-0045" ref-type="bibr">45</xref>]. In addition, these methods also allow for structured and quantifiable feedback on system requirements, such as design features, system functions, information flows, access modalities and user interface preferences, identified by queer young users. Recruiting young people to participate in these processes must account for intersectionality; that is, it must include intersecting identities, particularly those who are marginalised and thus often under‐represented, such as queer Aboriginal and Torres Strait Islander Australian youth, multicultural and multifaith queer young people or queer youth with disability. Importantly, meaningful inclusion of queer youth here requires adequate financial compensation for their expertise and time, as unpaid research and design participation and partnership risks perpetuating inequities [<xref rid="mja270183-bib-0046" ref-type="bibr">46</xref>]. Although this and the other principles proposed here are intended to be globally applicable, their implementation must be adapted to local legal, cultural and social contexts, particularly in settings where queer identities may be heavily stigmatised or criminalised and where safety, anonymity and data protection are paramount. As such, a broad, thoughtful, safe and purposive recruitment strategy is essential, seeking equitable representation of subgroups and intersecting identities, as well as incorporating recruitment through popular online social media platforms, trusted partners (e.g., inclusive health service providers, community organisations and social and advocacy groups), and recruitment services that support anonymous participation [<xref rid="mja270183-bib-0044" ref-type="bibr">44</xref>, <xref rid="mja270183-bib-0047" ref-type="bibr">47</xref>].</p></sec><sec id="mja270183-sec-0007"><label>4.2</label><title>Embed Queer Theory Into Research and Design</title><p>Second, we recommend embedding queer theory principles into research and design practice. Digital mental health needs <italic toggle="yes">queering</italic> to challenge the prevalence of heteronormativity and cisnormativity, confront rigid structures and norms underlying gender and sexuality in mental health and technology design, and better understand, empower and support queer young people's mental health [<xref rid="mja270183-bib-0048" ref-type="bibr">48</xref>]. In this context, queering can be achieved by:
+<list list-type="bullet" id="mja270183-list-0001"><list-item id="mja270183-li-0001"><p>allowing research participants and technology users to assign their gender and pronouns with open‐ended responses to disrupt normative assumptions about identity;</p></list-item><list-item id="mja270183-li-0002"><p>practising reflexivity and documenting any biases and gaps in representation identified to challenge biases in digital technology research, development and design; and</p></list-item><list-item id="mja270183-li-0003"><p>leveraging alternate methods not typically applied to digital mental health, including story circles, body mapping and photovoice (documentation of experiences through photography), to incorporate non‐traditional epistemologies.</p></list-item></list>
+</p><p>Crucially, queering requires appreciating the contextual and fluid nature of queer identity across diverse individuals, accommodating this heterogeneity where feasible, while recognising that designing for intersectionality is inherently iterative. When trade‐offs are necessary, design decisions and their rationales should be documented transparently, and mechanisms for iterative feedback and redesign should be developed. Furthermore, queering necessitates acknowledging that young people's technology practices continuously evolve, demanding critical examination of assumptions regarding usage patterns and accessibility. Embedding queer theory into the design of digital technologies for mental health in this way equips researchers and practitioners with the necessary knowledge, methods and tools to better accommodate and improve access for queer young people engaging with digital technologies for mental health [<xref rid="mja270183-bib-0049" ref-type="bibr">49</xref>].</p></sec><sec id="mja270183-sec-0008"><label>4.3</label><title>Design for Sustainability</title><p>Third, designing for sustainability must be a priority to ensure the equitable and long‐lasting impact of digital technologies on health and well‐being. For often‐excluded communities, it is imperative to develop solutions that align with the sociotechnical systems in which they are deployed, consisting of existing and evolving perceptions, processes, policies, practices and sociocultural dimensions [<xref rid="mja270183-bib-0050" ref-type="bibr">50</xref>]. Designing for sustainability also requires authentic partnership and engagement with queer young users, communities and groups supporting queer young people, mental health service representatives, technology designers and developers, policymakers and standards organisations in design practice through co‐design methods, combined with a diversity, equity and inclusion lens, which in turn extends the reach of digital solutions to marginalised groups [<xref rid="mja270183-bib-0050" ref-type="bibr">50</xref>]. Sustainably designing digital technologies for mental health to benefit queer youth should prioritise context‐fit, co‐design, community partnership building, embedded lived experience researchers and meaningful alignment of ever‐evolving goals, priorities and values [<xref rid="mja270183-bib-0050" ref-type="bibr">50</xref>, <xref rid="mja270183-bib-0051" ref-type="bibr">51</xref>].</p></sec></sec><sec sec-type="conclusions" id="mja270183-sec-0009"><label>5</label><title>Conclusion</title><p>Queer youth using digital technology for mental health remain at risk of invisibility, prejudice and exclusion perpetuated by conventional design practice. Therefore, queer‐inclusive, value‐sensitive technology design practice that seeks to minimise harm, maximise positive engagement and ensure safe, sustainable use of technology for mental health support, resources and service navigation is urgently needed to advance equity and accessibility. The imperative for inclusivity and equity in technology design does not stop at queer youth, nor in digital mental health. The three key principles outlined here must be foundational. By understanding and applying these principles through the lenses of queer youth and digital mental health, practitioners and researchers equip themselves with critical skills needed to embed equity, accessibility and justice into the broader design of digital technologies. Queering youth digital mental health marks only the beginning of a broader wave of transformative, inclusive innovation still to come.</p></sec><sec id="mja270183-sec-0010"><title>Author Contributions</title><p>
+<bold>Adam Poulsen:</bold> conceptualisation, methodology, investigation, writing (original draft), writing (review and editing), visualisation. <bold>Ian B. Hickie:</bold> writing (review and editing), supervision, funding acquisition. <bold>Samuel J. Hockey:</bold> writing (original draft), writing (review and editing). <bold>Frank Iorfino:</bold> conceptualisation, writing (original draft), writing (review and editing), supervision. <bold>Haley M. LaMonica:</bold> conceptualisation, writing (original draft), writing (review and editing), supervision.</p></sec><sec id="mja270183-sec-0011"><title>Funding</title><p>Ian B. Hickie is supported by a National Health and Medical Research Council (NHMRC) L3 Investigator Grant (GNT2016346). Frank Iorfino was supported by an NHMRC EL1 Investigator Grant (GNT2018157). Haley M. LaMonica was supported by funding from the Bill &amp; Patricia Richie Foundation. This work was supported by a philanthropic funding donor affected by mental health who wishes to remain anonymous. The funders played no role in the planning, writing, design, data collection, analysis, interpretation, reporting or publication of this work.</p></sec><sec sec-type="COI-statement" id="mja270183-sec-0015"><title>Disclosure</title><p>Not commissioned; externally peer reviewed.</p></sec><sec sec-type="COI-statement" id="mja270183-sec-0014"><title>Conflicts of Interest</title><p>Ian B. Hickie is a Professor of Psychiatry and the Co‐Director of Health and Policy, Brain and Mind Centre, University of Sydney. He has led major public health and health service development in Australia, particularly focusing on early intervention for young people with depression, suicidal thoughts and behaviours and complex mood disorders. He is active in the development through co‐design, implementation and continuous evaluation of new health information and personal monitoring technologies to drive highly personalised and measurement‐based care. He holds a 3.2% equity share in Innowell Pty Ltd., which is focused on digital transformation of mental health services. Adam Poulsen, Samuel J. Hockey, Frank Iorfino and Haley M. LaMonica have nothing to disclose.</p></sec></body><back><ack id="mja270183-sec-15"><title>Acknowledgements</title><p>Open access publishing facilitated by The University of Sydney, as part of the Wiley ‐ The University of Sydney agreement via the Council of Australasian University Librarians.</p></ack><sec sec-type="data-availability" id="mja270183-sec-0013"><title>Data Availability Statement</title><p>This article includes no original data.</p></sec><ref-list content-type="cited-references" id="mja270183-bibl-0001"><title>References</title><ref id="mja270183-bib-0001"><label>1</label><mixed-citation publication-type="book" id="mja270183-cit-0001">
+<collab collab-type="authors">Minus18</collab>
+, <source>LGBTIQA+ Inclusive Language Guide</source> (<publisher-name>Government of Victoria, Australia</publisher-name>, <year>2025</year>).</mixed-citation></ref><ref id="mja270183-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="mja270183-cit-0002">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hail‐Jares</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Vichta‐Ohlsen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Butler</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Byrne</surname>
+</string-name>, “<article-title>Queer Homelessness: The Distinct Experiences of Sexuality and Trans‐Gender Diverse Youth</article-title>,” <source>Journal of LGBT Youth</source>
+<volume>20</volume> (<year>2023</year>): <fpage>757</fpage>–<lpage>782</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="mja270183-cit-0003">
+<string-name name-style="western">
+<given-names>P. D.</given-names>
+<surname>McGorry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Dalal</surname>
+</string-name>, et al., “<article-title>The Lancet Psychiatry Commission on Youth Mental Health</article-title>,” <source>Lancet Psychiatry</source>
+<volume>11</volume> (<year>2024</year>): <fpage>731</fpage>–<lpage>774</lpage>.<pub-id pub-id-type="pmid">39147461</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2215-0366(24)00163-9</pub-id></mixed-citation></ref><ref id="mja270183-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="mja270183-cit-0004">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Pizzol</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Trott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Butler</surname>
+</string-name>, et al., “<article-title>Relationship Between Severe Mental Illness and Physical Multimorbidity: A Meta‐Analysis and Call for Action</article-title>,” <source>BMJ Mental Health</source>
+<volume>26</volume> (<year>2023</year>): <elocation-id>e300870</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjment-2023-300870</pub-id><pub-id pub-id-type="pmcid">PMC10619039</pub-id><pub-id pub-id-type="pmid">37907331</pub-id></mixed-citation></ref><ref id="mja270183-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="mja270183-cit-0005">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Patel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Saxena</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lund</surname>
+</string-name>, et al., “<article-title>Transforming Mental Health Systems Globally: Principles and Policy Recommendations</article-title>,” <source>Lancet</source>
+<volume>402</volume> (<year>2023</year>): <fpage>656</fpage>–<lpage>666</lpage>.<pub-id pub-id-type="pmid">37597892</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(23)00918-2</pub-id></mixed-citation></ref><ref id="mja270183-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="mja270183-cit-0006">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Iorfino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Carpenter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. P. M.</given-names>
+<surname>Cross</surname>
+</string-name>, et al., “<article-title>Social and Occupational Outcomes for Young People Who Attend Early Intervention Mental Health Services: A Longitudinal Study</article-title>,” <source>Medical Journal of Australia</source>
+<volume>216</volume> (<year>2022</year>): <fpage>87</fpage>–<lpage>93</lpage>.<pub-id pub-id-type="pmid">34664282</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.5694/mja2.51308</pub-id></mixed-citation></ref><ref id="mja270183-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="mja270183-cit-0007">
+<string-name name-style="western">
+<given-names>P. D.</given-names>
+<surname>McGorry</surname>
+</string-name>, “<article-title>The Reality of Mental Health Care for Young People, and the Urgent Need for Solutions</article-title>,” <source>Medical Journal of Australia</source>
+<volume>216</volume> (<year>2022</year>): <fpage>78</fpage>–<lpage>79</lpage>.<pub-id pub-id-type="pmid">34719048</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.5694/mja2.51327</pub-id><pub-id pub-id-type="pmcid">PMC9297896</pub-id></mixed-citation></ref><ref id="mja270183-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="mja270183-cit-0008">
+<string-name name-style="western">
+<given-names>P. D.</given-names>
+<surname>McGorry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Chanen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Hodges</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Alvarez‐Jimenez</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Killackey</surname>
+</string-name>, “<article-title>Designing and Scaling Up Integrated Youth Mental Health Care</article-title>,” <source>World Psychiatry</source>
+<volume>21</volume> (<year>2022</year>): <fpage>61</fpage>–<lpage>76</lpage>.<pub-id pub-id-type="pmid">35015367</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/wps.20938</pub-id><pub-id pub-id-type="pmcid">PMC8751571</pub-id></mixed-citation></ref><ref id="mja270183-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="mja270183-cit-0009">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bailey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Newton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Perry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Grummitt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Goldbach</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Barrett</surname>
+</string-name>, “<article-title>It's Time for Change: Inequities and Determinants of Health‐Related Quality of Life Among Gender and Sexually Diverse Young People in Australia</article-title>,” <source>Quality of Life Research</source>
+<volume>33</volume> (<year>2024</year>): <fpage>1647</fpage>–<lpage>1662</lpage>.<pub-id pub-id-type="pmid">38605187</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11136-024-03633-z</pub-id><pub-id pub-id-type="pmcid">PMC11116229</pub-id></mixed-citation></ref><ref id="mja270183-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="mja270183-cit-0010">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Higa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Hoppe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Lindhorst</surname>
+</string-name>, et al., “<article-title>Negative and Positive Factors Associated With the Well‐Being of Lesbian, Gay, Bisexual, Transgender, Queer, and Questioning (LGBTQ) Youth</article-title>,” <source>Youth Society</source>
+<volume>46</volume> (<year>2014</year>): <fpage>663</fpage>–<lpage>687</lpage>.<pub-id pub-id-type="pmid">25722502</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0044118X12449630</pub-id><pub-id pub-id-type="pmcid">PMC4337813</pub-id></mixed-citation></ref><ref id="mja270183-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="mja270183-cit-0011">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Ridout</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Forsyth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Amon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Navarro</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Campbell</surname>
+</string-name>, “<article-title>The Urgent Need for an Evidence‐Based Digital Mental Health Practice Model of Care for Youth</article-title>,” <source>JMIR Mental Health</source>
+<volume>11</volume> (<year>2024</year>): <elocation-id>e48441</elocation-id>.<pub-id pub-id-type="pmid">38534006</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/48441</pub-id><pub-id pub-id-type="pmcid">PMC11004617</pub-id></mixed-citation></ref><ref id="mja270183-bib-0012"><label>12</label><mixed-citation publication-type="book" id="mja270183-cit-0012">
+<collab collab-type="authors">Royal Australian and New Zealand College of Psychiatrists</collab>
+, <source>Recognising and Addressing the Mental Health Needs of the LGBTIQ+ Population (PS #83)</source> (<publisher-name>Royal Australian and New Zealand College of Psychiatrists</publisher-name>, <year>2021</year>).</mixed-citation></ref><ref id="mja270183-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="mja270183-cit-0013">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pallotta‐Chiarolli</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Martin</surname>
+</string-name>, “<article-title>‘Which Sexuality? Which Service?’: Bisexual Young People's Experiences With Youth, Queer and Mental Health Services in Australia</article-title>,” <source>Journal of LGBT Youth</source>
+<volume>6</volume> (<year>2009</year>): <fpage>199</fpage>–<lpage>222</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="mja270183-cit-0014">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Strauss</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Cook</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Winter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Watson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wright Toussaint</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lin</surname>
+</string-name>, “<article-title>Mental Health Issues and Complex Experiences of Abuse Among Trans and Gender Diverse Young People: Findings From Trans Pathways</article-title>,” <source>LGBT Health</source>
+<volume>7</volume> (<year>2020</year>): <fpage>128</fpage>–<lpage>136</lpage>.<pub-id pub-id-type="pmid">32155380</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/lgbt.2019.0232</pub-id></mixed-citation></ref><ref id="mja270183-bib-0015"><label>15</label><mixed-citation publication-type="book" id="mja270183-cit-0015">
+<string-name name-style="western">
+<given-names>A. O.</given-names>
+<surname>Hill</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lyons</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Jones</surname>
+</string-name>, et al., <source>Writing Themselves in 4: The Health and Wellbeing of LGBTQA+ Young People in Australia. National Report</source>. (Monograph Series Number 124) (<publisher-name>Australian Research Centre in Sex, Health and Society, La Trobe University</publisher-name>, <year>2021</year>), <pub-id pub-id-type="doi">10.26181/6010fad9b244b</pub-id>.</mixed-citation></ref><ref id="mja270183-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="mja270183-cit-0016">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bowman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. N. G.</given-names>
+<surname>Easpaig</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Fox</surname>
+</string-name>, “<article-title>Virtually Caring: A Qualitative Study of Internet‐Based Mental Health Services for LGBT Young Adults in Rural Australia</article-title>,” <source>Rural and Remote Health</source>
+<volume>20</volume> (<year>2020</year>): <fpage>106</fpage>–<lpage>113</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.22605/RRH5448</pub-id><pub-id pub-id-type="pmid">31937107</pub-id></mixed-citation></ref><ref id="mja270183-bib-0017"><label>17</label><mixed-citation publication-type="book" id="mja270183-cit-0017">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bränström</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. L.</given-names>
+<surname>Hughes</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Pachankis</surname>
+</string-name>, “<part-title>Global LGBTQ Mental Health</part-title>,” in <source>Global LGBTQ Health: Research, Policy, Practice, and Pathways</source>, ed. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Hwahng</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Kaufman</surname>
+</string-name>
+</person-group> (<publisher-name>Springer</publisher-name>, <year>2024</year>), <fpage>45</fpage>–<lpage>78</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="mja270183-cit-0018">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Moagi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. E.</given-names>
+<surname>van Der Wath</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Jiyane</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. S.</given-names>
+<surname>Rikhotso</surname>
+</string-name>, “<article-title>Mental Health Challenges of Lesbian, Gay, Bisexual and Transgender People: An Integrated Literature Review</article-title>,” <source>Health SA Gesondheid</source>
+<volume>26</volume> (<year>2021</year>): <elocation-id>1487</elocation-id>.<pub-id pub-id-type="pmid">33604059</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4102/hsag.v26i0.1487</pub-id><pub-id pub-id-type="pmcid">PMC7876969</pub-id></mixed-citation></ref><ref id="mja270183-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="mja270183-cit-0019">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Wies</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Landers</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ienca</surname>
+</string-name>, “<article-title>Digital Mental Health for Young People: A Scoping Review of Ethical Promises and Challenges</article-title>,” <source>Frontiers in Digital Health</source>
+<volume>3</volume> (<year>2021</year>): <elocation-id>697072</elocation-id>.<pub-id pub-id-type="pmid">34713173</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fdgth.2021.697072</pub-id><pub-id pub-id-type="pmcid">PMC8521997</pub-id></mixed-citation></ref><ref id="mja270183-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="mja270183-cit-0020">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Torous</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bucci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. H.</given-names>
+<surname>Bell</surname>
+</string-name>, et al., “<article-title>The Growing Field of Digital Psychiatry: Current Evidence and the Future of Apps, Social Media, Chatbots, and Virtual Reality</article-title>,” <source>World Psychiatry</source>
+<volume>20</volume> (<year>2021</year>): <fpage>318</fpage>–<lpage>335</lpage>.<pub-id pub-id-type="pmid">34505369</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/wps.20883</pub-id><pub-id pub-id-type="pmcid">PMC8429349</pub-id></mixed-citation></ref><ref id="mja270183-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="mja270183-cit-0021">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Uhlhaas</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Torous</surname>
+</string-name>, “<article-title>Digital Tools for Youth Mental Health</article-title>,” <source>NPJ Digital Medicine</source>
+<volume>2</volume> (<year>2019</year>): <fpage>104</fpage>.<pub-id pub-id-type="pmid">31646184</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41746-019-0181-2</pub-id><pub-id pub-id-type="pmcid">PMC6802195</pub-id></mixed-citation></ref><ref id="mja270183-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="mja270183-cit-0022">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Pellegrino</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Patlamazoglou</surname>
+</string-name>, “<article-title>Exploring the Experiences of Young LGBTQA+ Australians' Use of Offline and Online Peer Support</article-title>,” <source>Journal of Homosexuality</source>
+<volume>72</volume> (<year>2025</year>): <fpage>2679</fpage>–<lpage>2701</lpage>.<pub-id pub-id-type="pmid">39655801</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/00918369.2024.2440375</pub-id></mixed-citation></ref><ref id="mja270183-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="mja270183-cit-0023">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Grummitt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bailey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. V.</given-names>
+<surname>Kelly</surname>
+</string-name>, et al., “<article-title>Refining the Universal, School‐Based OurFutures Mental Health Program to Be Trauma Informed, Gender and Sexuality Diversity Affirmative, and Adherent to Proportionate Universalism: Mixed Methods Participatory Design Process</article-title>,” <source>JMIR Pediatrics and Parenting</source>
+<volume>7</volume> (<year>2024</year>): <elocation-id>e54637</elocation-id>.<pub-id pub-id-type="pmid">39167794</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/54637</pub-id><pub-id pub-id-type="pmcid">PMC11375394</pub-id></mixed-citation></ref><ref id="mja270183-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="mja270183-cit-0024">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Marion</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Newnham</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Morgan</surname>
+</string-name>, et al., “<article-title>An Exploration of LGBTQA+ Young People's Coping Strategies When Navigating Suicidal Thoughts and Behaviors</article-title>,” <source>Journal of Homosexuality</source>
+<volume>72</volume> (<year>2024</year>): <fpage>1534</fpage>–<lpage>1558</lpage>.<pub-id pub-id-type="pmid">39146055</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/00918369.2024.2382811</pub-id></mixed-citation></ref><ref id="mja270183-bib-0025"><label>25</label><mixed-citation publication-type="book" id="mja270183-cit-0025">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hornbæk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. O.</given-names>
+<surname>Kristensson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Oulasvirta</surname>
+</string-name>, “<part-title>Design Practice</part-title>,” in <source>Introduction to Human–Computer Interaction</source>, ed. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hornbæk</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>P. O.</given-names>
+<surname>Kristensson</surname>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Oulasvirta</surname>
+</string-name>
+</person-group> (<publisher-name>Oxford University Press</publisher-name>, <year>2025</year>), <fpage>565</fpage>–<lpage>584</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="mja270183-cit-0026">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Fosch‐Villaronga</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Poulsen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Søraa</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. H. M.</given-names>
+<surname>Custers</surname>
+</string-name>, “<article-title>A Little Bird Told Me Your Gender: Gender Inferences in Social Media</article-title>,” <source>Information Processing &amp; Management</source>
+<volume>58</volume> (<year>2021</year>): <elocation-id>102541</elocation-id>.</mixed-citation></ref><ref id="mja270183-bib-0027"><label>27</label><mixed-citation publication-type="book" id="mja270183-cit-0027">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ashcroft</surname>
+</string-name> and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Knowles</surname>
+</string-name>, “<part-title>Beyond Binary: Re‐Imagining Age Using Gender in HCI for Inclusive Design</part-title>,” in <source>CHI EA'25: Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems</source>, ed. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Yamashita</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Evers</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Yatani</surname>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Ding</surname>
+</string-name>
+</person-group> (<publisher-name>ACM</publisher-name>, <year>2025</year>), <fpage>1</fpage>–<lpage>7</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="mja270183-cit-0028">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Norori</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. M.</given-names>
+<surname>Aellen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. D.</given-names>
+<surname>Faraci</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Tzovara</surname>
+</string-name>, “<article-title>Addressing Bias in Big Data and AI for Health Care: A Call for Open Science</article-title>,” <source>Patterns (NY)</source>
+<volume>2</volume> (<year>2021</year>): <elocation-id>100347</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.patter.2021.100347</pub-id><pub-id pub-id-type="pmcid">PMC8515002</pub-id><pub-id pub-id-type="pmid">34693373</pub-id></mixed-citation></ref><ref id="mja270183-bib-0029"><label>29</label><mixed-citation publication-type="book" id="mja270183-cit-0029">
+<string-name name-style="western">
+<given-names>T. S.</given-names>
+<surname>Martinez</surname>
+</string-name> and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Tang</surname>
+</string-name>, “<part-title>Design Implications for Health Technology to Support LGBTQ+ Community: A Literature Review</part-title>,” in <source>Proceedings of the 14th EAI International Conference on Pervasive Computing Technologies for Healthcare</source>, ed. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Munson</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Schueller</surname>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Arriaga</surname>
+</string-name>
+</person-group> (<publisher-name>Association for Computing Machinery</publisher-name>, <year>2021</year>), <fpage>367</fpage>–<lpage>370</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="mja270183-cit-0030">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Poulsen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Fosch‐Villaronga</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Søraa</surname>
+</string-name>, “<article-title>Queering Machines</article-title>,” <source>Nature Machine Intelligence</source>
+<volume>2</volume> (<year>2020</year>): <fpage>152</fpage>.</mixed-citation></ref><ref id="mja270183-bib-0031"><label>31</label><mixed-citation publication-type="book" id="mja270183-cit-0031">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Szlavi</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L. S.</given-names>
+<surname>Guedes</surname>
+</string-name>, “<part-title>Gender Inclusive Design in Technology: Case Studies and Guidelines</part-title>,” in <source>Design, User Experience, and Usability</source>, ed. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Marcus</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Rosenzweig</surname>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Soares</surname>
+</string-name>
+</person-group> (<publisher-name>Springer</publisher-name>, <year>2023</year>), <fpage>343</fpage>–<lpage>354</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0032"><label>32</label><mixed-citation publication-type="miscellaneous" id="mja270183-cit-0032">
+<string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Ulloa‐Estrada</surname>
+</string-name>, <article-title>“LGBTQ+ Representation and Inclusion in the Tech Sector,”</article-title> News Is Out, 2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://newsisout.com/2024/11/lgbtq-representation-and-inclusion-in-the-tech-sector/29038/" ext-link-type="uri">https://newsisout.com/2024/11/lgbtq‐representation‐and‐inclusion‐in‐the‐tech‐sector/29038/</ext-link>.</mixed-citation></ref><ref id="mja270183-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="mja270183-cit-0033">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Teixeira Riggs</surname>
+</string-name>, “<article-title>For Queer Lovers and Friends: An Exploration of Queer Connection by Design in the Lex Mobile App</article-title>,” <source>Feminist Media Studies</source>
+<volume>25</volume> (<year>2025</year>): <fpage>1574</fpage>–<lpage>1592</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="mja270183-cit-0034">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Strauss</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Morgan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wright Toussaint</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Winter</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Perry</surname>
+</string-name>, “<article-title>Trans and Gender Diverse Young People's Attitudes Towards Game‐Based Digital Mental Health Interventions: A Qualitative Investigation</article-title>,” <source>Internet Interventions</source>
+<volume>18</volume> (<year>2019</year>): <elocation-id>100280</elocation-id>.<pub-id pub-id-type="pmid">31890628</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.invent.2019.100280</pub-id><pub-id pub-id-type="pmcid">PMC6926275</pub-id></mixed-citation></ref><ref id="mja270183-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="mja270183-cit-0035">
+<string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Fowler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Buckley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Muir</surname>
+</string-name>, et al., “<article-title>Digital Mental Health Interventions: A Narrative Review of What Is Important From the Perspective of LGBTQIA+ People</article-title>,” <source>Journal of Clinical Psychology</source>
+<volume>79</volume> (<year>2023</year>): <fpage>2685</fpage>–<lpage>2713</lpage>.<pub-id pub-id-type="pmid">37528773</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jclp.23571</pub-id></mixed-citation></ref><ref id="mja270183-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="mja270183-cit-0036">
+<string-name name-style="western">
+<given-names>M. F. G.</given-names>
+<surname>Lucassen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. N.</given-names>
+<surname>Merry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hatcher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. M. A.</given-names>
+<surname>Frampton</surname>
+</string-name>, “<article-title>Rainbow SPARX: A Novel Approach to Addressing Depression in Sexual Minority Youth</article-title>,” <source>Cognitive and Behavioral Practice</source>
+<volume>22</volume> (<year>2015</year>): <fpage>203</fpage>–<lpage>216</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="mja270183-cit-0037">
+<string-name name-style="western">
+<given-names>M. N.</given-names>
+<surname>Berger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Taba</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Marino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. S. C.</given-names>
+<surname>Lim</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Skinner</surname>
+</string-name>, “<article-title>Social Media Use and Health and Well‐Being of Lesbian, Gay, Bisexual, Transgender, and Queer Youth: Systematic Review</article-title>,” <source>Journal of Medical Internet Research</source>
+<volume>24</volume> (<year>2022</year>): <elocation-id>e38449</elocation-id>.<pub-id pub-id-type="pmid">36129741</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/38449</pub-id><pub-id pub-id-type="pmcid">PMC9536523</pub-id></mixed-citation></ref><ref id="mja270183-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="mja270183-cit-0038">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Søgaard Neilsen</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Wilson</surname>
+</string-name>, “<article-title>Combining e‐Mental Health Intervention Development With Human Computer Interaction (HCI) Design to Enhance Technology‐Facilitated Recovery for People With Depression and/or Anxiety Conditions: An Integrative Literature Review</article-title>,” <source>International Journal of Mental Health Nursing</source>
+<volume>28</volume> (<year>2019</year>): <fpage>22</fpage>–<lpage>39</lpage>.<pub-id pub-id-type="pmid">30133096</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/inm.12527</pub-id></mixed-citation></ref><ref id="mja270183-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="mja270183-cit-0039">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Driver</surname>
+</string-name>, “<article-title>Mental Health Service Accessibility for Young People in Rural, Regional, and Remote Areas and Its Implications for Social Work Practice: A Scoping Review Protocol</article-title>,” <source>Social Work in Mental Health</source>
+<volume>22</volume> (<year>2024</year>): <fpage>734</fpage>–<lpage>753</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0040"><label>40</label><mixed-citation publication-type="book" id="mja270183-cit-0040">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Byron</surname>
+</string-name>, <source>LGBTQ+ Young People's Digital Peer Support for Mental Health</source> (<publisher-name>University of Technology Sydney</publisher-name>, <year>2023</year>).</mixed-citation></ref><ref id="mja270183-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="mja270183-cit-0041">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Ramos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Ponting</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Labao</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Sobowale</surname>
+</string-name>, “<article-title>Considerations of Diversity, Equity, and Inclusion in Mental Health Apps: A Scoping Review of Evaluation Frameworks</article-title>,” <source>Behaviour Research and Therapy</source>
+<volume>147</volume> (<year>2021</year>): <elocation-id>103990</elocation-id>.<pub-id pub-id-type="pmid">34715396</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.brat.2021.103990</pub-id></mixed-citation></ref><ref id="mja270183-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="mja270183-cit-0042">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Stumpf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Peters</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bardzell</surname>
+</string-name>, et al., “<article-title>Gender‐Inclusive HCI Research and Design: A Conceptual Review</article-title>,” <source>Foundations and Trends in Human‐Computer Interaction</source>
+<volume>13</volume> (<year>2020</year>): <fpage>1</fpage>–<lpage>69</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="mja270183-cit-0043">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Farr</surname>
+</string-name>, “<article-title>Power Dynamics and Collaborative Mechanisms in Co‐Production and Co‐Design Processes</article-title>,” <source>Critical Social Policy</source>
+<volume>38</volume> (<year>2017</year>): <fpage>623</fpage>–<lpage>644</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="mja270183-cit-0044">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Delmonaco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Paneda</surname>
+</string-name>, et al., “<article-title>Community‐Engaged Participatory Methods to Address Lesbian, Gay, Bisexual, Transgender, Queer, and Questioning Young People's Health Information Needs With a Resource Website: Participatory Design and Development Study</article-title>,” <source>JMIR Formative Research</source>
+<volume>7</volume> (<year>2023</year>): <elocation-id>e41682</elocation-id>.<pub-id pub-id-type="pmid">37676709</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/41682</pub-id><pub-id pub-id-type="pmcid">PMC10514765</pub-id></mixed-citation></ref><ref id="mja270183-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="mja270183-cit-0045">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gomes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Tsiouris</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Jung</surname>
+</string-name>, et al., “<article-title>Needs and Expectations Associated With an e‐Mental Health Intervention for Reducing Somatoform, Anxiety, and Depressive Symptoms in Sexual and Gender Minority Adults: Qualitative Participative Study</article-title>,” <source>JMIR Formative Research</source>
+<volume>9</volume> (<year>2025</year>): <elocation-id>e65834</elocation-id>.<pub-id pub-id-type="pmid">40938641</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/65834</pub-id><pub-id pub-id-type="pmcid">PMC12475875</pub-id></mixed-citation></ref><ref id="mja270183-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="mja270183-cit-0046">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Henrickson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Giwa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hafford‐Letchfield</surname>
+</string-name>, et al., “<article-title>Research Ethics With Gender and Sexually Diverse Persons</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>17</volume> (<year>2020</year>): <fpage>6615</fpage>.<pub-id pub-id-type="pmid">32932832</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph17186615</pub-id><pub-id pub-id-type="pmcid">PMC7559910</pub-id></mixed-citation></ref><ref id="mja270183-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="mja270183-cit-0047">
+<string-name name-style="western">
+<given-names>J. N.</given-names>
+<surname>Parker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Hunter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Bauermeister</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. E.</given-names>
+<surname>Bonar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Carrico</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Stephenson</surname>
+</string-name>, “<article-title>Comparing Social Media and In‐Person Recruitment: Lessons Learned From Recruiting Substance‐Using, Sexual and Gender Minority Adolescents and Young Adults for a Randomized Control Trial</article-title>,” <source>JMIR Public Health and Surveillance</source>
+<volume>7</volume> (<year>2021</year>): <elocation-id>e31657</elocation-id>.<pub-id pub-id-type="pmid">34855613</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/31657</pub-id><pub-id pub-id-type="pmcid">PMC8686481</pub-id></mixed-citation></ref><ref id="mja270183-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="mja270183-cit-0048">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Watson</surname>
+</string-name>, “<article-title>Queer Theory</article-title>,” <source>Group Analysis</source>
+<volume>38</volume> (<year>2005</year>): <fpage>67</fpage>–<lpage>81</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0049"><label>49</label><mixed-citation publication-type="book" id="mja270183-cit-0049">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Spiel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Keyes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Walker</surname>
+</string-name>, et al., “<part-title>Queer(Ing) HCI: Moving Forward in Theory and Practice</part-title>,” in <source>Conference on Human Factors in Computing Systems</source>, ed. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Brewster</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Fitzpatrick</surname>
+</string-name>
+</person-group> (<publisher-name>ACM</publisher-name>, <year>2019</year>), <fpage>1</fpage>–<lpage>4</lpage>.</mixed-citation></ref><ref id="mja270183-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="mja270183-cit-0050">
+<string-name name-style="western">
+<given-names>B. M.</given-names>
+<surname>Kwan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Brownson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. E.</given-names>
+<surname>Glasgow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. H.</given-names>
+<surname>Morrato</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Luke</surname>
+</string-name>, “<article-title>Designing for Dissemination and Sustainability to Promote Equitable Impacts on Health</article-title>,” <source>Annual Review of Public Health</source>
+<volume>43</volume> (<year>2022</year>): <fpage>331</fpage>–<lpage>353</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-publhealth-052220-112457</pub-id><pub-id pub-id-type="pmcid">PMC9260852</pub-id><pub-id pub-id-type="pmid">34982585</pub-id></mixed-citation></ref><ref id="mja270183-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="mja270183-cit-0051">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Faggini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bruno</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Parziale</surname>
+</string-name>, “<article-title>Creating Value for a Sustainable Healthcare: The Role of Digital Platforms</article-title>,” <source>Journal of Creating Value</source>
+<volume>7</volume> (<year>2021</year>): <fpage>170</fpage>–<lpage>182</lpage>.</mixed-citation></ref></ref-list></back></article>

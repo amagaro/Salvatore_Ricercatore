@@ -1,0 +1,1163 @@
+Citation: Chidiac, S.E.; Reda, M.A.;
+Marjaba, G.E. Accessibility of the Built
+Environment for People with Sensory
+Disabilities—Review Quality and
+Representation of Evidence. Buildings
+2024, 14, 707. https://doi.org/
+10.3390/buildings14030707
+Academic Editor: Yung Yau
+Received: 25 January 2024
+Revised: 27 February 2024
+Accepted: 1 March 2024
+Published: 6 March 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+buildings
+Review
+Accessibility of the Built Environment for People with Sensory
+Disabilities—Review Quality and Representation of Evidence
+S. E. Chidiac 1,*
+, M. A. Reda 1 and G. E. Marjaba 2
+1
+Department of Civil Engineering, McMaster University, 1280 Main Street West, Hamilton, ON L8S 4L7,
+Canada; redam1@mcmaster.ca
+2
+Engineers in Motion Inc., 3 Sumac St., Ottawa, ON K1J 6P8, Canada
+*
+Correspondence: chidiac@mcmaster.ca
+Abstract: People with sensory disabilities constitute a significant portion of society whose accessibility
+needs must be prioritized in the design of the built environment. Sensory disabilities cause a gap in
+the environmental information received, most commonly visual and/or auditory cues, that requires
+consideration to create equal opportunities and experiences for all. This paper evaluates the quality
+and representation of existing research on accessibility for people with sensory disabilities, aiming
+to identify gaps and inconsistencies in current studies. By considering variations in disability type,
+degree of impairment, and assistive aid usage, we seek to enhance the development of inclusive
+accessibility standards. Through this analysis, we aim to provide actionable insights for future
+research and contribute to the creation of more equitable built environments for all individuals.
+Keywords: built environment; sensory disability; d/Deaf; visual; accessibility
+1. Introduction
+Sensory disabilities, stemming from various neurological disorders affecting sensory
+information processing, encompass a spectrum of impairments, including visual impair-
+ments ranging from legal blindness to total blindness and hearing loss spanning mild to
+profound deafness [1–5]. Because of these disabilities, the individuals are missing key
+environmental information that makes navigating, communicating, and managing their
+daily chores and safety more difficult. According to the 2017 Canadian Survey on Disabil-
+ity (CSD), an estimated 1.5 million individuals have vision disabilities, while 1.3 million
+experience hearing impairments [6]. Consequently, ensuring equal opportunities in the
+built environment becomes imperative, necessitating the translation of environmental
+information into accessible formats [7].
+People with visual disabilities encounter challenges in navigating spaces safely, relying
+heavily on wayfinding strategies and memorization of pathways and landmarks [8,9].
+Designing for visual impairment requires nuanced consideration, acknowledging the
+varying degrees of blindness and corresponding assistive tools, such as guide dogs or
+white canes [10]. However, despite these challenges, there remains a dearth of systematic
+research investigating the specific barriers faced by individuals with visual impairments
+in orientation and navigation within built environments, highlighting a crucial gap in the
+literature [7,8,11–20].
+People with hearing disabilities are presented with barriers to their communication,
+especially when considering the signing population, and much of the associated research
+focuses on the social aspect of accessibility within the interior environment. Communication
+through visual means is one of the key features to accommodate the hard-of-hearing
+community, regardless of whether the individual uses assistive hearing devices, lip-reading,
+or sign language [19,21–23].
+Overall, many of these gaps are attributed to several factors, such as the wide spectrum
+of different disabilities leading to different perspectives on their needs [24]. Additionally,
+Buildings 2024, 14, 707. https://doi.org/10.3390/buildings14030707
+https://www.mdpi.com/journal/buildings
+Buildings 2024, 14, 707
+2 of 19
+inadequate planning, a lack of enforcement of the available guidelines and policies by the
+relevant authorities [12,13], or a lack of awareness and training of the needs and behaviors
+of people with sensory disabilities result in overlooking them in several situations in the
+built environment [7,10,13,17,19,25–27]. Moreover, in many cases, the problem is due
+to the lack of involvement of these individuals and accounting for their perspective in
+the dialogues or during the planning and designing of the standards [15,28,29], or due
+to the limited representation of their experiences by using nonrepresentative, small, or
+non-random samples in the interviews or surveys [8,10,15,30,31].
+This study aims to assess the quality, consistency, and completeness of research papers
+on accessibility for people with sensory disabilities in the built environment. The assess-
+ment methodology is adapted from CERQual (Confidence in Evidence from Reviews of
+Qualitative research) with the aim of establishing a degree of confidence in the evidence
+and the extent of its representation [32–35]. The methodology consists of the following
+steps. The first step was to conduct an extensive search of the literature, which includes
+refereed journal papers and conferences. Secondly, a representative sample of the papers
+published in refereed journals and conferences was selected for an in-depth review. The
+review focuses on the objectives and scope, methodology, assumptions, representativeness
+of the sample surveyed and/or included in the experiments, findings, deductive reasoning,
+conclusions, and recommendations. Thereafter, the quality and shortcomings of the rele-
+vant research were identified, and their impact on developing guidelines and standards for
+a barrier-free built environment for people with sensory disabilities was discussed. The
+reviewed papers were grouped based on the following built environments: pedestrian
+infrastructure, outdoor environments, and indoor environments.
+2. People with Visual Disabilities and Accessibility of the Built Environment
+The built environment has been designed by sighted people for sighted people to
+navigate and access, leaving people with visual impairments struggling to gather the sen-
+sory information needed to orient themselves properly within the environment [14,28,31].
+Failing to consider the accessibility needs of the visually impaired, the built environment
+becomes hazardous and their daily activities difficult. The research pertaining to visual
+disabilities and the built environment was categorized into three main themes: pedestrian
+infrastructure, outdoor environments, and indoor environments.
+2.1. Pedestrian Infrastructure
+Pedestrian infrastructure refers to the built environment that surrounds walking envi-
+ronments, such as sidewalks, crosswalks, and curbs. For people with visual impairments,
+pedestrian infrastructure also includes accessibility features such as tactile paving, blister
+blocks, and orientation blocks. Pedestrian infrastructure and mobility are where much of
+the research is focused for the visually impaired, due to the complex environment that
+impacts the mobility, safety, and accessibility of these environments. One of the most im-
+portant accessibility requirements of the pedestrian environment for the visually impaired
+is to facilitate their ability to orient themselves and reach a destination safely.
+Atkin investigated the effect of degrees of sight loss on the navigation of urban
+environments and what improvements can be made for a safer and more comfortable
+experience [36]. The study included interviews with professionals and observed journeys
+for eight participants with visual impairments in and around London while sharing their
+wayfinding strategies on usual unaccompanied trips, using street features and landmarks,
+as well as their level of comfort throughout the journey. Among the participants, there
+were three long cane users, three residual sight users, and two guide dog users. Five of
+them had undergone formal mobility training. The recommendations for each group of
+participants were then developed based on these interviews. The study highlighted the
+similarities and differences between participants’ needs based on the mental maps they
+created to predict their environment. Participants stressed the need for signal-controlled
+crossings, audible signals, or tactile control boxes/rotating cones, and to have smooth,
+Buildings 2024, 14, 707
+3 of 19
+obstacle-free streets to reduce the risk of collisions during their trips. On the other hand,
+due to variations in sight loss, assistive mobility aids, wayfinding techniques, training
+received, and personal preferences for streets’ configurations, many discrepancies in the
+design requirements of the pedestrian infrastructure were underlined. For instance, while
+residual sight users have issues identifying the height of curbs, both long cane and guide
+dog users prefer the use of curbs to provide them with a more distinguishable difference
+between roadways and sidewalks. Also, long cane users prefer sidewalks that are not
+excessively wide, whereas wide sidewalks are best for guide dogs and residual sight users.
+These discrepancies confirm the necessity to improve the effectiveness of tactile paving
+guidance and provisions that account for the different grades of sight loss and assistive
+devices. In addition, it is important to make use of natural cues for a safer and more
+predictable environment with even unobstructed pathways. It is worth mentioning here
+that although this study focuses on understanding the differences between the different
+groups of the visually impaired, it was conducted on a small sample size; therefore, the
+accuracy of the recommendations should be further reviewed with larger groups.
+A study conducted by Tennøy et al. aims to assess the quality of current Norwegian
+standards in the planning and design processes of tactile paving systems and their effi-
+ciency in the accessibility of the visually impaired community [37]. The review included
+a comprehensive review of 36 Norwegian and international standards, handbooks, and
+guidelines. Additionally, it featured in-depth interviews with 20 individuals representing
+governmental authorities, organizations associated with people with visual impairments,
+and practitioners playing a role in facilitating built environments. Furthermore, two semi-
+nars were held with 21–26 attendees representing stakeholders involved in or working with
+facilitation for people with visual impairments, and a case study was conducted examining
+the previous work in a preselected bus terminal. The results of the study showed that
+many of the standards prioritized natural lead lines over specialized tactile paving and only
+suggested their use where warning is required or when natural cues are not adequately
+available. Based on the literature, people with visual impairments usually tend to train
+themselves using the naturally available elements for better wayfinding and orientation.
+However, the standards did not provide details on how safe and accessible built envi-
+ronments should be designed using natural leading elements. Instead, specialized tactile
+paving was described in more detail, especially in complex situations. Additionally, the
+results looked at whether implementing universal design can be an adequate solution and
+pointed out several challenges due to the variability in understanding universal design re-
+quirements among stakeholders, in addition to discrepancies between projects that interfere
+with one another and the delays in consideration of universal design in the planning and
+design stages. The findings implied a significant gap in knowledge on how people with
+visual impairments navigate in complex pedestrian environments, utilize physical elements
+in the environment, and how the design of the built environment can make it more usable
+for them. The study provided recommendations such as involving more practitioners and
+institutions engaged in mobility training for people with visual impairments in the research
+and providing training for practitioners involved in planning, designing, constructing,
+operating, and maintaining built environments.
+Havik et al. performed a comparative field study and interviews investigating the
+wayfinding performance of 25 people with visual impairments in two shared spaces com-
+pared to two traditional spaces [38]. Shared spaces are a new design concept, also known
+as complete streets, where the goal is to help integrate the motorized road with an inclusive
+pedestrian environment. The participants ranged in the degree of their impairment, with
+a spectrum covering complete blindness to low vision, their age ranging between 19 and
+69 years, and their assistive mobility aids, with five dog and long cane guide users, 15
+long cane users, and five without any mobility aid. The participants had to complete a
+route, each containing one crossing, one or two turns, and walking parallel to the road. The
+walking of the routes was observed from the opposite side of the road, which included a
+schematic map of the path taken by the person with visual impairment. The test leader
+Buildings 2024, 14, 707
+4 of 19
+walked approximately 1–2 m behind the participant to intervene if the person required
+assistance. Assistance was given in circumstances where a participant was unaware that
+they had begun walking into traffic. The comparative field study results showed that
+navigating in an unfamiliar shared-space area is more complicated for people with visual
+impairments than navigating in an unfamiliar conventional area, as orientation is the main
+challenge in such areas. In shared spaces, the person with visual impairment, on average,
+took more time to complete the route, had a lower preferred walking speed, and rated the
+shared space design more negatively. The fully blind participants also required assistance
+during the route in all the shared spaces tested, as there was no curb dividing the sidewalk
+from the roadway. Shared spaces were consistently rated as feeling less safe, and people
+with visual impairments would not want to complete the trip independently. This research
+highlights a need for the concept of shared spaces to be addressed from the point of view
+of a disability to promote the idea of true space. This study was limited to four spaces in
+total, whereas studies with a larger sample size representing the full spectrum are needed
+to determine the full extent of the effects on the visually impaired population.
+A survey focusing on the outdoor travel experience and the mobility-related barriers
+that people with visual impairments experience was conducted by Zeng [39]. A focus was
+also placed on the role of mobile devices and GPS technology and their impact on aiding the
+visually impaired with outdoor travel. Ninety-seven participants took part in the survey
+with varying degrees of impairment, with 64 participants being blind and 33 participants
+with low vision. The survey questions focused on the outdoor travel experience and the
+use of assistive technologies. For barriers that people with visual impairments experienced
+within the city, the survey emphasized their experiences when they travelled independently.
+Most of the participants presented the issues of public transport stops lacking auditory in-
+formation (82.4%) and traffic lights without an audio output (81.4%). Other common issues
+presented by the participants were the failure to find the entrance of a building (64.9%),
+ill-formed and irregular sidewalks (58.7%), falling from unknown stairs (47.4%), getting
+lost (45.3%), falling because of an unknown hole (44.3%), and complex pedestrian crossings
+(43.4%). One of the major findings of this study is that 36% of the blind and 21% of the
+low-vision individuals were not able to navigate and orient themselves independently and
+needed sighted companions to help. This highlights the need to improve the built area for
+pedestrian infrastructure via accessible facilities and assistive aids. This research was solely
+focused on understanding the mobility-related areas without providing recommendations
+on remediation, but it highlighted many areas of the built pedestrian environment that
+cause barriers to accessibility for the visually impaired. Additionally, the study revealed
+that the current GPS systems lack the up-to-date map and environmental accessibility data
+needed for people with visual impairments. This survey identifies areas that need to be
+addressed, but the sample size is a small representation biased toward the infrastructure
+available in developing countries. This may have influenced the results, as other issues
+may be more prominent in these areas in developed countries.
+A study conducted by Inagaki et al. examined the installation of newly designed
+orientation blocks and the effectiveness of their placement to facilitate people with visual
+impairments at crosswalks [40]. These orientation blocks provide great guidance while
+crossing the roadway if they are placed in the proper position relative to the tactile walking
+surface indicators. The main problem is that tactile blocks are often not placed perpendicu-
+lar to the crossing, which confuses the person with visual impairment when walking off
+the crossing. Using an experimental setup, 21 people who are totally blind examined the
+position of the orientation blocks relative to the blister tactile blocks. The participants were
+then video recorded to observe their walking trajectory. The orientation blocks were placed
+8 cm, 12 cm, and 16 cm from the blister block, and then the deviation was measured at
+the 10 m mark. The results of the experiment showed that separating the orientation and
+blister tactile blocks by about 8–12 cm effectively limits the lateral deviation of 5 m from
+the start point of the crossing.
+Buildings 2024, 14, 707
+5 of 19
+The physical attributes that affect the walkability of the environment were investigated
+by Bona Frazila and Zukhurf [41]. The research was conducted by interviewing blind and
+people with visual impairments and performing statistical modelling on the facilities
+required for walkability. Two surveys were conducted to thoroughly understand the
+perspective of blind pedestrians and the key physical elements that impact their walkability.
+To evaluate the effect of each physical attribute on walkability, a linear correlation between
+them was assumed, in addition to the perspective of the blind individuals about the
+importance of the facilities that needed to be provided. Walkability was found to be
+affected by the effective width of the sidewalk, pavement condition, including tactile
+guidance, crossing facilities, and sidewalk level, physical guidance such as tactile guidance
+and Braille information, and security and safety facilities. These physical attributes need
+to be carefully considered during the planning phase of the pedestrian facilities to serve
+walkers with visual disabilities.
+2.2. Outdoor Environments
+Outdoor environments such as city parks present unique challenges to the visually
+impaired, as there is less information available to them. These types of environments often
+bring out feelings of discomfort and a need to rely on a sighted guide to use these spaces.
+The overall area has not been researched as heavily as other areas of visual disabilities.
+Siu performed a case study on the urban parks in Hong Kong with 12 people with
+visual impairments to determine the overall accessibility of the park and the key directions
+that lead to complete social inclusion for everyone [42]. The participants were interviewed
+to understand the overall accessibility of urban parks, and a combination of site studies
+and field observations were used during these interviews. Government officials and
+planners were also interviewed to understand the current standards. Six parks of various
+sizes in three different districts of Hong Kong were visited. The inaccessibility of urban
+parks for the visually impaired was found to be related to three main areas: identifying
+and approaching parks, the overall environmental setting, and the facilities inside the
+parks. The participants had accessibility issues identifying and approaching parks, as they
+experienced mental stress from trying to locate the park and often had to memorize the
+route to the park. They often had difficulty entering the park independently or without the
+help of a sighted guide. The overall environmental settings of the park were found to be
+inaccessible due to the lack of tactile information about direction and orientation, and little
+to no auditory information was available. Information about the facilities within the park
+and their accessibility was often not provided. Therefore, the study suggested providing
+further assistance by categorizing the information into in-advance and on-site. Although
+the research highlighted the problem of the limited and poor-quality support provided for
+people with visual impairments to navigate urban parks independently, it only considered
+a small sample size of 12 participants.
+The barriers that limit the experience of people with visual impairments exploring the
+outdoor environment, in addition to the role of technology in improving these experiences,
+were investigated by Bandukda et al. [43]. After interviewing seven people with complete
+blindness and using thematic analysis, common threads and themes were identified. The
+participants varied in their location and age (20–60 years). The interviews, which were
+conducted over the phone and video calls, contained generic and specific questions about
+the participants’ experiences. Three key themes were analyzed: independence, knowledge
+of the environment, and sensory experiences. The “independence” of a person with visual
+impairment is often negatively impacted by the lack of wayfinding information and land-
+marks, which makes the outdoor environment more physically and mentally demanding.
+The “knowledge of the environment” theme reflected the fact that a person with visual
+impairment will almost always need to be accompanied by a sighted companion. The need
+for the sighted guide stems not only from a need for help with orientation but also for a
+description of the visual environment. Finally, the “sensory experiences” theme helped
+people with visual impairments identify the environment around them. These sensory
+Buildings 2024, 14, 707
+6 of 19
+characteristics can be a change in tactile sensation from the ground, sounds of flowing
+water, and sounds from birds, which help indicate the presence of trees. The study revealed
+the gap between existing technology and human–computer interaction (HCI) research
+in outdoor environments, the need to provide an independent navigating experience for
+people with visual impairments in outdoor environments without the need for sighted
+companions, and the lack of natural landmarks and clues that force the people with visual
+impairments to use navigation apps that lack accessibility features. One of the interesting
+findings of the paper is the discrepancies between the perspectives of different individuals
+when describing their needs.
+2.3. Indoor Environments
+Navigating indoor environments represents the biggest challenge for people with
+visual impairments, especially when exploring unfamiliar spaces without clear guidance
+and the availability of assistive aids [16,44]. Jeamwatthanachai et al. performed a survey to
+understand the challenges, behaviors, and strategies used by the visually impaired when
+navigating an unfamiliar indoor environment [45]. The survey included 45 participants of
+whom 15 experts and 30 people with visual impairments commented on the accessibility
+of the indoor environments. Of the 30 people with visual impairments, 22 self-reported
+as blind/severely sight impaired, and eight participants were sighted impaired/partially
+sighted. Both the sighted and visually impaired completed 18 questions, which were split
+into five categories regarding indoor navigation by the visually impaired. Five types of
+buildings were examined, which were further broken down into four room types and
+analyzed based on the level of difficulty and confidence in using the space. Every person
+with a visual impairment was asked to rate the level of difficulty (easy, moderate, or hard)
+and their level of confidence in navigating space (no confidence or confidence). After rating
+the buildings and spaces, they were asked to give comments on their reasons for the level of
+difficulty or lack of confidence in navigating the space. The results of the study confirmed
+that the main challenge facing people with visual impairments is the fear of navigating
+unfamiliar indoor spaces independently and the time it takes them to become familiar with
+the space. Therefore, they need to have a sighted guide before building the confidence
+to explore these spaces with the help of assistive aids. The recommendations are to have
+different alternatives for navigation that help them to develop confidence and create a safer
+environment, in addition to providing information about the obstacles and barriers that
+might impede their accessibility with the help of landmarks and environmental cues such
+as light, noise, and smell. The study showed that certain types of buildings and sizes of
+rooms do cause a large difficulty in the accessibility of the indoor environment. While the
+deduced conclusions and recommendations are useful, they were based on a very small
+sample size that may not be representative of all people with visual impairments.
+3. People with Hearing Disabilities and Accessibility of the Built Environment
+The everyday built environment is not typically designed for auditory cues, even
+though they play a large role in the ability to communicate within space. As communication
+is often done verbally, those in the d/Deaf community may be unable to communicate
+if visual cues are unavailable. Our research revealed that much of the research related
+to sensory disabilities focuses on visual impairments, and fewer studies investigate the
+requirements of people with hearing impairments. Furthermore, indoor environments
+appear to cause more barriers for people in the d/Deaf community. Without actively
+creating a barrier-free space, the ability of people with hearing impairments to communicate
+with others when indoors will remain limited. The issues presented in indoor environments
+for people who are d/Deaf are largely related to communication and safety. Since most of
+the barriers to accessibility that the d/Deaf community experiences are related to social
+problems, most of the research related to the built environment is looking at how to improve
+barriers to social problems, such as improving communication.
+Buildings 2024, 14, 707
+7 of 19
+As an attempt to cope with and improve the surrounding indoor environments for
+the d/Deaf community, DeafSpace was introduced in 2005 as a set of architectural de-
+sign space principles that account for a correlation between the built environment and
+the senses [21,46]. The principles of DeafSpace were collaboratively developed by the
+hearing architect Hansel Bauman and students at Gallaudet University, an American uni-
+versity designed for the accommodation of students who are d/Deaf. The five concepts
+of the DeafSpace are “Sensory Reach” by utilizing visual cues to promote awareness of
+the surroundings, “Space and Proximity” by maintaining appropriate distance during con-
+versations to accommodate the signing space, “Mobility and Proximity” through keeping
+an adequate signing space between individuals walking while talking, “Light and Color”
+through modulating natural light attuned to d/Deaf eyes, and finally “Acoustics” through
+minimizing sources of background noise. Edwards and Harold [21] discussed the principle
+of DeafSpace relative to the concept of Universal Design. While Universal Design focuses
+on providing standardized and universal barrier-free spaces for all types of people, it was
+criticized for failing to consider the particularities of the d/Deaf community. The study
+highlighted some of the criticisms of DeafSpace. Due to the limited number of buildings
+adopting the DeafSpace design, it may not meet the end goals of the users. An example
+is the implementation of curved corners, which are designed to allow the d/Deaf to see
+farther around them and avoid having people bump into each other, but in practice, people
+tend to hug the corner. Overall, DeafSpace emphasizes flexible and innovative designs that
+account for acoustic environments and that should not conflict with Universal Design, yet
+understanding their relationship together will require time. There are still uncertainties
+about the spaces DeafSpace can produce specifically for the d/Deaf community; otherwise,
+it will just remain a set of rules and principles.
+The reliance on visual emphasis has been criticized in Western architecture as it
+alienates people with different needs. For that reason, Pérez Liebergesell et al. investigated
+the potential to connect people by exploring the experiences of George Balsley, an architect
+who is d/Deaf who utilized vision in his designs reflecting the interaction of visual and
+spatial dynamics in sign language [23]. The study was based on interviews and observations
+about the design of his building, the Sorenson Language and Communication Center (SLCC)
+in Washington, DC. The SLCC resides at Gallaudet University; therefore, its accessible
+design for the d/Deaf community is highly important. It is important to note that only the
+architect was included in the interview to understand his design. The goal of this study
+was to understand the designs that Balsley implemented to increase the accessibility of
+the building for the d/Deaf community. Balsley noted that one of the main concepts to
+consider when designing a space for the d/Deaf is the need for visual communication and
+the space required to implement it. To have the required space for visual communication,
+it is necessary to design elements such as open spaces, glass walls, rounded corners, and
+automatic closing doors. The d/Deaf community is reliant on visual cues to experience
+their environment, which leads to the design being focused on translating sounds into
+visual cues. The SLCC building shows this with the decision to move the elevator into the
+center of the atrium and make it clear so that individuals who are d/Deaf can see if the
+elevator is moving or not.
+To further investigate the visual needs the d/Deaf community relies on when using
+sign language, Azalia et al. discussed the concept of spatial proximity and what space con-
+figurations can support their communication in public places like cafés [47]. Proxemic space
+considers not only the amount of space needed for sign language but also the preferred
+distance that the conversations take place at for the comfort of the individual. Anthropolo-
+gist Edward Hall introduced the concept of interpersonal distances characterizing Western
+culture, where the proxemic zones are broken up into four categories: intimate, personal,
+social, and public space [48]. These proxemic zones stem from the tactile and visual reach
+needed to communicate. When designing layouts within buildings to accommodate the
+d/Deaf community, the target zones for design are the personal, social, and public spaces.
+Personal space is considered 46–120 cm of sensory reach, and it is the optimal space for sign
+Buildings 2024, 14, 707
+8 of 19
+language and lip reading with friends and family. Social Space is considered 120–370 cm,
+which is optimal space for sign language between acquaintances. Public space is considered
+any space above 370 cm. The results were used to analyze Kopi Tuli, a café for the d/Deaf
+community, and the observations showed that providing a variety of proxemic zones,
+with the arrangement of tables and furniture and the use of semi-reflective surfaces and
+transparent materials, allowed for a variety of the d/Deaf community to feel comfortable
+while still having easy communication. This is shown by the variety of social and public
+proxemic zones being available, allowing the d/Deaf community to pick the areas that feel
+comfortable and accessible to them. It is important to note that the experiment took place
+in a café considered a place for the d/Deaf community.
+Another study was conducted by O’Brien, where five academics who are d/Deaf were
+interviewed to understand and experience how the academics who are d/Deaf navigate
+the physical environments of their workplaces at Higher Education Institutes (HEI) [22].
+With the concept of DeafSpace expanding into how individuals who are d/Deaf change
+their environment, many individuals in HEI must adapt their workspace to fit their needs.
+The walking interviews provided the ability to see how sign language communication is
+affected by the built environment, or the DeafSpace concept of perceived space. Several
+of the hallways and pathways did not provide enough width for two signing individuals
+to walk side by side, as there was not enough space to comfortably articulate and see
+the whole signing space. Another barrier to the accessibility of pathways and hallways
+was the obstacles, which needed O’Brien or the participant to guide each other around
+during the conversation. Adaptation within the perceived space is also important for
+the safety and accessibility of people who are d/Deaf. Examples of these adaptations
+include fire alarms with flashing lights, flashing doorbells, or fire alarms that connect to
+the individual’s phone. The DeafSpace principles often cause a conflict between d/Deaf
+and hearing values, such as the concept of tactile sensation from floorboards. While the
+tactile sensation helps the d/Deaf identify people around them, they also have a concern
+about the amount of noise the floor makes, as they do not want to disturb the hearing
+people around them. Other aspects of making the spaces ‘deaf’ are through the concept
+of the lived space, a sub-concept of DeafSpace. This is shown through adjustments that
+the people who are d/Deaf make the space more accessible to them. Within the context of
+O’Brien’s conversation with individuals who are d/Deaf in HEI, moving desks to make the
+office more deaf-friendly was a common one. This consisted of moving the desk to face
+the door or strategically placing mirrors, so they were aware if someone wanted to enter
+the office. Another concept discussed was the conceived space, which identified issues
+with university planning. The main issue addressed was the lack of windows on doors, as
+without them, individuals who are d/Deaf cannot tell when someone is trying to enter their
+office. Overall, the study strongly emphasizes that even minor adjustments that account
+for individual spatial experiences can foster an inclusive environment for all while also
+maximizing the productivity of academics who are d/Deaf in their workplace.
+4. Analysis and Discussion
+This study aims not to review the state of knowledge but rather to analyze the sound-
+ness and completeness of the refereed papers that document the accessibility of the built
+environment for people with sensory disabilities, specifically the completeness of the ex-
+periments and confidence in the results, conclusions, and recommendations. Towards such
+objectives, qualitative and quantitative analyses were carried out, with the former focusing
+on the people with sensory disabilities and the diversity of the community, and on the
+different types of built environment, and the latter on whether the experimental results are
+a true representation of the population. It should be noted that the search revealed a much
+smaller number of papers on the accessibility of the built environment for people with
+sensory impairments compared to the total number of papers published on the accessibility
+of people with sensory disabilities.
+Buildings 2024, 14, 707
+9 of 19
+Sensory disabilities require information perceived by one sense to be translated into
+another. When looking at sensory disabilities, general research often groups visual and
+hearing disabilities together, although their needs are different and at times contradictory.
+For visual impairments, visual cues are commonly translated into tactile or auditory cues
+within the environment [8,14,31,37,40,45]. Strong colour and tonal contrasts can be used
+as well to help residual sight users provide missing information [8,31,45]. Alternatively,
+people with auditory or hearing disabilities rely on clear visual cues to help provide the
+missing information from the lack of sound [19,21–23,47]. Therefore, due to the opposite
+types of sensory cues, the important distinctions between the two communities need to
+be properly addressed [24]. To illustrate, the use of glass walls represents a good example
+where, for the people who are d/Deaf, they help provide accessible levels of communication
+while providing a visual separation of spaces [23]. Then, again, for the visually impaired,
+glass walls are problematic for those who rely on residual vision as they cannot easily
+detect the glass. As such, the distinct needs of individuals with sensory disabilities should
+be treated separately and critically studied to ensure that the accessibility measures for one
+group do not limit the accessibility of the other groups [21].
+Examination of the Deaf communities reveals that they are diverse, with people
+identifying as Deaf, DeafBlind, DeafDisabled, Hard of Hearing, and Late Deafened. Among
+them, there are variations in the level of hearing, age of onset, educational background, and
+communication methods [49]. Similarly, the visually impaired community includes people
+with different degrees of residual sight, such as light perception, severe vision impairment,
+or complete blindness [50]. Moreover, people in both the Deaf and Blind communities
+employ different assistive devices to enhance their accessibility when navigating the built
+environment. Therefore, it is important to understand the different needs created by the
+various assistive devices and the degree of impairment loss to properly design for their
+needs. For instance, long-cane users are far more reliant on tactile information to guide
+them [36]. Multiple studies have highlighted that there is little understanding of how the
+visually impaired community orient themselves within the built environment, especially
+when considering the pedestrian and outdoor environments [36,37,42,43]. The differences
+in needs among the visually impaired based on their degree of impairment highlight the
+need to better understand the best practices for the implementation of accessible features
+for the entire visually impaired community [36,38]. This implies that studies need to
+distinguish not only between the needs of the Deaf and Blind community but also the
+diversity of the individuals that form the community.
+When dealing with the built environment, the research surrounding indoor environ-
+ments for people with sensory disabilities shows that barriers to accessibility stem from
+different areas. Hearing impairment focuses on the visual aspect of the space and the space
+needed for communication, whereas visual impairment in general concentrates on the
+orientation ability of the individual. For the hearing impaired, one of the areas most ad-
+dressed by DeafSpace is looking at the space required for the use of effective sign language,
+as the watcher needs a full view of the signing space. On the other hand, research on visual
+impairments focuses on the ability of people with visual impairments to orient themselves
+within an environment and the size of space that impacts their ability.
+Quantitatively, the review revealed that the sample size used to conduct the experi-
+ment and deduce observations, conclusions, and recommendations is not representative of
+the population. Especially when recognizing the diversity of the groups and the uniqueness
+of the individuals’ needs. Different methods exist to estimate the sample size, such as power
+analysis, random sampling, convenience sampling, or stratified sampling. Statistically, the
+sample size depends on the size of the population, the precision of the estimates, the confi-
+dence level in the results, the variation in the population, and to some extent the resources
+available to conduct the study; however, not all methods employ them [51–53]. When
+reviewing the published research, it is evident that they used the convenience sampling ap-
+proach, which is the simplest and lowest-cost approach. However, the disadvantages of the
+convenience approach are sampling bias, selection bias, low external validity, and the fact
+Buildings 2024, 14, 707
+10 of 19
+that it is difficult, if not impossible, to generalize data or break it down into subcategories.
+Moreover, the size of the sample is far too small to be representative, even for convenience
+sampling, where a minimum of 100 and a maximum of 1000 are usually suggested. For
+reference, the sample size can be determined statistically using the following relationships
+when the population size is unknown [Equation (1)] or known [Equation (2)], respectively.
+n = Z2 ∗p(1 −p)
+e2
+(1)
+n =
+Z2 ∗p(1 −p)
+e2
+,
+1 +
+ Z2 ∗p(1 −p)
+Ne2
+
+(2)
+where Z is the Z-Score and for 90% Z-score = 1.645, e is the margin of error taken as 10%, p
+is the standard deviation taken as 0.5, and P is the population size. According to Statistics
+Canada, there were 7.4% and 5.6% of Canadians with vision and hearing impairments
+in 2022, respectively [54]. The previous census on Deaf, Deafened, and Hard-of-Hearing
+reported a range of one out of every twenty-five Canadians (1:25) to one out of every
+eight Canadians (1:8) having impaired hearing. By assuming that Canada’s population is
+comparative to the U.S. and that Canada has 1/10th the population of the U.S., the Canadian
+Association of the Deaf reported that there were approximately 357,000 profoundly deaf
+and deafened Canadians and possibly 3.21 million hard-of-hearing Canadians in 2015 [55].
+The National Institute on Deafness and other Communication Disorders reported that
+approximately 15% of American adults aged 18 and over report some trouble hearing [56]
+and that one in eight people in the U.S. aged 12 or older has hearing loss in both ears, based
+on standard hearing examinations [57]. If one deduces that there are at least 350,000 Deaf
+and Deafened Canadians, then the sample size to conduct a scientific study according to
+Equations (1) and (2) is 96. However, to conduct a meaningful statistical analysis, studies
+need to account for the diversity of hearing impairments within the population by applying
+the stratification sampling approach. Accordingly, the sample size needs to be at least
+96 people for each stratum.
+In the province of Ontario in Canada, there are an estimated 189,000 people who are
+partially sighted or blind, which is slightly greater than the 7.4% reported by Statistics
+Canada. In 2015, 3.44% of the worldwide population had distance visual impairment, of
+whom 0.49% were blind and 2.95% had moderate-to-severe visual impairment [58]. For
+Canada, if one accepts that Ontario has 189,000 people with visual impairments, then the
+sample size to conduct a scientific study according to Equations (1) and (2) is 96. Similarly,
+if one considers the population of Toronto Central LHIN boundaries, which is estimated
+to be about 17,344 people that are partially sighted or blind [59], then the corresponding
+sample size is found to be equal to 96 persons per stratum to account for the diversity in
+impairment within the population and the different assistive devices.
+From the reviewed literature, the ratio of papers studying hearing impairments com-
+pared to visual impairments on accessibility of built environments is 1 to 3. Closer exami-
+nation reveals that most of the research surrounding visual impairment is directed towards
+pedestrian safety, specifically the interaction between pedestrians and the surrounding
+environment [14,20,30,39,41], as shown in Figure 1a, whereas the research in other areas of
+the built environment, such as the accessibility of public transportation and indoor environ-
+ments, is limited [11,27,45]. Every environment presents unique challenges to people with
+visual impairments in the niche areas that they serve. Of significance is the observed gap in
+research due to the design environments not being actively understood with the visually
+impaired community in mind. Research should be directed towards understanding the
+wayfinding process and how to formalize it as a required component of the standards.
+Wayfinding includes the collective use of tactile paving, lead lines, and sounds in the
+environment that the visually impaired use to orient themselves [36,37,40,42,43].
+Buildings 2024, 14, 707
+11 of 19
+ 
+(a) 
+(b) 
+67%
+22%
+11%
+0%
+0%
+100%
+Pedestrian infrastructure
+Outdoor environments
+Indoor environments
+Figure 1. Distribution of research studies based on built environments for (a) visual impairments;
+(b) hearing impairments.
+The reviewed research on the d/Deaf community is solely focused on the indoor
+environment, as shown in Figure 1b, specifically addressing safety and signing spatial con-
+siderations [22]. Further research on including d/Deaf design in building standards, such as
+defining the amount of space needed in hallways for proper signing, is an important step to
+ensuring that buildings become more accessible and comply with the standards. DeafSpace,
+which places a large focus on visual cues its effects on people with different disabilities
+need to be researched, especially when considering people with visual disabilities.
+Published research on people with hearing disabilities is largely of a qualitative
+and interpretive nature. Focusing more on studies of a quantitative nature to determine
+the amount of space required in indoor environments for comfortable signing would be
+important for future research. Moreover, transportation is a key area to focus on when
+considering hearing disabilities. While the d/Deaf community can drive and does not need
+to rely on the public transportation system, research needs to study the barriers the d/Deaf
+community encounters when using public transportation systems. O’Brien deduced that
+the research surrounding the d/Deaf community focuses primarily on the social impacts of
+their disability [22], and research is needed to understand and address other key areas of
+the built environment to ensure that it is fully accessible.
+The quantitative examination of the research on people with visual and hearing im-
+pairments, respectively reproduced in Tables 1 and 2, shows the diversity of the population,
+research methods, and assistive aids, as well as the low number of people participating in
+these studies. The results further indicate that the experimental programs are most likely
+biased toward the perceptions of the participants, who are not a representative sample of
+the population. This finding is evident in the current standards, which do not address the
+diverse needs of people with sensory disabilities. For illustration, 97% of the participants
+are people with visual impairments, and 3% represent the d/Deaf community. Moreover,
+the research on people with visual disabilities is greatly influenced by the perspective of
+sighted individuals, such as authorities, designers, and researchers, who represent 29% of
+the participants, according to Figure 2a. Sighted participants, designers, or authorities are
+not part of the population and do not necessarily reflect the needs of people with visual
+disabilities, as evident in the work of Jeamwatthanachai et al. [45]. Among the 71% of
+participants with visual impairment, 46% are identified as having complete blindness and
+25% have residual sight or low vision. It should be noted that each group has unique
+Buildings 2024, 14, 707
+12 of 19
+accessibility that needs to be studied separately. For most, if not all, of the case studies, only
+one type of sensory disability was investigated with a very small sample size [8,15,30] that
+included but did not account for the diverse types of assistive mobility technology [10,31]
+as shown in Figure 2b,c. Moreover, the effects of participants’ level of knowledge, previous
+experience, satisfaction, perception of safety, or perspectives that might influence the find-
+ings were not documented [10,24,25,29,31]. Additionally, there are always concerns with
+qualitative research that is of an interpretive nature using a small sample size that is not
+statistically representative, where personal judgements of participants can be influenced,
+and the questions can be subjective. Lastly, designing and performing any experimental
+program where people are the investigated subject poses complex challenges such as ethical
+issues, collaboration of people, diverse population, diverse built environment, etc.
+Buildings 2024, 14, 707
+13 of 19
+Table 1. Summary of research papers on visual impairments.
+Built Environment
+Research Method Tools
+Participants
+Ref.
+Interviews (In Person, Telephone,
+or Video Calls)
+Seminars/Focus Group
+Observed Journeys/
+Walking Interviews
+Literature/Documents Review
+Case Studies
+Survey
+Statistical Modelling
+Authorities, Researchers
+and Designers
+Visual Impairment
+Total Number of Participants
+Complete Blindness
+Residual Sight/Low Vision
+Sighted Guide
+White/Long Cane
+Guide Dog
+White Cane and Guide Dog
+Tactile Maps
+White/Long Cane
+White Cane and Guide Dog
+No Mobility Aids
+Pedestrian infrastructure
+✓
+✓
+✓
+?
+3 *
+2 *
+3
+>8
+[36]
+✓
+✓
+✓
+✓
+67
+67
+[37]
+✓
+10
+4
+5
+1
+5
+25
+[38]
+✓
+61
+3
+12
+21 *
+97
+[39]
+✓
+21
+21
+[40]
+✓
+✓
+✓
+?
+[41]
+Outdoor environments
+✓
+✓
+✓
+?
+12 *
+>12
+[42]
+✓
+3 *
+4 *
+7
+[43]
+Indoor environments
+✓
+15
+12 *
+5 *
+1 *
+4 *
+8 *
+45
+[45]
+* The numbers are deduced based on the results reported in the research studies.
+Buildings 2024, 14, 707
+14 of 19
+Table 2. Summary of research papers on hearing impairments.
+Built Environment
+Research Method Tools
+Total Number of Participants
+with Hearing Impairment
+Ref.
+Interviews (In Person, Telephone,
+or Video Calls)
+Observed Journeys/
+Walking Interviews
+Literature/Documents Review
+Case Studies
+Indoor environments
+✓
+1
+[23]
+✓
+5
+[22]
+✓
+✓
+✓
+?
+[47]
+✓
+-
+[21]
+(a) 
+Authorities, 
+researchers & 
+designers
+29%
+Complete 
+blindness
+46%
+Residual sight/ 
+low vision 
+25%
+People with 
+visual 
+impairment
+71%
+(b) 
+9%
+80%
+5%
+3%
+3%
+Sighted guide
+White/ Long cane
+Guide dog
+White cane & guide dog
+Tactile maps
+Figure 2. Cont.
+Buildings 2024, 14, 707
+15 of 19
+ 
+(c) 
+41%
+1%
+58%
+White/ Long cane
+White cane & guide dog
+No mobility aids
+Figure 2. Distribution of participants in research studies; (a) relevant to visual impairments, (b) with
+complete blindness based on the use of assistive aids, and (c) with residual sight/low vision based
+on the use of assistive aids.
+5. Conclusions
+From the review and analysis of the literature on accessibility of the built environment
+for people with sensory disabilities, the following conclusions pertaining to the status of
+research are deduced to facilitate the consolidation of efforts and resources of authorities
+involved in developing standards:
+1.
+Statistical analyses of experimental data must account for the population size and
+diversity of the population for the findings to be accepted as representative of the
+population. Accordingly, for individuals with sensory disabilities, the representative
+sample needs to account for the diverse degree of impairment, personal and social
+preferences, and assistive aids leading to different needs for their accessibility in every
+specific built environment.
+2.
+Ninety-seven percent of studies investigate the accessibility of the built environment
+for people with visual impairments, compared to only 3% for those with hearing im-
+pairments. Of significance is the lack of research that considers people with combined
+visual and hearing disabilities, or people with sensory and physical disabilities, which
+is necessary to ensure that the accessibility features of one group do not adversely
+impact the other groups.
+3.
+Research on people with visual impairments mostly focuses on pedestrian environ-
+ments. Research on their accessibility in public transportation and indoor environ-
+ments is lacking. Moreover, research should focus on understanding and standardiz-
+ing the wayfinding process to help them navigate independently. This involves using
+tactile paving, lead lines, and sounds as navigational aids.
+4.
+Indoor-built environments for people with sensory disabilities pose accessibility
+challenges. Providing a space for effective sign language communication for the
+d/Deaf community is found to adversely affect the accessibility of people with visual
+impairments due to the impact of space size on orientation. Research needs to consider
+the physical barriers, such as the width of hallways and pathways, they face in the
+built environment and not only the social impact of their disabilities.
+5.
+Designing and performing experiments on people in general pose complex challenges
+such as ethical issues, the collaboration of people, diverse populations, diverse built
+environments, etc. The analyses suggest that people with sensory or other disabilities
+are reluctant to participate in these research studies. Education, incentives, and a
+supportive environment have been shown to enhance participation.
+Buildings 2024, 14, 707
+16 of 19
+In conclusion, the presented analyses and discussions reveal the significance, diversity,
+challenges, and importance of having an accessible built environment for people with
+sensory disabilities. The quality and representation of research evidence will help reveal
+the true barriers and facilitate the transfer of research findings to applications and standards.
+Author Contributions: Conceptualization, S.E.C.; formal analysis, M.A.R.; funding acquisition,
+S.E.C.; investigation, M.A.R.; methodology, S.E.C.; supervision, S.E.C.; validation, M.A.R. and G.E.M.;
+writing—original draft, M.A.R. and G.E.M.; writing—review & editing, S.E.C. All authors have read
+and agreed to the published version of the manuscript.
+Funding: This research was funded by Accessibility Standards Canada—Advancing Accessibility
+Standards Research—Project No. 16818569.
+Data Availability Statement: The data presented in this study are available on request from the
+corresponding author.
+Acknowledgments: The authors acknowledge the technical feedback from representatives of the
+Spinal Cord Injury foundations in Canada, the Neil Squire Society, Accessibility Simplified, CNIB,
+Government of Saskatchewan Office of Disability Issues, National Network for Mental Health,
+People First of Canada, Rick Hansen Foundation, Sawchuck Accessible Solutions, StopGap, The
+Saskatchewan Association for the Rehabilitation of the Brain Injured, and Wavefront Centre for
+Communication Accessibility.
+Conflicts of Interest: Author G.E. Marjaba was employed by the company Engineers in Motion Inc.
+The remaining authors declare that the research was conducted in the absence of any commercial or
+financial relationships that could be construed as a potential conflict of interest.
+Glossary
+Term
+Explanation
+Ref.
+Access route
+Any route in an internal or external environment, whether it is level, gently
+sloped, ramped, or stepped that is available and understandable for a person to
+use. In external environments, access routes comprise paths, pavements, and
+other pedestrian routes, such as a right of way through a public space.
+[60]
+Acoustics
+Characteristics relating to sound
+[60]
+Assistive device
+Any medical device, mobility aid, communication aid, or other aid that is
+specially designed to assist a person with a disability with a need related to
+their disability.
+[61]
+Blister blocks/Blister tactile blocks
+A type of tactile attention indicator (TWSI)
+[40]
+Braille
+A system where raised dots are used to represent letters and words. Unified
+English Braille (UEB) is the braille standard for Canada.
+[62]
+Crosswalk
+A portion of a pedestrian crossing that is within the vehicular right-of-way.
+[62]
+Environmental cues
+There are other auditory and tactile cues that someone with sight loss can use to
+navigate safely. For example, different ground types feel distinct when walking
+or sweeping a white cane over them, such as soft grass vs. the hard concrete of
+the sidewalk. The sound of voices or music can help someone locate a doorway,
+as can a change in temperature (such as a draft of cool air in summer or warm
+air in winter from an open door).
+[63]
+Guide dog
+Bred and trained to guide people who are blind around their environment by
+avoiding obstacles, indicating hazards, and locating destinations. Working as a
+team, these incredible animals give their handlers independence and confidence.
+[63]
+Landmarks
+People who are blind or partially sighted often navigate by landmarks.
+Someone may not be able to read the sign for “Baker St.” but will know it as the
+street with the tall hedge on the corner. They may not be able to read the house
+number, but they know that they want to turn in at the fourth driveway after
+the house with the wooden planter boxes.
+[63]
+Buildings 2024, 14, 707
+17 of 19
+Term
+Explanation
+Ref.
+Long cane
+Used as probes to sweep and scan the environment, detect objects in a person’s
+path, changes in the walking surface, and potential hazards like steps and curbs.
+[63]
+Mobility aid
+Any manual or electric wheelchair, scooter, boarding chair, walker, cane, crutch,
+prosthesis, or other aid that is specially designed to assist a person with a
+disability with a need related to mobility.
+[61]
+Orientation blocks
+A new type of blocks, developed by Inagaki et al., installed at crosswalk
+entrances dedicated to indicating direction.
+[40]
+Pedestrian crossing
+The combination of crosswalk segments, curb ramps/blended transitions,
+medians, and refuge islands that connect departure and arrival walkways across
+a vehicular right-of-way.
+[62]
+Sighted guide
+There are times when people who are blind find guidance from a sighted person
+helpful. It is a great way to safely, and respectfully guide someone who is blind.
+[63]
+Tactile paving surface
+A profiled paving or textured surface that provides guidance or warning to
+pedestrians with visual difficulties
+[60]
+Tactile walking surface indicator
+A standardized surface, detectable underfoot or by a long white cane, to assist
+people with low vision or blindness by alerting or guiding them.
+Tactile attention indicator: a TWSI comprising truncated domes that signals a
+need for caution at a change in elevation, a vehicular route, train tracks, or other
+potential hazard.
+Tactile direction indicator: a TWSI that uses flat-topped elongated bars to
+facilitate wayfinding in open areas.
+Note: ISO 23599 refers to the tactile direction indicator as a “guiding pattern”.
+[62]
+Wayfinding
+A spatial problem-solving process based upon the consistent use and
+organization of definite sensory cues in the environment that individuals use to
+understand where they are, know where their desired location is, and know
+how to reach that destination from their present location.
+[62]
+White cane
+One of the most common tools used by people who are blind to safely navigate
+their surroundings. Recognized around the world, it is also an important
+identification tool. It is a clear signal to others that the user is a person with
+sight loss.
+[63]
+References
+1.
+Maple Community Services Types of Sensory Disabilities and Impairment. Available online: https://mapleservices.com.au/
+types-of-sensory-disabilities-and-impairment/ (accessed on 23 August 2023).
+2.
+Abdullah, N.; Low, K.E.Y.; Feng, Q. Sensory Disability. In Encyclopedia of Gerontology and Population Aging; Springer International
+Publishing: Cham, Switzerland, 2021; pp. 4468–4473.
+3.
+The Canadian National Institute for the Blind Foundation (CNIB). What Is Blindness? Available online: https://www.cnib.ca/
+en/sight-loss-info/blindness/what-blindness?region=on (accessed on 23 August 2023).
+4.
+World Health Organization. World Report on Vision; WHO: Geneva, Switzerland, 2019.
+5.
+World Health Organization. World Report on Hearing; WHO: Geneva, Switzerland, 2021.
+6.
+Employment and Social Development Canada. Guidance on the Accessible Canada Regulations: Consulting Persons with Disabilities;
+Government of Canada: Ottawa, ON, Canada, 2022.
+7.
+Sze, N.N.; Christensen, K.M. Access to Urban Transportation System for Individuals with Disabilities. IATSS Res. 2017, 41, 66–73.
+[CrossRef]
+8.
+Rey-Galindo, J.A.; Rizo-Corona, L.; González-Muñoz, E.L.; Aceves-González, C. Environmental Information for People with
+Visual Impairment in Mexico—Or What They Need and How They Use It. Appl. Erg. 2020, 85, 103079. [CrossRef] [PubMed]
+9.
+Saha, M.; Fiannaca, A.J.; Kneisel, M.; Cutrell, E.; Morris, M.R. Closing the Gap: Designing for the Last-Few-Meters Wayfinding
+Problem for People with Visual Impairments. In Proceedings of the 21st International ACM SIGACCESS Conference on
+Computers and Accessibility, Pittsburgh, PA, USA, 24 October 2019; ACM: New York, NY, USA, 2019; pp. 222–235.
+10.
+Kirchner, C.E.; Gerber, E.G.; Smith, B.C. Designed to Deter. Community Barriers to Physical Activity for People with Visual or
+Motor Impairments. Am. J. Prev. Med. 2008, 34, 349–352. [CrossRef] [PubMed]
+11.
+Soltani, S.H.K.; Sham, M.; Awang, M.; Yaman, R. Accessibility for Disabled in Public Transportation Terminal. Procedia Soc. Behav.
+Sci. 2012, 35, 89–96. [CrossRef]
+12.
+Hashim, A.E.; Samikon, S.A.; Ismail, F.; Kamarudin, H.; Jalil, M.N.M.; Arrif, N.M. Access and Accessibility Audit in Commercial
+Complex: Effectiveness in Respect to People with Disabilities (PWDs). Procedia—Soc. Behav. Sci 2012, 50, 452–461. [CrossRef]
+13.
+Tennøy, A.; Øksenholt, K.V.; Fearnley, N.; Matthews, B. Evaluating Standards and Practices for Facilitating Visually Impaired People’s
+Mobility in the Built Environment; Institute of Transport Economics: Oslo, Norway, 2013.
+Buildings 2024, 14, 707
+18 of 19
+14.
+Almeida, M.D.X.; Martins, L.B.; Lima, F.J. Analysis of Wayfinding Strategies of Blind People Using Tactile Maps. Procedia Manuf.
+2015, 3, 6020–6027. [CrossRef]
+15.
+Crudden, A. Transportation Issues: Perspectives of Orientation and Mobility Providers. J. Vis. Impair Blind 2015, 109, 457–468.
+[CrossRef]
+16.
+Jeamwatthanachai, W.; Wald, M.; Wills, G. Map Data Representation for Indoor Navigation by Blind People. Int. J. Chaotic Comput.
+2016, 4, 70–78. [CrossRef]
+17.
+Swaine, B.; Labbé, D.; Poldma, T.; Barile, M.; Fichten, C.; Havel, A.; Kehayia, E.; Mazer, B.; McKinley, P.; Rochette, A. Exploring
+the Facilitators and Barriers to Shopping Mall Use by Persons with Disabilities and Strategies for Improvements: Perspectives
+from Persons with Disabilities, Rehabilitation Professionals and Shopkeepers. Alter 2014, 8, 217–229. [CrossRef]
+18.
+Perry, M.A.; Devan, H.; Fitzgerald, H.; Han, K.; Liu, L.T.; Rouse, J. Accessibility and Usability of Parks and Playgrounds. Disabil.
+Health J. 2018, 11, 221–229. [CrossRef]
+19.
+Chikuta, O.; du Plessis, E.; Saayman, M. Accessibility Expectations of Tourists with Disabilities in National Parks. Tour. Plan. Dev.
+2019, 16, 75–92. [CrossRef]
+20.
+Tajgardoon, M.; Karimi, H.A. Simulating and Visualizing Sidewalk Accessibility for Wayfinding of People with Disabilities. Int. J.
+Cartogr. 2015, 1, 79–93. [CrossRef]
+21.
+Edwards, C.; Harold, G. DeafSpace and the Principles of Universal Design. Disabil. Rehabil. 2014, 36, 1350–1359. [CrossRef]
+22.
+O’Brien, D. Negotiating Academic Environments: Using Lefebvre to Conceptualise Deaf Spaces and Disabling/Enabling
+Environments. J. Cult. Geogr. 2020, 37, 26–45. [CrossRef]
+23.
+Pérez Liebergesell, N.; Vermeersch, P.W.; Heylighen, A. Through the Eyes of a Deaf Architect: Reconsidering Conventional
+Critiques of Vision-Centered Architecture. Senses Soc. 2019, 14, 46–62. [CrossRef]
+24.
+Kadir, S.A.; Jamaludin, M. Users’ Satisfaction and Perception on Accessibility of Public Buildings in Putrajaya: Access Audit
+Study. Procedia—Soc. Behav. Sci. 2012, 50, 429–441. [CrossRef]
+25.
+Christensen, K.M.; Blair, M.E.; Holt, J.M. The Built Environment, Evacuations, and Individuals with Disabilities. J. Disabil. Policy
+Stud. 2007, 17, 249–254. [CrossRef]
+26.
+Rovira-Beleta, E.; Cuerva, E.; Pires de Souza, E.; Planas, C.; Alavedra, P. Accessibility of Emergency Evacuation of Persons with
+Disabilities in Public Swimming Pools in Barcelona, Spain: A Review of Literature and Regulations. Archit. Eng. Des. Manag.
+2015, 11, 475–487. [CrossRef]
+27.
+Hwang, J.; Li, W.; Stough, L.; Lee, C.; Turnbull, K. A Focus Group Study on the Potential of Autonomous Vehicles as a Viable
+Transportation Option: Perspectives from People with Disabilities and Public Transit Agencies. Transp. Res. Part F Traffic Psychol.
+Behav. 2020, 70, 260–274. [CrossRef]
+28.
+Herssens, J.; Heylighen, A. Challenging Architects to Include Haptics in Design: Sensory Paradox between Content and
+Representation. In Proceedings of the Designing Together—CAADfutures 2011, Liège, Belgium, 4–8 July 2011.
+29.
+Haegele, J.A.; Kirk, T.N.; Zhu, X. Self-Efficacy and Physical Activity among Adults with Visual Impairments. Disabil. Health J.
+2018, 11, 324–329. [CrossRef] [PubMed]
+30.
+Sharifi, M.S.; Stuart, D.; Christensen, K.; Chen, A. Traffic Flow Characteristics of Heterogeneous Pedestrian Stream Involving
+Individuals with Disabilities. Transp. Res. Rec. J. Transp. Res. Board 2015, 2537, 111–125. [CrossRef]
+31.
+Jenkins, G.; Yuen, H.; Vogtle, L. Experience of Multisensory Environments in Public Space among People with Visual Impairment.
+Int. J. Environ. Res. Public Health 2015, 12, 8644–8657. [CrossRef]
+32.
+Lewin, S.; Bohren, M.; Rashidian, A.; Munthe-Kaas, H.; Glenton, C.; Colvin, C.J.; Garside, R.; Noyes, J.; Booth, A.; Tunçalp, Ö.;
+et al. Applying GRADE-CERQual to Qualitative Evidence Synthesis Findings—Paper 2: How to Make an Overall CERQual
+Assessment of Confidence and Create a Summary of Qualitative Findings Table. Implement. Sci. 2018, 13, 10. [CrossRef]
+33.
+Munthe-Kaas, H.; Bohren, M.A.; Glenton, C.; Lewin, S.; Noyes, J.; Tunçalp, Ö.; Booth, A.; Garside, R.; Colvin, C.J.; Wainwright,
+M.; et al. Applying GRADE-CERQual to Qualitative Evidence Synthesis Findings—Paper 3: How to Assess Methodological
+Limitations. Implement. Sci. 2018, 13, 25–32. [CrossRef]
+34.
+Colvin, C.J.; Garside, R.; Wainwright, M.; Munthe-Kaas, H.; Glenton, C.; Bohren, M.A.; Carlsen, B.; Tunçalp, Ö.; Noyes, J.; Booth,
+A.; et al. Applying GRADE-CERQual to Qualitative Evidence Synthesis Findings—Paper 4: How to Assess Coherence. Implement.
+Sci. 2018, 13, 33–41. [CrossRef] [PubMed]
+35.
+Guyatt, G.H.; Oxman, A.D.; Vist, G.; Kunz, R.; Brozek, J.; Alonso-Coello, P.; Montori, V.; Akl, E.A.; Djulbegovic, B.; Falck-Ytter, Y.
+GRADE Guidelines: 4. Rating the Quality of Evidence—Study Limitations (Risk of Bias). J. Clin. Epidemiol. 2011, 64, 407–415.
+[CrossRef] [PubMed]
+36.
+Atkin, R. Sight Line: Designing Better Streets for People with Low Vision; Helen Hamlyn Centre: London, UK, 2010.
+37.
+Tennøy, A.; Øksenholt, K.V.; Fearnley, N.; Matthews, B. Standards for Usable and Safe Environments for Sight Impaired. Proc.
+Inst. Civ. Eng.—Munic. Eng. 2015, 168, 24–31. [CrossRef]
+38.
+Havik, E.M.; Steyvers, F.J.J.M.; Kooijman, A.C.; Melis-Dankers, B.J.M.; Kooijman, A.C. Accessibility of Shared Space for Visually
+Impaired Persons: A Comparative Field Study. Br. J. Vis. Impair. 2015, 33, 96–110. [CrossRef]
+39.
+Zeng, L. A Survey: Outdoor Mobility Experiences by the Visually Impaired. In Mensch und Computer 2015—Workshopband; De
+Gruyter: Berlin, Germany, 2015; pp. 391–398.
+40.
+Inagaki, T.; Fujisawa, S.; Takahashi, K.; Ikeda, N.; Takeuchi, K.; Ogino, H.; Kobayakawa, S. Experimental Observations on the
+Optimal Layout of Orientation Blocks for Safe Road Crossing by the Visually Impaired. IATSS Res. 2017, 41, 82–88. [CrossRef]
+Buildings 2024, 14, 707
+19 of 19
+41.
+Bona Frazila, R.; Zukhruf, F. Exploring Physical Attributes of Walkability from Perspective of Blind Pedestrians. MATEC Web
+Conf. 2018, 147, 02002. [CrossRef]
+42.
+Siu, K.W.M. Accessible Park Environments and Facilities for the Visually Impaired. Facilities 2013, 31, 590–609. [CrossRef]
+43.
+Bandukda, M.; Singh, A.; Berthouze, N.; Holloway, C. Understanding Experiences of Blind Individuals in Outdoor Nature. In
+Proceedings of the Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems, Glasgow Scotland,
+UK, 2 May 2019; ACM: New York, NY, USA, 2019; pp. 1–6.
+44.
+Jeamwatthanachai, W.; Wald, M.; Wills, G. Building Rating System: An Instrument for Building Accessibility Measurement for
+Better Indoor Navigation by Blind People. J. Enabling Technol. 2019, 13, 158–172. [CrossRef]
+45.
+Jeamwatthanachai, W.; Wald, M.; Wills, G. Indoor Navigation by Blind People: Behaviors and Challenges in Unfamiliar Spaces
+and Buildings. Br. J. Vis. Impair. 2019, 37, 140–153. [CrossRef]
+46.
+Gallaudet University DeafSpace.
+Available online: https://gallaudet.edu/campus-design-facilities/campus-design-and-
+planning/deafspace/ (accessed on 17 August 2023).
+47.
+Azalia, N.; Arvanda, E.; Isnaeni, H.; Kusuma, N.R. Proxemic as Spatial Strategy on Social Space for Deaf Community. In
+Proceedings of the AIP Conference Proceedings, Penang, Malaysia, 4 May 2020; American Institute of Physics Inc.: College Park,
+MD, USA, 2020; Volume 2230, p. 040030. Available online: https://pubs.aip.org/aip/acp/article/2230/1/040030/1002429/
+Proxemic-as-spatial-strategy-on-social-space-for (accessed on 3 January 2024).
+48.
+Hall, E.T. Proxemics. Curr. Anthr. 1968, 9, 83–108. [CrossRef]
+49.
+National Association of the Deaf Community and Culture. Available online: https://www.nad.org/resources/american-sign-
+language/community-and-culture-frequently-asked-questions/ (accessed on 11 December 2023).
+50.
+Dandona, L.; Dandona, R. Revision of Visual Impairment Definitions in the International Statistical Classification of Diseases.
+BMC Med. 2006, 4, 7. [CrossRef]
+51.
+Fleetwood, D. Sample Size Determination: Definition, Formula, and Example. Available online: https://www.questionpro.com/
+blog/determining-sample-size/ (accessed on 10 December 2023).
+52.
+Cochran, W.G. Sampling Techniques; John Wiley & Sons: Hoboken, NJ, USA, 1977.
+53.
+Fox, S. How to Determine Survey Sample Size: A Guide. Available online: https://survicate.com/blog/survey-sample-size/#:~:
+text=Many%20statisticians%20concur%20that%20a,it%20should%20not%20exceed%201000 (accessed on 10 December 2023).
+54.
+Statistics Canada New Data on Disability in Canada. 2022. Available online: https://www150.statcan.gc.ca/n1/pub/11-627-m/
+11-627-m2023063-eng.htm (accessed on 11 December 2023).
+55.
+The Canadian Association of the Deaf—Association des Sourds du Canada Statistics on Deaf Canadians. Available online:
+https://cad-asc.ca/issues-positions/statistics-on-deaf-canadians/ (accessed on 11 December 2023).
+56.
+Blackwell, D.L.; Lucas, J.W.; Clarke, T.C. Summary Health Statistics for U.S. Adults: National Health Interview Survey. Natl. Cent.
+Health Stat. Vital Health Stat. 2012, 10, 1–161.
+57.
+Lin, F.R.; Niparko, J.K.; Ferrucci, L. Hearing Loss Prevalence in the United States. Arch. Intern Med. 2011, 171, 1851. [CrossRef]
+[PubMed]
+58.
+Ackland, P.; Resnikoff, S.; Bourne, R. World Blindness and Visual Impairment: Despite Many Successes, the Problem Is Growing.
+Community Eye Health 2017, 30, 71–73. [PubMed]
+59.
+BALANCE for Blind Adults. BALANCE for Blind Adults Strategic Plan 2016–2020—A Recognized and Connected Rehabilitation
+Provider for People Living with Vision Loss in Toronto; BALANCE for Blind Adults: Toronto, ON, Canada, 2016.
+60.
+The Centre for Excellence in Universal Design (CEUD). Booklet 10—Building Management—Index and Terminology. In Building
+for Everyone: A Universal Design Approach; National Disability Authority (NDA): Dublin, Ireland, 2012.
+61.
+Canadian Transportation Agency. Accessible Transportation—Travelling with Mobility Aids and Other Assistive Devices: A Guide;
+Canadian Transportation Agency: Gatineau, QC, Canada, 2020.
+62.
+CSA/ASC B651:23; Accessible Design for the Built Environment. Canadian Standards Association: Toronto, ON, Canada, 2023.
+63.
+Canadian National Institute for the Blind (CNIB) Foundation Getting Around. Available online: https://www.cnib.ca/en/
+getting-around?region=on (accessed on 23 February 2024).
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

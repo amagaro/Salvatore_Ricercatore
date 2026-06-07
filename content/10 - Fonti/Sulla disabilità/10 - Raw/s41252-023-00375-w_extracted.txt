@@ -1,0 +1,930 @@
+ORIGINAL PAPER
+Advances in Neurodevelopmental Disorders (2024) 8:7–16
+https://doi.org/10.1007/s41252-023-00375-w
+with IDD as citizens have yet to be fully realized. We dis­
+cuss these issues within the context of rights that should be 
+afforded to all people, including those with IDD, the nature 
+of disability, and how mindfulness-based interventions may 
+offer them some hope of controlling the trajectory of their 
+own lives.
+We acknowledge the significant role language plays in 
+shaping the self-perception of disabled people and influenc­
+ing how disability is perceived by others. In this article, we 
+use a combination of person-first and identity-first terminol­
+ogy in accordance with the recommendations of the Ameri­
+can Psychological Association regarding disability-related 
+language.
+People with IDD have been on a long journey through the 
+gray areas of life, often experiencing exclusion, marginal­
+ization, institutionalization, socially devaluation, and dis­
+crimination by society. They have endured low quality of 
+life over several centuries (Cummins, 2016). Various inter­
+national bodies have proposed principles and practices that 
+should have changed the way society has treated people with 
+IDD. Although change has been palpable in recent years, 
+it has been very slow, indicating that the rights of people 
+	
+ Yoon-Suk Hwang
+yoonsuk.hwang@gmail.com
+1	
+The University of Queensland, Campbell Rd, St Lucia, 
+Qld 4072, Australia
+2	
+Medical College of Georgia, Augusta University, Augusta, 
+GA 30912, United States
+Abstract
+Objective  The Convention on the Rights of Persons with Disabilities (CRPD) has identified and articulated the rights of 
+people with disabilities, mandating how these rights should be upheld and protected by countries. The objective of this article 
+is to explore how these rights can be translated into action for people with intellectual and developmental disabilities (IDD).
+Method  We conceptualize what human rights mean in the context of people with IDD, examine models of disability that 
+have been utilized to provide services, and explore how mindfulness research and practices could be better aligned with the 
+CRPD.
+Results  We present five core principles of interdependent human rights of people with IDD and highlight five key challenges 
+that hinder the realization of their fundamental rights and freedoms, which are intrinsic to the dignity of all human beings and 
+are an essential component of a just and equitable society. We delve into the key Articles of the CRPD that underpin these 
+rights and freedoms. Various models of services for people with IDD have been developed and implemented. We underscore 
+the strengths and limitations of the medical, social, and biopsychosocial models, and provide an overview of the emergent 
+human rights model that is based on the CRPD. Mindfulness is discussed in the context of other interventions as an adjunc­
+tive treatment and a potential intervention that could address some concerns expressed in the CRPD.
+Conclusions  Human rights, disability, and mindfulness are inextricably linked and could be strengthened to advance equity 
+and full inclusion of people with IDD in our society. Impairment cannot be used as a basis for denying or restricting their 
+rights. We need to promote the understanding that disability is an essential part of human diversity, and people with disabili­
+ties contribute unique and crucial perspectives in a just and enlightened society.
+Keywords  CRPD · Human rights · Disabilities · People with IDD · Medical model · Social model · Biopsychosocial 
+model · Human rights model · Mindfulness
+Accepted: 17 November 2023 / Published online: 27 November 2023
+© The Author(s), under exclusive licence to Springer Nature Switzerland AG 2023
+Human Rights, Disability, and Mindfulness
+Yoon-Suk Hwang1
+ · Jeffrey Chan1
+ · Nirbhay N. Singh2
+1 3
+Advances in Neurodevelopmental Disorders (2024) 8:7–16
+Human Rights
+Human rights underpin the fundamental rights and free­
+doms of every individual regardless of their race, ethnicity, 
+sexual orientation, gender identity, nationality, religion, or 
+any other distinguishing characteristic, including all forms 
+and aspects of disabilities. These rights are intrinsic to the 
+dignity of every human being and are an essential compo­
+nent of a just and equitable society. The concept of human 
+rights originated in ancient times, with Code of Hammurabi 
+from Babylonian legal document (1755 − 1750 BC) being 
+one of earliest. Others followed, including the Magna Carta 
+(1215), the English Bill of Rights (1689), the American 
+Declaration of Independence (1776), and the French Decla­
+ration of the Rights of Man and of the Citizen (1789), which 
+codified individual liberty and limitations on government 
+power. Much later, the Universal Declaration of Human 
+Rights was adopted (1948) by the United Nations following 
+the unthinkable horrors of World War II and the Holocaust 
+(see Parmenter, 2023 for a brief history of the concept of 
+human rights).
+“Human rights” is a fairly amorphous term that has been 
+conceptualized differently across countries and societies 
+with different cultural and political orientations. However, 
+there are five core principles that overlap across nations: 
+(1) Human rights are universal and applicable to everyone 
+regardless of personal characteristics; (2) These rights, in 
+particular human dignity, are inalienable and not contingent 
+on a person’s behavior or actions; (3) All such rights are 
+indivisible, meaning that a person’s civil and political rights 
+(e.g., freedom of speech and right to a fair trial) are inex­
+tricably linked with economic, social, and cultural rights 
+(e.g., right to healthcare and education); (4) These rights are 
+interdependent in the sense that the fulfilment of a specific 
+right is dependent on the fulfilment of other rights; and (5) 
+In truly civilized societies, all human rights are guaranteed 
+and non-discriminatory concerning a person’s characteris­
+tics (e.g., race, ethnicity, faith, sexual orientation, and all 
+other distinguishing characteristics).
+In theory, human rights declarations codify universal 
+entitlements for all people, regardless of their abilities, dis­
+abilities, or characteristics. In practice, such entitlements are 
+violated across all societies and countries, given political 
+and economic realities, wars, effects of climate change, and 
+a range of systemic discriminatory practices. For example, 
+people with intellectual disabilities (ID), developmental 
+disabilities (DD), and intellectual and developmental dis­
+abilities (IDD) have been subjected to exclusion, neglect, 
+and institutionalization, resulting in compromised qual­
+ity of life (Cummins, 2016). Although significant progress 
+has been evidenced in some countries, many challenges 
+remain, including: (1) stigma and discrimination (e.g., 
+discrimination in educational practices, hiring and work 
+conditions in employment, and access to public services); 
+(2) public education (e.g., inclusive education is still an 
+aspiration in many countries, with limited access to quality 
+education); (3) access to employment (e.g., finding suitable 
+employment is difficult because employers discriminate and 
+underestimate their abilities and capabilities in fulfilling 
+work requirements); (4) disparities in healthcare (e.g., many 
+healthcare services are inaccessible, inadequate, or discrim­
+inatory) leading to compromised health and mental health 
+outcomes; and (5) legal capacity (e.g., reduced opportuni­
+ties for self-determination in decision-making robs them of 
+autonomy and directly infringes on their right to make criti­
+cal decisions that affect their life).
+The United Nations Convention on the Rights of Persons 
+with Disabilities (CRPD; United Nations, 2006) has been 
+ratified by many countries to safeguard the rights of people 
+with IDD. Among the Articles of the CRPD (see Table 1), 
+these five are probably most pertinent for safeguarding the 
+rights of people with IDD in terms of treatment and care 
+provisions:
+(1)	 Article 12: Equal recognition before the law. The CRPD 
+mandates that people with disabilities, which includes 
+those with IDD, should have the legal capacity equal to 
+those of people without disabilities. Article 12 asserts 
+that irrespective of their level of cognitive functioning, 
+people with IDD have the right not only to make legal, 
+health, lifestyle, and other decisions but also to have 
+those decisions respected. This requires a shift from 
+the traditional guardianship and conservator models to 
+supported participatory decision-making (Shogren & 
+Singh, 2022).
+(2)	 Article 15: Freedom from torture and cruel, inhuman, 
+or degrading treatment or punishment. This Article 
+forbids the use of treatments, interventions, and prac­
+tices that can be construed as inhumane or degrading 
+for people with IDD (see Nisbet & Weiss, 2021). This 
+would include seclusion, restraints, aversive practices 
+(e.g., electric shock, punishment, and certain psycho­
+tropic medications which have historically been used as 
+chemical restraints).
+(3)	 Article 19: Living independently and being included in 
+the community. People with IDD have the right to live 
+and participate in the community, with choices that are 
+available to everyone. They are entitled to choose their 
+residence, with whom they wish to live, and the nature 
+of their living arrangements. This requires access to a 
+range of in-home and community support services that 
+are responsive to their needs and would preempt social 
+isolation or segregation in the community.
+1 3
+8
+Advances in Neurodevelopmental Disorders (2024) 8:7–16
+(4)	 Article 24: Education. This Article addresses the right 
+to education, which should be anchored in an inclusive 
+education system that addresses the diverse needs of 
+people with IDD. It assumes the education of all students 
+in inclusive schools and eschews segregated education 
+of students with IDD. This requires resource-intensive 
+teaching methods and commensurate curriculum.
+Preamble
+Article 1 – Purpose
+Article 2 – Definitions
+Article 3 – General principles
+Article 4 – General obligations
+Article 5 – Equality and non-discrimination
+Article 6 – Women with disabilities
+Article 7 – Children with disabilities
+Article 8 – Awareness-raising
+Article 9 – Accessibility
+Article 10 – Right to life
+Article 11 – Situations of risk and humanitarian emergencies
+Article 12 – Equal recognition before the law
+Article 13 – Access to justice
+Article 14 – Liberty and security of person
+Article 15 – Freedom of torture or cruel, inhuman or degrading treatment or punishment
+Article 16 – Freedom from exploitation, violence and abuse
+Article 17 – Protecting the integrity of the person
+Article 18 – Liberty of movement and nationality
+Article 19 – Living independently and being included in the community
+Article 20 – Personal mobility
+Article 21 – Freedom of expression and opinion, and access to information
+Article 22 – Respect for privacy
+Article 23 – Respect for home and the family
+Article 24 – Education
+Article 25 – Health
+Article 26 – Habilitation and rehabilitation
+Article 27 – Work and employment
+Article 28 – Adequate standard of living and social protection
+Article 29 – Participation in political and public life
+Article 30 – Participation in cultural life, recreation, leisure and sport
+Article 31 – Statistics and data collection
+Article 32 – International cooperation
+Article 33 – National implementation and monitoring
+Article 34 – Committee on the Rights of Persons with Disabilities
+Article 35 – Reports by States Parties
+Article 36 – Consideration of reports
+Article 37 – Cooperation between States Parties and the Committee
+Article 38 – Relationship of the Committee with other bodies
+Article 39 – Report of the Committee
+Article 40 – Conference of States Parties
+Article 41 – Depositary
+Article 42 – Signature
+Article 43 – Consent to be bound
+Article 44 – Regional integration organizations
+Article 45 – Entry into force
+Article 46 – Reservations
+Article 47 – Amendments
+Article 48 – Denunciation
+Article 49 – Accessible format
+Article 50 – Authentic texts
+Table 1  Articles of the Conven­
+tion on the Rights of Persons with 
+Disabilities (CRPD)
+Note: Of the 50 Articles, #5 to 
+#30 are seen as being critical 
+for enhancing equality, dignity, 
+autonomy, empowerment, and 
+quality of life for people with 
+disabilities. The other articles 
+are administrative in nature
+ 
+1 3
+9
+Advances in Neurodevelopmental Disorders (2024) 8:7–16
+environmental barriers that hinder their full and effective 
+participation in society on an equal basis with others.”
+Disabilities have been classified in diverse ways based 
+on agency criteria for understanding the nature of the dis­
+abilities and the development of necessary supports and 
+services. Frequently, disabilities are conceptually classified 
+based on specific defining impairments. For example, they 
+can be categorized as: (1) Physical disabilities, encompass­
+ing impairments affecting mobility and bodily functions, 
+such as cerebral palsy, loss of a body part, and paralysis; 
+(2) Sensory disabilities, covering impairments in any of the 
+five senses, such as deafness or hard of hearing and blind­
+ness or low vision; (3) Cognitive disabilities, involving 
+impairments in thinking, learning, and processing informa­
+tion observed in autistic individuals, people with IDD, and 
+those with specific learning disabilities; (4) Mental health 
+disabilities, incorporating conditions listed in the Diagnos­
+tic and statistical manual of mental disorders (DSM-5-TR; 
+American Psychiatric Association, 2022); (5) Acquired dis­
+abilities, resulting from injury, illness, or environmental 
+factors, including traumatic brain injury and spinal cord 
+injury, among others; (6) Invisible disabilities, stemming 
+from hidden conditions leading to chronic pain, chronic 
+fatigue syndrome, and some mental health conditions; and 
+(7) Developmental disabilities, diagnosed before the age of 
+18 years, encompassing lifelong conditions such as Down 
+syndrome, fetal alcohol syndrome, and many others, with 
+people with IDD falling into this classification.
+The understanding of disability in the context of people 
+with IDD has undergone significant evolution over time 
+(Donoghue, 2003; Fitzgerald, 2006; Lo-Bianco & Shep­
+pard-Jones, 2008), beginning with religious discourses and 
+progressing to scientific conceptions (Humpage, 2007). Var­
+ious models of care have been conceptualized and imple­
+mented, often by professionals and advocates dedicated to 
+the wellbeing of people with IDD (Brittain, 2004). Only 
+recently people with IDD have begun actively advocating 
+for a reevaluation of how society perceives disabled people 
+and for the nature of services they require as full citizens. It 
+is informative to briefly explore some of models of services 
+to understand how they have shaped societal perceptions of 
+people with IDD and how these perceptions have been, and 
+continue to be, translated into interventions and services for 
+them. In addition, the way disabilities are perceived influ­
+ences people’s expectations and interactions with people 
+with IDD (Barton, 2009), making it a crucial aspect of any 
+discussion on human rights.
+Medical Model. In this model, disability is perceived 
+as a medical condition or ailment, placing medical profes­
+sionals as the specialist experts responsible for treating and 
+alleviating both the symptoms and the underlying diseases 
+or disorders affecting people with IDD (McTigue, 2015). 
+(5)	 Article 25: Health. People with IDD should have the 
+right to the highest attainable standard of health. By 
+implication, this Article focuses on the disparities in 
+healthcare access and treatment that are often endured 
+by those with IDD. This requires community health 
+providers to be knowledgeable about ways to elicit 
+treatment preferences of people with IDD and to co-
+determine what treatment and intervention methods 
+would work best for each person. It would require a 
+change in attitude of the health care providers in terms 
+of acquiring skills needed to provide the necessary 
+treatment in a manner commensurate with the person’s 
+expectations.
+The CRPD provides a blueprint for nations to significantly 
+improve the lives of people with IDD. It recognizes and rein­
+forces their inherent dignity, autonomy, and full citizenship 
+rights. It strongly advocates their legal rights, freedom from 
+harmful treatments and interventions, their right to live and 
+fully participate in community activities, inclusive educa­
+tion, and to receive the same level of health care as everyone 
+else in the community. Furthermore, it requires all nations to 
+provide the necessary supports and services to translate the 
+intent of the CRPD Articles into reality so that people with 
+IDD can live with dignity and enjoy meaningful lives. The 
+CRPD has been instrumental in producing many positive 
+changes in the lives of some people with IDD. However, 
+a systemwide transformation is yet to take place because 
+it presents a complex and costly challenge to change the 
+mindsets of politicians, administrators, service providers, 
+and families to translate the philosophy and principles of 
+the CRPD into living reality for all people with IDD.
+Disability
+Disability is a broad term used to describe impairments that 
+people live with on a daily or intermittent basis. It has been 
+defined in various ways, with the Centers for Disease Con­
+trol and Prevention (2020) defining it as “. . any condition 
+of the body or mind (impairment) that makes it more dif­
+ficult for the person with the condition to do certain activi­
+ties (activity limitation) and interact with the world around 
+them (participation restrictions).” According to the World 
+Health Organization (2001), disability has three dimen­
+sions: (1) Impairment in body structure or function, or men­
+tal functioning (e.g., scoliosis, loss of hearing, or memory); 
+(2) Activity limitation (e.g., difficulty in walking, hearing, 
+or seeing); and (3) Participation restrictions in normal daily 
+activities (e.g., engaging in social and recreational activi­
+ties). The CRPD emphasizes that “. . disability is an evolv­
+ing concept and that disability results from the interaction 
+between persons with impairments and attitudinal and 
+1 3
+10
+Advances in Neurodevelopmental Disorders (2024) 8:7–16
+& Harley, 2012). The social model implies that the limiting 
+factor is not the impairments of the individual but society 
+itself, which imposes disability on individuals with IDD 
+by not removing environmental barriers they face and by 
+holding ill-informed perceptions that they are incapable of 
+full participation in society (LoBianco & Sheppard-Jones, 
+2008). The practical implication of these views is that the 
+lives of people with IDD can be greatly enhanced through 
+political, economic, and social transformations of society 
+itself.
+A critical element of the social model is its complete 
+separation of impairments from disability, a point that crit­
+ics argue is a significant flaw. They contend that the experi­
+ences of disabled people, influenced by their impairments, 
+significantly affect their interaction with various aspects 
+of society (Palmer & Harvey, 2012). Individual impair­
+ment is an observable attribute of a disabled person and is 
+intricately linked to their lived experience. Another critique 
+centers on the social model’s failure to account for varia­
+tions among disabled people, specifically overlooking the 
+intersectionality of different oppressive forces such as race, 
+ethnicity, gender, sexual orientation, and so on (Fitzgerald, 
+2006; Reindal, 2008, 2009). Advocating for full societal 
+accommodation of disabled people, without considering 
+these intersecting factors, may not adequately capture the 
+lived experience of disabled individuals who cannot escape 
+discrimination related to these issues. From a social cre­
+ationist perspective, societal prejudices may not merely be 
+the collective beliefs of society, but a more insidious form 
+of institutionalized discrimination (Oliver & Barnes, 2012). 
+These and related criticisms of the social model have led 
+to calls for re-examination and re-invigoration of the scope 
+and applications of the model (Levitt, 2017; Riddle, 2020; 
+Woods, 2017).
+Biopsychosocial Model. This model, developed by Engel 
+(1977), aimed to bridge the gap between the psychoana­
+lytic and biological conceptualizations of mental disorders 
+in psychiatry. Grounded in science, this model extended 
+beyond the scientific realm to combat the dehumanization 
+and disempowerment of individuals with mental disor­
+ders through empathy and compassion in medical practice 
+(Engel, 1980, 1988). This holistic approach to disability 
+recognizes the intricate and dynamic interplay of biologi­
+cal, psychological, and social factors that determine human 
+functioning (Borrell-Carrió et al., 2004). Biological factors 
+may encompass physical health, such as genetic predis­
+positions, medical conditions, physical conditions. Aging, 
+including age-related changes in the body, and gender, 
+with biological differences impacting susceptibility to spe­
+cific disabilities, are also considered. Psychological factors 
+include mental health considerations affecting cognitive 
+and emotional wellbeing, such as depression and anxiety. 
+People are categorized as disabled if their impairment hin­
+ders them from performing tasks considered “normal” in 
+comparison to those without disabilities (Blustein, 2012). 
+Viewing disability from a biological standpoint, the medical 
+model sees it as a biological issue independent of external 
+factors such as the environment, societal values, culture, or 
+politics. Disability, according to this model, results from 
+limited functioning due to bodily impairments, encompass­
+ing issues related to body function, structure, and cognitive 
+limitations stemming from physical, sensory, emotional, or 
+cognitive challenges (Palmer & Harley, 2012). The medi­
+cal model gave rise to the assumption that people with IDD 
+could overcome or at least mitigate their disabilities only be 
+engaging in the treatments and services provided by medi­
+cal doctors and other healthcare professionals.
+One major criticism of the medical model is that medical 
+experts extended their influence beyond treating disabilities 
+to having control or authority over the lives of people with 
+IDD, shaping perceptions of how society values such people 
+(Haegele & Hodge, 2016). Diagnoses and labels provided 
+by medical personnel led to determinations of the services 
+offered, their types, how they were provided, and the ben­
+efits of such services, often overlooking the values, desires, 
+and aspirations of people with IDD (Barton, 2009; Hump­
+age, 2007). Another significant critique is that by associat­
+ing disabled people with a sick role and framing disability 
+in terms of deficits (Mitra, 2006), the medical model per­
+petuated stereotypes portraying them as abnormal and fee­
+ble. Consequently, this portrayal has influenced negative 
+perceptions, and condescending attitudes and behaviors of 
+society towards people with IDD (Goering, 2015). These 
+considerations led to the development of social models of 
+disability.
+Social Model. The social model of disability, introduced 
+by Oliver (1983) as an alternative to the prevailing medi­
+cal model, has since seen various iterations (Mitra, 2006; 
+Pfeiffer, 2001). The overarching social model posits that 
+societal attitudes, discrimination, and exclusion are the pri­
+mary contributors to the marginalization of disabled people, 
+including those with IDD (Winance, 2016). According to 
+this model, disabled people not face barriers in life due to 
+their mental and physical impairments; rather, these chal­
+lenges arise from environmental barriers imposed by soci­
+etal, cultural, political, and attitudinal beliefs (DePoy & 
+Gilson, 2015). In essence, disability can be significantly 
+reduced or even eliminated if society provides the necessary 
+supports and services (Bailey et al., 2015). In contrast to the 
+medical model, the social model situates disability within 
+the socioeconomic environment rather than within the indi­
+vidual, recognizing impairments as a natural part of human 
+diversity. Discrimination against disabled people is consid­
+ered a violation of their human rights (Coles, 2001; Palmer 
+1 3
+11
+Advances in Neurodevelopmental Disorders (2024) 8:7–16
+the human being and subsequently, but only, if necessary, 
+on the person’s medical characteristics. It places the indi­
+vidual center stage in all decisions affecting him/her and, 
+most importantly, locates the main “problem” outside the 
+person and in society” (Quinn & Degener, 2002, p. 14). In 
+a broader context, “the end goal from the perspective of the 
+human rights model is to build societies that are genuinely 
+inclusive, societies that value difference and respect the dig­
+nity and equality of all human beings regardless of differ­
+ence” (Quinn & Degener, 2002, p. 15).
+The details of the human rights model are expounded 
+by Degener (2016a) and the following six propositions dif­
+ferentiate it from the medical, social, and biopsychosocial 
+models (Degener, 2016b, pp. 3–14):
+(1)	 Disability is a social construct, but human rights do 
+not necessitate a specific health or body status (i.e., the 
+absence of impairment is not a prerequisite for human 
+rights because impairment does not impede a person’s 
+human rights capacity).
+(2)	 Human rights encompass more than anti-discrimination 
+(i.e., they include civil and political rights, as well as 
+economic, social, and cultural rights).
+(3)	 Impairment is recognized as human variation (i.e., dis­
+abled people must confront the spectrum of pain and 
+suffering, similar to everyone in society).
+(4)	 Multiple discrimination and layers of identity must be 
+acknowledged (i.e., identity politics should be a com­
+ponent of disability policy, considering minority and 
+cultural identification, including race, ethnicity, gen­
+der, sexual orientation, and the various impairment 
+categories).
+(5)	 Prevention policy should be sensitive to human rights 
+(i.e., prevention policy is seen as human rights protec­
+tion for disabled persons).
+(6)	 Poverty and disability are interrelated, but there is a 
+roadmap for change (i.e., disability is a development 
+issue covered in Article 11 of the CRPD, providing a 
+pathway for change in the daily lives of disabled per­
+sons as well as during natural disasters and humanitar­
+ian emergencies).
+The human rights model corresponds to explicit articles 
+of CRPD. For instance, it emphasizes the importance of 
+involving disabled persons in decision-making processes 
+that affect their lives (Article 4) and advocates for the elimi­
+nation of barriers in all areas of life, such as education, 
+employment, transportation, and public services to ensure 
+full participation and accessibility for disabled individuals 
+(Article 9). Moreover, the human rights model of disability 
+is already being used in community and research settings 
+Coping strategies, resilience, and attitude towards one’s dis­
+ability, along with self-perception affecting self-esteem and 
+self-efficacy, are also part of the psychological dimension. 
+Social factors encompass societal discrimination, reflect­
+ing social attitudes and prejudices, as well as accessibility 
+factors affecting functioning (e.g., accessible public spaces, 
+transportation, assistive and prosthetic devices), and social 
+support (e.g., from family, friends, and community). These 
+three global factors are interrelated and interact dynami­
+cally, with changes or disruptions in one factor influencing 
+the others.
+The biopsychosocial model provides a comprehen­
+sive understanding of people with disabilities and offers a 
+methodology for clinical intervention. While considered a 
+strength by some, critics argue that its comprehensiveness 
+makes it challenging in applying the model to community 
+care for disabled people. Despite the existence of a biopsy­
+chosocial formulation manual (Campbell & Rohrbaugh, 
+2015), significant variations in its use across disabilities 
+have been observed. This variability is expected given the 
+wide range of disabilities evidenced in our community, 
+but the disparities in its application across agencies for the 
+same disability are somewhat disconcerting. Another criti­
+cism is that, in certain healthcare and rehabilitation settings, 
+the medical aspect of the model tends to overshadow the 
+psychological and social components due to administration 
+by medical personnel. At the same time, others argue that 
+the psychological and social aspects of disabilities are often 
+overemphasized without due consideration of biological 
+factors. The precedence given to each component depends 
+on the clinical strengths of professionals, highlighting the 
+necessity of a strong treatment team leader to provide an 
+integrative and nuanced understanding of each person’s dis­
+ability. Moreover, some critics note a potential inadequacy 
+in the model’s emphasis on structural factors in the com­
+munity that impose difficulties for disabled people. These 
+factors discriminatory policies, inaccessible infrastructure, 
+social stigma, and limited resources and services for specific 
+disabilities.
+Human Rights Model. In contrast to the other disability 
+models developed by advocates or clinicians, the Human 
+Rights Model emerges from the concepts of equality and 
+discrimination as articulated by the CRPD (Degener, 2016a, 
+b, 2017a, b; Lawson & Beckett, 2021). As highlighted by 
+Degener (2016b), the CRPD essentially encapsulates the 
+human rights model of disability. The initial articulation of 
+the human rights model emphasizes that “Human dignity is 
+the anchor norm of human rights. Each individual is deemed 
+to be of inestimable value, and nobody is insignificant. Peo­
+ple are to be valued not just because they are economically 
+or otherwise useful but because of their inherent self-worth. 
+. The human rights model focuses on the inherent dignity of 
+1 3
+12
+Advances in Neurodevelopmental Disorders (2024) 8:7–16
+through the fading away of ignorance there is libera­
+tion by wisdom.
+Samatha meditation leads to calmness or serenity, often 
+interpreted as resting the mind. Vipassanā meditation 
+facilitates insight into the true nature of reality, focusing 
+on impermanence, dukkha, and not-self. That is, Vipassanā 
+focuses on the nature of the mind.
+Mindfulness and mindfulness-based interventions have 
+been extensively researched for their effectiveness in treat­
+ing conditions arising from human disabilities, including 
+physical, sensory, psychological, and cognitive disabilities 
+(see Singh et al., 2024 for a conceptual review). Individuals 
+with cognitive disabilities, such as those with IDD, often 
+face above-average difficulty with mental tasks and may 
+also contend with co-occurring physical and mental health 
+issues. People with IDD encounter multidimensional chal­
+lenges in everyday life, which can be attenuated with appro­
+priate supports and services. One of these services includes 
+mindfulness-based interventions, which have been shown to 
+enhance their quality of life.
+Mindfulness-based intervention can be utilized in two 
+general ways with people with IDD. First, they can serve 
+as adjuncts to an array of evidence-based therapeutic and 
+educational interventions, including:
+(1)	 Educational interventions (e.g., individualized educa­
+tion plans in special and regular education).
+(2)	 Behavioral interventions (e.g., applied behavior analy­
+sis and positive behavior support).
+(3)	 Speech and language therapy for those with communi­
+cation difficulties.
+(4)	 Occupational therapy for those who have difficulties 
+with daily living skills,
+(5)	 Cognitive rehabilitation interventions (e.g., cognitive 
+training in functional skills and compensatory skills 
+training),
+(6)	 Assistive technologies (e.g., augmentative and alter­
+native communication devices, text-to-speech, and 
+speech-to-text software), and.
+(7)	 Vocational and life skills training (Singh et al., 2024).
+Second, mindfulness-based programs can be employed as 
+the primary intervention, either with their caregivers as 
+mediators of behavior change or directly with those with 
+IDD (Felver et al., 2022; Hwang & Singh, 2023; Singh & 
+Hwang, 2020, 2021; Singh & Singh Joy, 2021; Singh et al., 
+2022).
+The alignment of mindfulness-based interventions with 
+specific Articles of the CRPD is questionable because extant 
+research has not been firmly grounded within a human 
+rights model. This does not necessarily imply that certain 
+to make a difference in the lives of disabled people (e.g., 
+Lombard-Vance, 2023).
+In sum, disability is a dynamic concept continually 
+evolving and shaping societal attitudes, influencing policies, 
+and impacting practices for all disabled people, including 
+those with IDD. As knowledge and attitudes toward dis­
+ability undergo transformations, existing models have been 
+revised or new ones developed to incorporate new insights 
+derived from philosophy, service practices, and outcome 
+data reflecting changes in the quality of life for disabled 
+people. In this context, the emergence of new models par­
+allels the development of new theories in science (Kuhn, 
+1996). Undoubtedly, the medical, social, biopsychosocial, 
+and human rights models are not the last models of disabil­
+ity; newer models and approaches are already emerging. For 
+example, the social-ecological model (McLeroy et a., 1988) 
+has recently been adapted within a human rights context to 
+account for the adaptive behavior of people with IDD when 
+responding to maladaptive environments (Jorgensen et al., 
+2023).
+Mindfulness
+Mindfulness, in everyday parlance, means doing something 
+consciously, carefully, or attentively. In terms of Buddhist 
+teachings, mindfulness is a somewhat limited translation of 
+the Pāli word sati, or its Sanskrit equivalent smṛiti. It has 
+been variously defined by Buddha in his teachings and com­
+mentaries by contemporary teachers and academics (see 
+Amaro & Singh, 2021). The most cited definition of mind­
+fulness is by Kabat-Zinn (2003, p. 145): “the awareness that 
+emerges through paying attention on purpose, in the present 
+moment, and nonjudgmentally to the unfolding of experi­
+ence moment-by moment”. Although there are hundreds of 
+different forms of meditation practice (Matko et al., 2021), 
+the two key mindfulness meditation practices are Samatha 
+(tranquility) and Vipassanā (insight). As expressed in the 
+Aṅguttara Nikāya [2:13]:
+Two things, O monks, partake of supreme knowledge. 
+What two? Tranquility and insight.
+If tranquility is developed, what benefit does it bring? 
+The mind becomes developed. And what is the benefit 
+of a developed mind? All lust [desire] is abandoned.
+If insight is developed, what benefit does it bring? 
+Wisdom becomes developed. And what is the benefit 
+of developed wisdom? All ignorance is abandoned.
+A mind defiled by lust is not freed; and wisdom defiled 
+by ignorance cannot develop. Thus, monks, through 
+the fading away of lust there is liberation of mind; and 
+1 3
+13
+Advances in Neurodevelopmental Disorders (2024) 8:7–16
+Data Availability  This is a review article, and no data are included.
+Declarations
+Ethics approval  This is a review paper and does not require an ethics 
+approval.
+Conflict of interest  The authors declare no conflict of interest.
+References
+Amaro, B., & Singh, N. N. (2021). Mindfulness: Definitions, attri­
+butes, and mechanisms. In N. N. Singh, & S. D. Singh Joy (Eds.), 
+Mindfulness-based interventions with children and adolescents: 
+Research and practice (pp. 11–33). Routledge.
+American Psychiatric Association (2022). Diagnostic and statistical 
+manual of mental disorders (5th ed., text rev.). American Psychi­
+atric Association.
+Bailey, K., Harris, S. J., & Simpson, S. (2015). Stammering and the 
+social model of disability: Challenge and opportunity. Proce­
+dia - Social and Behavioral Sciences, 193, 13–24. https://doi.
+org/10.1016/j.sbspro.2015.03.240.
+Barton, L. (2009). Disability, physical education and sport: Some criti­
+cal observations and questions. In H. Fitzgerald (Ed.), Disability 
+and youth sport (pp. 39–50). Routledge.
+Blustein, J. (2012). Philosophical and ethical issues in disabil­
+ity. Journal of Moral Philosophy, 9, 573–587. https://doi.
+org/10.1163/17455243-00904002.
+Borrell-Carrió, F., Suchman, A. L., & Epstein, R. M. (2004). The bio­
+psychosocial model 25 years later: Principles, practice, and sci­
+entific inquiry. Annals of Family Medicine, 2(6), 576–582. https://
+doi.org/10.1370/afm.245.
+Brittain, I. (2004). Perceptions of disability and their impact upon 
+involvement in sport for people with disabilities at all levels. 
+Journal of Sport and Social Issues, 28, 429–452. https://doi.
+org/10.1177/0193723504268729.
+Campbell, W. H., & Rohrbaugh, R. M. (2015). The biopsychosocial 
+formulation manual: A guide for mental health professionals. 
+Routledge.
+Centers for Disease Control and Prevention (2020). Disability and 
+health 
+promotionhttps://www.cdc.gov/ncbddd/disabilityand­
+health/disability.html.
+Coles, J. (2001). The social model of disability: What does it 
+mean for practice in services for people with learning dif­
+ficulties? Disability & Society, 16, 501–510. https://doi.
+org/10.1080/09687590120059504.
+Cummins, R. A. (2016). Quality of life. In N. N. Singh (Ed.), Hand­
+book of evidence-based practices in intellectual and developmen­
+tal disabilities (pp. 169–227). Springer.
+Degener, T. (2016a). A human rights model of disability. In P. Blanck, 
+& E. Flynn (Eds.), Routledge handbook of disability law and 
+human rights (pp. 31–49). Routledge.
+Degener, T. (2016b). Disability in a human rights context. Laws, 5, 35. 
+https://doi.org/10.3390/laws5030035.
+Degener, T. (2017a). A new human rights model of disability. In V. D. 
+Fina, R. Cera, & G. Palmisano (Eds.), The United Nations Con­
+vention on the rights of persons with disabilities: A commentary. 
+Springer.
+Degener, T. (2017b). 10 years of Convention on the Rights of Per­
+sons with Disabilities. Netherlands Quarterly of Human Rights, 
+35(3), 152–157. Social Work Chronicle, 4(1), 16–36. https://doi.
+org/10.21863/swc/2015.4.1and2.001.
+tenets of disability models (e.g., medical, social, biopsycho­
+social, and human rights models) have not been addressed. 
+Indeed, medical interventions and related services for peo­
+ple with IDD often encompass key aspects of the medical 
+model. Furthermore, the services mandated by social and 
+biopsychosocial models have shaped the provision of many 
+current community-based services. What is suggested here 
+is that researchers engaged in mindfulness-based interven­
+tions may either be unaware of the CRPD or have not specif­
+ically anchored their interventions and services in specific 
+Articles of CRPD. Given the recent applications of mindful­
+ness in the field of IDD, current research has predominantly 
+focused on analyzing the correlates, moderators, predictors, 
+and outcomes of mindfulness-based interventions.
+One of the key issues is to raise awareness within the 
+mindfulness research community regarding the essential 
+Articles of CRPD and the necessity for further research 
+in these areas. Following this awareness, efforts should 
+be directed towards developing a consensus on the key 
+elements of each relevant CRPD Article, which can be 
+operationalized and defined. This, in turn, will facilitate 
+the establishment of standards and measurement criteria 
+for assessing the degree of alignment of past, present, and 
+future research with the CRPD Articles. Similar to existing 
+criteria for assessing research quality (e.g., Cochrane inter­
+vention reviews, Higgins et al., 2023), the establishment of 
+quality standards for alignment with the Articles of CRPD is 
+crucial for advancing research and practice in mindfulness.
+Fully integrating the aims of the CRPD and mindfulness-
+based interventions for people with IDD will require over­
+coming intellectual and practical hurdles. An example of 
+such challenges is determining how to develop and imple­
+ment mindfulness practices for people with IDD who face 
+the most significant impairments, particularly those at the 
+severe and profound levels of functioning. Adhering to the 
+principle Nihil de nobis, sine nobis (“Nothing about us with­
+out us”) aiming for full participation and equal opportunity 
+for, by, and with people with IDD who live with the high­
+est levels of cognitive and physical disabilities, necessitates 
+finding ways to provide care and services without being 
+paternalistic and overprotective. Addressing the wants and 
+needs of individuals with disabilities, especially those with 
+severe impairments, to achieve a good quality of life may 
+significantly differ from recommendations by profession­
+als and what is offered by service providers. While this 
+perspective might not yet be prominent in the awareness of 
+mindfulness researchers, it could be beneficial to adopt a 
+disability perspective and the human rights model of dis­
+ability as part of the theoretical framework for obtaining 
+informed consent, provision of mindfulness-based services, 
+and in participatory research in mindfulness.
+1 3
+14
+Advances in Neurodevelopmental Disorders (2024) 8:7–16
+from the SHAPES project. Disabilities, 3, 28–47. https://doi.
+org/10.3390/disabilities3010003.
+Matko, K., Ott, U., & Sedlmeier, P. (2021). What do meditators do 
+when they meditate? Proposing a novel basis for future meditation 
+research. Mindfulness, 12, 1791–1811. https://doi.org/10.1007/
+s12671-021-01641-5.
+McLeroy, K. R., Bibeau, D., Steckler, A., & Glanz, K. (1988). An eco­
+logical perspective on health promotion programs. Health Educa­
+tion Quarterly, 15, 351–377.
+McTigue, P. (2015). From Navas to Kaltoft: The European Court 
+of Justice’s evolving definition of disability and the impli­
+cations for HIV-positive individuals. International Journal 
+of Discrimination and the Law, 15(4), 241–255. https://doi.
+org/10.1177/1358229115591653.
+Mitra, S. (2006). The capability approach and disability. Journal of 
+Disability Policy Studies, 16, 236–247. https://doi.org/10.1177/1
+0442073060160040501.
+Nisbet, J., & Weiss, N. R. (2021). Pain and shock in America: Politics, 
+advocacy, and the controversial treatment of people with disabili­
+ties. Brandeis University Press.
+Oliver, M. (1983). Social work with disabled people. Palgrave 
+Macmillan.
+Oliver, M., & Barnes, C. (2012). The New Politics of disablement. Pal­
+grave Macmillan.
+Palmer, M., & Harley, D. (2012). Models and measurement in dis­
+ability: An international review. Health Policy and Planning, 27, 
+357–364. https://doi.org/10.1093/heapol/czr047.
+Parmenter, T. R. (2023). Rights are necessary but insufficient for the 
+achievement of the full inclusion of people with intellectual and 
+developmental disabilities. Advances in Neurodevelopmental 
+Disorders, 8(1), https://doi.org/10.1007/s41252-023-00351-4.
+Pfeiffer, D. (2001). The conceptualization of disability. In B. M. Alt­
+man, & S. Barnartt (Eds.), Exploring theories and expanding 
+methodologies: Vol. 2. Research in social science and disability 
+(pp. 29–52). Elsevier.
+Quinn, G., & Degener, T. (2002). Human rights and disability: The 
+current use and future potential of United Nations human rights 
+instruments in the context of disability. United Nations.
+Reindal, S. M. (2008). A social relational model of disability: A theo­
+retical framework for special needs education? European Jour­
+nal of Special Needs Education, 23(2), 135–146. https://doi.
+org/10.1080/08856250801947812.
+Reindal, S. M. (2009). Disability, capability, and special educa­
+tion: Towards a capability-based theory. European Jour­
+nal of Special Needs Education, 24(2), 155–168. https://doi.
+org/10.1080/08856250902793610.
+Riddle, C. A. (2020). Why we do not need a ‘stronger’ social model of 
+disability. Disability & Society, 35(9), 1509–1513. https://doi.org
+/10.1080/09687599.2020.1809349.
+Shogren, K. A., & Singh, N. N. (2022). Intervening from the Inside 
+Out: Exploring the role of self–determination and mindfulness–
+based interventions for people with intellectual and developmen­
+tal disabilities. Advances in Neurodevelopmental Disorders, 6, 
+147–156. https://doi.org/10.1007/s41252-022-00252-y.
+Singh, N. N., & Hwang, S. K. (2020). Mindfulness-based programs 
+and practices for people with intellectual and developmental dis­
+ability. Current Opinion in Psychiatry, 33, 86–91. https://doi.
+org/10.1097/YCO.0000000000000570.
+Singh, N. N., & Hwang, S. K. (2021). Mindfulness in intellectual and 
+developmental disabilities. In N. N. Singh, & S. D. Singh Joy 
+(Eds.), Mindfulness-based interventions with children and ado­
+lescent: Research and practice (pp. 96–118). Routledge.
+Singh, N. N., & Singh Joy, S. D. (2021). Teaching mindfulness to ado­
+lescents. In N. N. Singh, & S. D. Singh Joy (Eds.), Mindfulness-
+based interventions with children and adolescent: Research and 
+practice (pp. 162–178). Routledge.
+DePoy, E., & Gilson, S. (2015). Disability as disjuncture: A theory to 
+guide social work practice. Social Work Chronicle, 4, https://doi.
+org/10.21863/swc/2015.4.1and2.001.
+Donoghue, C. (2003). Challenging the authority of the medical def­
+inition of disability: An analysis of the resistance to the social 
+constructionist paradigm. Disability & Society, 18(2), 199–208. 
+https://doi.org/10.1080/0968759032000052833.
+Engel, G. (1977). The need for a new medical model: A challenge for 
+bio-medicine. Science, 196, 129–136. https://doi.org/10.1126/
+science.847460.
+Engel, G. (1980). The clinical application of the biopsychosocial 
+model. American Journal of Psychiatry, 137, 535–544. https://
+doi.org/10.1176/ajp.137.5.535.
+Engel, G. L. (1988). How much longer must medicine’s science be 
+bounded by a seventeenth century world view? In K. L. White 
+(Ed.), The task of medicine: Dialogue at Wickenburg (pp. 113–
+136). The Henry Kaiser Family Foundation.
+Felver, J. C., Clawson, A. J., Ash, T. L., Martens, B. K., Wang, Q., & 
+Singh, N. N. (2022). Meta-analysis of mindfulness-based program 
+soles of the feet for disruptive behaviors. Behavior Modification, 
+46(6), 1488–1516. https://doi.org/10.1177/01454455211073738.
+Fitzgerald, H. (2006). Disability and physical education. In D. Kirk, D. 
+MacDonald, & M. O’Sullivan (Eds.), The handbook of physical 
+education (pp. 752–766). Sage.
+Goering, S. (2015). Rethinking disability: The social model of disabil­
+ity and chronic Disease. Current Reviews in Musculoskeletal Med­
+icine, 8(2), 134–138. https://doi.org/10.1007/s12178-015-9273-z.
+Haegele, J. A., & Hodge, S. (2016). Disability discourse: Overview 
+and critiques of the medical and social models. Quest, 68(2), 
+193–206. https://doi.org/10.1080/00336297.2016.1143849
+Higgins, J. P. T., Lasserson, T., Thomas, J., Flemyng, E., & Churchill, 
+R. (2023). Methodological expectations of Cochrane intervention 
+reviews. Cochrane. https://doi.org/10.1177/109019818801500401
+Humpage, L. (2007). Models of disability, work, and welfare in Aus­
+tralia. Social Policy & Administration, 41, 215–231. https://doi.
+org/10.1111/spol.2007.41.issue-3.
+Hwang, S. K., & Singh, N. N. (2023). Mindfulness and mindfulness-
+based interventions. In P. Sturmey, R. Lang, & J. K. Luiselli 
+(Eds.), Lifespan treatment of autism spectrum disorder: An evi­
+dence-based guide for professionals and families. Oxford Uni­
+versity Press.
+Jorgensen, M., Nankervis, K., & Chan, J. (2023). Environments of 
+concern’: Reframing challenging behavior within a human rights 
+approach. International Journal of Developmental Disabilities, 
+69(1), 95–100. https://doi.org/10.1080/20473869.2022.2118513.
+Kabat-Zinn, J. (2003). Mindfulness-based interventions in context: 
+Past, present, and future. Clinical Psychology: Science and Prac­
+tice, 10, 144–156. https://doi.org/10.1093/clipsy.bpg016.
+Kuhn, T. S. (1996). The structure of scientific revolutions. University 
+of Chicago Press.
+Lawson, A., & Beckett, A. E. (2021). The social and human rights 
+models of disability: Towards a complementarity thesis. Interna­
+tional Journal of Human Rights, 25(2), 348–379. https://doi.org/
+10.1080/13642987.2020.1783533.
+Levitt, J. M. (2017). Exploring how the social model of disability can 
+be re-invigorated: In response to Mike Oliver. Disability & Soci­
+ety, 32(4), 589–594. https://doi.org/10.1080/09687599.2017.130
+0390.
+LoBianco, A. F., & Sheppard-Jones, K. (2008). Perceptions of 
+disability as related to medical and social factors. Jour­
+nal of Applied Social Psychology, 37(1), 1–13. https://doi.
+org/10.1111/j.0021-9029.2007.00143.x.
+Lombard-Vance, R., Soye, E., Ferri, D., McEvoy, E., MacLachlan, M., 
+& Sarlio-Siintola, S. (2023). Applying the Human rights Model 
+of disability to informed consent: Experiences and reflections 
+1 3
+15
+Advances in Neurodevelopmental Disorders (2024) 8:7–16
+Woods, R. (2017). Exploring how the social model of disability can 
+be re-invigorated for autism: In response to Jonathan Levitt. Dis­
+ability & Society, 32(7), 1090–1095. https://doi.org/10.1080/096
+87599.2017.1328157.
+World Health Organization (2001). International classification of 
+functioning, disability, and health WHO.
+Publisher’s Note  Springer Nature remains neutral with regard to juris­
+dictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of 
+such publishing agreement and applicable law. 
+Singh, N. N., Lancioni, G. E., Hwang, S. K., & Myers, R. E. (2022). 
+Mindfulness: Therapeutic applications for individuals with 
+autism spectrum disorder. In L. L. Matson, & P. Sturmey (Eds.), 
+Handbook of autism and pervasive developmental disorder (pp. 
+1283–1300). Springer.
+Singh, N. N., Lancioni, G. E., Myers, R. E., Hwang, Y. S., & Medve­
+dev, O. N. (2024). Mindfulness and disability. In E. Andrews, K. 
+Ayers, D. S. Dunn, & M. Wehmeyer (Eds.). The Oxford handbook 
+of positive psychology and disability (2nd Edition). Oxford Uni­
+versity Press.
+United Nations (2006). Convention on the rights of persons with dis­
+abilities. Treaty Series, 2515, 3. I-44910-080000028017bf87.pdf.
+Winance, M. (2016). Rethinking disability: Lessons from the past, 
+questions for the future. Contributions and limits of the social 
+model, the sociology of science and technology, and the ethics 
+of care. European Journal of Disability Research, 10, 99–110. 
+https://doi.org/10.1016/j.alter.2016.02.005.
+1 3
+16

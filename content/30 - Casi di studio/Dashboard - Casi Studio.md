@@ -43,5 +43,17 @@ WHERE contains(file.folder, "Normativa Neurodivergenze Italia")
 SORT file.name ASC
 ```
 
+## 🧑‍🦽 Sulla disabilità (Architettura Inclusiva)
+```dataview
+TABLE 
+  localizzazione AS "📍 Luogo", 
+  ambito AS "🏛️ Ambito",
+  target AS "👥 Target",
+  caratteristiche AS "✨ Caratteristiche"
+FROM #casestudy
+WHERE contains(file.folder, "Sulla disabilità")
+SORT file.name ASC
+```
+
 ---
-**Ultimo aggiornamento:** 2026-05-23
+**Ultimo aggiornamento:** 2026-06-07

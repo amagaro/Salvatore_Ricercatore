@@ -1,0 +1,1576 @@
+C O M M E N T A R Y
+Autism severity and its relationship to disability
+Einat Waizbard-Bartov1,2
+|
+Deborah Fein3,4
+|
+Catherine Lord5
+|
+David G. Amaral2
+1Department of Psychology, University of
+California Davis, Davis, California, USA
+2The MIND Institute and Department of
+Psychiatry and Behavioral Sciences, University
+of California Davis, Davis, California, USA
+3Department of Psychological Sciences,
+University of Connecticut, Storrs,
+Connecticut, USA
+4Department of Pediatrics, University of
+Connecticut, Farmington, Connecticut, USA
+5Departments of Psychiatry and Human
+Development and Psychology, University of
+California, Los Angeles, California, USA
+Correspondence
+Einat Waizbard-Bartov, Department of
+Psychology, University of California Davis,
+Davis, CA, USA.
+Email: ewaizbar@ucdavis.edu
+Funding information
+Autism Speaks, Grant/Award Number: 12841;
+National Institutes of Health
+Abstract
+Autism severity is currently defined and measured based exclusively on the sever-
+ity levels of the two core symptom domains: social-communication and restricted
+or repetitive patterns of behaviors and interests. Autistic individuals, however, are
+often diagnosed with other medical, developmental, and psychological co-
+occurring conditions. These additional challenges such as intellectual disability,
+limited expressive and/or receptive language, and anxiety disorders, can have a
+tremendous impact on the day-to-day lives of autistic individuals, for both their
+adaptive functioning as well as their sense of wellbeing. Furthermore, the initial
+presentation of core symptoms and their likelihood of changing over time are
+influenced by the presence of such co-occurring conditions. In order to truly
+understand how a person’s autism impacts their life, both core symptoms as well
+as other challenges should be considered. This approach was recently taken byThe
+Lancet Commission on the future of care and clinical research in autism, which pro-
+posed the term “profound autism” for a subgroup of individuals presenting with
+high core symptom severity, co-occurring intellectual disability, and little or no
+language, who require extensive long-term care. Considering other individual fac-
+tors such as daily living skills, specific support needs and environmental resources
+would also enhance the evaluation of disability in autistic individuals. As cur-
+rently employed in the assessment of intellectual disability, a multidimensional
+approach to autism could provide a more comprehensive system for classification
+of impairment. At present, however, there is no formal way to designate the com-
+bined effect of these different aspects of autism on a person’s life. A comprehen-
+sive
+outlook
+that
+acknowledges
+impairments,
+capabilities,
+co-occurring
+conditions, and environmental factors would be useful for identifying subgroups
+of individuals as well as for determining individual needs and strengths in clinical
+assessments.
+Lay Summary
+The severity of a person’s autism is currently defined based on the severity of their
+core autism symptoms: impaired social-communication and the presence of
+restricted or repetitive patterns of behaviors and interests. But autistic people
+often face additional challenges such as intellectual disability, epilepsy, and anxi-
+ety disorder, that considerably impact their everyday life, wellbeing, and the need
+for support. A more complete view of autism severity, one that includes core
+symptoms as well as additional challenges, could help identify meaningful sub-
+groups of autistic individuals and could be useful in clinical care.
+K E Y W O R D S
+ADOS calibrated severity score, autism severity, autism spectrum disorder, autism symptoms,
+profound autism, symptom severity change
+Received: 31 August 2022
+Accepted: 19 January 2023
+DOI: 10.1002/aur.2898
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided
+the original work is properly cited.
+© 2023 The Authors. Autism Research published by International Society for Autism Research and Wiley Periodicals LLC.
+Autism Research. 2023;16:685–696.
+wileyonlinelibrary.com/journal/aur
+685
+INTRODUCTION
+Autism has historically been considered an impairing
+condition. Based on current DSM5 criteria (APA, 2013),
+autism includes three levels of severity ranging from
+“requiring support” to “requiring very substantial sup-
+port.” Judgments of severity are based solely on the char-
+acteristics of the two core domains that make up the
+diagnostic criteria. The first domain comprises deficits in
+social and communication abilities (social affect). These
+can manifest, for instance, in failure to use eye contact to
+initiate communication with others, as well as in social
+interactions that lack a natural, “back and forth” recipro-
+cal quality. The second core domain is the presence of
+restricted or repetitive patterns of behavior and interests
+(RRBs). These can range from engaging in repetitive
+movements, such as hand flapping, to having an intense
+preoccupation with highly specific objects or topics. The
+underlying assumption is that the way neurotypical indi-
+viduals seek out, initiate and maintain social interactions
+represents a basic human behavior, and lack of interest
+or ability to participate in this behavior is considered to
+be a disability. Moreover, the presence of circumscribed
+or repetitive behaviors can limit an autistic individual’s
+experience of the varied human activities and is again,
+therefore, considered to be a disability. While clinicians
+also specify if there is accompanying intellectual or lan-
+guage impairment, these features are not commonly inte-
+grated into the overall judgment of autism severity.
+Moreover, other common, co-occurring conditions in
+autism such as sleep difficulties, gastrointestinal distress
+and epilepsy are also not usually considered in evaluating
+the level of autism severity. This is due to the fact that, as
+stated above, the DSM-5 specifies levels of autism sever-
+ity based solely on the core symptom domains and three
+levels of needed supports, regardless of other individual
+characteristics.
+The severity levels of social affect and repetitive
+behaviors
+are
+described
+with
+some
+specificity
+in
+DSM-5. For example, level 3 social communication
+entails “very limited initiation of social interactions,
+and minimal response to social overtures from others”
+while level 1 social communication entails “difficulty
+initiating social interactions, and clear examples of
+atypical or unsuccessful response to social overtures of
+others.” Furthermore, these severity levels are explicitly
+posited to correspond to different levels of functional
+impairment: Level 1, “without supports in place, defi-
+cits in social communication cause noticeable impair-
+ments”; Level 2 “social impairments apparent even with
+supports in place”; and Level 3, “severe deficits in ver-
+bal and nonverbal social communication skills cause
+severe impairments in functioning.” Thus, the DSM-5
+attaches to the severity levels specific behaviors, degrees
+of impairment and required support resulting only from
+autism-specific
+symptoms
+rather
+than
+associated
+conditions.
+Writing a commentary on autism severity at this time
+is fraught with potential controversy. The autism com-
+munity is becoming increasingly polarized with some see-
+ing little or no “disability” associated with autism (Kapp
+et al., 2013) while others view limited social ability as dis-
+abling in itself, and/or highlight the significant associated
+medical issues that cause substantial disability and limit
+daily functioning (Singer, 2022, November 11). This
+diversity of opinion on the level of disability associated
+with autism results, in part, from the enormous heteroge-
+neity in how the core and co-occurring conditions present
+in individual autistic persons. It goes beyond this, how-
+ever, since the level of disability is often moderated by
+environmental factors such as amount and efficacy of
+intervention, socioeconomic level and availability of
+quality support services.
+In this commentary, we will first review how autism
+severity is evaluated in a research context. We will then
+briefly summarize evidence that autism severity in an
+individual is changeable during development and men-
+tion some of the factors that may be associated with
+severity changes. We conclude with a discussion of why a
+research estimation of autism severity that corresponds
+to the DSM-5 levels is not sufficient to closely map on to
+an individual’s real-life functioning, including their expe-
+riences and challenges. We describe the evolution of clas-
+sification systems in intellectual disability that now use
+criteria that go well beyond IQ. In autism, we favor the
+use of such multidimensional classification systems to
+determine not only severity levels and concomitant
+impairment, but also to lead to an understanding of the
+individual based on his or her support needs. Such a sys-
+tem is consistent with the use of terms such as “profound
+autism” for those individuals who have not only severe
+autism symptoms per se but also significant challenges
+beyond the core symptoms of autism, such as intellectual
+disability. A multidimensional approach to defining
+autistic subgroups would undoubtedly achieve a more
+balanced picture of the impairments and capabilities
+which are both features of the autistic individual and pro-
+mote better clinical characterization. It would probably
+also
+promote
+fundamental
+biological
+research.
+As
+pointed out by Waterhouse and Gillberg (2014), studying
+autism spectrum disorder (ASD) as a single syndrome
+and attempting to find a single underlying brain dysfunc-
+tion has led research away from directions that may be
+more productive, specifically individual variation and
+existence of micro-subgroups.
+HOW IS AUTISM SEVERITY ASSESSED
+IN A RESEARCH CONTEXT?
+Autism assessment in a research context is done in diag-
+nostic settings and includes standard assessment tools for
+evaluation of core symptoms. There are different stan-
+dardized tools available for this purpose, such as the
+686
+WAIZBARD-BARTOV ET AL.
+ 19393806, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aur.2898 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Childhood
+Autism
+Rating
+Scale
+(CARS)
+(Schopler
+et al., 1986), the Autism Behavior Checklist (ABC)
+(Krug et al., 1980) and others. However, the gold stan-
+dard measures for evaluation of autism symptoms are the
+Autism Diagnostic Interview-Revised (ADI-R) and the
+Autism Diagnostic Observation Schedule (ADOS). The
+ADI-R (Lord et al., 1994) is an in-depth clinical interview
+conducted with caregivers regarding the individuals’ cur-
+rent and past behavior. The ADOS (Lord et al., 2000) is
+a relatively short clinical observation in which a clinician
+directly assesses the presence of autism symptoms in the
+individual’s behavior. Five versions, geared to the indi-
+vidual’s age and level of functioning, provide appropriate
+standardized social probes. Each individual receives a
+version of the ADOS that is adapted to their language
+ability. In addition to assessing the presence of symp-
+toms, these measures also produce evaluations of the
+severity levels of the core symptoms. The ADOS specifi-
+cally includes for this purpose a standardized, 10-point
+severity metric known as the Calibrated Severity Score
+(CSS) (Esler et al., 2015; Gotham et al., 2009; Hus &
+Lord, 2014). The CSS yields a symptom severity rating
+that is standardized relative to individuals of the same
+age and language abilities. The strength of this approach
+is that it deliberately limits the impact of other character-
+istics when evaluating symptom presentation, allowing a
+non-biased assessment of autism core symptoms.
+WHAT IS THE EVIDENCE THAT AUTISM
+SEVERITY CAN CHANGE DURING
+DEVELOPMENT?
+An autism assessment provides a snapshot of the individ-
+ual at a specific moment in time. A person’s autism pre-
+sentation, however, is not constant across the lifespan.
+Just as people develop in every area of functioning, so
+does their autism change and develop with time. Studies
+evaluating this question have shown that for a substantial
+number of individuals, autism symptoms can signifi-
+cantly change in severity (Elias & Lord, 2022; Waizbard-
+Bartov & Miller, 2023). The percentage of autistic indi-
+viduals showing change depends, in part, on which
+cohort of autistic individuals are described. More recent
+studies tend to show higher percentages of individuals
+demonstrating severity change. The tendency for change,
+however, differs among individuals; some decrease while
+others increase in severity. There is also change within
+individuals across different periods of their life; some
+decrease in severity during early childhood but increase
+in school years. Moreover, in the same way that develop-
+mental
+characteristics
+and
+co-occurring
+conditions
+impact autism presentation at a given period, they also
+affect its change over time.
+Estimates of change in the severity of autism symp-
+toms over time range from 11% to 58% depending on the
+cohort evaluated and the measures used (Waizbard-
+Bartov & Miller, 2023). Cohorts identified some time ago
+(such as the early-diagnosis sample) tend to report lower
+percentages of change (Gotham et al., 2012). More
+recently evaluated cohorts (such as the Pathways in ASD
+sample and the Autism Phenome Project sample) observe
+higher proportions of individuals that change in symp-
+tom severity (Georgiades et al., 2021; Waizbard-Bartov
+et al., 2022). Decrease in symptom severity ranges from
+7%
+to
+29%
+across
+different
+cohorts
+(Georgiades
+et al., 2021; Pellicano et al., 2019; Szatmari et al., 2015;
+Venker et al., 2014; Waizbard-Bartov et al., 2020).
+The tendency to decrease in severity, however, is not
+uniform across development. Severity decrease tends to
+be more common during the preschool years compared
+to later in childhood (Fountain et al., 2012; Lord,
+Luyster, et al., 2012), when, at school-age, it can either
+decrease
+(Waizbard-Bartov
+et
+al.,
+2022),
+plateau
+(Georgiades et al., 2021) or increase in severity (Clark
+et al., 2017). Sex differences also exist, with young autis-
+tic girls showing a higher likelihood of reductions in
+severity than young autistic boys (Szatmari et al., 2015;
+Waizbard-Bartov et al., 2020, 2022). Conversely, between
+8% and 29% of autistic individuals increase in autism
+symptom severity over time (Gotham et al., 2012; Kim
+et al., 2016; Pellicano et al., 2019; Waizbard-Bartov
+et al., 2020). It is not yet clear why some individuals
+increase in symptom severity across development while
+others do not. It has been repeatedly found that groups
+of autistic children increase in severity from an initially
+low average severity level at the beginning of early child-
+hood (Gotham et al., 2012; Kim et al., 2016; Venker
+et al., 2014; Waizbard-Bartov et al., 2020). But, for indi-
+viduals, levels of autism severity at a young age on their
+own are not strong predictors of future change, highlight-
+ing the crucial need for further investigation into this
+issue.
+WHAT INFLUENCES WHETHER AUTISM
+SEVERITY CHANGES OVER TIME?
+Different factors can potentially impact change in core
+symptom severity levels. Many of these include develop-
+mental characteristics as well as the presence of co-
+occurring conditions. The fact that decrease in severity,
+especially in social-communication symptoms, is more
+common during younger ages suggests that reduction in
+symptoms involves
+rapid development
+of language,
+which tends to occur during the preschool years (Bal
+et al., 2019). Indeed, children who experience speech
+delays or remain minimally verbal are less likely to
+decrease
+in
+severity
+during
+early
+childhood
+(Bal
+et al., 2019). IQs within the normal range also character-
+ize
+individuals
+who
+decrease
+in
+autism
+symptoms
+(Georgiades et al., 2021; Gotham et al., 2012; Waizbard-
+Bartov et al., 2020; Woodman et al., 2015). Conversely,
+autistic children around age 2 who were functioning
+WAIZBARD-BARTOV ET AL.
+687
+ 19393806, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aur.2898 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+below the developmental age of 12 months showed mini-
+mal developmental gains in the next 2 years, especially in
+the
+area
+of
+social
+communication
+(Hinnebusch
+et al., 2017). Cognitive ability is associated with other
+lifestyle factors that can influence changes in autism
+symptom severity. For example, children with typical
+range IQ are more likely to attend inclusive schools. By
+doing so, they are exposed to neurotypical peers who can
+serve as models for complex social interactions and learn-
+ing experiences (Pellicano, 2012; Simonoff et al., 2019;
+Woodman et al., 2016). In fact, those individuals that
+“lose” their autism diagnosis, (i.e., decrease in symptom
+severity to no longer meeting the diagnostic criteria for
+autism—now referred to as Loss of Autism Diagnosis
+(LAD), Eigsti et al. (2022)), tend to have typical-range
+IQ and attend inclusive educational settings (Elias &
+Lord, 2022; Fein et al., 2013; Lord & Jones, 2012). In
+some studies, these children with LAD, also had signifi-
+cantly more behavioral therapy between ages 2 and
+3 (Orinstein et al., 2014) and showed a reduction in
+RRBs over the same period (Anderson et al. (2014)).
+Moreover, having relatively strong cognitive skills can
+also support a child’s ability to engage in intervention,
+and
+to
+practice
+and
+generalize
+the
+tools
+received
+(e.g., social skills) in real-life settings (Hudry et al., 2018).
+Children with intellectual disability, in contrast, often
+attend special education settings and are not afforded the
+same exposure to neurotypical environments though they
+may receive other kinds of needed support. Finally, facets
+of the social psychology of being a girl might convey spe-
+cific advantages for symptom severity decrease. Girls’
+environments tend to put a higher emphasis on, and pre-
+sent more opportunities for, social interaction compared
+to boys’ (Bargiela et al., 2016; Dean et al., 2017), serving
+as inherent learning opportunities for social and commu-
+nication skills and perhaps experiencing higher expecta-
+tions from others. It is important to note, however, that
+attempting to meet such social demands might also lead
+autistic females to “camouflage,” that is, mask their
+autism symptoms in social settings (Hull et al., 2017),
+which can be experienced as stressful and can lead to det-
+rimental effects for mental health (Hull et al., 2021). It is
+also possible that biological differences between boys and
+girls that contribute to sex differences in typical children
+also contribute to social symptom decrease in autistic
+girls, but this has not yet been rigorously investigated.
+Often, individuals who increase in symptom severity
+also increase in other types of mental health problems
+(Baribeau et al., 2022; Waizbard-Bartov et al., n.d.;
+unpublished observations). Conversely, individuals who
+show marked decreases in symptom severity may also
+show
+decreases
+in
+comorbid
+psychopathology
+(e.g., anxiety, depression, oppositional defiant disorder;
+Orinstein et al. (2015)). These parallel increases and
+decreases make it hard to tease apart behaviors resulting
+from autism symptoms from those resulting from other
+psychopathology.
+For
+instance,
+both
+social-
+communication deficits as well as anxiety and depression
+can lead to impaired social functioning and social with-
+drawal (Duvekot et al., 2018; Hunsche et al., 2022). This
+makes it difficult to distinguish which condition is the
+cause for behaviors such as social isolation and avoid-
+ance. Another example is that having co-occurring anxi-
+ety is associated with higher levels of RRBs (Cashin &
+Yorke, 2018; Kim et al., 2020; Rodgers et al., 2012). Fur-
+thermore, RRBs and anxiety can also impact each other’s
+trajectories
+across
+development
+(Waizbard-Bartov
+et al., n.d.; unpublished observations). When experienc-
+ing distress, autistic individuals may use some forms of
+RRBs in order to regulate their anxiety level (Jaffey &
+Ashwin, 2022). Sensory sensitivities, a type of RRBs, can
+also lead to specific phobias focused on that sensory stim-
+ulus (Green & Ben-Sasson, 2010). Regardless of the diag-
+nosis driving it, behaviors such as social withdrawal and
+avoidance (of people or stimuli) illustrate how the chal-
+lenges associated with autism can impact a person’s func-
+tioning and well-being in daily life. Socioeconomic
+factors might also have an influence on whether a child
+increases or decreases their autism symptoms. Thus, liv-
+ing
+in
+an
+impoverished
+neighborhood
+(Simonoff
+et al., 2019) or having more poorly educated parents
+(Fountain et al., 2012; Waizbard-Bartov et al., 2022) are
+associated with increases in autism severity over time.
+Lai and Baron-Cohen (2015) discuss the theoretical and
+clinical difficulties in distinguishing true co-morbidities,
+overlapping symptoms, and differential diagnosis when
+considering ASD symptoms in relation to Obsessive-
+compulsive disorder (OCD), anxiety, depression and
+other conditions.
+WHAT IS THE LIMITATION IN
+RESEARCH EVALUATIONS OF AUTISTIC
+SEVERITY IN DETERMINING
+FUNCTIONAL IMPAIRMENT?
+While we have indicated that autism symptom severity,
+and how it changes developmentally, is important and
+can be reliably measured, we now turn to the point that
+autism severity does not provide a complete understand-
+ing of the ramifications on quality of life of having
+autism. Perhaps the major reason that this is true is that
+the majority of individuals with autism are also diag-
+nosed
+with
+other,
+co-occurring
+conditions
+(Lai
+et al., 2019) such as intellectual disability, language
+delays, sleep disorders, gastrointestinal symptoms, anxi-
+ety, depression, aggression, and so forth. The DSM defi-
+nition of autism severity and the ADOS CSS, were not
+designed to measure autism severity in relation to these
+co-occurring characteristics. Rather, they were intention-
+ally designed to evaluate autism symptoms independent
+of them (though not perfectly, see Gotham et al., 2009).
+But, in the context of functional outcomes and well-
+being, these co-occurring conditions can greatly impact
+688
+WAIZBARD-BARTOV ET AL.
+ 19393806, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aur.2898 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+the way the core symptoms are manifest in an individ-
+ual’s behavior, as well as the extent to which autism
+impacts functioning in everyday life.
+Consider, for example, an individual that received an
+ADOS CSS of 9 and a second individual that received an
+ADOS CSS of 5. The first individual would have showed
+more core-symptom-like behaviors during their ADOS
+assessment than the second. Comparing specific behav-
+iors, it could mean, for example, that the first individual
+did not engage in any reciprocal interaction with the
+assessor, while the second did engage in conversation,
+but one characterized by poor “back and forth” quality.
+Similarly, the first individual (ADOS CSS 9) may have
+played during the ADOS but in a restricted, inflexible
+way, while the second individual (ADOS CSS 5) played
+in a more flexible manner that also included the assessor
+as an active participant in the play. Their behaviors dur-
+ing the ADOS session determined their severity level.
+But, what if the individual with ADOS CSS of 9 also had
+average IQ and fluent language, while the second individ-
+ual, with ADOS CSS of 5, had cognitive disability and
+minimal speech? Wouldn’t we expect that such differ-
+ences would affect the degree to which their autism
+impacts their everyday functioning in real life? In addi-
+tion, emotional and behavioral issues, such as anxiety or
+agitation, that appear during the ADOS do affect the
+CSS and the same issues as reported in standardized mea-
+sures are related to higher scores on caregiver-report
+autism measures such as the ADI-R or SRS (Havdahl
+et al., 2017). These differences, however, are not captured
+under the research definition of autism severity, based on
+core symptoms alone. This issue has been more exhaus-
+tively discussed in Pickles et al. (2020).
+HOW DOES HAVING AUTISM IMPACT A
+PERSON’S REAL LIFE?
+Defining and evaluating autism severity based solely on
+the presentation of core symptoms has the benefit of
+being specific and measurable. Yet, it does not consider
+many other meaningful aspects of having autism and thus
+does not provide a full picture of the challenges and
+strengths faced by autistic individuals. To understand
+how autism impacts a person’s functioning, well-being
+and everyday life, we must understand how the different
+aspects of autism interact with each other at specific
+periods and across development. This cascading trajec-
+tory determines the way having autism manifests in a per-
+son’s life over time, impacting both objective functioning
+(i.e., employment, independence skills) as well as a sub-
+jective sense of wellbeing and quality of life. This suggests
+that it is important to evaluate how having autism
+impacts a person’s life in a more encompassing way, one
+that addresses the core symptoms as well as other influen-
+tial aspects of an autistic person’s life. Such a multidi-
+mensional outlook could prove significant for clinical
+work, that is, identifying needs, planning intervention,
+assigning support, and creating future goals.
+One imperfect but important type of measure for
+understanding an individual’s level of everyday function-
+ing (Kanne et al., 2011) is a measure that places adaptive
+skills in communication, socialization, self-care, and
+motor abilities on an absolute age equivalence scale as
+well as a standardized score relative to age-matched
+peers. Examples of such instruments are the Vineland
+Adaptive Behavior Scale (Sparrow et al., 2017), the
+Adaptive Behavior Assessment System (Harrison &
+Oakland, 2015), and the Inventory for Client and Agency
+Planning (Bruininks et al., 1986), all frequently used with
+autistic individuals from very early childhood to adult-
+hood (Losada-Puente & Bana, 2022). Several studies find
+that adaptive skills as measured on these instruments
+may be more highly correlated with cognitive functioning
+than with autism symptom severity and that adaptive
+skills tend to be lower than might be predicted by IQ in
+autistic
+individuals
+(Kanne
+et
+al.,
+2011;
+Weitlauf
+et al., 2014).
+Another approach to assessing an individual’s real-
+life challenges is by using instruments focused on support
+needs in everyday life. These include, for example, the
+Support Intensity Scale (Thompson et al., 2004) and the
+Instrument for the Classification and Assessment of Sup-
+port Needs (Arnold et al., 2009). Both of these tools pro-
+vide a standardized approach to support needs by
+measuring, profiling and describing the types and amount
+of support needed for an individual to successfully engage
+in daily activities. In addition to objectively measured
+adaptive skills and support needs, intrapsychic well-being
+and quality of life are equally important in understanding
+how autism impacts a person’s everyday life. This calls
+for the development and use of measures of mood, self-
+esteem, and life satisfaction for individuals with autism
+and different levels of cognitive ability. Particular atten-
+tion should be paid to developmental periods of physical
+and social transition, such as transition into adolescence
+and into early adulthood, when coping skills may need to
+be modified and when social demands and physical
+changes may place moods under particular stress. Core
+symptom severity levels have been repeatedly shown to
+influence quality of life: having higher or more severe
+autistic traits is associated with lower quality of life for
+adults (Capp et al., 2022), children and adolescents
+(Oakley et al., 2021) and preschoolers (as reported by
+their caregivers) (Lopez-Espejo et al., 2021). However,
+other factors related to having autism, particularly asso-
+ciated mental health conditions such as anxiety and
+depression, have also been shown to impact quality of
+life, even after accounting for core autism traits (Oakley
+et al., 2021).
+There is a multitude of factors and dimensions along
+which the implications of having autism can be evaluated
+for impact on an individual’s life. The long-term goals
+proposed by McCauley et al. (2020) of autonomy, daily
+WAIZBARD-BARTOV ET AL.
+689
+ 19393806, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aur.2898 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+living skills, relationships and employment/activities out-
+side the home, in forms that are consistent with the indi-
+vidual’s abilities and interests, are an excellent start for
+assessing outcomes. Every individual on the spectrum is
+first and foremost unique, characterized by a distinct pro-
+file of capabilities, challenges, desires and needs. These
+dimensions, however, can also be useful for defining sub-
+groups of autistic individuals with common profiles con-
+cerning these dimensions and in terms of outcomes that
+could be expected, given their abilities and desires. One
+such
+subgroup
+was
+recently
+defined
+as
+“profound
+autism.”
+THE BENEFITS OF THE TERM
+PROFOUND AUTISM AND OF DEFINING
+DIFFERENT SUBTYPES OF AUTISM
+The Lancet Commission on the future of care and clinical
+research in autism (Lord et al., 2022) provided a com-
+prehensive overview of current diagnostic and interven-
+tion practices for ASD. Among many proposals to
+improve the lives of autistic individuals in the next
+5 years, was the suggestion for the use of the term “pro-
+found autism.” This term highlights a clinical presenta-
+tion of autism that includes high severity of core
+symptoms, co-occurring intellectual disability, little or
+no language and requiring extensive long-term care.
+For these individuals (and their caretakers), the chal-
+lenges brought on by having autism are substantial and
+go well beyond the core characteristics. Having pro-
+found autism is impairing to functioning and indepen-
+dence
+and
+greatly
+impacts
+outcomes.
+A
+major
+advantage of this term is that it integrates both core
+and co-occurring conditions to represent the real-life
+challenges of an individual. Caution must be used, how-
+ever, not to view individuals with profound autism as
+inferior or less deserving of their needed supports, due
+to the high severity of their challenges and disability
+compared to others on the spectrum. While there are
+reasonable concerns that providing a term associated
+with the greatest needs may stigmatize a group, almost
+all terms, no matter how gentle can be used to stigma-
+tize. The onus is on us to challenge this stigmatization
+in whatever form it occurs.
+The term profound autism, however, pertains to only
+a subgroup of individuals on the autism spectrum. Other
+individuals, those, for example, with intact cognitive and
+language abilities, have the potential for needing reduced,
+specific supports while leading independent lives. Recent
+work evaluating outcomes for 232 late-diagnosed autistic
+adults without intellectual disability in Germany reported
+that 50.4% had acquired university-entrance qualifica-
+tions, 21.6% graduated from university and 74.8% were
+employed (Espeloer et al., 2022). Most importantly, find-
+ings from the EU-AIMS study suggest that 36%–71% of
+autistic individuals do not experience a reduced quality of
+life (Oakley et al., 2021). Such strengths do not imply that
+these individuals completely escape the struggles and
+challenges due to having autism. What might also char-
+acterize individuals in this group are well-developed cop-
+ing skills that support their resilience. Skills such as self-
+advocacy (Kapp, 2020), the ability to compensate for
+symptoms in social settings (Livingston & Happe, 2017),
+creating strategies to restrict debilitating aspects of
+autism,
+for
+example,
+sensory
+overload
+(Clement
+et al., 2022) can all help to mitigate the challenges of
+autism in everyday life. Living in beneficial environments
+is also a strength that characterizes some individuals on
+the spectrum. This can be done, for example, by finding a
+peer group with similar interests, creating social connec-
+tions that suit them (Tesfaye et al., 2022) and seeking out
+social
+and
+emotional
+support
+(Ghanouni
+&
+Quirke, 2022). Another example for establishing benefi-
+cial environments is engaging in employment that is
+suited to their own unique skills and abilities (Cheriyan
+et al., 2021), for instance, having abundant knowledge
+about specific topic areas. Some autistic individuals show
+impressive strengths associated with their autism, in areas
+such as memory, computation, music, visual learning
+(Bal et al., 2022), attention to details, and the ability to
+understand reasoning rules and systemizing (Baron-
+Cohen et al., 2009). For this group of individuals, their
+autism leads to a complex mixture of struggles and
+strengths, both of which are relevant when evaluating
+autism severity and how it impacts impairment in daily
+life. It would seem valuable to assign a specific name to
+this portion of the autism spectrum although members of
+this group might be the best to establish a self-referential
+terminology. At one point, the term “Asperger syn-
+drome” was closely associated with this group though it
+was excluded from the latest Diagnostic and Statistical
+Manual because its use was so inconsistent and the oppo-
+site of stigmatization occurred in which families and indi-
+viduals sought out an Asperger’s diagnosis because it
+sounded superior to autism, sometimes to find that they
+were then excluded from services because the diagnosis
+implied fewer needs (Lord & Jones, 2012; Lord, Petkova,
+et al., 2012).
+The two subgroups described above represent two
+extreme ends of a highly heterogenous spectrum of autis-
+tic individuals who differ not only on autism severity but
+also concerning their needs, challenges and abilities. It
+would appear that most autistic individuals are some-
+where in between these two extremes. These individual
+differences are what makes defining the way autism
+impacts people’s lives so challenging: it ranges widely,
+from being severely impairing to promoting a diverse,
+enriching sense of identity (Cooper et al., 2021). Using
+this overarching perspective on autism, other clinically
+meaningful subgroups could be identified, with the goal
+of encouraging each group to reach its fullest potential in
+adaptive functioning and subjective wellbeing and to gen-
+erally flourish in life.
+690
+WAIZBARD-BARTOV ET AL.
+ 19393806, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aur.2898 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+The two defined subgroups discussed above differ on
+many dimensions. In order to be able to classify all of the
+intermediate individuals, an attempt could be made to
+identify the most useful dimensions for both clinical char-
+acterization and research progress. Attempts at classify-
+ing autism subtypes have been many and varied; perhaps
+the first attempt at subgrouping by social functioning
+was as early as 1979 (Wing & Gould, 1979), classifying
+autistic children’s social functioning as Active, Passive,
+and Active but Odd.
+Using a genetic approach, (Zhou et al., 2022) recently
+identified five new risk alleles in the very large SPARK
+database of autistic volunteers’ DNA. Unlike many other
+genes associated with autism, these new risk alleles do
+not appear to cause profound autism with intellectual dis-
+ability. The authors suggest that there are many more
+single genes of large effect that can cause severe autism
+that remain to be discovered, but also that additional risk
+alleles will be discovered in very large samples, that con-
+fer a moderate likelihood of autism with intact cognition,
+potentially with higher intellectual, adaptive, and out-
+come status. Such approaches, using genetics, neuroanat-
+omy, or neurophysiology as well as behavioral response
+to intervention and co-occurring conditions, may allow
+progress in accurate subgrouping of autistic individuals.
+However, Rapin (2014) discusses the three levels of
+understanding a developmental disorder like autism
+(genetic or environmental etiology, pathophysiology, and
+phenomenology) and cautions that relating categories or
+dimensions on one level to categories or dimensions on
+another has not been very successful to date, although it
+needs to be a goal for the future. The more attainable
+goal for the near future may be a more universally
+accepted dimensional characterization of behavior.
+A promising model of such characterization was pro-
+posed
+for
+individuals
+with
+intellectual
+disability
+(Schalock & Luckasson, 2015). These dimensions are
+(a)
+intelligence,
+(b)
+adaptive
+behavior,
+(c)
+health,
+(d) participation in social activities, and (e) the personal
+and environmental context in which individuals live their
+daily lives. For autism, obviously, severity of social and
+RRB symptoms would have to be added. Fortunately,
+severity of autism symptoms, intelligence (verbal and
+nonverbal), and adaptive behavior already have available
+operationalized, standardized measures. Description of
+health issues for the autism population would probably
+benefit from two divisions: conditions that are primarily
+physical (but may have psychological consequences) such
+as epilepsy and GI disorders, and conditions that are pri-
+marily
+psychological
+(e.g.,
+anxiety,
+depression,
+and
+obsessionality). Schalock and Luckasson (2015) suggest
+that their classification system of ID could serve four pur-
+poses: describing functional levels, operationalizing the
+level of supports needs, defining health status, and deter-
+mining legal status, in relation to specific areas and con-
+texts. Such purposes are very relevant and appropriate
+for the clinical needs of the autism population, and may
+promote accurate research into statistically determined
+subtypes, type and intensity of supports needed, and out-
+comes of intervention research, although basic biological
+research might have to involve more finely detailed char-
+acterization
+(Waterhouse
+and
+Gillberg’s
+“micro-
+groups” (2014)).
+ENVIRONMENTAL INFLUENCES ON
+AUTISM SEVERITY
+It will be obvious that the dimensions proposed by Scha-
+lock and Luckasson (2015), plus autism severity, will not
+be independently developing domains. Beyond the severity
+of core symptoms and the occurrence of co-occurring
+health or intellectual conditions, the environment plays a
+meaningful role in the way autism impacts a person’s life.
+Having access to more resources in the parental and home
+environment (Fountain et al., 2012; Simonoff et al., 2019;
+Waizbard-Bartov et al., 2022) as well as to early diagnosis
+(Gabbay-Dizdar et al., 2021) and intervention (Pickles
+et al., 2016) can help promote gains and mitigate impair-
+ments over time. Moreover, the environment in which a
+person lives is not static, but rather changes with time.
+Some aspects of autism can have differential impacts,
+meaning they are impairing to different degrees during
+various developmental stages, depending on the chal-
+lenges, demands and support available during that stage
+(Bal et al., 2019). For example, increased social complexi-
+ties along with decreased resources and support character-
+ize the transition from adolescence to young adulthood,
+potentially leading the same level of autistic symptoms to
+have more impairing outcomes for everyday life (Taylor &
+Seltzer, 2010). With age, enhancing person-environment
+fit can contribute to an individual’s resilience, in addition
+to promoting individual skills (Lai & Szatmari, 2019).
+There are different ways in which environments can sup-
+port better fit. Providing adequate services across the dura-
+tion of development is one example (Laxman et al., 2019).
+Creating opportunities to engage with non-autistic peers,
+such as growing up with neurotypical siblings or attending
+inclusive educational settings (Pellicano, 2012; Woodman
+et al., 2016) are naturalistic learning opportunities for
+social modeling and to practice social interaction. On the
+other hand, autistic individuals and stakeholders repeat-
+edly indicate how environmental stressors such as social
+biases, negative attitudes, and stigmatization toward peo-
+ple with autism lead to detrimental outcomes and play a
+major role in their real-life challenges (Cohen et al., 2022;
+Ghanouni & Quirke, 2022).
+CONCLUSIONS AND FUTURE
+DIRECTIONS
+The current definition of autism severity, and the way it
+is measured in research, is based solely on the severity
+WAIZBARD-BARTOV ET AL.
+691
+ 19393806, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aur.2898 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+levels of the two core symptom domains, controlling for
+age and language level. The challenges faced by autistic
+individuals in real life, however, go far beyond core
+symptoms. Common, co-occurring conditions such as
+intellectual disability, language delays, and anxiety disor-
+ders are as impairing to functioning and wellbeing for
+many individuals as are the core symptoms themselves.
+Moreover, core symptoms and co-occurring conditions
+can interact across development, each influencing the
+other’s trajectory over time. Translating this multidimen-
+sional outlook into a measurable, formal definition, that
+captures the combined influences of having autism on a
+person’s life, as well as providing a detailed characteriza-
+tion for research, presents an unfulfilled challenge. The
+multidimensional
+approach
+promoted
+for
+ID
+(Schalock & Luckasson, 2015), encompasses the impact
+of IQ scores, but adds other important factors, including
+adaptive behavior and support needs. In the DSM-5, the
+severity levels for the core symptoms of autism are
+already posited to correspond to levels of functional
+impairment. This further supports the idea that in autism,
+as is the case for intellectual disability, characterizing
+autistic individuals for both clinical and research pur-
+poses should include not only severity level but should
+take into account other impactful dimensions that are
+part of the condition and influence people’s everyday life.
+If created, a multidimensional, measurable definition of
+autism severity could potentially be useful for identifying
+unique subgroups of individuals for clinical purposes, for
+determining individual needs and strengths in clinical
+assessments, and for developing intervention goals and
+plans that involve all the different aspects and challenges
+relevant to the life of a person with autism. Fein and Helt
+(2017) also suggest several approaches that could be
+included
+in
+classifying
+research
+“micro-groups”
+(Waterhouse & Gillberg, 2014), such as noting behaviors
+that seem relatively impervious to environmental differ-
+ences (e.g., high pain thresholds, social improvement with
+fever), studying emergence of autism in the first 2 years
+of life, before intervention has started, and including lon-
+gitudinal course as a classifier (improving, worsening,
+and response to intervention, as described above).
+One caution is that dimensions and specific variables
+that are used to characterize individuals with autism are
+not necessarily the best “outcome” variables. In many
+cases, baseline characterization will serve to describe the
+individual at one point in time, while outcome variables
+may assess change in that variable over time or because
+of an intervention.
+Given this caution, however, one promising avenue in
+this regard is the development of a core outcome set
+(COS) for autism. A COS identifies the domains of a con-
+dition that are most relevant to clinicians, caregivers and
+individuals with autism. Recently, a COS for autism was
+developed by The International Consortium of Health
+Outcome Measurement in an attempt to calibrate sever-
+ity
+along
+multiple
+dimensions
+and
+with
+different
+assessment tools (Patient-centered outcome mesasures,
+2022). This system lists published instruments that can
+characterize core symptoms (social communication and
+RRBs), as well as adaptive skills, family functioning,
+sleep and anxiety, other neurodevelopmental disorders
+(as measured by the Child Behavior Checklist) and gen-
+eral quality of life. This is one promising attempt to con-
+ceptualize autism severity based on different components
+of the clinical presentation, authored primarily by clini-
+cians and researchers with expertise in autism phenome-
+nology. Hopefully, others will take up this system which
+will allow researchers and clinicians to have a compre-
+hensive characterization of the individual, as well as to
+select dimensions that are most relevant to their basic
+biological and intervention studies.
+ACKNOWLEDGMENTS
+Einat Waizbard-Bartov was supported by an Autism
+Speaks Predoctoral Fellowship grant #12841 during the
+preparation of this commentary.
+CONFLICT OF INTEREST STATEMENT
+David G. Amaral is on the Scientific Advisory Boards of
+Stemina Biomarkers Discovery, Inc. and Axial Thera-
+peutics. Catherine Lord receives royalties from Western
+Psychological Services for diagnostic instruments, includ-
+ing the ADOS and is on Scientific Advisory Boards for
+Child Mind, Kyo, Springtide, Autism Speaks and the
+Autism Science Foundation and collaborates with Jazz
+Pharmaceuticals and GW. Deborah Fein and Einat
+Waizbard-Bartov have no relevant conflicts of interests
+to declare.
+DATA AVAILABILITY STATEMENT
+Data sharing is not applicable to this article as no new
+data were created or analyzed in this study.
+ETHICS STATEMENT
+There is no original human or animal subject data
+reported in this paper. Therefore, there is no need for an
+ethics statment.
+ORCID
+Einat Waizbard-Bartov
+https://orcid.org/0000-0003-
+3736-7167
+Catherine Lord
+https://orcid.org/0000-0001-5633-1253
+David G. Amaral
+https://orcid.org/0000-0003-1525-
+8744
+REFERENCES
+Anderson, D. K., Liang, J. W., & Lord, C. (2014). Predicting young
+adult outcome among more and less cognitively able individuals
+with autism spectrum disorders. Journal of Child Psychology and
+Psychiatry, 55(5), 485–494. https://doi.org/10.1111/jcpp.12178
+APA. (2013). Diagnostic and statistical manual of mental disorders:
+DSM-5 (5th ed.). American Psychiatric Association.
+Arnold, S. R. C., Riches, V. C., Parmenter, T. R., Llewellyn, G.,
+Chan, J., & Hindmarsh, G. (2009). I-CAN: Instrument for the
+692
+WAIZBARD-BARTOV ET AL.
+ 19393806, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aur.2898 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+classification and assessment of support needs. Instruction Manual
+V4. 3. Centre for Disability Studies, Faculty of Medicine, Univer-
+sity of Sydney.
+Bal, V. H., Kim, S. H., Fok, M., & Lord, C. (2019). Autism spectrum
+disorder symptoms from ages 2 to 19 years: Implications for diag-
+nosing adolescents and young adults. Autism Research, 12(1), 89–
+99. https://doi.org/10.1002/aur.2004
+Bal, V. H., Wilkinson, E., & Fok, M. (2022). Cognitive profiles of chil-
+dren with autism spectrum disorder with parent-reported extraor-
+dinary talents and personal strengths. Autism, 26(1), 62–74. https://
+doi.org/10.1177/13623613211020618
+Bargiela, S., Steward, R., & Mandy, W. (2016). The experiences of late-
+diagnosed women with autism spectrum conditions: An investiga-
+tion of the female autism phenotype. Journal of Autism and Devel-
+opmental Disorders, 46(10), 3281–3294. https://doi.org/10.1007/
+s10803-016-2872-8
+Baribeau, D. A., Vigod, S. N., Pullenayegum, E., Kerns, C. M.,
+Vaillancourt,
+T.,
+Duku,
+E.,
+Smith,
+I.
+M.,
+Volden,
+J.,
+Zwaigenbaum, L., Bennett, T., Elsabbagh, M., Zaidman-Zait, A.,
+Richard, A. E., & Szatmari, P. (2022). Developmental cascades
+between insistence on sameness behaviour and anxiety symptoms
+in autism spectrum disorder. European Child & Adolescent Psychi-
+atry. https://doi.org/10.1007/s00787-022-02049-9
+Baron-Cohen,
+S.,
+Ashwin,
+E.,
+Ashwin,
+C.,
+Tavassoli,
+T.,
+&
+Chakrabarti, B. (2009). Talent in autism: Hyper-systemizing,
+hyper-attention to detail and sensory hypersensitivity. Philosophi-
+cal Transactions of the Royal Society of London. Series B, Biologi-
+cal Sciences, 364(1522), 1377–1383. https://doi.org/10.1098/rstb.
+2008.0337
+Bruininks, R. H., Hill, B. K., Weatherman, R. F., & Woodcock, R. W.
+(1986). Inventory for client and agency planning.
+Capp, S. J., Agnew-Blais, J., Lau-Zhu, A., Colvert, E., Tye, C.,
+Aydin, U., Lautarescu, A., Ellis, C., Saunders, T., O’Brien, L.,
+Ronald, A., Happé, F., & McLoughlin, G. (2022). Is quality of life
+related to high autistic traits, high ADHD traits and their interac-
+tion? Evidence from a young-adult community-based twin sample.
+Journal of Autism and Developmental Disorders. https://doi.org/10.
+1007/s10803-022-05640-w
+Cashin, A., & Yorke, J. (2018). The relationship between anxiety, exter-
+nal structure, behavioral history and becoming locked into
+restricted and repetitive behaviors in autism spectrum disorder.
+Issues in Mental Health Nursing, 39(6), 533–537. https://doi.org/10.
+1080/01612840.2017.1418035
+Cheriyan, C., Shevchuk-Hill, S., Riccio, A., Vincent, J., Kapp, S. K.,
+Cage, E., Dwyer, P., Kofner, B., Attwood, H., & Gillespie-
+Lynch, K. (2021). Exploring the career motivations, strengths, and
+challenges of autistic and non-autistic university students: Insights
+from a participatory study. Frontiers in Psychology, 12, 719827.
+https://doi.org/10.3389/fpsyg.2021.719827
+Clark, M. L., Barbaro, J., & Dissanayake, C. (2017). Continuity and
+change in cognition and autism severity from toddlerhood to
+school age. Journal of Autism and Developmental Disorders, 47(2),
+328–339. https://doi.org/10.1007/s10803-016-2954-7
+Clement, M. A., Lee, K., Park, M., Sinn, A., & Miyake, N. (2022). The
+need for sensory-friendly "zones": Learning from youth on the
+autism spectrum, their families, and autistic mentors using a par-
+ticipatory approach. Frontiers in Psychology, 13, 883331. https://
+doi.org/10.3389/fpsyg.2022.883331
+Cohen, S. R., Joseph, K., Levinson, S., Blacher, J., & Eisenhower, A.
+(2022). “My autism is my own”: Autistic identity and intersection-
+ality in the school context. Autism in Adulthood, 4, 315–327.
+https://doi.org/10.1089/aut.2021.0087
+Cooper, R., Cooper, K., Russell, A. J., & Smith, L. G. E. (2021). "I’m
+proud to be a little bit different": The effects of autistic individuals’
+perceptions of autism and autism social identity on their collective
+self-esteem. Journal of Autism and Developmental Disorders, 51(2),
+704–714. https://doi.org/10.1007/s10803-020-04575-4
+Dean, M., Harwood, R., & Kasari, C. (2017). The art of camouflage:
+Gender differences in the social behaviors of girls and boys with
+autism spectrum disorder. Autism, 21(6), 678–689. https://doi.org/
+10.1177/1362361316671845
+Duvekot, J., van der Ende, J., Verhulst, F. C., & Greaves-Lord, K.
+(2018). Examining bidirectional effects between the autism spec-
+trum disorder (ASD) core symptom domains and anxiety in chil-
+dren with ASD. Journal of Child Psychology and Psychiatry, 59(3),
+277–284. https://doi.org/10.1111/jcpp.12829
+Eigsti, I. M., Fein, D., & Larson, C. (2022). Editorial perspective:
+Another look at ‘optimal outcome’ in autism spectrum disorder.
+Journal of Child Psychology and Psychiatry, 64, 332–334. https://
+doi.org/10.1111/jcpp.13658
+Elias, R., & Lord, C. (2022). Diagnostic stability in individuals with
+autism spectrum disorder: Insights from a longitudinal follow-up
+study. Journal of Child Psychology and Psychiatry, 63(9), 973–983.
+https://doi.org/10.1111/jcpp.13551
+Esler,
+A.
+N.,
+Bal,
+V.
+H.,
+Guthrie,
+W.,
+Wetherby,
+A.,
+Ellis
+Weismer, S., & Lord, C. (2015). The autism diagnostic observation
+schedule, toddler module: Standardized severity scores. Journal of
+Autism and Developmental Disorders, 45(9), 2704–2720. https://doi.
+org/10.1007/s10803-015-2432-7
+Espeloer, J., Proft, J., Falter-Wagner, C. M., & Vogeley, K. (2022).
+Alarmingly large unemployment gap despite of above-average
+education in adults with ASD without intellectual disability in
+Germany: A cross-sectional study. European Archives of Psychia-
+try and Clinical Neuroscience. https://doi.org/10.1007/s00406-022-
+01424-6
+Fein,
+D.,
+Barton,
+M.,
+Eigsti,
+I.
+M.,
+Kelley,
+E.,
+Naigles,
+L.,
+Schultz,
+R.
+T.,
+Stevens,
+M.,
+Helt,
+M.,
+Orinstein,
+A.,
+Rosenthal, M., Troyb, E., & Tyson, K. (2013). Optimal outcome
+in individuals with a history of autism. Journal of Child Psychology
+and Psychiatry, 54(2), 195–205. https://doi.org/10.1111/jcpp.12037
+Fein, D., & Helt, M. (2017). Facilitating autism research. Journal of the
+International
+Neuropsychological
+Society,
+23(9–10),
+903–915.
+https://doi.org/10.1017/S1355617717001096
+Fountain, C., Winter, A. S., & Bearman, P. S. (2012). Six developmen-
+tal trajectories characterize children with autism. Pediatrics,
+129(5), e1112–e1120. https://doi.org/10.1542/peds.2011-1601
+Gabbay-Dizdar, N., Ilan, M., Meiri, G., Faroy, M., Michaelovski, A.,
+Flusser, H., Menashe, I., Koller, J., Zachor, D. A., & Dinstein, I.
+(2021). Early diagnosis of autism in the community is associated
+with marked improvement in social symptoms within 1–2 years.
+Autism,
+26,
+1353–1363.
+https://doi.org/10.1177/
+13623613211049011
+Georgiades,
+S.,
+Tait,
+P.
+A.,
+McNicholas,
+P.
+D.,
+Duku,
+E.,
+Zwaigenbaum, L., Smith, I. M., Bennett, T., Elsabbagh, M.,
+Kerns, C. M., Mirenda, P., Ungar, W. J., Vaillancourt, T.,
+Volden, J., Waddell, C., Zaidman-Zait, A., Gentles, S., &
+Szatmari, P. (2021). Trajectories of symptom severity in children
+with autism: Variability and turning points through the transition
+to school. Journal of Autism and Developmental Disorders, 52,
+392–401. https://doi.org/10.1007/s10803-021-04949-2
+Ghanouni, P., & Quirke, S. (2022). Resilience and coping strategies in
+adults with autism spectrum disorder. Journal of Autism and Devel-
+opmental
+Disorders,
+1–12.
+https://doi.org/10.1007/s10803-022-
+05436-y
+Gotham, K., Pickles, A., & Lord, C. (2009). Standardizing ADOS
+scores for a measure of severity in autism spectrum disorders. Jour-
+nal of Autism and Developmental Disorders, 39(5), 693–705. https://
+doi.org/10.1007/s10803-008-0674-3
+Gotham, K., Pickles, A., & Lord, C. (2012). Trajectories of autism
+severity in children using standardized ADOS scores. Pediatrics,
+130(5), e1278–e1284. https://doi.org/10.1542/peds.2011-3668
+Green, S. A., & Ben-Sasson, A. (2010). Anxiety disorders and sensory
+over-responsivity in children with autism spectrum disorders: Is
+there a causal relationship? Journal of Autism and Developmental
+WAIZBARD-BARTOV ET AL.
+693
+ 19393806, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aur.2898 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Disorders, 40(12), 1495–1504. https://doi.org/10.1007/s10803-010-
+1007-x
+Harrison, P., & Oakland, T. (2015). Adaptive behavior assessment sys-
+tem (3rd ed.). The Psychological Corporation.
+Havdahl, K. A., Bishop, S. L., Surén, P., Øyen, A. S., Lord, C.,
+Pickles, A., von Tetzchner, S., Schjølberg, S., Gunnes, N.,
+Hornig, M., Lipkin, W. I., Susser, E., Bresnahan, M., Magnus, P.,
+Stenberg, N., Reichborn-Kjennerud, T., & Stoltenberg, C. (2017).
+The influence of parental concern on the utility of autism diagnos-
+tic instruments. Autism Research, 10(10), 1672–1686. https://doi.
+org/10.1002/aur.1817
+Hinnebusch, A. J., Miller, L. E., & Fein, D. A. (2017). Autism spectrum
+disorders and low mental age: Diagnostic stability and develop-
+mental outcomes in early childhood. Journal of Autism and Devel-
+opmental Disorders, 47(12), 3967–3982. https://doi.org/10.1007/
+s10803-017-3278-y
+Hudry, K., McConachie, H., Le Couteur, A., Howlin, P., Barrett, B., &
+Slonims, V. (2018). Predictors of reliable symptom change: Sec-
+ondary analysis of the preschool autism communication trial.
+Autism
+&
+Developmental
+Language
+Impairments,
+3,
+239694151876476. https://doi.org/10.1177/2396941518764760
+Hull, L., Levy, L., Lai, M. C., Petrides, K. V., Baron-Cohen, S.,
+Allison, C., Smith, P., & Mandy, W. (2021). Is social camouflaging
+associated with anxiety and depression in autistic adults? Molecu-
+lar Autism, 12(1), 13. https://doi.org/10.1186/s13229-021-00421-1
+Hull, L., Petrides, K. V., Allison, C., Smith, P., Baron-Cohen, S.,
+Lai, M. C., & Mandy, W. (2017). "Putting on My Best Normal":
+Social camouflaging in adults with autism spectrum conditions.
+Journal of Autism and Developmental Disorders, 47(8), 2519–2534.
+https://doi.org/10.1007/s10803-017-3166-5
+Hunsche,
+M.
+C.,
+Cervin,
+M.,
+Storch,
+E.
+A.,
+Kendall,
+P.
+C.,
+Wood, J. J., & Kerns, C. M. (2022). Social functioning and the
+presentation of anxiety in children on the autism spectrum: A mul-
+timethod, multiinformant analysis. Journal of Psychopathology
+and Clinical Science, 131(2), 198–208. https://doi.org/10.1037/
+abn0000724
+Hus, V., & Lord, C. (2014). The autism diagnostic observation schedule,
+module 4: Revised algorithm and standardized severity scores.
+Journal of Autism and Developmental Disorders, 44(8), 1996–2012.
+https://doi.org/10.1007/s10803-014-2080-3
+Jaffey, S., & Ashwin, C. (2022). Exploring antecedents and outcomes of
+restricted and repetitive behaviours in autistic children: A thematic
+analysis of teacher interviews. Research in Autism Spectrum Disor-
+ders, 97, 102021. https://doi.org/10.1016/j.rasd.2022.102021
+Kanne, S. M., Gerber, A. J., Quirmbach, L. M., Sparrow, S. S.,
+Cicchetti, D. V., & Saulnier, C. A. (2011). The role of adaptive
+behavior in autism spectrum disorders: Implications for functional
+outcome. Journal of Autism and Developmental Disorders, 41(8),
+1007–1018. https://doi.org/10.1007/s10803-010-1126-4
+Kapp, S. K. (2020). Autistic community and the neurodiversity movement
+stories from the frontline. Palgrave Macmillan.
+Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T.
+(2013). Deficit, difference, or both? Autism and neurodiversity.
+Developmental Psychology, 49(1), 59–71. https://doi.org/10.1037/
+a0028353
+Kim, H., Ahn, J., Lee, H., Ha, S., & Cheon, K. A. (2020). Differences
+in language ability and emotional-behavioral problems according
+to symptom severity in children with autism spectrum disorder.
+Yonsei Medical Journal, 61(10), 880–890. https://doi.org/10.3349/
+ymj.2020.61.10.880
+Kim, S. H., Macari, S., Koller, J., & Chawarska, K. (2016). Examining
+the phenotypic heterogeneity of early autism spectrum disorder:
+Subtypes and short-term outcomes. Journal of Child Psychology
+and Psychiatry, 57(1), 93–102. https://doi.org/10.1111/jcpp.12448
+Krug, D. A., Arick, J., & Almond, P. (1980). Behavior checklist for
+identifying severely handicapped individuals with high levels of
+autistic behavior. Journal of Child Psychology and Psychiatry, 21,
+221–229.
+Lai, M.-C., & Baron-Cohen, S. (2015). Identifying the lost generation of
+adults with autism spectrum conditions. The Lancet Psychiatry,
+2(11), 1013–1027. https://doi.org/10.1016/s2215-0366(15)00277-1
+Lai, M. C., Kassee, C., Besney, R., Bonato, S., Hull, L., Mandy, W.,
+Szatmari, P., & Ameis, S. H. (2019). Prevalence of co-occurring
+mental health diagnoses in the autism population: A systematic
+review and meta-analysis. The Lancet. Psychiatry, 6(10), 819–829.
+Lai, M. C., & Szatmari, P. (2019). Resilience in autism: Research and
+practice prospects. Autism, 23(3), 539–541. https://doi.org/10.1177/
+1362361319842964
+Laxman, D. J., Taylor, J. L., DaWalt, L. S., Greenberg, J. S., &
+Mailick, M. R. (2019). Loss in services precedes high school exit
+for teens with autism spectrum disorder: A longitudinal study.
+Autism Research, 12(6), 911–921. https://doi.org/10.1002/aur.2113
+Livingston, L. A., & Happe, F. (2017). Conceptualising compensation
+in neurodevelopmental disorders: Reflections from autism spec-
+trum disorder. Neuroscience and Biobehavioral Reviews, 80, 729–
+742. https://doi.org/10.1016/j.neubiorev.2017.06.005
+Lopez-Espejo, M. A., Nunez, A. C., Moscoso, O. C., & Escobar, R. G.
+(2021). Brief report: Health-related quality of life in preschoolers
+with autism spectrum disorder is related to diagnostic age and
+autistic symptom severity. Journal of Autism and Developmental
+Disorders,
+51,
+4704–4710.
+https://doi.org/10.1007/s10803-021-
+04909-w
+Lord, C., Charman, T., Havdahl, A., Carbone, P., Anagnostou, E.,
+Boyd, B., Carr, T., de Vries, P. J., Dissanayake, C., Divan, G.,
+Freitag, C. M., Gotelli, M. M., Kasari, C., Knapp, M.,
+Mundy, P., Plank, A., Scahill, L., Servili, C., Shattuck, P., …
+McCauley, J. B. (2022). The Lancet Commission on the future of
+care and clinical research in autism. The Lancet, 399(10321), 271–
+334. https://doi.org/10.1016/s0140-6736(21)01541-5
+Lord, C., & Jones, R. M. (2012). Annual research review: re-thinking
+the classification of autism spectrum disorders. Journal of Child
+Psychology and Psychiatry, 53(5), 490–509. https://doi.org/10.
+1111/j.1469-7610.2012.02547.x
+Lord, C., Luyster, R., Guthrie, W., & Pickles, A. (2012). Patterns of
+developmental trajectories in toddlers with autism spectrum disor-
+der. Journal of Consulting and Clinical Psychology, 80(3), 477–489.
+https://doi.org/10.1037/a0027214
+Lord, C., Petkova, E., Hus, V., Gan, W., Lu, F., Martin, D. M.,
+Ousley, O., Guy, L., Bernier, R., Gerdts, J., Algermissen, M.,
+Whitaker, A., Sutcliffe, J. S., Warren, Z., Klin, A., Saulnier, C.,
+Hanson, E., Hundley, R., Piggot, J., … Risi, S. (2012). A multisite
+study of the clinical diagnosis of different autism spectrum disor-
+ders. Archives of General Psychiatry, 69(3), 306–313. https://doi.
+org/10.1001/archgenpsychiatry.2011.148
+Lord, C., Risi, S., Lambrecht, L., Cook, Jr, E. H., Leventhal, B. L.,
+DiLavore, P. C., Pickles, A., & Rutter, M. (2000). The autism
+diagnostic observation schedule–generic: A standard measure of
+social and communication deficits associated with the spectrum of
+autism. Journal of Autism and Developmental Disorders, 30(3),
+205–223.
+Lord, C., Rutter, M., & Le Couteur, A. (1994). Autism diagnostic
+interview-revised: A revised version of a diagnostic interview for
+caregivers of individuals with possible pervasive developmental
+disorders. Journal of Autism and Developmental Disorders, 24,
+659–685.
+Losada-Puente, L., & Bana, M. (2022). Assessment of adaptive behav-
+ior in people with autism spectrum disorders through the ICAP.
+Behavioral Sciences (Basel), 12(9), 333. https://doi.org/10.3390/
+bs12090333
+McCauley, J. B., Pickles, A., Huerta, M., & Lord, C. (2020). Defining
+positive outcomes in more and less cognitively able autistic adults.
+Autism Research, 13, 1548–1560. https://doi.org/10.1002/aur.2359
+694
+WAIZBARD-BARTOV ET AL.
+ 19393806, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aur.2898 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Oakley, B. F., Tillmann, J., Ahmad, J., Crawley, D., San José
+Caceres,
+A.,
+Holt,
+R.,
+Charman,
+T.,
+Banaschewski,
+T.,
+Buitelaar, J., Simonoff, E., Murphy, D., & Loth, E. (2021). How
+do core autism traits and associated symptoms relate to quality of
+life? Findings from the Longitudinal European Autism Project.
+Autism, 25(2), 389–404. https://doi.org/10.1177/1362361320959959
+Orinstein,
+A.,
+Tyson,
+K.
+E.,
+Suh,
+J.,
+Troyb,
+E.,
+Helt,
+M.,
+Rosenthal,
+M.,
+Barton,
+M.
+L.,
+Eigsti,
+I.
+M.,
+Kelley, E.,
+Naigles, L., Schultz, R. T., Stevens, M. C., & Fein, D. A. (2015).
+Psychiatric symptoms in youth with a history of autism and opti-
+mal outcome. Journal of Autism and Developmental Disorders,
+45(11), 3703–3714. https://doi.org/10.1007/s10803-015-2520-8
+Orinstein, A. J., Helt, M., Troyb, E., Tyson, K. E., Barton, M. L.,
+Eigsti, I. M., Naigles, L., & Fein, D. (2014). Intervention for opti-
+mal outcome in children and adolescents with a history of autism.
+Journal
+of
+Developmental
+and
+Behavioral
+Pediatrics,
+35(4),
+247–256.
+Patient-centered outcome measures. (2022). ICHOM Connect Site Wide
+Activity RSS. Retrieved December 6, 2022, from. https://connect.
+ichom.org/patient-centered-outcome-measures/autism-spectrum-
+disorder/
+Pellicano, E. (2012). Do autistic symptoms persist across time? Evidence
+of substantial change in symptomatology over a 3-year period in
+cognitively able children with autism. American Journal on Intel-
+lectual and Developmental Disabilities, 117(2), 156–166. https://doi.
+org/10.1352/1944-7558-117.2.156
+Pellicano, E., Cribb, S., & Kenny, L. (2019). Patterns of continuity and
+change in the psychosocial outcomes of young autistic people: A
+mixed-methods study. Journal of Abnormal Child Psychology, 48,
+301–313. https://doi.org/10.1007/s10802-019-00602-w
+Pickles, A., le Couteur, A., Leadbitter, K., Salomone, E., Cole-
+Fletcher, R., Tobin, H., Gammer, I., Lowry, J., Vamvakas, G.,
+Byford, S., Aldred, C., Slonims, V., McConachie, H., Howlin, P.,
+Parr, J. R., Charman, T., & Green, J. (2016). Parent-mediated
+social communication therapy for young children with autism
+(PACT): Long-term follow-up of a randomised controlled trial.
+The Lancet, 388(10059), 2501–2509. https://doi.org/10.1016/s0140-
+6736(16)31229-6
+Pickles, A., McCauley, J. B., Pepa, L. A., Huerta, M., & Lord, C.
+(2020). The adult outcome of children referred for autism: Typol-
+ogy and prediction from childhood. Journal of Child Psychology
+and Psychiatry, 61, 760–767. https://doi.org/10.1111/jcpp.13180
+Rapin, I. (2014). Classification of behaviorally defined disorders: Biol-
+ogy versus the DSM. Journal of Autism and Developmental Disor-
+ders, 44(10), 2661–2666. https://doi.org/10.1007/s10803-014-2127-5
+Rodgers, J., Riby, D. M., Janes, E., Connolly, B., & McConachie, H.
+(2012). Anxiety and repetitive behaviours in autism spectrum dis-
+orders and Williams syndrome: A cross-syndrome comparison.
+Journal of Autism and Developmental Disorders, 42(2), 175–180.
+https://doi.org/10.1007/s10803-011-1225-x
+Schalock, R. L., & Luckasson, R. (2015). A systematic approach to sub-
+group classification in intellectual disability. Intellectual and Devel-
+opmental Disabilities, 53(5), 358–366. https://doi.org/10.1352/1934-
+9556-53.5.358
+Schopler, E., Reichler, R., & Renner, B. (1986). The Childhood Autism
+Rating Scale (CARS) for diagnosis, screening and classification of
+autism. Irvington.
+Simonoff, E., Kent, R., Stringer, D., Lord, C., Briskman, J., Lukito, S.,
+Pickles, A., Charman, T., & Baird, G. (2019). Trajectories in
+symptoms of autism and cognitive ability in autism from child-
+hood to adult life: Findings from a longitudinal epidemiological
+cohort. Journal of the American Academy of Child and Adolescent
+Psychiatry,
+59,
+1342–1352.
+https://doi.org/10.1016/j.jaac.2019.
+11.020
+Singer, A. (Producer). (2022, November 11). Opinion: It’s time to
+embrace ‘profound autism’: Spectrum: Autism research news.
+Spectrum News. Retrieved December 6, 2022, from. https://www.
+spectrumnews.org/opinion/viewpoint/its-time-to-embrace-
+profound-autism/
+Sparrow, S. S., Chicchetti, D. V., & Saulnier, C. A. (2017). Vineland
+adaptive behavior scales (Vineland-3) (3rd ed.). Pearson.
+Szatmari, P., Georgiades, S., Duku, E., Bennett, T. A., Bryson, S.,
+Fombonne, E., Pathways in ASD Study Team, Mirenda, P.,
+Roberts,
+W.,
+Smith,
+I.
+M.,
+Vaillancourt,
+T.,
+Volden,
+J.,
+Waddell, C., Zwaigenbaum, L., Elsabbagh, M., & Thompson, A.
+(2015). Developmental trajectories of symptom severity and adap-
+tive functioning in an inception cohort of preschool children with
+autism spectrum disorder. JAMA Psychiatry, 72(3), 276–283.
+https://doi.org/10.1001/jamapsychiatry.2014.2463
+Taylor, J. L., & Seltzer, M. M. (2010). Changes in the autism behavioral
+phenotype during the transition to adulthood. Journal of Autism
+and Developmental Disorders, 40(12), 1431–1446. https://doi.org/
+10.1007/s10803-010-1005-z
+Tesfaye, R., Courchesne, V., Mirenda, P., Mitchell, W., Nicholas, D.,
+Singh, I., Zwaigenbaum, L., & Elsabbagh, M. (2022). Autism
+voices: Perspectives of the needs, challenges, and hopes for the
+future of autistic youth. Autism, 136236132211321. https://doi.org/
+10.1177/13623613221132108
+Thompson, J. R., Tasse, M. J., & Schalock, R. L. (2004). The Supports
+Intensity Scale (SIS): A new tool to measure support needs. Jour-
+nal of Intellectual Disability Research, 48, 454.
+Venker, C. E., Ray-Subramanian, C. E., Bolt, D. M., & Ellis
+Weismer, S. (2014). Trajectories of autism severity in early child-
+hood. Journal of Autism and Developmental Disorders, 44(3), 546–
+563. https://doi.org/10.1007/s10803-013-1903-y
+Waizbard-Bartov, E., Ferrer, E., Heath, B., Andrews, D. S., Rogers, S.,
+Kerns, C., … Amaral, D. G. (n.d.). Both increases and decreases
+in autism symptom severity are related to mental-health symptoms
+during middle childhood. (unpublished observations).
+Waizbard-Bartov,
+E.,
+Ferrer,
+E.,
+Heath,
+B.,
+Rogers,
+S.
+J.,
+Nordahl, C. W., Solomon, M., & Amaral, D. G. (2022). Identify-
+ing autism symptom severity trajectories across childhood. Autism
+Research, 15(4), 687–701. https://doi.org/10.1002/aur.2674
+Waizbard-Bartov, E., Ferrer, E., Young, G. S., Heath, B., Rogers, S.,
+Wu Nordahl, C., Solomon, M., & Amaral, D. G. (2020). Trajecto-
+ries of autism symptom severity change during early childhood.
+Journal of Autism and Developmental Disorders, 51, 227–242.
+https://doi.org/10.1007/s10803-020-04526-z
+Waizbard-Bartov, E., & Miller, M. (2023). Does the severity of autism
+symptoms change over time? A review of the evidence, impacts,
+and gaps in current knowledge. Clinical Psychology Review, 99,
+102230. https://doi.org/10.1016/j.cpr.2022.102230
+Waterhouse, L., & Gillberg, C. (2014). Why autism must be taken
+apart. Journal of Autism and Developmental Disorders, 44(7),
+1788–1792. https://doi.org/10.1007/s10803-013-2030-5
+Weitlauf, A. S., Gotham, K. O., Vehorn, A. C., & Warren, Z. E.
+(2014). Brief report: DSM-5 “levels of support:” A comment on
+discrepant conceptualizations of severity in ASD. Journal of
+Autism and Developmental Disorders, 44(2), 471–476. https://doi.
+org/10.1007/s10803-013-1882-z
+Wing, L., & Gould, J. (1979). Severe impairments of social interaction
+and associated abnormalities in children: Epidemiology and clas-
+sification. Journal of Autism and Developmental Disorders, 9(1),
+11–29.
+Woodman, A. C., Smith, L. E., Greenberg, J. S., & Mailick, M. R.
+(2015). Change in autism symptoms and maladaptive behaviors in
+adolescence and adulthood: The role of positive family processes.
+Journal of Autism and Developmental Disorders, 45(1), 111–126.
+https://doi.org/10.1007/s10803-014-2199-2
+Woodman, A. C., Smith, L. E., Greenberg, J. S., & Mailick, M. R.
+(2016). Contextual factors predict patterns of change in function-
+ing over 10 years among adolescents and adults with autism spec-
+trum disorders. Journal of Autism and Developmental Disorders,
+46(1), 176–189. https://doi.org/10.1007/s10803-015-2561-z
+WAIZBARD-BARTOV ET AL.
+695
+ 19393806, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aur.2898 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Zhou, X., Feliciano, P., Shu, C., Wang, T., Astrovskaya, I., Hall, J. B.,
+Obiajulu, J. U., Wright, J. R., Murali, S. C., Xu, S. X.,
+Brueggeman, L., Thomas, T. R., Marchenko, O., Fleisch, C.,
+Barns, S. D., Snyder, L. A. G., Han, B., Chang, T. S.,
+Turner, T. N., … Chung, W. K. (2022). Integrating de novo and
+inherited variants in 42,607 autism cases identifies mutations in
+new moderate-risk genes. Nature Genetics, 54, 1305–1319. https://
+doi.org/10.1038/s41588-022-01148-2
+How to cite this article: Waizbard-Bartov, E., Fein,
+D., Lord, C., & Amaral, D. G. (2023). Autism
+severity and its relationship to disability. Autism
+Research, 16(4), 685–696. https://doi.org/10.1002/
+aur.2898
+696
+WAIZBARD-BARTOV ET AL.
+ 19393806, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aur.2898 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

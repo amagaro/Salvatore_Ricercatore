@@ -1,0 +1,1125 @@
+Academic Editor: El˙zbieta Macioszek
+Received: 18 August 2025
+Revised: 20 September 2025
+Accepted: 22 September 2025
+Published: 28 September 2025
+Citation: Tănase, I.A.; Povian, C.M.
+Accessibility Challenges in the
+15-Minute City Concept for People
+with Disabilities in Timis,oara,
+România. Sustainability 2025, 17, 8727.
+https://doi.org/10.3390/
+su17198727
+Copyright: © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Article
+Accessibility Challenges in the 15-Minute City Concept for
+People with Disabilities in Timis,oara, România
+Ioana Antonia Tănase 1,*
+and Cristina Maria Povian 2
+1
+Docroral School, Polytechnic University of Timis,oara, 300006 Timis,oara, Romania
+2
+Faculty of Architecture and Town Planning, Polytechnic University of Timis,oara, 300145 Timis,oara, Romania;
+cristina.povian@upt.ro
+*
+Correspondence: ioana.tanase@student.upt.ro; Tel.: +40-749-786-058
+Abstract
+Proximity-oriented planning aims to deliver everyday services within a short walk, yet
+closeness does not guarantee usable access for all residents. This study quantifies the
+gap between spatial proximity and functional accessibility in Timis,oara, România, fo-
+cusing on people with mobility and visual impairments. A three-stage analysis was
+conducted to evaluate accessibility to public amenities. First, (1) a survey was conducted
+with 605 respondents to identify distinct accessibility priorities based on 15-Minute City
+core dimensions defined by Carlos Moreno and adapted afterwards to the city context
+and needs. In the second stage (2), GIS mapping (radial buffers and isochrones) revealed
+major disparities among non-disabled residents and residents with mobility and visual
+impairments. Coverage decreased substantially across amenities under reduced-speed
+scenarios and after excluding wheelchair-inaccessible destinations. In the third stage (3),
+field-observed pedestrian routes in three areas of Timis,oara were examined against the
+top-ranked criteria for each group, using the items sourced from the previous survey and
+grounded in the 15-Minute City concept. The route scoring is exploratory and specific to
+this context. The findings confirmed recurrent functional barriers, especially for vulnerable
+groups. These results expose a proximity-accessibility gap, where apparent nearness masks
+physical or sensory barriers. A shift toward experience-based accessibility planning is
+needed to ensure that proximity is not only spatial, but also usable by all and inclusive.
+Keywords: 15-Minute City; inclusive proximity; visually impaired; mobility impairment;
+sustainability; inclusive urban design; accessibility scoring method
+1. Introduction
+Urban life is increasingly shaped by the pursuit of proximity, sustainability, and
+human-centered mobility. Yet, despite these intentions, spatial proximity does not always
+result in equitable or functional access for all citizens. In response to rapid urbaniza-
+tion, environmental concerns, and social inequalities, contemporary planning paradigms
+have moved away from car-centric models toward neighborhood-scale frameworks that
+prioritize access to essential services [1].
+While this model promotes more livable, resilient, and inclusive cities, its implementa-
+tion must go beyond mere spatial proximity and take into account the diversity of capacities
+and barriers faced by all residents, especially people with disabilities. Ensuring equity
+in urban proximity requires a critical examination of how environments are experienced
+Sustainability 2025, 17, 8727
+https://doi.org/10.3390/su17198727
+Sustainability 2025, 17, 8727
+2 of 24
+differently by people with physical or sensory impairments and how design methodologies
+can be adapted to accommodate these variations [2,3].
+The “15-Minute City” model promotes the idea that essential services such as health-
+care, education, commerce, and recreation should be accessible within a short walk from
+one’s residence [4,5]. First proposed by Carlos Moreno in 2016 and popularized during the
+COVID-19 pandemic by cities like Paris [6], the concept draws on historical frameworks
+such as the “Garden City” and “Transit-Oriented Development” to promote sustainability,
+proximity, mixed land use, and inclusive public spaces [7,8].
+These benefits of a 15-Minute City, however, differ by scale: small/medium cities
+can more feasibly concentrate daily services locally, whereas large cities typically require
+polycentric structures and transit-oriented sub-centers to avoid recentralizing advantages
+in the core [9]. Empirical assessments also show that proximity thresholds are often met in
+central districts, while suburban areas lag, underscoring edge unevenness [10,11]. On the
+critical issues side, the literature notes risks that proximity is achieved without functional
+accessibility for people with disabilities and highlights related health-equity concerns [12],
+alongside ambiguous definitions/metrics for proximity that complicate evaluation and
+potential affordability pressures around amenity-rich areas [13]. Consequently, recent work
+calls for function-aware metrics that go beyond distance alone when assessing proximity-
+based models.
+In practice, proximity strategies can enhance sustainability by shortening motorized
+trips and promoting active travel (lowering emissions and energy use), advance economic
+equity by reducing time and monetary costs of accessing jobs and essential services and
+support social equity by bringing safe, inclusive public spaces and key amenities closer to
+underserved groups [14].
+Recent work underscores that delivering a “15 min” urban structure is as much
+a governance challenge as a spatial one: digitally supported public participation and
+accessibility auditing are necessary to surface conflicts, legitimize choices, and ensure
+that proximity targets translate into equitable outcomes. In this view, e-participation and
+continuous feedback loops help integrate the needs of different groups, especially residents
+with disabilities, into plan revisions and implementation, reducing social frictions that often
+arise when proximity metrics are pursued without usability checks [15]. Beyond distance
+on the map, the way the street network is configured strongly influences the experienced
+“proximity”: connectivity, legibility and wayfinding effort can transform the same distance
+into a very different experience, especially for people with visual disabilities. In practice,
+15 min targets work better when implemented bottom-up, through participatory programs
+and indicators co-produced with the community. This framework justifies our approach:
+we combine GIS measures of coverage with user-prioritized criteria and route audits to
+verify that the declared proximity translates into usable accessibility [5,14].
+Communist-era urban planning in Romania also attempted a proximity-based orga-
+nizational model, through the large-scale development of micro-neighborhoods and the
+“systematization” program initiated by Nicolae Ceaus,escu. These interventions generated
+standardized residential areas, integrated with public services within walking distance,
+following the Soviet principles of autonomous neighborhoods, which included local shops,
+schools, and green spaces [16,17]. Although explicitly designed to provide a walkable
+and service-rich environment, these developments have often resulted in monotonous
+architecture and insufficient attention to the needs of vulnerable residents [16].
+Proximity, in itself, does not guarantee functional accessibility for people with disabili-
+ties [8]. Some studies show that even when services appear to be close, these populations
+face structural barriers, such as uneven sidewalks, the absence of ramps or tactile mats
+and the lack of auditory cues, which significantly limit actual access [18,19]. Thus, con-
+Sustainability 2025, 17, 8727
+3 of 24
+temporary institutional frameworks place increasing emphasis on inclusion. The Institute
+for Transportation and Development Policy (ITDP) promotes universal design in public
+transport-oriented environments.
+Although the concept of the “15-Minute City” has gained global popularity as an
+urban planning ideal, its practical implementation requires rigorous methodologies to
+assess whether services are truly accessible within the proposed time limits. A growing
+body of scientific literature has developed to quantify and operationalize this concept,
+particularly through spatial and temporal analyses. One commonly used method involves
+the use of isochrones based on traffic networks, which calculate how far a person can
+walk or cycle in fixed time intervals (e.g., 5, 10, or 15 min). Metwally et al. applied this
+method in El Rehab, Egypt, using QGIS-LTR 3.40 to map accessibility according to different
+service categories and pedestrian thresholds [20]. Caselli et al. extended this approach by
+integrating population density and facility distribution within a GIS framework to identify
+gaps in service provision within 15 min radii in the city of Parma, Italy [21]. Similarly,
+Mozaffaree Pour and Partanen proposed a two-level spatial analysis for Tallinn, Estonia,
+combining city-scale assessments with targeted strategies for peripheral neighborhoods [22].
+Beyond proximity, Szyma´nska et al. argued for the need for a composite index of proximity,
+which also takes into account the quality of infrastructure, as well as social accessibility
+barriers [23]. Other researchers have focused on the equity and functionality of “15 min”
+averages, such as Bruno et al., who developed a universal framework that combines travel
+time analysis with indicators of social vulnerability [24]. On a larger scale, Abbiasov et al.
+used mobility data from over 40 million users in the United States, finding that only 12%
+of daily trips fell within a 15 min walk, highlighting the discrepancy between theoretical
+and actual accessibility [25]. Finally, Boncinelli et al. proposed a walkability clustering
+method based on isochrones to identify functional communities at the neighborhood level in
+Florence and to guide targeted urban interventions [26]. These approaches emphasize that
+measuring proximity is not just a spatial exercise, but a multidimensional task, requiring
+the integration of time constraints, user diversity, and infrastructure quality. In this paper,
+such insights are adapted to develop a spatial scoring model to assess inclusive proximity
+for people with mobility and vision impairments.
+Despite its human-centered ambition, the 15-Minute City model often overlooks the
+heterogeneous experiences of residents with disabilities. People with disabilities constitute
+a diverse group, including physical, sensory, cognitive, or psychosocial impairments [27].
+However, spatial planning rarely addresses their specific mobility needs [28]. This study
+focuses on two key subgroups—people with mobility impairments and those with vision
+impairments—whose experiences clearly illustrate the limitations of a proximity-only
+approach. For people with mobility impairments, accessible infrastructure means unob-
+structed sidewalks, curb ramps, flat and continuous surfaces, frequent rest areas, and
+accessible public transportation stops. Without these elements, the same 500–800 m route
+can become inaccessible or dangerous [29]. In contrast, people with visual impairments
+rely on non-visual cues, such as tactile paving, high-contrast signage, and auditory sig-
+nals at intersections, to move around autonomously [30]. However, inconsistencies in
+the implementation or maintenance of these elements often lead to reduced autonomy
+and difficulties in orientation. In both cases, spatial proximity must be complemented by
+inclusive design standards to ensure real accessibility. Therefore, this paper proposes a
+scoring method that takes into account the specific needs of each group, assigning different
+weights to accessibility characteristics and penalizing the absence of essential infrastructure,
+in order to provide a more realistic assessment of urban inclusion.
+These specific accessibility needs are consistent with the results of a previous ques-
+tionnaire conducted among 605 residents of the municipality of Timis,oara, Romania [31].
+Sustainability 2025, 17, 8727
+4 of 24
+The questionnaire aimed to identify the most frequently visited public spaces, assess user
+satisfaction, and determine the spatial features prioritized by different groups. Respon-
+dents without disabilities indicated cleanliness, lighting, and availability of services as the
+main factors influencing the use of public spaces. In contrast, participants with mobility
+or visual impairments placed greater emphasis on physical accessibility, safe crossings,
+sidewalk quality, and clear signage. For example, while both groups valued proximity to
+green spaces, people with disabilities reported more limited their use due to infrastructural
+barriers, such as inaccessible alleys, high curbs, or lack of rest areas. Similarly, commercial
+and medical facilities were frequented by all respondents, but people with disabilities
+highlighted problems related to difficult-to-use ramp access or confusing signage.
+These differences highlight the importance of contextualizing urban design not only
+through universal proximity models, but also through differentiated, user-informed criteria
+that reflect functional accessibility. By translating these locally reported priorities into a
+weighted scoring system, this study bridges the gap between global accessibility frame-
+works and the real experiences of Timis,oara residents, ensuring that spatial planning aligns
+with on the ground needs.
+This paper contributes by proposing a spatial scoring method based on both the
+international accessibility literature and the specific preferences revealed through the
+questionnaire applied in Timis,oara. The model integrates differentiated weights and
+penalties for key accessibility features and is applied in a GIS framework to evaluate
+three typologies of public spaces (commercial, medical, recreational) in three residential
+areas of Timis,oara. Although the analysis is localized, the methodological approach and
+conclusions are applicable more broadly, particularly to post-socialist European cities
+navigating between legacy infrastructure and changing equity priorities.
+2. Mapping Inclusive Proximity: Materials and Methods
+This study uses a mixed approach, combining survey data, geospatial analysis and
+field-observations to assess how proximity and accessibility are perceived and experienced
+by different user groups in Timis,oara. The objective is to verify to what extent the promise
+of the 15-Minute City—equal access to public services within a short distance—is truly
+fulfilled when analyzed from the perspective of people with and without disabilities.
+Timis,oara was selected as a mid-sized European city with a compact core and post-
+socialist residential fabrics that embed elements of proximity (mixed daily services) while
+still exhibiting accessibility gaps relevant to mobility and visual impairments. The city
+provides sufficient open data (street network and points of interest) and a manageable
+scale for on-street route audits, enabling the mixed GIS, survey, and field-observation
+methodology used here.
+Disability status was self-reported and categorized for analysis as either mobility
+impairment (e.g., walking difficulties/wheelchair use) or visual impairment; no clinical
+diagnoses were collected. Analyses are disaggregated by these two groups and by respon-
+dents without disabilities.
+Figure 1 summarizes the three-stage analytical framework and the links between
+stages, showing how survey priorities inform the GIS setup and the field-audit checklist,
+and how GIS coverage guides route selection for on-street verification.
+The methodology is carried out in three sequential stages. In the first stage, a large-
+scale questionnaire was applied among residents to understand their mobility habits, the
+types of public spaces frequented and the spatial features considered important. The ques-
+tionnaire also highlighted key differences in the priorities expressed by people with mobility
+or vision impairments compared to those without disabilities. This information was the
+basis for the development of a personalized scoring framework for assessing accessibility.
+Sustainability 2025, 17, 8727
+5 of 24
+ 
+Figure 1. Methodological framework, author’s representation, source: authors’ elaboration.
+In the second stage, radial access GIS maps were created to illustrate the theoretical
+coverage areas of public facilities, starting from two mobility scenarios: walking at normal
+speed (for users without disabilities) and walking at reduced speed (for people with mobil-
+ity or vision impairments). A filtering layer was applied over these maps using data from
+the Wheelmap.org platform [32] to exclude facilities considered inaccessible to wheelchair
+users, thus generating a more realistic accessibility footprint. In the third stage, based on
+the results obtained from the questionnaire and the spatial analysis, three high-priority
+public spaces were selected in each of the analyzed neighborhoods. These were subjected
+to detailed mapping using the temporal delimitation of accessibility areas tool provided by
+TravelTime Technologies Ltd., London, UK (accessed in 2024) [33] and were subsequently
+assessed through field research. Pedestrian routes to these spaces were analyzed based on
+accessibility criteria specific to each user group, criteria derived both from international
+literature and from local preferences expressed through the questionnaire.
+2.1. Survey-Based Assessment: Identifying User Priorities
+To ground the spatial analysis in the real needs of users, a quantitative questionnaire
+was conducted among 605 residents of the city of Timis,oara, Romania. Inclusion required
+residence in Timis,oara or its suburbs, and recruitment targeted an approximately balanced
+distribution by age group and sex. The questionnaire aimed to identify the types of public
+spaces most frequently visited, assess the perception of their accessibility and comfort, and
+prioritize design criteria relevant to different user groups. Respondents were divided into
+two main categories: people without disabilities and people with disabilities. Within this
+study, two subgroups were distinguished: individuals with mobility impairments and
+those with visual impairments.
+Three urban neighborhoods, Elisabetin, Circumvalat,iunii/Iulius Town, and Zona
+Centrală, were selected due to their different urban character, as illustrated in Figure 2. The
+results of the questionnaire highlighted distinct priorities between user groups. Participants
+without disabilities emphasized the importance of general cleanliness, public lighting, and
+the density of services, while people with disabilities emphasized the need for continuous
+sidewalks, safe crossings, clear visual signage, and accessible routes. Respondents with
+mobility impairments frequently mentioned infrastructural obstacles such as high curbs,
+degraded sidewalks, or inaccessible entrances, while people with visual impairments
+reported difficulties caused by the lack of tactile indicators or consistent audible signals.
+Sustainability 2025, 17, 8727
+6 of 24
+ 
+Figure 2. Distribution of places in Timis,oara where the questionnaire was conducted, source: QGIS
+data, source: author’s elaboration; data: OpenStreetMap contributors.
+These divergent preferences were subsequently translated into an accessibility scoring
+system with differentiated weights, customized for each group, and applied in subsequent
+cartographic assessments.
+To support replicability, we summarize the survey instrument, fieldwork setup, and
+sample coverage. The questionnaire was structured in three sections: demographics
+(Q1–Q3), mobility habits (Q4–Q6), and public-space behaviors/barriers (Q7–Q9), over
+~2 months using mixed modes (online plus street-intercept) at three city locations (Liberty
+Square, city center; Bălcescu, residential; Iulius Town, commercial) to include residents less
+active on social media, especially older adults. Inclusion required residence in Timis,oara or
+its suburbs, and recruitment targeted a balanced age/sex distribution. The final sample
+reached n = 605 (of which n = 506 residents). A dedicated subgroup of respondents reported
+mobility or visual impairments, and tailored interviews with visually impaired participants
+ensured adequate representation. The instrument captured willingness to walk, frequency
+of use by facility type, and route-choice factors; these variables, together with the mixed-
+mode recruitment and the center/residential/commercial intercept sites, can be reproduced
+in other cities with minimal adaptation.
+2.2. General Accessibility Mapping Using Radial Distance Analysis
+Building on the user-reported priorities identified through the survey, the second stage
+involved spatial mapping of general accessibility using radial distance analysis. To assess
+the overall spatial accessibility of public services across different user groups, an initial
+set of radial maps was produced using using the QuickOSM plugin v2.4.2 (OSM) data.
+The method used corresponds to a distance buffer analysis, in which each point of interest,
+classified as a commercial unit, medical center, or green space, serves as a central node for
+circular catchment areas. These areas are intended to illustrate the theoretical area that can
+be walked within a 15 min interval, thus providing a comparative visualization of access
+gaps between different neighborhoods.
+For the general population (users without disabilities), the buffer radius was set
+to 800 m, reflecting an average urban walking speed of 1.0–1.2 m/s, as reported in the
+Sustainability 2025, 17, 8727
+7 of 24
+literature on urban transport and mobility [34]. In contrast, differentiated walking distances
+were applied for people with disabilities. For visually impaired users, a reduced radius of
+432 m was selected, based on empirical results as reported in [35], which showed that blind
+people walk, on average, approximately 432 m in 10 min, corresponding to an average
+walking speed of 0.72 m/s [36]. For people with mobility impairments, an estimated
+walking speed of 0.60 m/s was used, based on a synthesis of studies on assisted mobility
+and wheelchair travel [37], leading to an estimated radius of 360 m.
+To increase the accuracy of the maps, all datasets were further filtered to reflect only
+accessible destinations. Using data from Wheelmap.org [32], a specialized OSM-based
+platform, public spaces marked as “inaccessible” were excluded from the maps dedicated
+to slow walking. This adjustment allowed for a realistic spatial representation of areas that
+can actually be reached, instead of a theoretical coverage based only on proximity.
+OpenStreetMap (OSM) data was used in QGIS. From OSM, we extracted the highway
+network for Timis,oara and the building footprints within the municipal boundary. Proxim-
+ity was quantified with circular buffers centered on each amenity; we computed the share
+of residential buildings falling within two radii: 1.2 km (normal walking reach) and 800 m
+(reduced-reach scenario). Amenities flagged as wheelchair-inaccessible on Wheelmap.org
+were excluded.
+2.3. Detailed Accessibility Maps and Route Scoring
+To assess the overall spatial accessibility of public services across different user groups,
+an initial set of radial maps, based on distance buffers, was produced using QGIS and
+OpenStreetMap (OSM) data. The applied method corresponds to a distance buffer analysis,
+in which each point of interest, classified as a commercial unit, medical center, or green
+space, serves as a central node for circular catchment areas. These areas were intended to
+illustrate the theoretical areas that can be reached within a 15 min walk, thus providing a
+comparative visualization of access gaps between neighborhoods. However, these maps
+often overestimate real access, as they ignore the physical or sensory barriers encountered
+by users with disabilities, a discrepancy referred to in this study as false proximity.
+Following the overall radial analysis, a second spatial assessment layer was developed
+to explore the functional accessibility of pedestrian routes leading to the most frequented
+public destinations in Timis,oara. While the first layer illustrates theoretical spatial reacha-
+bility, the second captures the functional usability of public amenities, bridging the gap
+between proximity and actual accessibility. While radial buffers indicate the potential
+coverage of services based on distance, they do not reflect the presence or absence of acces-
+sible infrastructure along the route. This second stage addresses this limitation through
+cartographic modeling and direct field assessment based on scoring criteria.
+The analysis focused on three representative urban areas, Central Area, Elisabetin,
+and Circumvalat,iunii, selected based on their inclusion in the previous survey and their
+distinct urban profiles. All three neighborhoods are predominantly residential, but each
+has a specific distinct characteristic: Central Area contains administrative and cultural
+institutions; Elisabetin is a historic neighborhood with low-rise housing and mixed ser-
+vices; Circumvalat,iunii reflects a post-war model, with dense collective housing and a
+peripheral location. The choice of these areas allows observation of accessibility in different
+spatial contexts.
+In each neighborhood, one commercial space, one medical center, and one green/
+recreational space were selected, based on the questionnaire responses, which indicated
+these types of destinations as the most frequently or consistently mentioned by all de-
+mographic categories. Thus, a total of nine destinations were analyzed in depth, al-
+Sustainability 2025, 17, 8727
+8 of 24
+lowing for both vertical (within the same neighborhood) and horizontal (between user
+groups) comparisons.
+For each location, accessibility zones were mapped using the TravelTime platform,
+which generates isochrones based on real street networks, as opposed to geometric radii.
+For people without disabilities, a 15 min walking time threshold was used, corresponding
+to an average speed of 1.2 m/s, which is equivalent to approximately 1080 m traveled [34].
+For people with disabilities, the TravelTime platform does not allow setting of personalized
+walking speeds; therefore, to maintain methodological consistency while also adapting
+the analysis range, a 10 min walking was used to approximate the distance that could
+realistically be covered in 15 min by people with reduced mobility or visual impairments.
+This adjustment reflects the documented average walking speeds of 0.66 m/s for people
+with visual impairments [24] and 0.6 m/s for wheelchair users [25], resulting in a common
+effective range of approximately 600–660 m.
+The resulting isochrones were visualized in GIS to compare residential coverage
+areas among different user groups. These visual comparisons highlighted significant
+discrepancies between apparent accessibility and actual access. To better understand these
+differences, a field study was also conducted to assess the actual conditions of pedestrian
+travel from residential clusters to selected destinations.
+As represented in Figure 3, each route was analyzed by using the most important
+criteria considered by the groups asked in the survey presented above:
+Users without disabilities: public lighting, pleasant atmosphere, cleanliness of the route;
+Users with visual impairments: public lighting, surface quality of the route, low interaction
+with traffic;
+Users with mobility impairments (e.g., wheelchair users): public lighting, presence of urban
+furniture, surface quality of the route.
+ 
+Figure 3. Comparative Accessibility Criteria by User Groups with impairments (red-visual, n = 44
+or/and blue-mobility, n = 36, and without impairments, n = 528, grey-overall average values across all
+respondents, show for reference), source: author representation, results from a conducted survey [31],
+source: authors’ analysis of data survey (n = 605).
+Sustainability 2025, 17, 8727
+9 of 24
+Accessibility was assessed using two complementary indicator sets: (1) proximity
+coverage, defined as the proportion of residential buildings within 1.2 km and 800 m circular
+buffers centered on amenities (sites flagged wheelchair-inaccessible on Wheelmap.org were
+excluded); (2) route-level usability, captured via an on-street checklist (Table 1) scored 0–3
+with weights derived from the citywide survey (n = 605). Checklist items were drawn from
+international accessibility literature and adapted to the local context.
+Table 1. Score distribution for each group.
+Accesibility Criterion
+Caracteristics
+Points
+Non-Disabled Users
+public lighting
+No lighting/broken
+0/1 (Absent)
+Sparse/diminconsistent
+0.5/1 (Partial)
+Uniform, bright, functional
+1/1 (Existent)
+pleasant atmosphere
+No vegetation/noise/unwelcoming
+0/1 (Absent)
+Minimal greenery/noise/dirty
+0.5/1 (Partial)
+Green, quiet, esthetically pleasant
+1/1 (Present)
+cleanliness of the route
+Littered, neglected
+0/1 (Absent)
+Intermittent cleaning
+0.5/1 (Partial)
+Clean, well-maintained route
+1/1 (Present)
+Maximum points for non-disabled users’ criterions
+3
+Visually Impaired Users
+public lighting
+No lighting/broken
+0/1 (Absent)
+Sparse/dim/inconsistent
+0.5/1 (Partial)
+Uniform, bright, functional
+1/1 (Existent)
+surface quality of the route
+Rough/damaged/uneven
+0/1 (Absent)
+Mixed paving or partial obstacles
+0.5 1 (Partial)
+Smooth, continuous, tactile-safe
+1/1 (Existent)
+low interaction with traffic
+Constant vehicular interference
+0/1 (Absent)
+Occasional crossing danger
+0.5/1 (Partial)
+Protected, separated walk
+1/1 (Existent)
+Maximum points/visual impaired users’ criterions
+3
+Mobility-Impaired Users
+public lighting
+No lighting/broken
+0/1 (Absent)
+Sparse/dim/inconsistent
+0.5/1 (Partial)
+Uniform, bright, functional
+1/1 (Existent)
+presence of urban furniture
+No benches or rest zones
+0/1 (Absent)
+Few benches, hard to reach
+0.5/1 (Partial)
+Frequent benches, accessible
+1/1 (Existent)
+surface quality of the route
+Cracked/uneven/inaccessible
+0/1 (Absent)
+Some smooth, some inaccessible
+0.5/1 (Partial)
+Flat, continuous, step-free
+1/1 (Existent)
+Maximum points/mobility impaired users’ criterions
+3
+Each criteria was scored on a standardized 3-point scale, regardless of user group:
+0 points—the criterion is absent;
+0.5 points—the criterion is present but poorly implemented, inconsistent, or makeshift;
+Sustainability 2025, 17, 8727
+10 of 24
+1 point—the criterion is fully implemented and functional along the route.
+This results in a maximum score of 3 points per user group per route. This scoring
+system allows for a comparative interpretation of the actual accessibility conditions, in
+relation to the different needs of users.
+Each pedestrian route was therefore given a total accessibility score out of 3 points
+for each user group, allowing for a comparative understanding of the actual degree of
+pedestrian accessibility and inclusion. The assessment was accompanied by photographic
+documentation and detailed field observations, which documented and visualized the
+identified barriers and facilities. It is important to note that certain features not relevant in
+the local context, such as the slope of the terrain, were not included in the final analysis, as
+Timis,oara has a relatively flat topography and respondents did not perceive the slope as
+an obstacle.
+This multi-scalar approach connects subjective perception with objective infrastructure,
+contributing to a nuanced assessment of inclusive proximity in the urban environment.
+The workflow can be reproduced in other cities using commonly available GIS and
+survey tools, with minor local calibration: (I) compile points of interest for everyday
+services from open sources or municipal registries; (II) compute coverage via distance
+buffers and/or network-based isochrones using a walking profile; (III) apply an accessibility
+filter (e.g., Wheelmap/OSM flags or targeted audits); (IV) elicit user-prioritized criteria
+through a short citywide survey (or reuse existing datasets); (V) run targeted route audits
+against the top-ranked criteria for three user groups (non-disabled residents, mobility
+impairments, visual impairments). Parameters such as service taxonomy, assumed walking
+speeds and signage/tactile standards should be locally tuned, while the structure of the
+overall sequence of steps remains identical.
+All spatial data layers used in this study were taken from public sources, such as
+OpenStreetMap and Wheelmap.org. The resulting maps, questionnaire responses (in
+anonymized form) and customized accessibility scoring templates will be available in an
+open-access repository upon publication of the paper. The questionnaire, which collected
+responses from 605 residents of Timis,oara, was completed anonymously and voluntar-
+ily, without the collection of sensitive personal data. Therefore, it was exempted from
+formal ethical review, in accordance with national regulations on non-interventional and
+anonymized research.
+This study partially used generative artificial intelligence tools (ChatGPT, OpenAI)
+for drafting, summarizing methodological details and assisting with English; however,
+the authors take full responsibility for the scientific content and interpretation. Although
+the scoring model was based on both international literature and preferences expressed
+by local users, it inevitably reflects context-specific criteria and weights. Consequently,
+application of the method in other urban environments or demographic contexts may
+require recalibration.
+3. Results
+Urban accessibility and spatial equity were assessed using a multi-layered ap-
+proach that combines subjective perspectives (through a public survey) with objective
+geospatial analysis (through radial and detailed GIS-based mapping). The assessment
+focuses on three neighborhoods in Timis,oara: City Center, Elisabetin (Bălcescu), and
+Circumvalat,iunii/Iulius Town, chosen for their mixed residential character and varying
+levels of centrality, infrastructure quality, and socioeconomic composition. The results
+are structured in three stages: (1) residents’ perceived priorities, (2) spatial accessibility
+through general radial maps, and (3) detailed accessibility scores of specific public spaces,
+based on field assessments.
+Sustainability 2025, 17, 8727
+11 of 24
+3.1. Residents’ Prioritization of Urban Accessibility Features
+The first level of analysis is based on the public survey conducted among 605 residents
+of Timis,oara, aiming to understand the characteristics they prioritize when evaluating
+the accessibility and quality of urban spaces. The survey results and a detailed descrip-
+tion along with descriptive graphs were presented in a previous article [31]. The graph
+below (Figure 4) illustrates the most frequently mentioned criteria, ordered by the num-
+ber of selections made by the participants. Respondents had the opportunity to choose
+multiple options.
+Figure 4. Urban space preferences according to the public survey (n = 605), source: authors’ analysis
+of data survey.
+The data exposed in Figure 4 reveals that public lighting (236 responses), pleasant
+atmosphere (206) and cleanliness of the route (196) were the three most important aspects
+mentioned by residents. These were closely followed by low interaction with traffic (190)
+and the quality of the route surface (183). It is worth noting that aspects such as the
+lack of architectural barriers (62) and gentle slope (57), essential for people with reduced
+mobility, were ranked last, suggesting that these needs are poorly recognized by the
+general population. This discrepancy highlights the importance of differentiated assessment
+strategies that take into account the diversity of users and highlights a gap between
+dominant perceptions and the specific barriers encountered by people with disabilities.
+3.2. Spatial Disparities in Proximal-Based Accessibility
+To assess the extent to which spatial proximity corresponds to inclusive accessibility,
+radial coverage maps were generated using QGIS-LTR 3.40 (QGIS) and OpenStreetMap
+data. Each public facility (e.g., supermarket or medical center) was used as the center point
+of a circular catchment area, calculated based on walking speed and travel time.
+Two walking scenarios were analyzed:
+•
+Normal-speed walking (NSW): calculated for a 15 min walking radius, using an
+average speed of 1.2 m/s [34], representing the general population (Figures 5 and 6);
+•
+Reduced-speed walking (SSW): calculated for the same time interval (15 min) but
+adjusted to a shorter distance, based on a reduced speed of approximately 0.8 m/s,
+reflecting average conditions for people with mobility or visual impairments [36,37]
+(Figures 7 and 8).
+Sustainability 2025, 17, 8727
+12 of 24
+ 
+Figure 5. Spatial coverage of supermarkets (Normal-speed walk—15 min), source: author’s elabora-
+tion; data: OpenStreetMap contributors.
+ 
+Figure 6. Spatial coverage of medical centers (Normal-speed walk—15 min), source: author’s
+elaboration; data: OpenStreetMap contributors.
+Sustainability 2025, 17, 8727
+13 of 24
+ 
+Figure 7. Spatial coverage of supermarkets (Low-speed walk—15 min), source: author’s elaboration;
+data: OpenStreetMap contributors, Wheelmap.org.
+ 
+Figure 8. Spatial coverage of medical centers (Slow-speed walk—15 min, adjusted distance), source:
+author’s elaboration; data: OpenStreetMap contributors, Wheelmap.org.
+Sustainability 2025, 17, 8727
+14 of 24
+Figures 5–8 illustrate the comparative accessibility to markets and medical centers in
+both walking speed scenarios.
+Figures 5–8 track how nominal proximity contracts under more realistic assumptions
+when it comes to supermarkets. Figure 5 reports citywide coverage of key amenities at the
+1.2 km radius (baseline). Figure 6 repeats the analysis for the 800 m radius (reduced reach).
+Figure 6 further filters out destinations flagged wheelchair-inaccessible. Figures 7 and 8
+then move to another type of amenity, medical center, repeating the same conditions.
+From a spatial analysis perspective, significant differences emerge between the two
+walking scenarios, as seen in Table 2. Under normal walking speed conditions, the un-
+covered residential area near supermarkets was only 23,809 m2 out of 116,257 m2, while
+under reduced walking speed conditions, it increased to 54,378 m2, representing a 26.2%
+increase in inaccessible area. Expressed as a percentage, this change reflects a decrease in
+the covered area from 79.5% to 53.2% of the total urban area analyzed.
+Table 2. Spatial coverage differences by walking speed scenario.
+Amenity Type
+Scenario
+Uncovered Area (m2)
+% of Total Area Not Covered
+Supermarket
+Normal Speed
+23,809
+20.5%
+Slow Speed
+54,378
+46.8%
+Medical Center
+Normal Speed
+66,237
+38.0%
+Slow Speed
+88,850
+56.0%
+Total analyzed surface: 116,257 m2.
+For medical centers, the discrepancy was also notable, although more nuanced. The
+uncovered area in the normal walking speed scenario was 66,237 m2, which increased to
+88,850 m2 in the reduced walking speed scenario, a 34% increase in uncovered territory.
+In this case, spatial coverage decreased from 62% to 44% of the total area analyzed, of
+116,257 m2.
+This discrepancy between the covered area of the two amenities analyzed is not
+surprising. According to the survey results, most respondents reported visiting more
+frequently shopping centers than medical centers. In this context, the survey results are
+aligned with the differences in the covered areas of the two amenities analyzed.
+These differences will be further explored in the Discussion section, where spatial
+inequalities and patterns of service distribution are analyzed in relation to user needs and
+urban functionality.
+3.3. Local Micro-Mapping of Accessibility Zones
+To complement the broader spatial analysis of service distribution, this subchapter fo-
+cuses on a localized assessment of accessibility conditions in three areas of Timis,oara,
+where the survey was conducted, each associated with distinct urban characteristics:
+Elisabetin/Bălcescu—historical residential area, Iulius Town—commercial area, and the
+Historic Center—touristic and institutional district. Two of these areas were selected based
+on their relevance in the previous survey of 605 residents, which identified them as fre-
+quented urban spaces with high social significance [31]: commercial center and parks.
+Medical centers were taken into consideration due to their essential role for people with
+disabilities, for whom access to healthcare is fundamental for their independent living
+(Figure 9).
+Sustainability 2025, 17, 8727
+15 of 24
+ 
+Figure 9. Frequency use of different public spaces, source: authors’ analysis of data survey.
+In each of these areas, three specific destinations were analyzed: one commercial
+(supermarket) marked with color yellow on Figures 10 and 11, one medical (clinic) marked
+with color red on Figures 10 and 11, and one recreational (park) marked with color green on
+Figures 10 and 11. Figure 11 has them all located in the same area due to the urban concept
+of functional proximity: co-located in the same compact urban space, named Iulius Town.
+The hatched zone represents the area that can be covered in approximately 15 min by each
+category of individuals: non-disabled and disabled taking in consideration their proximal
+walking speed as explained in Section 3.2. By merging the surfaces resulting from each
+analyzed amenity, the area used for micro-mapping was defined, marked in soft yellow
+(Figures 10–12).
+ 
+Figure 10. Walking accessibility in Elisabetin area to commercial, medical and recreational destina-
+tions within 15 min, by normal and slow walking speeds.
+The purpose of this micro-scale assessment is to analyze the functional accessibility
+of the routes leading to and surrounding these destinations, with a particular focus on
+how different groups of users, people without disabilities, people with visual impairments,
+and people with mobility impairments, experience the urban environment. Through field
+observations and photographic documentation, each location was assessed according to a
+weighted scoring system, developed in line with survey data and inclusive design criteria
+Sustainability 2025, 17, 8727
+16 of 24
+from the literature. The resulting scores reflect the presence, partial implementation or
+absence of essential 15-Minute City features, providing a more realistic picture of usability
+beyond spatial proximity.
+ 
+Figure 11. Walking accessibility in Central area to commercial, medical and recreational destinations
+within 15 min, by normal and slow walking speeds.
+ 
+Figure 12. Walking accessibility in Iulius Town area, within 15 min, by normal and slow walk-
+ing speeds.
+3.3.1. Elisabetin/Bălcescu
+In the Elisabetin neighborhood, pedestrian accessibility was assessed for three user
+groups based on field observations and photographic documentation (Figure 13). The
+analysis used three essential criteria for each group and a standardized scoring system
+(0 = absent, 0.5 = present but improvised/incomplete, 1 = fully functional). The destinations
+analyzed were: Profi supermarket (commercial), Mics,a Clinic (medical) and Carmen Sylva
+Park (recreational).
+Sustainability 2025, 17, 8727
+17 of 24
+ 
+Figure 13. Accessibility Evaluation in the Elisabetin District Based on Proximity and On-Site Observa-
+tions for Normal and Slow Walking Speeds: (A) road obstacle, (B) presence of speed bump, (C) poor
+lighting, (D) unclear tactile demarcated bike line, (E,G) presence of ramps, (F) presence of tactile rug
+at the traffic light. Source: author’s elaboration; data: OpenStreetMap contributors, Traveltime API.
+Non-disabled Users: Final score—2 points out of 3 points:
+•
+Public lighting:
+Some areas are poorly lit or have unevenly distributed light
+(Subfigure C), especially around building corners or on side streets—0.5 points out of
+1 point.
+•
+Pleasant atmosphere: Although the nearby park offers a relaxing atmosphere, the
+presence of groups standing in front of shops and the noise from traffic, especially
+near the Profi supermarket, affect comfort—0.5 points out of 1 point.
+•
+Cleanliness of the route: Sidewalks are generally clean, without piles of garbage or
+construction debris; Subfigure B (speed limiter) and Subfigure F (tactile pavement)
+indicate decent maintenance—1 point out of 1 point.
+Visually impaired users: Final score—1.5 out of 3 points:
+•
+Public lighting: Inconsistent, especially near pedestrian crossings and corners; reduced
+visibility (Subfigure C)—0.5 points out of 1 point.
+•
+Quality of walking surface: Sidewalks have variable textures and obstacles such as
+scaffolding Subfigure A), but poorly marked bicycle lanes (Subfigure D)—0.5 points
+out of 1 point.
+•
+Low interaction with traffic: There are tactile mats at pedestrian crossings (Subfigure
+F), but there are no acoustic signals (Subfigure H), making crossing unsafe—0.5 points
+out of 1 point.
+Users with reduced mobility—Final score: 1 out of 3 points:
+Sustainability 2025, 17, 8727
+18 of 24
+•
+Public lighting: Same issues as for the other groups; Subfigure C shows poor lighting
+in key areas—0.5 points out of 1 point.
+•
+Presence of street furniture: There are no observable benches or rest areas on the
+analyzed segment; none of the images show such facilities—0 points out of 1 point.
+•
+Surface quality: Subfigure E and Subfigure G confirm the existence of ramps that
+facilitate access, but Subfigure A also indicates occasional obstacles (construction
+scaffolding); the surface is uneven in some areas—0.5 points out of 1 point.
+These results highlight the need for targeted infrastructure interventions that go
+beyond basic compliance and ensure inclusive and dignified access in all three locations
+assessed: the Profi supermarket, the Mics,a clinic, and the Carmen Sylva park.
+3.3.2. City Center
+In the central area of Timis,oara (Figure 14), the analysis targeted three frequented
+public destinations, identified in the initial questionnaire: the Mega Image supermarket
+(commercial), the Medicover Clinic (medical) and the Civic Park (recreational). These are
+located around Libertăt,ii Square, an area with a high density of urban services and constant
+pedestrian flow. Although the spatial proximity seems excellent, the functional assessment
+of accessibility highlighted important differences between user groups.
+ 
+Figure 14. Accessibility Evaluation in the Central District Based on Proximity and On-Site Observa-
+tions for Normal and Slow Walking Speeds: (A) obstacle sidewalks, (B) low-heighed traffic signs,
+(C) poor lighting, (D) pleasant atmosphere, (E) lack of ramp, (F) presence of resting places, (G) tactile
+paving, (H) non-audible traffic signals at crossing. Source: author’s elaboration; data: OpenStreetMap
+contributors, TravelTime API.
+Sustainability 2025, 17, 8727
+19 of 24
+Non-disabled users—Final score: 2.5 out of 3 points
+•
+Public lighting: In central areas, lighting is adequate, but on side streets, rich vegetation
+and irregular positioning of poles reduce visibility (Subfigure C)—0.5 points out of
+1 point.
+•
+Pleasant atmosphere: Lively public spaces, the presence of cultural events and intense
+commercial activity contribute to a positive experience (Subfigure D)—1 point out of
+1 point.
+•
+Cleanliness: Sidewalks and pedestrian areas are well maintained, without visible litter,
+contributing to a perception of urban quality—1 point out of 1 point.
+Visually impaired users—Final score: 1.5 out of 3 points:
+•
+Public lighting: Although the main streets are well lit, the uneven lighting on secondary
+routes creates difficulties in spatial orientation (Subfigure C)—0.5 points out of 1 point.
+•
+Quality of walking surface: Sidewalks are often obstructed by obstacles such as low
+signal poles (Subfigure B), trees or disorganized street furniture (o A); tactile paving is
+sporadically present (Subfigure G)—0.5 points out of 1 point;
+•
+Low interaction with traffic: The pedestrian crossing at the Cathedral has no acoustic
+signal (Subfigure H), and this is repeated at other major intersections—0.5 points out
+of 1 point.
+Users with reduced mobility—Final score: 1.5 out of 3 points:
+•
+Public lighting: Visibility is reasonable, but lighting problems on adjacent streets
+can affect the safety of people in wheelchairs or with walking difficulties (Subfigure
+C)—0.5 points out of 1 point.
+•
+Presence of street furniture: Benches and rest areas are present, but not always ac-
+cessible or comfortable for users with disabilities (Subfigure F)—0.5 points out of
+1 point.
+•
+Surface quality: Ramps are present in many places (not directly illustrated in the
+images), but stairs at some entrances (Subfigure E) with limited access for wheelchairs;
+sidewalks are generally free of significant obstacles—0.5 point out of 1 point.
+3.3.3. Iulius Town/Circumvalat,iunii
+The Circumvalat,iunii–Iulius Town area (Figure 15), located in the north-eastern sector
+of Timis,oara, is a relatively new and rapidly developing neighborhood, characterized by
+wide boulevards, mixed-use developments and newly built infrastructure. This modern
+urban configuration contributes positively to both the overall usability and inclusiveness
+of the environment.
+Non-disabled users—Final score: 3 points out of 3 points:
+•
+Public lighting: Combines cool and warm light sources, from street and commercial
+lighting (Subfigure C); excellent visibility even at night—1 point.
+•
+Pleasant atmosphere: The area is lively, safe, and well-maintained; green spaces,
+terraces, and commercial activity create a positive urban setting (Subfigure A)—1 point.
+•
+Cleanliness: The entire area has been recently modernized, and cleanliness is evident
+on the sidewalks and public spaces (Subfigure A)—1 point.
+Visually impaired users—Final score: 2.5 out of 3 points:
+•
+Public lighting: Ensures adequate visibility for orientation and personal safety—
+1 point out of 1 point.
+•
+Quality of walking surface: The sidewalks are wide, flat, without obstacles, facilitating
+movement (Subfigure D); tactile pavement is present, but implemented unevenly
+(Subfigure C and E) or intersected by poorly demarcated bike lanes (Subfigure F)—
+0.5 points out of 1 point.
+Sustainability 2025, 17, 8727
+20 of 24
+•
+Low interaction with traffic: All traffic lights in the area have functional acoustic
+signals (Subfigure B)—1 point out of 1 point.
+Users with reduced mobility—Final score: 2.5 out of 3 points:
+•
+Public lighting: Good visibility along the entire route—1 point out of 1 point.
+•
+Presence of urban furniture: Formal benches are missing in some areas, but there are
+improvised options (planter edges, low platforms)—0.5 points out of 1 point.
+•
+Surface quality: Ramps are functional, without high curbs or narrow alleys, which
+allows easy access to all functions—1 point out of 1 point.
+ 
+Figure 15. Accessibility Evaluation in the Iulius Town Based on Proximity and On-Site Observa-
+tions for Normal and Slow Walking Speeds; (A) cleanliness, (B) audible traffic signals at crossing,
+(C,E) tactile paving, (D) obstacle sidewalks, (F) unclear tactile demarcated bike line. Source: author’s
+elaboration; data: OpenStreetMap contributors, TraveTime API.
+The following Table 3 presents the detailed results of the accessibility scores for each
+public destination assessed in the three areas, based on on-site assessments conducted
+using a standardized analysis grid.
+Table 3. Accessibility scores by user group and area.
+Users
+Accessibility Criterion
+Maximum
+Points
+Area 1:
+Elisabetin
+Area 2:
+City Center
+Area 3:
+Iulius Town
+Non-Disabled Users
+public lighting
+1
+0.5/1
+0.5/1
+1/1
+pleasant atmosphere
+1
+0.5/1
+1/1
+1/1
+cleanliness of the route
+1
+1/1
+1/1
+1/1
+Total points/non-disabled users
+3
+2/3
+2.5/3
+3/3
+Visually Impaired Users
+public lighting,
+1
+0.5/1
+0.5/1
+1/1
+surface quality of the route,
+1
+0.5/1
+0.5/1
+0.5/1
+low interaction with traffic
+1
+0.5/1
+0.5/1
+1/1
+Total points/visually impaired users
+3
+1.5/3
+1.5/3
+2.5/3
+Mobility-Impaired Users
+public lighting
+1
+0.5/1
+0.5/1
+1/1
+presence of urban furniture
+1
+0/1
+0.5/1
+0.5/1
+surface quality of the route
+1
+0.5/1
+0.5/1
+1/1
+Total points/mobility-impaired users
+3
+1/3
+1.5/3
+2.5/3
+Sustainability 2025, 17, 8727
+21 of 24
+The spatial scoring method applied in this study highlights a significant discrepancy
+between theoretical proximity and actual functional accessibility for people with disabilities
+in Timis,oara. Although radial maps suggest extensive coverage of public services for non-
+disabled users, analysis based on low travel speeds and direct observations indicates
+numerous physical and sensory barriers that limit effective access.
+Central areas, such as Piat,a Libertăt,ii and adjacent streets, score high in terms of
+proximity and density of services. However, orientation facilities for people with visual
+impairments are almost non-existent: tactile paving are missing, tactile landmarks are
+inconsistent, and traffic lights are not equipped with acoustic signals. In addition, street ob-
+stacles (low fountains, non-compliant signs, fragmented sidewalks) affect the autonomy of
+these people, despite the active urban atmosphere. In contrast, recent urban developments
+such as Iulius Town offer modern infrastructure, efficient lighting and wide sidewalks,
+which are conducive to people with reduced mobility. However, the absence of formal
+street furniture and standardized tactile markings shows that physical modernity is not
+equivalent to universal inclusion. Accessibility for blind people remains a neglected prior-
+ity, even in architecturally performing areas. Older residential areas, such as Piat,a Bălcescu,
+have a mixed profile. Although there are ramps, they are often blocked by parked cars,
+and essential elements for navigation by people with disabilities (tactile paving, ergonomic
+benches, clear signage) are completely missing. In addition, negative perceptions of safety
+and cleanliness affect even non-disabled users, highlighting that inclusivity is not only a
+matter of infrastructure, but also of the perceived quality of public space.
+4. Limitations and Future Research
+Building on the findings of this study, several directions for future research can be
+identified. This study offers a reproducible baseline for linking 15-Minute City proxim-
+ity metrics with usable accessibility for residents with mobility and visual impairments.
+Looking ahead, it is recommended that the survey be enlarged and stratified by district,
+age, sex, and disability status to improve coverage and enable weighted citywide estimates;
+the monitored population will expand beyond mobility and visual impairments to include
+hearing, cognitive, and psychosocial disabilities, with disaggregated reporting for each
+group. The route-audit instrument will be tailored and validated for each disability cat-
+egory (including inter-rater reliability and sensitivity analysis of item weights, aligned
+with recognized standards), while citywide accessibility will transition from Euclidean
+buffers to network-based travel-time isochrones that incorporate door-to-door impedance
+(crossing delays, gradients, surface continuity) and public transport access. Accessibility
+attributes will be enriched and cross-checked (municipal registries and targeted audits),
+and the approach will be replicated in additional cities to test generalizability. Together,
+these steps will increase precision, inclusivity, and policy relevance while keeping the
+method transparent and easy to reuse.
+5. Conclusions
+This research analyzed the application of the “15-Minute City” model in Timis,oara,
+from the perspective of inclusive accessibility. Although this urban model proposes func-
+tional proximity between housing and essential services, the results obtained show that
+geographical proximity does not guarantee real access, especially for people with locomotor
+or sensory disabilities.
+By combining spatial analyses (GIS), perception data collected through a questionnaire
+applied to 605 respondents, and field observations, the study revealed major discrepancies
+between the analyzed groups. Theoretical access, illustrated by radial maps, is significantly
+diminished when low walking speeds and physical barriers are taken into account. In
+Sustainability 2025, 17, 8727
+22 of 24
+many cases, apparently “close” services become inaccessible in the absence of ramps, tactile
+paving, or audible signals.
+The proposed methodology, based on the priorities expressed by users and adapted to
+different types of disabilities, provides a replicable framework for assessing real accessibility
+in an urban context. At the same time, this research highlighted the fact that, in Central and
+Eastern Europe, the legacy of communist infrastructure poses specific challenges: although
+oriented towards proximity, it has consistently neglected the principles of inclusive design.
+Building on this baseline, the approach is ready to inform targeted, near-term actions:
+pair proximity goals with routine accessibility audits, adopt recognized design thresholds
+in street and facility upgrades, and prioritize corridors where the proximity, accessibility
+gap is largest. With these steps, cities can keep the benefits of proximity while closing the
+usability gap for people with disabilities.
+In addition, cities should prioritize corridors where the proximity-accessibility gap is
+largest and integrate barrier-aware routing and wayfinding (step-free, tactile/audible cues),
+digitally enabled participation and incident reporting, open-data status feeds on service
+availability and temporary disruptions, digital-twin scenario testing and micromobility to
+turn proximity into everyday usability.
+Ultimately, this study indicates that proximity is necessary, but not sufficient: without
+barrier-aware design and digitally supported management, distance remains an obsta-
+cle. Quantified coverage under reduced walking speed and after excluding wheelchair-
+inaccessible destinations, together with route audits against user-prioritized criteria, trans-
+lates proximity claims into street-level accessibility metrics. The workflow is portable and
+decision-oriented, identifying priority corridors and fixable barriers to guide upgrades.
+With acknowledged contextual limits and an exploratory scoring scheme, the key implica-
+tion is clear: a 15-Minute City is credible only when “close” also means usable for everyone.
+Author Contributions: Conceptualization, I.A.T. and C.M.P.; Methodology, I.A.T. and C.M.P.; Valida-
+tion, C.M.P.; Formal analysis, C.M.P.; Investigation, I.A.T.; Data curation, I.A.T.; Writing—original
+draft, I.A.T. and C.M.P.; Writing—review & editing, C.M.P.; Visualization, I.A.T.; Supervision,
+C.M.P.; Project administration, C.M.P. All authors have read and agreed to the published version of
+the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: This study involved a non-interventional, anonymous
+public survey and the voluntary sharing of feedback from one visually impaired participant. No
+personal or sensitive data was collected from respondents, and no interaction that could influence
+or affect participants was performed. In accordance with Romanian national research legislation
+(Law no. 206/2004 regarding good conduct in scientific research, technological development and
+innovation), formal ethical approval from an IRB was not required for this type of anonymized,
+observational research.
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+Data Availability Statement: The data presented in this study are openly available in Zenodo at
+https://doi.org/10.5281/zenodo.16891825.
+Conflicts of Interest: The authors declare no conflict of interest.
+Abbreviations
+The following abbreviations are used in this manuscript:
+15mC
+15-Minute City
+GIS
+Geographic Information System
+Sustainability 2025, 17, 8727
+23 of 24
+NSW
+Normal-Speed Walk
+SSW
+Slow-Speed Walk
+OSM
+OpenStreetMap
+ToD
+Transit-oriented Development
+UD
+Universal Design
+ITDP
+Institute for Transportation and Development Policy
+PI
+Proximity Index
+VI
+Visually Impaired
+MI
+Mobility Impaired
+ND
+Non-Disabled
+References
+1.
+Moreno, C.; Allam, Z.; Chabaud, D.; Gall, C.; Pratlong, F. Introducing the ‘15-Minute City’: Sustainability, Resilience and Place
+Identity in Future Post-Pandemic Cities. Smart Cities 2021, 4, 93–111. [CrossRef]
+2.
+Union of Equality: Strategy for the Rights of Persons with Disabilities 2021–2030—European Commission. Available on-
+line: https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/union-equality-
+strategy-rights-persons-disabilities-2021-2030_en (accessed on 12 September 2025).
+3.
+Global Report on Health Equity for Persons with Disabilities. Available online: https://www.who.int/publications/i/item/9789
+240063600 (accessed on 12 September 2025).
+4.
+Brain, S. The 15 Minutes-City: For a New Chrono-Urbanism!—Pr Carlos Moreno. Carlos Moreno. Available online: https:
+//www.moreno-web.net/the-15-minutes-city-for-a-new-chrono-urbanism-pr-carlos-moreno/ (accessed on 17 June 2025).
+5.
+Papas, T.; Basbas, S.; Campisi, T. Urban mobility evolution and the 15-minute city model: From holistic to bottom-up approach.
+Transp. Res. Procedia 2023, 69, 544–551. [CrossRef]
+6.
+How to Build Back Better with a 15-Minute City. Available online: https://www.c40knowledgehub.org/s/article/How-to-build-
+back-better-with-a-15-minute-city?language=en_US (accessed on 17 June 2025).
+7.
+Garden Cities of To-Morrow, by Ebenezer Howard—The Project Gutenberg eBook. Available online: https://www.gutenberg.
+org/files/46134/46134-h/46134-h.htm (accessed on 17 June 2025).
+8.
+Calthorpe, P. The Next American Metropolis: Ecology, Community, and the American Dream; Princeton Architectural Press: New York,
+NY, USA, 1993; Available online: http://archive.org/details/nextamericanmetr0000calt (accessed on 17 June 2025).
+9.
+Mouratidis, K. Time to challenge the 15-minute city: Seven pitfalls for sustainability, equity, livability, and spatial analysis. Cities
+2024, 153, 105274. [CrossRef]
+10.
+Büttner, B.; Silva, C.; Merlin, L.; Geurs, K. Just around the corner: Accessibility by proximity in the 15-minute city. J. Urban Mobil.
+2024, 6, 100095. [CrossRef]
+11.
+Akrami, M.; Sliwa, M.W.; Rynning, M.K. Walk further and access more! Exploring the 15-minute city concept in Oslo, Norway. J.
+Urban Mobil. 2024, 5, 100077. [CrossRef]
+12.
+Rojas-Rueda, D.; Norberciak, M.; Morales-Zamora, E. Advancing Health Equity through 15-min Cities and Chrono-urbanism. J.
+Urban Health Bull. N. Y. Acad. Med. 2024, 101, 483–496. [CrossRef]
+13.
+Pollack, R.; Olsen, J.R.; Heppenstall, A.; Hoehn, A.; Boyd, J.; Hardy, V.P.; Littlejohn, J.; Stevenson, A.; Mitchell, R.; Meier, P.; et al.
+How could 20-minute neighbourhoods impact health and health inequalities? A policy scoping review. BMC Public Health 2024,
+24, 3426. [CrossRef]
+14.
+Yamu, C.; Garau, C. The 15-Min City: A Configurational Approach for Understanding the Spatial, Economic, and Cognitive
+Context of Walkability in Vienna. In Computational Science and Its Applications—ICCSA 2022 Workshops; Gervasi, O., Murgante, B.,
+Misra, S., Rocha, A.M.A.C., Garau, C., Eds.; Springer International Publishing: Cham, Switzerland, 2022; pp. 387–404. [CrossRef]
+15.
+Murgante, B.; Di Ruocco, I. Public Participation in the 15-Minute City. The Role of ICT and Accessibility to Reduce Social Conflicts.
+In International Conference on Computational Science and Its Applications; Springer Nature: Cham, Switzerland, 2024; Available
+online: https://link.springer.com/chapter/10.1007/978-3-031-65238-7_6 (accessed on 12 September 2025).
+16.
+Vais, D. Type Projects as Tools: Housing Type Design in Communist Romania. Archit. Hist. 2020, 8, 1. [CrossRef]
+17.
+Cuc, R.E. The In-between Space: Romanian Mass Housing Public Space as a Playground in the Collective Memory. Docomomo
+J. 2023, 68, 56–64. Available online: https://docomomojournal.com/index.php/journal/article/view/574 (accessed on 17
+June 2025). [CrossRef]
+18.
+Artieda, L.; Allan, M.; Cruz, R.; Shah, S.; Pineda, V.S. Access and Persons with Disabilities in Urban Areas; ITDP: New York, NY,
+USA, 2022.
+19.
+Barriers to Disabled Travel Eased in 15-Minute Cities. Available online: https://www.movinonconnect.com/en/nos-actualites/
+barriers-to-disabled-travel-eased-in-15-minute-cities/ (accessed on 17 June 2025).
+Sustainability 2025, 17, 8727
+24 of 24
+20.
+Metwally, E.; Menshway, Y.; Zaki, F.M. The role of GIS in promoting the 15-minute city concept for Sustainable Urban using
+Network Analysis (Case study: El Rehab city). Mansoura Eng. J. 2025, 50, 9. Available online: https://mej.researchcommons.org/
+home/vol50/iss1/9/ (accessed on 22 June 2025). [CrossRef]
+21.
+Caselli, B. From urban planning techniques to 15-minute neighbourhoods. A theoretical framework and GIS-based analysis of
+pedestrian accessibility to public services. Eur. Transp. 2021, 85, 1–15. [CrossRef]
+22.
+Pour, N.M.; Partanen, J. Planning for the urban future: Two-level spatial analysis to discover 15-Minute City potential in urban
+area and expansion in Tallinn, Estonia. J. Comput. Soc. Sci. 2024, 7, 777–807. [CrossRef]
+23.
+Szyma´nska, D.; Szafra´nska, E.; Korolko, M. The 15-minute city: Assumptions, opportunities and limitations. Bull. Geogr.
+Socio-Econ. Ser. 2024, 66, 137–151. [CrossRef]
+24.
+Bruno, M.; Monteiro Melo, H.P.; Campanelli, B.; Loreto, V. A universal framework for inclusive 15-minute cities | Nature Cities.
+2024, 1, 633–641. Available online: https://www.nature.com/articles/s44284-024-00119-4 (accessed on 22 June 2025).
+25.
+Abbiasov, T.; Heine, C.; Sabouri, S.; Salazar-Miranda, A.; Santi, P.; Glaeser, E.; Ratti, C. The 15-minute city quantified using human
+mobility data. Nat. Hum. Behav. 2024, 8, 445–455. [CrossRef]
+26.
+Boncinelli, L.; Miricola, S.; Vicario, E. Quantifying walkable accessibility to urban services: An application to Florence, Italy. arXiv
+2025, arXiv:2504.12934. [CrossRef]
+27.
+Willberg, E.; Fink, C.; Toivonen, T. The 15-minute city for all?—Measuring individual and temporal variations in walking
+accessibility. J. Transp. Geogr. 2023, 106, 103521. [CrossRef]
+28.
+Guzman, L.A.; Oviedo, D.; Cantillo-Garcia, V.A. Is proximity enough? A critical analysis of a 15-minute city considering
+individual perceptions. Cities 2024, 148, 104882. [CrossRef]
+29.
+Mwaka, C.R.; Best, K.L.; Cunningham, C.; Gagnon, M.; Routhier, F. Barriers and facilitators of public transport use among people
+with disabilities: A scoping review. Front. Rehabil. Sci. 2024, 4, 1336514. [CrossRef]
+30.
+Chidiac, S.E.; Reda, M.A.; Marjaba, G.E. Accessibility of the Built Environment for People with Sensory Disabilities—Review
+Quality and Representation of Evidence. Buildings 2024, 14, 707. [CrossRef]
+31.
+Tanase, A.; Povian, C.M. Proximity to Priority_ the 15-Minute City Reframed for Timis,oara—Survey-Based Study. World Summit
+Civ. Eng.-Archit.-Urban Plan. Congr. 2025; in press.
+32.
+Wheelmap. Available online: https://wheelmap.org (accessed on 22 June 2025).
+33.
+TravelTime Location API | Build Without Limits. Available online: https://traveltime.com/ (accessed on 22 June 2025).
+34.
+Fruin, J.J. Pedestrian Planning and Design; Metropolitan Association of Urban Designers and Environmental Planners: New York,
+NY, USA, 1971.
+35.
+Buliung, R. The 15-Minute City is a Popular Planning Approach, but Relies on Ableist Assumptions. The Conversation. Available
+online: http://theconversation.com/the-15-minute-city-is-a-popular-planning-approach-but-relies-on-ableist-assumptions-
+217155 (accessed on 17 June 2025).
+36.
+Swenor, B.K.; Bandeen-Roche, K.; Muñoz, B.; West, S.K. Does Walking Speed Mediate the Association Between Visual Impairment
+and Self-Report of Mobility Disability? The Salisbury Eye Evaluation Study. J. Am. Geriatr. Soc. 2014, 62, 1540–1545. [CrossRef]
+37.
+Jahromi, M.N.; Samany, N.N.; Argany, M.; Mostafavi, M.A. Enhancing sidewalk accessibility assessment for wheelchair users: An
+adaptive weighting fuzzy-based approach. Heliyon 2025, 11, e41101. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

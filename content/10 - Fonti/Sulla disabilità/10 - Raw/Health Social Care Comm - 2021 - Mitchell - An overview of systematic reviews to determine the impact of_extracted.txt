@@ -1,0 +1,2495 @@
+1254 |  	
+wileyonlinelibrary.com/journal/hsc
+Health Soc Care Community. 2022;30:1254–1274.
+© 2021 John Wiley & Sons Ltd
+1  |  INTRODUCTION
+Around 15% of the population worldwide, an estimated 1 bil-
+lion people, are living with some form of disability (World Health 
+Organization,  2011). A disability can either be permanent or 
+temporary, with the number of people living with a disability growing 
+as the population ages and the prevalence of chronic health conditions 
+increase (United Nations Department of Economic & Social Affairs: 
+Population Division, 2020; World Health Organization, 2011). The 
+experience of disability does not take any one shape; it is diverse, 
+Received: 9 August 2021 | Revised: 5 October 2021 | Accepted: 18 November 2021
+DOI: 10.1111/hsc.13665  
+R E V I E W  A R T I C L E
+An overview of systematic reviews to determine the impact 
+of socio-­environmental factors on health outcomes of people 
+with disabilities
+Rebecca J. Mitchell BA (Psych) MA (Psych) MOHS PhD |   Tayhla Ryder BSocSci MRes |   
+Katia Matar |   Reidar P. Lystad BChirSc MChiro MPH PhD
+ |    
+Robyn Clay-­Williams BEng PhD |   Jeffrey Braithwaite BA DipLR MIR MBA PhD
+Australian Institute of Health Innovation, 
+Macquarie University, Sydney, New South 
+Wales, Australia
+Correspondence
+Rebecca Mitchell, Australian Institute of 
+Health Innovation, Macquarie University, 
+Level 6, 75 Talavera Road, Sydney, New 
+South Wales 2109, Australia.
+Email: r.mitchell@mq.edu.au
+Funding information
+This research did not receive any specific 
+grant from funding agencies in the public, 
+commercial or not-­for-­profit sectors.
+Abstract
+People with disabilities are often subject to intersecting layers of social and economic 
+disadvantage and other barriers that drive health inequity. As a result, they frequently 
+experience worse health than people without disabilities, beyond the direct effects of 
+their health condition or impairment. The aim of this overview of systematic reviews 
+was to summarise the evidence on the impact of socio-­environmental factors (i.e. 
+social, physical or attitudinal) on the health outcomes of disabled people. A system-
+atic search of five databases (MEDLINE, PsycINFO, Embase, CINAHL and Scopus) for 
+English-­language articles from January 2000 to April 2021 was conducted. Abstracts 
+were screened by two reviewers and reviews were critically appraised. Key data 
+were extracted by topic, population, disability type, critical appraisal method, socio-­
+environmental themes and health outcomes. There were 23 systematic reviews iden-
+tified examining adult (60.9%) or child and young (8.7%) disabled people, with 30.4% 
+not specifying an age range. Reviews examined people with neurological or physical 
+(39.1%), intellectual (17.4%), sensory (8.7%) or a range of (34.8%) disabilities. Three 
+key health outcomes (i.e. access to healthcare, health-­promoting behaviour and care 
+quality) and several recurring socio-­environmental themes related to the health out-
+comes of disabled people were identified. Disabled people encounter common social, 
+physical and attitudinal factors that hinder their health outcomes in terms of access 
+to services and quality healthcare. Many preventive health services were identified as 
+either inaccessible or not meeting the needs of disabled people. Greater involvement 
+of disabled people in service design and awareness raising is essential.
+K E Y W O R D S
+attitudinal, environment, health outcome, physical, social
+    |  1255
+MITCHELL et al.
+complex and multidimensional (World Health Organization, 2011), 
+and a disability can have an impact on a person's needs across the 
+health, social and built environment domains.
+Difficulties with service provision and accessibility, discrim-
+inatory attitudes, socioeconomic disadvantage and social exclu-
+sion are widely accepted barriers experienced by disabled people 
+that undercut their full participation in society on an equal basis 
+to others (Drainoni et al., 2006; Mithen et al., 2015; World Health 
+Organization,  2011). Disabled people have reduced opportunities 
+for education and work, greater housing insecurity, lower education 
+and higher rates of socioeconomic disadvantage than people with-
+out disabilities (Kavanagh, 2020; National People with Disabilities & 
+Carer Council, 2009). As a result, disabled people, many with unique 
+health needs, often experience worse health outcomes than non-­
+disabled people (Drainoni et al., 2006; Reichard et al., 2011).
+Healthcare services may be underutilised by disabled people 
+for a number of reasons. Common barriers to healthcare access and 
+provision experienced by people with disabilities are physical barri-
+ers due to the inaccessibility of buildings and unadaptable medical 
+technology and equipment (da Rosa et al., 2020), poor or unavailable 
+healthcare services to suit their needs (Drainoni et al., 2006) and 
+healthcare affordability (Merten et al., 2015). Moreover, healthcare 
+staff and other service providers may have inadequate knowledge 
+and training in caring and working with disabled people (Bowen 
+et al., 2020). Negative social attitudes towards disability can influ-
+ence healthcare provision and also peer and family relationships with 
+a disabled person (Iacono et al., 2014; Lindsay, 2016). Disabled peo-
+ple have reported experiencing a lack of knowledge among health 
+professionals of medical issues related to disability, poor healthcare 
+coordination and insensitive interactions (Drainoni et al., 2006).
+Many systematic reviews have been conducted that have ex-
+amined different aspects of service accessibility and social inclu-
+sion and their impact on health outcomes of disabled people. These 
+reviews have largely focused on accessibility issues (such as in the 
+home or social environments) (Calder et al., 2018; Cho et al., 2016), 
+access and use of clinical preventive services (such as health screen-
+ing) (Andresen et al., 2013), poor experiences of healthcare or unmet 
+care needs (Gibson & O’Connor, 2010; Iacono et al., 2014) and barri-
+ers to service access or participation (Barr et al., 2018; Breckenridge 
+et  al.,  2014; Edwards et  al.,  2020; Matin et  al.,  2021). There has 
+also been some exploration of perceived negative social attitudes 
+of disability and associated experiences of people with disability in 
+accessing healthcare (Lawler et al., 2013; Matin et al., 2021). While 
+each review targeted a specific area relevant to the health and ser-
+vice needs of disabled people, the diversity and multidimensional 
+impact on the health outcomes of disabled people are lost when 
+each review is considered as a sole entity. The overall objective of 
+this research is to identify and summarise the evidence on the im-
+pact of social, physical or attitudinal environmental factors on key 
+health outcomes for disabled people. This research aims to provide 
+an overview of systematic reviews to summarise the evidence on the 
+impact of socio-­environmental factors (i.e. social, physical or attitu-
+dinal) on the health outcomes of disabled people.
+2  |  METHOD
+This is an overview of systematic reviews on the impact of socio-­
+environmental factors on the health outcomes of disabled people. 
+The overview identified systematic reviews that examined social, 
+physical or attitudinal factors influencing health outcomes of disa-
+bled people and extracted data on the main socio-­environmental 
+themes and health outcomes were examined in each review (Pollock 
+et al., 2021).
+2.1  |  Concepts and definitions
+For this review, the guiding definition of disability was that it is the 
+product of interactions between people with impairments and con-
+textual factors, such as attitudinal or environmental barriers, that 
+limit an individual's full and effective participation in society on 
+an equal basis with others (United Nations, 2006; World Health 
+Organization, 2011, 2021). Impairments may be categorised as phys-
+ical, psychological, intellectual or sensory. Disability was not con-
+ceptualised as an attribute of particular people, however, the term is 
+used throughout this review to describe the population of interest as 
+a coherent group. For the purposes of this review, transitory forms 
+of disability resulting from injury or illness, where the person expe-
+riencing impairment is likely to reoccupy a non-­disabled social role 
+and is expected to regain functionality, were excluded.
+The Craig Hospital Inventory of Environmental Factors (CHIEF) 
+(Craig Hospital Research Department, 2001) was used as a frame-
+work to conceptualise socio-­environmental factors that may impact 
+on the experiences of disabled people. The constructs in CHIEF have 
+strong parallels and overlap with the socio-­environmental factor do-
+mains of the International Classification of Functioning, Disability 
+and Health (World Health Organization, 2021) and the Centres for 
+Disease Control and Prevention's Disability Barriers to Inclusion 
+(Centers for Disease Control & Prevention,  2020), however, the 
+What is known about the topic?
+•	 People with disability often have difficulty accessing 
+preventive health services.
+•	 Some health professionals have inadequate knowledge 
+regarding disability-­focused care.
+What this paper adds?
+•	 Common socio-­environmental themes across differ-
+ent disabilities hindered access to services and quality 
+healthcare.
+•	 Essential to have involvement of people with disability 
+in service design, messaging and awareness raising.
+•	 Adoption of universal design principles needed for the 
+built environment and medical equipment.
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1256 |   
+MITCHELL et al.
+CHIEF is able to encompass the breadth of socio-­environmental 
+factors. The CHIEF factors include the following: policies (e.g. em-
+ployment policies, community service policies), physical or structural 
+(e.g. design of community, technology, natural environment), work 
+or school (e.g. support and attitudes at work and school), attitude or 
+support (e.g. discrimination, support and attitudes in the home) and 
+services or assistance (e.g. transportation, education and training, 
+help in the community).
+Health outcomes included those relating to healthcare utilisation 
+and care quality, physical and mental health, health-­related quality 
+of life (HRQoL), ability to perform activities of daily living (ADLs), 
+and participation in health-­promoting behaviours such as physical 
+activity. For the purposes of this overview, outcomes more distally 
+related to health, including social determinants of health (such as 
+education, employment or housing) were excluded.
+2.2  |  Data sources and eligibility criteria
+A systematic search was conducted using five databases: MEDLINE, 
+PsycINFO, Embase, CINAHL and Scopus. The search strategy was 
+developed with a university librarian to include search terms and 
+keywords related to three key concepts: (i) disability; (ii) environ-
+mental factors and (iii) health outcomes. The base keywords for the 
+search were as follows: (i) disabled persons OR amputee OR persons 
+with mental disability; (ii) environment OR policy OR workplace OR 
+attitude OR social inclusion and (iii) health services OR accessibil-
+ity OR healthcare accessibility OR outcome. The exact search string 
+was adapted to optimise the search of each database (see Appendix 
+S1 for full search strategy). Results were limited to English-­language 
+articles that were published in peer-­review journals from 1 January 
+2000 to 7 April 2021. Snowballing of references included in the 
+reviews was conducted to identify any potential reviews not previ-
+ously identified. The BMC Women's Health and the Disability and 
+Health Journal were hand-­searched by one reviewer (TR) for any ad-
+ditional reviews.
+2.3  |  Review screening
+The review protocol was registered with PROSPERO International 
+Prospective Register of Systematic Reviews (ID:CRD42021253149) 
+and conducted using the Preferred Reporting Items for Systematic 
+Reviews and Meta-­Analyses (PRISMA) method. Systematic reviews 
+were included if they examined the impact of socio-­environmental 
+factor(s) on the health outcome(s) of disabled people. Reviews of 
+studies from solely low-­ or middle-­income countries were excluded 
+due to general differences in access to healthcare and services com-
+pared to high-­income countries (Hashemi et al., 2020; World Health 
+Organization, 2011). Reviews were excluded if disabled people were 
+not the primary population of interest, if insufficient detail was 
+given about the socio-­environmental factor(s) or health outcome(s), 
+or if the review primarily related to clinical, behavioural, surgical or 
+pharmacological interventions without also locating disability within 
+a broader social environmental context (i.e. only considered within 
+a biomedical lens) (Wade & Halligan, 2004). Whilst recognising that 
+ongoing disability can be acquired through traumatic injury, articles 
+which focused on the acute care or adjustment periods following 
+injury were excluded.
+The results of the database searches and journal hand-­search 
+were imported to Endnote X9 and duplicates removed. The ab-
+stracts were independently assessed for inclusion by two reviewers 
+(TR, KM), who met regularly to discuss uncertainties. If it was clear 
+from the abstract that the article was not a systematic review or 
+did not examine the impact of socio-­environmental factors on the 
+health outcomes of disabled people it was excluded. Both reviewers 
+(TR, KM) screened 10% of the articles and interrater reliability was 
+>94% agreement. Any disagreement on abstracts were discussed 
+and 100% consensus achieved.
+2.4  |  Data extraction and quality review
+If an article was not excluded in the abstract review stage, the full 
+text of each included review was assessed by two reviewers (TR, 
+KM) and then appraised by a third reviewer (RM). Where available, 
+key information extracted included: authors and publication year; 
+review objective/aim; topic, characteristics of included studies, 
+population characteristics, type of disability, socio-­environmental 
+factors, health outcomes, critical appraisal tool used and summary 
+findings. The methodological quality of reviews was assessed by two 
+reviewers (TR, KM) using the Joanna Brigg's Institute's (JBI’s) critical 
+appraisal checklist for systematic reviews and research syntheses 
+(The Joanna Briggs Institute, 2017). Reviews were rated as low-­ (<5 
+items), mid-­ (6–­8 items) or high-­ (>9 items) quality according to the 
+number of checklist items fulfilled. Reviews were not excluded on 
+the basis of quality appraisal. However, the low-­quality reviews did 
+not contribute evidence that was not elsewhere supported by a re-
+view with a higher quality review.
+2.5  |  Data synthesis
+The key characteristics of included reviews were extracted and 
+tabulated. The socio-­environmental factors examined and de-
+scribed in the results and discussion sections of included reviews 
+that were indicated to influence and/or have an impact on health 
+outcomes of people with disabilities were categorised based on 
+CHIEF themes (Craig Hospital Research Department, 2001) by two 
+reviewers (TR, KM) and then appraised by a third reviewer (RM). 
+Two reviewers (TR, KM) undertook an inductive, iterative process 
+to categorise the socio-­environmental factors using the CHIEF 
+(Craig Hospital Research Department,  2001). Influencing factors 
+were initially identified in each review article (e.g. absence of per-
+sonal assistive devices) and then classified into broad high-­level 
+themes (e.g. services—­personal equipment) to describe the breadth 
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    |  1257
+MITCHELL et al.
+of socio-­environmental factors identified for the health-­related 
+outcomes examined (Table 1). Multiple health outcomes and socio-­
+environmental themes and sub-­themes could be identified in each 
+review.
+3  |  RESULTS
+There were 614 potentially eligible systematic review articles identi-
+fied after removing duplicates. Most articles were excluded at the 
+abstract screening stage (n = 580; 94.5%). Thirty-­four full-­text ar-
+ticles were assessed and, of these, 11 (32.3%) were excluded after 
+full-­text review. There were 23 reviews that met all study criteria 
+and were included in the synthesis (Figure 1).
+Of the 23 included reviews, 14 (60.9%) were focused exclusively 
+on adult populations, two (8.7%) reviews looked exclusively at chil-
+dren and/or young people and seven (30.4%) did not specify an age 
+range. Seven (30.4%) reviews specifically focused on women with 
+disabilities. In terms of type of disability, nine (39.1%) reviews focused 
+on people with neurological or physical disabilities, four (17.4%) ex-
+clusively looked at learning, intellectual or developmental disabili-
+ties, two (8.7%) solely focused on people with sensory disabilities 
+(i.e. visual or hearing impairment) and eight (34.8%) reviews did not 
+specify the type(s) of disability examined. The included reviews ex-
+amined a range of health outcomes, including access and utilisation 
+of health services (n = 13) (including oral health, audiology, oncology 
+and maternal and infant health), participation in health behaviours 
+(n = 8) (including diabetes self-­care, menstrual hygiene management 
+TA B LE 1 Environmental factor theme conceptual definitions
+CHIEF theme
+Sub-­theme
+Conceptual definition
+Policies
+Policy—­government
+Refers to government policies and guidelines for service provision, 
+government funding for social services and healthcare. Includes 
+accessibility legislation.
+Policy—­financial
+Refers to private health insurance policies and eligibility for coverage, 
+out-­of-­pocket expenses for healthcare, cost of participating in 
+programs.
+Policy—­organisation
+Refers to the policies and rules of organisations and businesses, e.g. 
+appointment scheduling, eligibility criteria for services, training 
+requirements for staff.
+Physical or structural
+Physical—­environment
+Refers to the natural and built environment, particularly relating to 
+public spaces and amenities, e.g. footpaths, parking spaces, building 
+entryways.
+Physical—­facility/equipment
+Refers to the design and accessibility or adaptability of particular 
+facilities and machines, devices, technology within facilities, e.g. 
+exercise equipment, scanning machines.
+Services or assistance
+Services—­available programs/services
+Refers to the absence or presence of programs (e.g. parenting courses, 
+fitness classes) or services (e.g. allied healthcare, audiology). Also 
+includes the availability of trained staff and specialists in the local 
+area.
+Services—­information provision/
+communication
+Refers to the availability and provision of information in an accessible 
+format, and interpersonal communication that accommodates 
+differences in how people receive messages and express themselves. 
+Also includes language style, i.e. sentence complexity, jargon and 
+technical terms.
+Services—­transport
+Refers to availability, affordability, accessibility of public or private 
+transportation. Including the routes and distance of transportation 
+stops (e.g. bus stops, train stations) to services.
+Services—­personal equipment
+Refers to personal equipment, products or devices, such as adapted 
+insulin monitoring devices and sports wheelchairs. Includes the 
+affordability and acceptability of the product.
+Attitude or support
+Attitudes and support—­providers, 
+community, family
+Refers to the attitudes, support and encouragement given to people 
+with disabilities from family and peers, the community, service 
+providers and healthcare professionals. Also includes stereotyping, 
+stigma and discrimination.
+Knowledge/training—­providers
+Refers to the knowledge and awareness held by service providers 
+and professionals, including healthcare workers, of how to engage 
+appropriately with people with disabilities. The availability of 
+evidence to inform care for people with disabilities. Training in 
+working and communicating with people with disabilities (and carers).
+Abbreviation: CHIEF, Craig Hospital Inventory of Environmental Factors.
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1258 |   
+MITCHELL et al.
+and physical activity) and the experience and quality of care in 
+acute care settings (n = 6) (Table 2). Most reviews were assessed 
+to be of high-­ (n = 16; 69.6%) or mid-­ (n = 6; 26.1%) quality. Only six 
+(26.1%) reviews assessed the likelihood of publication bias (Table 3). 
+Illustrative quotations from reviews for socio-­environmental themes 
+and sub-­themes are shown in Table 4.
+The two most frequent reoccurring socio-­environmental themes 
+identified that influenced or had an impact on access to healthcare 
+of disabled people were knowledge and training of providers (n = 9) 
+and the physical design of facilities and equipment (n  =  9). Care 
+quality of disabled people was most frequently influenced by infor-
+mation provision and communication (n = 4) and health-­promoting 
+behaviours of disabled people was frequently influenced by avail-
+able programs (n = 5), knowledge and training of providers (n = 4), 
+the physical design of facilities and equipment (n = 4) and the trans-
+portation services (n = 4) socio-­environmental themes (Figure 2).
+4  |  DISCUSSION
+This overview of systematic reviews sought to collate and summarise 
+the evidence on the impact of social, physical or attitudinal environ-
+mental factors on a number of key health outcomes for disabled peo-
+ple. It identified several common recurring CHIEF socio-­environmental 
+themes and sub-­theme from the reviews that were identified as hav-
+ing an impact on health outcomes (i.e. access to healthcare, health-­
+promoting behaviours and care quality) of disabled people.
+4.1  |  Knowledge, training and attitudes of 
+providers, family and carers
+Several reviews described the poor experience and quality 
+of healthcare received by disabled people in clinical settings, 
+largely attributed to care providers’ lack of training in providing 
+disability-­focused care and unwillingness or confidence to adapt 
+existing models of care (Bradbury-­Jones et al., 2013; Breckenridge 
+et  al.,  2014; da Rosa et  al.,  2020; Edwards et  al.,  2020; Gibson 
+& O’Connor,  2010; Heideveld-­Gerritsen et  al.,  2021; Lawler 
+et al., 2013; Marrocco & Krouse, 2017; Matin et al., 2021). In some 
+situations, healthcare providers may feel anxious and ill-­equipped 
+to provide care to disabled people with complex care needs who 
+may also have communication barriers, thus contributing to poor 
+experiences of healthcare by disabled people (Bradbury-­Jones 
+et  al.,  2013; Marrocco & Krouse,  2017). Moreover, it appears 
+there is a lack of evidence-­based care guidelines for people with 
+disabilities (Homeyard et al., 2016). As a consequence of the lack 
+of evidence, practitioners rely on protocols devised for people 
+without disability, such as protocols for maternal care for women 
+(Homeyard et  al.,  2016; Lawler et  al.,  2013; Matin et  al.,  2021). 
+Ensuring that care protocols include information on how care plans 
+can be adapted for people with a range of disabilities may go some 
+way to providing healthcare providers with information on how 
+best to deliver disability-­focused care.
+At the same time, the beliefs of healthcare professionals, ed-
+ucators and the wider community are influenced by prevailing 
+FI G U R E 1 PRISMA flow diagram 
+Records idenﬁed through 
+database searching 
+(n=726) 
+Screening 
+Included 
+Eligibility 
+Idenﬁcaon 
+Addional records idenﬁed 
+through other sources 
+(n=11) 
+Records aer duplicates removed 
+(n=614) 
+Records screened 
+(n=614) 
+Records excluded 
+(n=580) 
+Full-text arcles assessed 
+for eligibility 
+(n=34) 
+Full-text arcles excluded, 
+with reasons 
+(n = 11) 
+- 
+Not focused on 
+disabled people (n=1) 
+- 
+Not high-income 
+context (n=1) 
+- 
+No health outcome 
+(n=3) 
+- 
+No environmental 
+factors (n=2) 
+- 
+Not a systemac 
+review (n=4) 
+Studies included in 
+synthesis  
+(n=23) 
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    |  1259
+MITCHELL et al.
+social attitudes that often devalue people with disabilities. Several 
+reviews drew attention to the experiences of disabled people 
+(women in particular) feeling unsafe, being left unattended and 
+feeling disrespected in healthcare settings, and the perception 
+of health professionals as unwilling to accommodate diversity 
+(Lawler et  al.,  2013; Matin et  al.,  2021). Concerningly, two re-
+views highlighted that healthcare and other professionals disre-
+garded the preferences and input of disabled people and their 
+carers (Bradbury-­Jones et al., 2013; Horner-­Johnson et al., 2019). 
+Providers’ misconceptions about the needs and priorities of dis-
+abled people have also determined whether disabled individuals 
+were referred to, or gained access to, services and treatments 
+such as cancer screening and contraceptives (Breckenridge 
+et al., 2014; Edwards et al., 2020; Horner-­Johnson et al., 2019). 
+Some care tasks, such as menstrual care, were identified as being 
+disliked by professional carers, with limited support also provided 
+to families and the person with a disability on how to manage 
+menstrual hygiene (Wilbur et al., 2019). It appears there are likely 
+to be opportunities to redress social attitudes, perceptions and 
+training of care providers in how to work and care for people with 
+disabilities, such as through induction training or ongoing profes-
+sional development (Pelleboer-­Gunnink et al., 2017; Satchidanand 
+et al., 2012).
+Three reviews acknowledged the importance of considering 
+multiple marginalisation due to the intersectionality between 
+disability and other minority identities (Barr et  al.,  2018; Lawler 
+et al., 2013; Trounson et al., 2020). Societal marginal groups, such 
+as stemming from cultural or linguistic differences, can further 
+have an impact on health outcomes for disabled people. In ad-
+dition to disability-­related barriers, there are both language and 
+cultural barriers to accessing healthcare for Indigenous people 
+(Barr et  al.,  2018), people in minority ethnic groups (Robertson 
+et al., 2019), and among lesbian, gay, bisexual, transgender, inter-
+sex or questioning people with a disability (Wilson et al., 2018). 
+Greater involvement of consumers with a disability, including 
+those in further marginalised groups, in service design and pro-
+viding cultural competency awareness for healthcare providers 
+(Olaussen & Renzaho,  2016; Trounson et  al.,  2020) are two po-
+tential strategies to reduce service and care inequalities (Beverley 
+et al., 2004; Trounson et al., 2020).
+The role that carers and supporters play in assisting people 
+with disabilities, accommodating their role within healthcare 
+spaces and providing practical support was acknowledged in the 
+reviews. However, two support mechanisms of carer training and 
+the importance of the availability of respite care were viewed as 
+additional strategies that could positively impact the health and 
+wellbeing of disabled people (Bradbury-­Jones et al., 2013; Wilbur 
+et al., 2019; Yang et al., 2020). Two reviews flagged that opportu-
+nities for increasing awareness among family members and carers 
+of the need to provide support to the disabled person in overcom-
+ing barriers (e.g. transportation, informational) to service access 
+and participation were required (Bloemen et al., 2015; Bodde & 
+Seo, 2009).
+4.2  |  Physical environment, facilities, equipment
+The physical environment can pose barriers to accessing the space 
+where health services are provided. People with neurological and 
+physical disabilities were commonly the focus of reviews which con-
+sidered the impact of the built environment on the use of health ser-
+vices, especially preventive health services and screening (Edwards 
+et al., 2020; Lawler et al., 2013; Marrocco & Krouse, 2017). Despite 
+the existence of universal design principles, examples of inaccessibil-
+ity in the built environmental included narrow doorways, doors with-
+out a push button for automatic opening, impaired access to toilet 
+facilities, lack of ramps at entranceways and a lack of disabled park-
+ing spaces (Breckenridge et al., 2014; da Rosa et al., 2020; Edwards 
+et al., 2020; Heideveld-­Gerritsen et al., 2021; Lawler et al., 2013). 
+Barriers in the built environment were common across facilities 
+(Bloemen et al., 2015; Eisenberg et al., 2017). At recreational facili-
+ties, for instance there may be no place to leave a wheelchair close 
+to exercise equipment, or no access seat or hoist (or staff suffi-
+ciently trained) to enter a swimming pool (Martin Ginis et al., 2016; 
+Newitt et al., 2016). Such barriers can discourage, if not make en-
+tirely unavailable, the use of facilities for physical activity by disabled 
+people. In public spaces, design features such as footpaths, lighting 
+and street density may encourage leisure-­time physical activity and 
+social participation (Eisenberg et al., 2017). Ensuring that universal 
+design principles are adopted and accessibility issues are considered 
+and addressed when designing and building healthcare facilities will 
+enable these facilities to be physically accessible by all individuals.
+The absence of adjustable equipment and devices can make it 
+difficult for disabled people to undergo preventive health screen-
+ing and examinations safely and comfortably. For instance three re-
+views noted that mammography machines are typically designed to 
+be used while a person is standing upright and may not be adjustable 
+to a lower height (Edwards et al., 2020; Gibson & O’Connor, 2010; 
+Marrocco & Krouse,  2017). These obstacles may render services 
+totally inaccessible, unable to be accessed without assistance or 
+prior planning, or may be so burdensome and undignifying to use 
+that disabled people are excluded or deterred from their utilisation 
+(Marrocco & Krouse, 2017; Matin et al., 2021). In fact, it has been es-
+timated that disabled people only receive around 35%–­40% of rec-
+ommended preventive health services (Marrocco & Krouse, 2017). 
+Equipment that adapts processes to suit the needs of disabled 
+people, such as an adaptive wheelchair that enables participation 
+in sport, can facilitate participation by disabled people (Bloemen 
+et  al.,  2015). However, there can be difficulties (such as cost) as-
+sociated with obtaining adaptive equipment or assistive devices for 
+personal use (Bloemen et  al.,  2015; Mulligan et  al.,  2012; Newitt 
+et al., 2016).
+4.3  |  Transport and service or program availability
+Across the reviews, and regardless of impairment, transporta-
+tion was commonly identified as a key factor influencing a disabled 
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1260 |   
+MITCHELL et al.
+TA B LE 2 Characteristics of the systematic reviews examining the impact of environmental factors on health outcomes of disabled people
+Authors
+Review aim
+Studies
+Population
+Disability
+Barr et al. (2018)
+Evaluate literature on service 
+provision to children with 
+hearing loss living in regional, 
+rural, remote Australia
+28 studies: 24 qualitative 
+or quantitative, 3 quasi-­
+experimental, 1 narrative 
+review
+Children ≤16 years
+Sensory disability
+Beverley et al. (2004)
+Identify health information needs 
+of visually impaired people 
+and highlight major gaps in the 
+literature
+16 studies: 5 qualitative, 5 
+quantitative, 5 mixed 
+method, 1 seminar
+Visually impaired 
+people, all ages
+Sensory disability
+Bloemen et al. (2015)
+Summarise important factors 
+associated with participation 
+in physical activity in children 
+and adolescents with physical 
+disabilities
+18 studies: 12 quantitative, 6 
+qualitative
+Children and young 
+people, >4 and 
+≤18 years
+Neurological or  
+physical disabilities
+Bodde and Seo (2009)
+Determine what environmental and 
+social barriers prevent adults 
+with intellectual disabilities from 
+engaging in physical activity
+7 studies: 5 qualitative, 
+1 quantitative, 1 
+mixed-­method
+Adults ≥18 years
+Intellectual or  
+learning disability
+Bradbury-­Jones 
+et al. (2013)
+Identifying influences on the health, 
+safety and welfare of adults 
+with learning disabilities in acute 
+hospitals.
+7 studies: all qualitative
+Adults, age unspecified
+Intellectual or  
+learning disability
+Breckenridge 
+et al. (2014)
+Explored how domestic abuse 
+impacts on disabled women's 
+access to maternity care
+11 studies: 8 quantitative, 1 
+qualitative, 2 mixed method
+Young people and 
+adults (women 
+≥16 years)
+Non-­specific disability
+Da Rosa et al. (2020)
+Identify barriers (and facilitators) of 
+access to oral health services for 
+disabled people
+16 studies: all quantitative
+Non-­specific
+Non-­specific disability
+Edwards et al. (2020)
+Identify the barriers (and facilitators) 
+of access to cancer services for 
+physically disabled adults and 
+their experiences of cancer care
+17 studies: 10 qualitative, 7 
+quantitative
+Adults ≥18 years
+Physical disability
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    |  1261
+MITCHELL et al.
+Environmental factor themes 
+identified
+Health outcome 
+examined
+Quality assessment tool 
+used
+Author conclusions
+Services (transport; 
+information provision/
+communication; available 
+programs)
+Access to 
+healthcare—­
+specialised 
+health 
+services
+John Hopkins Evidence-­
+based rating scale for 
+strength and quality of 
+evidence Newhouse 
+et al. (2007)
+Children with hearing loss living in regional, rural and remote 
+Australia experience reduced quality and frequency of 
+audiology services.
+Physical (environment)
+Services (information 
+provision/communication)
+Access to 
+healthcare—­
+accessibility 
+of health 
+information
+Critical Skills Training in 
+Appraisal for Librarians 
+checklist Booth and 
+Brice (2001)
+Informational needs included information on health promotion, 
+visual impairment in general, coping with visual impairment 
+or accessing health services. Information gaps included 
+need for diverse information and involvement of visually 
+impaired people.
+Physical (facility/equipment)
+Attitudes (providers and 
+peers)
+Services (available programs)
+Health promoting 
+behaviour—­
+physical 
+activity 
+participation
+McMaster Critical Review 
+Forms (Law et al. (1998)
+and Letts et al. (2007)
+Factors associated with participation in physical activity 
+included personal (e.g. physical fitness, self-­efficacy, 
+motivation, age, time) and environmental (e.g. social 
+support, socialisation, availability of equipment, availability 
+of local facilities).
+Policy (organisation; financial)
+Attitudes (providers and 
+family)
+Services (transport; available 
+programs)
+Health-­
+promoting 
+behaviour—­
+physical 
+activity 
+participation
+Hierarchy of evidence for 
+assessing qualitative 
+health research Daly 
+et al. (2007) and Russell 
+and Gregory (2003)
+Common barriers identified were transportation issues, 
+financial limitations, lack of awareness of options, lack of 
+support from caregivers and authority figures (i.e. parent, 
+teacher, coach), lack of clear policies for engaging in regular 
+physical activity in residential and day service programs.
+Policy (financial)
+Physical (facility/equipment)
+Attitudes (providers)
+Services (information 
+provision/communication)
+Knowledge/training 
+(providers)
+Care quality—­
+hospital 
+setting
+A global assessment of 
+study quality Walsh and 
+Downe (2006)
+Six key areas of influence identified: care provision (meeting 
+health and personal needs), communication, staff attitudes, 
+staff knowledge, supporters, carers (valuing their role) and 
+physical environment.
+Policy (organisation; financial)
+Physical (environment; 
+facility/equipment)
+Attitudes and support 
+(providers and community)
+Services (transport; available 
+programs)
+Knowledge/training 
+(providers)
+Access to 
+healthcare—­
+maternal and 
+infant health
+Critical Appraisal Skills 
+Programme (CASP) 
+Cohort Study Checklist 
+Critical Appraisal Skills 
+Programme (2018a) and 
+a global assessment of 
+study quality Walsh and 
+Downe (2006)
+Found that a mental health diagnosis, poor relationships 
+with health professionals and environmental barriers (i.e. 
+physical, geographical and institutional) can compromise 
+use of maternity services.
+Policy (financial)
+Physical (facility/equipment)
+Services (transport)
+Knowledge/training 
+(providers)
+Access to 
+healthcare—­
+oral health
+Downs and Black scale for 
+study quality Downs 
+and Black (1998) and 
+adapted Cochrane 
+Collaboration tool for 
+risk of bias Higgins 
+et al. (2011)
+Barriers identified were dentist's lack of preparation for 
+disabled people, treatment cost, physical access barriers to 
+dentist's facilities, communication difficulties and lack of 
+awareness of the need for dental treatment.
+None of the studies discussed facilitators.
+Policy (financial; organisation)
+Physical (facility/equipment)
+Attitudes (providers)
+Services (transport; 
+information provision/
+communication)
+Knowledge/training 
+(providers)
+Access to 
+healthcare—­
+preventive, 
+cancer 
+screening
+Mixed Methods Appraisal
+Tool (MMAT-­Version 11) 
+Pace et al. (2012)
+Various barriers identified including not engaging in preventive 
+health behaviour (e.g. limited knowledge of preventive 
+healthcare, time constraints), negative interactions with 
+health professionals (e.g. poor attitude or behaviour, lack 
+of knowledge about disabilities), external factors (e.g. cost, 
+transport), accessibility of facilities and equipment (e.g. physical 
+access and parking, adaptive equipment), physical positioning 
+concerns (e.g. need for physical support, pain and discomfort).
+Practical facilitators that could improve screening were 
+disabled parking spaces, handrails by entrance, level or 
+ramped entrances, accessibility buttons on doors, adaptive 
+equipment in the clinic, assistance to get around buildings/
+undress for screening, a provider who understands 
+disability, having additional time in the appointment.
+(Continues)
+(Continues)
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1262 |   
+MITCHELL et al.
+Authors
+Review aim
+Studies
+Population
+Disability
+Eisenberg et al. (2017)
+Whether built environment factors 
+moderate the association 
+between having a disability and 
+lower levels of physical activity
+15 studies: 9 quantitative, 6 
+qualitative
+Adults ≥18 years
+Physical, sensory or  
+intellectual disability
+Gibson and O’Connor 
+(2010)
+Determine if disability limits access to 
+healthcare and identify what body 
+functions, structures and activities 
+and participation, as well as 
+contextual factors (environment 
+and personal) interact with the 
+health condition to limit access
+60 studies: 27 database studies 
+(unspecified further), 20 
+quantitative, 13 qualitative
+Children and adults, 
+age unspecified
+Non-­specific disability
+Heideveld-­Gerritsen 
+et al. (2021)
+Identify and provide an overview of 
+maternity care experiences of 
+physically disabled women
+10 studies: 9 qualitative, 1 
+mixed method
+Adults (women, age 
+unspecified)
+Physical, including  
+sensory disability
+Homeyard et al. (2016)
+Identify and review the existing 
+evidence on the provision of 
+antenatal care among women 
+with an intellectual disabilities
+16 studies: 9 qualitative, 5 
+quantitative, 2 mixed 
+method
+Adults (women, age 
+unspecified)
+Intellectual or  
+learning disability
+Horner-­Johnson 
+et al. (2019)
+Identify contraceptive knowledge, 
+attitudes and preferences 
+regarding contraception, 
+contraceptive use, barriers 
+(and facilitators) to informed 
+contraceptive use and 
+effectiveness of interventions to 
+improve informed contraceptive 
+decision-­making and use.
+54 studies: 48 observational, 6 
+interventional (unspecified 
+further)
+Adults (women of 
+reproductive age)
+Non-­specific disability
+Lawler et al. (2013)
+Identify challenges (and facilitators) 
+to accessing maternity services 
+experienced by women with 
+a physical disability during 
+pregnancy, childbirth and early 
+motherhood
+28 studies: 18 qualitative, 
+9 quantitative, 1 mixed 
+method
+Adults (women, age 
+unspecified)
+Physical disability
+TA B LE 2 (Continued)
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    |  1263
+MITCHELL et al.
+(Continues)
+Environmental factor themes 
+identified
+Health outcome 
+examined
+Quality assessment tool 
+used
+Author conclusions
+Physical (environment)
+Health promoting 
+behaviour—­
+physical 
+activity 
+participation
+CASP Qualitative Checklist 
+Critical Appraisal Skills 
+Programme (2018b) and 
+the Community Guide 
+to Preventative Services 
+Data Abstraction 
+Form (Part III) Zaza 
+et al. (2000)
+Built environment barriers identified were physical (e.g. safety, 
+inadequate lighting, uneven sidewalks, barriers on paths), 
+temporal (e.g. maintenance, pedestrian crossing timing) and 
+behaviour of other people (e.g. crowded sidewalks).
+Policy (financial)
+Physical (facility/equipment)
+Attitudes (providers)
+Services (transport)
+Knowledge/training 
+(providers)
+Access to 
+healthcare
+Rating method from the 
+UK National Service 
+Framework for Long-­term 
+Conditions Department 
+of Health Long-­Term 
+Conditions NSF 
+Team (2005)
+Found that access to health services was limited by 
+impairment and activity limitations (e.g. mobility, cognition, 
+communication), contextual factors (e.g. cost, transport, 
+physical barriers, clinician's attitudes, personal factors, 
+such as age, socioeconomic status, caregiver health).
+Physical (facility/equipment)
+Attitudes and support 
+(providers)
+Knowledge/training 
+(providers)
+Access to 
+healthcare;
+Care quality—­
+maternal and 
+infant health
+CASP Qualitative Checklist 
+Critical Appraisal Skills 
+Programme (2018b)
+Barriers identified included accessibility of facilities, lack of 
+adapted equipment, lack of healthcare provider knowledge 
+of physical disability and pregnancy, healthcare provider's 
+dismissals of concerns and unwillingness to assist, disabled 
+women's feelings of being dehumanised, afraid and vulnerable.
+Policy (organisation)
+Attitudes and support 
+(providers and community)
+Services (information 
+provision/communication)
+Knowledge/training (providers)
+Access to 
+healthcare;
+Care quality—­
+maternal and 
+infant health
+Quality Appraisal 
+Framework Caldwell 
+et al. (2011)
+Four broad themes were identified ‘in the family way’ (i.e. 
+physical changes, suitability as a mother), knowledge and 
+advocacy (i.e. communication, decision-­making), midwives 
+educational needs (i.e. lack of knowledge of women 
+with intellectual disability and pregnancy) and midwives 
+attitudes (i.e. ability to manage taking care of child).
+Physical (facility/equipment)
+Attitudes (providers)
+Services (information 
+provision/communication)
+Access to 
+healthcare—­
+accessibility 
+of health 
+information
+Risk of bias for 
+observational studies 
+with Newcastle-­
+Ottawa scale Wells 
+et al. (2000), CASP 
+Qualitative Checklist 
+Critical Appraisal Skills 
+Programme (2018b) and 
+Quality Assessment 
+Tool for Quantitative 
+studies Effective 
+Public Health Practice 
+Project (2018)
+Barriers to contraceptive knowledge, services or informed 
+decision-­making were limited access to plain-­language 
+information, limited knowledge and negative attitudes by 
+health professionals, denied care because of disability, 
+physically inaccessible clinics and exam tables and disabled 
+person not involved in decision-­making.
+Policy (organisation)
+Physical (environment; 
+facility/equipment)
+Attitudes (providers)
+Services (information 
+provision/communication)
+Knowledge/training 
+(providers)
+Access to 
+healthcare;
+Care quality—­
+maternal and 
+infant health
+None specified
+Barriers to service access included accessibility (e.g. physical 
+location, non-­flexible model of care, lack of transportation, 
+physical access within facilities, lack of suitable equipment, 
+fragmented and uncoordinated care), health professional's 
+adaption to needs (e.g. lack of suitable health and parental 
+education information) and acceptability (e.g. poor health 
+professional knowledge of disability and negative attitudes).
+Facilitators to accessing services included improvements in the 
+physical environment (e.g. facilities should adopt universal 
+design principles, improving physical access to facilities, 
+disabled parking, all amenities within reach), improvements 
+in service provision (e.g. a disability advisor at the facility, 
+services near residence (e.g. community-­based), flexible care 
+provision), information access (e.g. information in appropriate 
+format that can be easily understood and is culturally 
+sensitive), improve acceptability (e.g. disability awareness and 
+training programs for health professionals, safe handling and 
+transfer of women with a physical disability, early referral to 
+allied health professionals for individual needs assessment).
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1264 |   
+MITCHELL et al.
+Authors
+Review aim
+Studies
+Population
+Disability
+Malli et al. (2018)
+Understand the impact of austerity 
+policy on the lives of people with 
+learning disabilities and effects 
+on people who support them
+11 studies: all qualitative
+Children and adults, 
+age unspecified
+Intellectual or  
+learning disability
+Marrocco and Krouse 
+(2017)
+Understand the unique obstacles 
+that persons with disabilities 
+face in accessing preventive 
+healthcare services
+23 studies: 13 quantitative, 10 
+qualitative
+Adults ≥18 years
+Non-­specific disability
+Martin Ginis 
+et al. (2016)
+Identify barriers (and facilitators) 
+to leisure-­time physical activity 
+participation among people with 
+physical disabilities in review 
+articles
+22 studies: 13 systematic 
+reviews, 9 other reviews 
+(e.g. clinical guidelines, 
+discussion or opinion pieces)
+Children and adults, 
+age unspecified
+Neurological or  
+physical disability
+Matin et al. (2021)
+Review barriers in access to 
+healthcare services for women 
+with disabilities
+24 studies: all qualitative
+Adults (women 
+>18 years)
+Physical, sensory  
+and intellectual  
+disability
+Mulligan et al. (2012)
+Assess environmental and personal 
+barriers of physical activity 
+participation in populations 
+with long term neurological 
+conditions
+28 studies: 21 quantitative, 7 
+qualitative
+Adults ≥18 years
+Long-­term  
+neurological  
+disability  
+(≥6 months)
+Newitt et al. (2016)
+Describe factors that influence 
+participation in physical 
+activity for people with 
+neuromusculoskeletal (NMS) 
+conditions
+15 studies: all qualitative
+Adults ≥18 years
+Physical disabilities
+TA B LE 2 (Continued)
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    |  1265
+MITCHELL et al.
+Environmental factor themes 
+identified
+Health outcome 
+examined
+Quality assessment tool 
+used
+Author conclusions
+Policy (government; financial)
+Care quality—­
+personal care, 
+activities of 
+daily life
+CASP Systematic Review 
+Checklist Critical 
+Appraisal Skills 
+Programme (2018c)
+Found that economic austerity measures were not aligned 
+with supporting the care needs of people with learning 
+disabilities and that financial cuts had adversely affected 
+people with learning disabilities (e.g. social isolation) and 
+their informal carers (e.g. increased demand on family 
+carer's time, less labour market participation).
+Policy (financial)
+Physical (environment; 
+facility/equipment)
+Attitudes (providers)
+Services (transport)
+Knowledge/training 
+(providers)
+Access to 
+healthcare—­
+preventive
+None specified
+Barriers identified included the physical environment (e.g. 
+inadequate ramps, parking, examination space), diagnostic 
+equipment issues (e.g. suitability of mammogram 
+equipment for wheelchair-­users), transportation 
+challenges, lack of provider knowledge about disability and 
+poor care coordination, negative provider attitudes and 
+financial issues.
+Policy (government; 
+organisation; financial)
+Physical (environment; 
+facility/equipment)
+Attitudes and support 
+(providers and community)
+Services (transport; available 
+programs)
+Knowledge/training 
+(providers)
+Health-­
+promoting 
+behaviour—­
+physical 
+activity 
+participation
+A Measurement Tool to 
+Assess Systematic 
+Reviews (AMSTAR) Shea 
+et al. (2009)
+Barriers identified were intrapersonal (i.e. psychological e.g. 
+negative attitudes and beliefs, body functions and structures 
+e.g. pain, fatigue and employment status), interpersonal 
+(i.e. lack of social support, negative attitudes of others and 
+social pressures) and institutional (i.e. lack of disability-­
+specific knowledge of people in facilities, poor rehabilitation 
+processes, building design and construction and programme 
+factors e.g. availability and enjoyable activities).
+Specific facilitators identified included positive attitudes and 
+beliefs about being active and oneself.
+Policy (financial)
+Physical (environment; facility/
+equipment)
+Attitudes and support 
+(providers and family)
+Services (transport; 
+information provision/
+communication)
+Knowledge/training (providers)
+Access to 
+healthcare
+Consolidated Criteria for 
+Reporting Qualitative 
+Research O’Brien 
+et al. (2014) and Tong 
+et al. (2007)
+Barriers identified included sociocultural (e.g. erroneous 
+assumptions, negative attitudes, low health literacy), 
+financial (e.g. unemployment, poverty, high transportation 
+costs) and structural (e.g. lack of health insurance, 
+inaccessible equipment, lack of knowledge of healthcare 
+staff of disability, communication problems).
+Physical (facility/equipment)
+Attitudes and support 
+(providers and community)
+Services (transport; available 
+programs; information 
+provision/communication)
+Knowledge/training 
+(providers)
+Health-­
+promoting 
+behaviour—­
+physical 
+activity 
+participation
+Qualitative Appraisal 
+Tool Checklist for 
+interviews and focus 
+groups Attree (2004) 
+and Attree and 
+Milton (2006) and 
+Joanna Briggs Institute 
+(JBI) Assessment for 
+Descriptive Studies
+Joanna Briggs Institute (JBI) 
+(2020)
+Barriers included activity and participation (e.g. limited 
+mobilisation, assistance with activities of daily living, 
+embarrassment), physical environmental (e.g. available, 
+accessible, affordable transport, cost of program or 
+facility access, difficulty accessing assistance within 
+facilities due to physical layout, lack of information about 
+programs, lack of suitable programs, difficulty obtaining 
+specialised exercise equipment), social environment (e.g. no 
+expectation to be physically active, lack of knowledge of 
+staff regarding requirements of disabled people to support 
+participation), personal (e.g. age and unemployment).
+Policy (organisation; financial)
+Physical (environment; 
+facility/equipment)
+Attitudes and support 
+(providers and community)
+Services (available programs; 
+transport)
+Knowledge/training 
+(providers)
+Health promoting 
+behaviour—­
+physical 
+activity 
+participation
+McMaster Critical Review 
+Forms Law et al. (1998) 
+and Letts et al. (2007)
+Barriers identified were body functioning (e.g. fluctuating 
+symptoms, fatigue, muscle weakness, pain, depression, 
+fear of injury, balance, stability, communication difficulties), 
+environmental (e.g. inaccessible buildings and pools, long 
+travel distances to accessible facilities, no rest places or rails 
+to hang onto near equipment, financial cost, lack of health 
+professional knowledge of disability, negative societal 
+attitudes), personal (e.g. lack of motivation, self-­conscious, 
+embarrassed, uncomfortable in new environment).
+Motivators to participate were categorised as body 
+functioning (e.g. maintain independence and function, 
+weight control), environmental (e.g. social support, safety 
+devices present and assistance from health professionals), 
+personal (e.g. goal setting and achieving, enjoyment, 
+feelings of accomplishment).
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1266 |   
+MITCHELL et al.
+person's access to health services (Edwards et al., 2020; Gibson & 
+O’Connor, 2010; Lawler et al., 2013; Marrocco & Krouse, 2017; Matin 
+et al., 2021; Trounson et al., 2020) and other recreational facilities 
+(Bodde & Seo, 2009; Martin Ginis et al., 2016; Mulligan et al., 2012; 
+Newitt et al., 2016). Transport accessibility was not just a matter of 
+physical accessibility, but also included the available routes, the reli-
+ability of the service and financial cost. The ways in which transport 
+impacted access for disabled people was multifaceted, overlapping 
+with barriers and enablers produced by the physical environment 
+(e.g. whether public buses or trains could be accessed independently, 
+distance from nearest transit stop to a facility), organisational and 
+financial aspects (e.g. set appointment times, cost of private trans-
+port) and social attitudes (Edwards et al., 2020; Matin et al., 2021). 
+Transportation policies and services should consider physically ac-
+cessibility issues, along with other barriers (such as cost and service 
+frequency), to avoid social exclusion of disabled people.
+Within rural and regional areas, a lack of health professionals 
+and specialist healthcare services, along with high turnover of staff, 
+was identified in three reviews (Barr et al., 2018; Lawler et al., 2013; 
+Matin et  al.,  2021) as an impediment to care provision and care 
+quality. The absence of local services necessitated travelling long 
+distances to access specialised healthcare which, in turn, resulted 
+in increased financial burden due to costs associated with work ab-
+sence, travel and accommodation (Barr et al., 2018). However, the 
+increasing availability of telemedicine services for disabled people 
+was acknowledged as a potential resource to ameliorate the ab-
+sence of local specialist care delivery (Barr et al., 2018).
+4.4  |  Information, communication and care 
+coordination
+Inaccessible information and communication barriers were found to 
+impact both on disabled people's access to, and utilisation of, health-
+care, the quality of care received, and their ability to be fully informed 
+decision-­makers in their own care (Beverley et al., 2004; Bradbury-­
+Jones et  al.,  2013; Edwards et  al.,  2020; Heideveld-­Gerritsen 
+et al., 2021; Horner-­Johnson et al., 2019; Yang et al., 2020). Common 
+barriers included the provision of inaccessible or confusing informa-
+tion in letters, referrals, brochures and medication labels (Beverley 
+et al., 2004; Homeyard et al., 2016; Matin et al., 2021). The com-
+monplace use of jargon and medical terminology was especially seen 
+as a barrier for people with cognitive or intellectual impairments 
+(Bradbury-­Jones et al., 2013). Within the acute care setting, a limited 
+variety of visual or auditory media were used to convey health in-
+formation. Where used, resources such as plain-­English factsheets, 
+large print text, tactile maps, augmentative and alternative commu-
+nication, and audio material enabled disabled people to exert their 
+Authors
+Review aim
+Studies
+Population
+Disability
+Trounson et al. (2020)
+Identify factors that facilitate or 
+impede the engagement of 
+Aboriginal people living with 
+disability with disability services
+20 studies: 17 qualitative, 2 
+theoretical, 1 book
+Children and adults 
+(Aboriginal and 
+Torres Strait 
+Islander people), 
+age unspecified
+Non-­specific disability
+Wilbur et al. (2019)
+Assess the menstrual hygiene 
+requirements of disabled people, 
+the barriers they face and 
+available interventions
+22 studies: 14 quantitative, 
+7 qualitative, 1 
+quasi-­experimental
+Specified as people 
+who menstruate 
+and/or their carers, 
+age unspecified
+Non-­specific disability
+Yang et al. (2020)
+Identifying factors influencing self-­
+care behaviours in adults with 
+diabetes and disability
+20 studies: 7 qualitative, 6 
+quantitative, 6 quasi-­
+experiment, 1 participatory 
+action research
+Adults ≥18 years with 
+diabetes
+Non-­specific disability
+TA B LE 2 (Continued)
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    |  1267
+MITCHELL et al.
+right to informed consent, communication and choice (Beverley 
+et al., 2004; Bradbury-­Jones et al., 2013; Homeyard et al., 2016) and 
+are recommended.
+The reviews identified a lack of clear information available to 
+disabled people and their families in terms of available services 
+and how to navigate them. Two reviews highlighted the deficiency 
+of tailored health advice and information for individuals with dis-
+abilities, for example guidance on undertaking physical activity 
+with a disability (Mulligan et al., 2012; Newitt et al., 2016). Reviews 
+focussing on disabled women's experiences reported the limited 
+availability of relevant, high-­quality information on contraception, 
+pregnancy, post-­partum support and parenting (Heideveld-­Gerritsen 
+et al., 2021; Horner-­Johnson et al., 2019; Lawler et al., 2013; Matin 
+et al., 2021). Even when credible and relevant information was avail-
+able on the internet, for example, professional assistance may still 
+be required to assist in locating and understanding the health mes-
+saging (Barr et al., 2018). Complex language and complicated service 
+structures were identified as leading to confusion and delayed ac-
+cess to services (Beverley et al., 2004; Trounson et al., 2020). There 
+was evidence in the reviews that poor communication between pro-
+viders, or between providers and disabled people and their families, 
+resulted in poor care coordination between services and fragmented 
+care (Barr et al., 2018; Lawler et al., 2013). Improving care coordina-
+tion could involve strategies, such as developing health information 
+for disabled people that is disability-­specific and encouraging care 
+providers to participating in communication skills training.
+4.5  |  Government, organisational and 
+financial policy
+The wide-­ranging impact of government policies that determine the 
+provision of health and social services, allocate funding for programs, 
+set transport policies and legislate and enforce accessibility stand-
+ards on the lives of disabled people was explicitly acknowledged in 
+some reviews (Gibson & O’Connor, 2010; Marrocco & Krouse, 2017; 
+Martin Ginis et al., 2016; Trounson et al., 2020:14). One review spe-
+cifically examined the impact of government austerity measures in 
+the United Kingdom on the quality of care for disabled people and 
+found a lowering of the quality of care and support provided to a 
+disabled person to achieve ADLs, leading to an increase in crisis 
+health interventions rather than regular participation in preventive 
+healthcare practices (Malli et al., 2018).
+Organisational policies were viewed as creating barriers to 
+service and care access in the form of eligibility criteria and in-
+flexible models of care. In Australia, rigid intake streams and el-
+igibility criteria for services can exclude Aboriginal people who 
+have not obtained sufficient diagnostic testing due to limited 
+Environmental factor themes 
+identified
+Health outcome 
+examined
+Quality assessment tool 
+used
+Author conclusions
+Policy (government; 
+organisation; financial)
+Attitudes (providers)
+Services (transport; 
+information provision/
+communication)
+Care quality; 
+Access to 
+healthcare
+CASP Qualitative Checklist 
+Critical Appraisal Skills 
+Programme (2018b)
+Barriers included culture and Indigeneity (e.g. providers 
+need to be more aware of impact of Indigenous culture, 
+disability as a construct not a defining term, difficulty 
+performing some cultural activities, need for strong 
+community and family support network), accessibility 
+(e.g. difficulties engaging with medical or government 
+services, historical disablement, inflexible access pathways, 
+complex language), engagement (e.g. service design does 
+not account for cultural disparities, poor communication 
+between service providers and consumers, lack of 
+Indigenous inclusion and consultation in service design), 
+lack of support (e.g. economic, isolation, psychological 
+support needs not met).
+Attitudes and support 
+(providers and family)
+Services (personal equipment; 
+information provision/
+communication)
+Health-­
+promoting 
+behaviour—­
+menstrual 
+hygiene
+Modified versions of 
+STROBE and RATS 
+Von Elm et al. (2007), 
+risk of bias assessed 
+using method by Banks 
+et al. (2017)
+Barriers included a lack of standard guidance for carers, lack 
+of menstruation training, information and support for 
+people with intellectual disabilities and their carers, cost of 
+menstrual products, lack of appropriate alternative options 
+for people with physical impairments.
+Policy (financial)
+Physical (environment)
+Attitudes and support 
+(providers and family)
+Services (personal equipment; 
+information provision/
+communication)
+Knowledge/training 
+(providers)
+Health promoting 
+behaviour—­
+diabetes 
+self-­care
+JBI Critical Appraisal 
+Checklists Joanna 
+Briggs Institute (JBI) 
+(2020)
+Barriers included other comorbidities, negative thoughts. 
+Barriers specific to people with physical disabilities were 
+mobility limitations, medically underserved areas and 
+feeling overwhelmed. Barriers specific to people with 
+visual impairments were a lack of accessible information on 
+diabetes.
+Facilitators included education, motivation and confidence. 
+Support for people with developmental disabilities and 
+helpful assistive devices and modifications to physical 
+environments for people with visual impairments.
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1268 |   
+MITCHELL et al.
+prior interaction with health services (Trounson et al., 2020:14). 
+Appointment inflexibility (e.g. long waits, set appointment times, 
+short consultations) was another frequently identified barrier in 
+the reviews impacting on the use of healthcare facilities, including 
+antenatal, hospital and secondary healthcare services (Homeyard 
+et al., 2016; Lawler et al., 2013). Government agencies and organ-
+isations need to consider the health and service needs of disabled 
+people within their health-­ and social-­related policies, especially 
+service availability.
+While lack of financial resources is an often-­cited barrier for 
+the general population, it is especially prohibitive for people with 
+disabilities who often experience financial constraints and are eco-
+nomically vulnerable (Bodde & Seo, 2009; Breckenridge et al., 2014; 
+Marrocco & Krouse, 2017; Matin et al., 2021). Two reviews identified 
+TA B LE 3 Quality assessment using the JBI Critical Appraisal Checklist for Systematic Reviews and Research Synthesesb
+Authors
+Q1
+Q2
+Q3
+Q4
+Q5
+Q6
+Q7
+Q8
+Q9
+Q10
+Q11
+Qualitya
+Barr et al. (2018)
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+NA
+Y
+Y
+High
+Beverley et al. (2004)
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+Y
+Y
+Y
+High
+Bloemen et al. (2015)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+High
+Bodde and Seo (2009)
+Y
+Y
+Y
+Y
+Y
+U
+N
+Y
+U
+Y
+Y
+High
+Bradbury-­Jones et al. (2013)
+Y
+Y
+Y
+Y
+U
+U
+U
+Y
+N
+Y
+Y
+High
+Breckenridge et al. (2014)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+High
+Da Rosa et al. (2020)
+Y
+U
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Mid
+Edwards et al. (2020)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+Y
+High
+Eisenberg et al. (2017)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+U
+Y
+Y
+High
+Gibson and O’Connor (2010)
+Y
+U
+U
+Y
+Y
+U
+N
+Y
+N
+Y
+Y
+Mid
+Heideveld-­Gerritsen 
+et al. (2021)
+Y
+Y
+Y
+Y
+Y
+Y
+U
+Y
+U
+Y
+Y
+Mid
+Homeyard et al. (2016)
+Y
+U
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+High
+Horner-­Johnson et al. (2019)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+High
+Lawler et al. (2013)
+Y
+Y
+Y
+Y
+U
+U
+U
+U
+U
+Y
+Y
+Low
+Malli et al. (2018)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+NA
+High
+Marrocco and Krouse (2017)
+Y
+Y
+Y
+Y
+N
+N
+U
+U
+N
+Y
+Y
+Mid
+Martin Ginis et al. (2016)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+NA
+High
+Matin et al. (2021)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+Y
+High
+Mulligan et al. (2012)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+NA
+High
+Newitt et al. (2016)
+Y
+Y
+Y
+Y
+Y
+U
+Y
+Y
+NA
+U
+N
+Mid
+Trounson et al. (2020)
+Y
+Y
+Y
+Y
+Y
+U
+Y
+Y
+NA
+Y
+Y
+High
+Wilbur et al. (2019)
+Y
+Y
+Y
+Y
+Y
+U
+Y
+Y
+NA
+NA
+Y
+Mid
+Yang et al. (2020)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+NA
+Y
+Y
+High
+Abbreviations: N, No; NA, Not applicable; U, Unclear; Y, Yes.
+aJoanna Brigg's Institute (JBI) critical appraisal checklist for systematic reviews and research syntheses, checklist items marked ‘yes’: <5 = low 
+quality; 6–­8 = mid quality; >9 = high quality.
+bJBI Critical Appraisal Checklist questions:
+1. Is the review question clearly and explicitly stated?
+2. Were the inclusion criteria appropriate for the review question?
+3. Was the search strategy appropriate?
+4. Were the sources and resources used to search for studies adequate?
+5. Were the criteria for appraising studies appropriate?
+6. Was critical appraisal conducted by two or more reviewers independently?
+7. Were there methods to minimise errors in data extraction?
+8. Were the methods used to combine studies appropriate?
+9. Was the likelihood of publication bias assessed?
+10. Were recommendations for policy and/or practice supported by the reported data?
+11. Were the specific directives for new research appropriate?
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    |  1269
+MITCHELL et al.
+TA B LE 4 Environmental factor theme supporting quotations
+CHIEF theme
+Sub-­theme
+Quotation
+Authors
+Policies
+Policy—­government
+“[themes emerging at the policy level]…frequently cited 
+factors within the potential purview of government 
+policy-­makers: health policies (specifically funding for 
+programmes) and transportation services, systems, and 
+policies.” (p487)
+Martin Ginis 
+et al. (2016)
+“In terms of policy, the use of language, and the understanding 
+of the cultural nuances about language, cultural 
+understanding of disability and conditions associated with 
+disability is exceptionally important when considering 
+designing and delivering support services.” (p21)
+Trounson et al. (2020)
+Policy—­financial
+“Cost is likely to be even more prohibitive for adults with ID 
+[intellectual disability], many of whom live on very limited 
+or fixed resources.” (p63)
+Bodde and Seo (2009)
+“..report the cost of care and medication being an issue for 
+disabled people receiving or being satisfied with medical 
+services.” (p26)
+Gibson and 
+O’Connor (2010)
+Policy—­organisation
+“Policies and guidelines that promote [physical] access should 
+be devised, implemented, and audited on a regular basis.” 
+(p213)
+Lawler et al. (2013)
+“..there is still considerable work to be done in the area of 
+accessibility with most organisations addressing provision 
+for individuals with disabilities as policy add-­on rather 
+than forming an integral part of sports development 
+strategies.” (p5)
+Newitt et al. (2016)
+Physical or 
+structural
+Physical—­environment
+“Physical accessibility to the building is the first and most 
+obvious challenge encountered by women with a physical 
+disability when accessing maternity services.” (p211)
+Lawler et al. (2013)
+“Several studies identified physical obstacles as one reason 
+for not accessing care and ultimately not receiving care.” 
+(p285)
+Marrocco and Krouse 
+(2017)
+Physical—­facility/equipment
+“Physical inaccessibility [i.e. improper examination tables and 
+inadequate equipment] is a major barrier to the effective 
+utilisation of maternity services.” (p5)
+Breckenridge 
+et al. (2014)
+“Disabled patients find it difficult to assess physicians’ offices 
+and, once inside, experience other barriers such as fixed 
+height examination couches that impede transfers.”(p26)
+Gibson and 
+O’Connor (2010)
+Services or 
+assistance
+Services—­available programs/
+services
+“..families living in RRR [regional, rural and remote] areas 
+had difficulties accessing specialist medical care and 
+experienced allied health professional.” (p121)
+Barr et al. (2018)
+“Participants…travelled long distances to participate in 
+exercise due to a lack of nearby accessible facilities.” (p5)
+Newitt et al. (2016)
+Services—­information provision/
+communication
+“Families of children with a disability reported a lack of 
+information in RRR [regional, rural and remote] areas.” 
+(p121)
+Barr et al. (2018)
+“..the latest information regarding diabetes was not readily 
+shared in accessible ways and that diabetes educational 
+forums attended by visually impaired people often lacked 
+accessible non-­visual technology.”(p11)
+Yang et al. (2020)
+Services—­transport
+“A consequence of the reduced choice of services in RRR 
+[regional, rural and remote] areas is extensive travel for 
+families to larger centres and cities.” (p121)
+Barr et al. (2018)
+“Organising transport to appointments was a concern along 
+with unreliability, long waits, dealing with rude drivers, 
+getting into and out of the vehicles, and having to cancel 
+at short notice, along with having to take public transport 
+which could often exacerbate existing symptoms.” (p7)
+Edwards et al. (2020)
+(Continues)
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1270 |   
+MITCHELL et al.
+that some health insurance companies in the United States did not 
+cover the additional healthcare needs (e.g. additional examination 
+time or procedures) of disabled people (Breckenridge et  al.,  2014; 
+da Rosa et al., 2020), compounding the financial burden on the dis-
+abled person. In some instances, reviews also reported that disabled 
+people did not obtain health insurance because of the financial cost, 
+and the limited coverage of services that they required (Marrocco 
+& Krouse,  2017; Matin et  al.,  2021). Likewise, the cost of health-­
+promoting behaviours that cater to people with disabilities, such as 
+physical activity programs, may also prohibit participation (Bodde & 
+Seo, 2009; Mulligan et al., 2012).
+4.6  |  Attitudes and social support
+Several reviews touched on the significance of the social environ-
+ment in encouraging people with physical disabilities to participate 
+in health-­promoting behaviours like physical activity (Bloemen 
+et al., 2015; Bodde & Seo, 2009; Martin Ginis et al., 2016; Mulligan 
+et  al.,  2012; Newitt et  al.,  2016). Reviews reported that disabled 
+people can feel embarrassed to exercise in public, be wary of stere-
+otyping and negative perceptions of disability, and become demoti-
+vated by the low expectations and lack of encouragement to engage 
+from staff, family and peers (Bloemen et  al.,  2015; Martin Ginis 
+et al., 2016; Mulligan et al., 2012; Newitt et al., 2016). However, evi-
+dence from the reviews also supported the converse. Participation 
+in physical activity among disabled people was facilitated by positive 
+support from family and the community, information on how to be 
+involved, and encouragement and advice from health and exercise 
+professionals (Bloemen et al., 2015; Martin Ginis et al., 2016; Newitt 
+et al., 2016).
+In relation to the utilisation of health services, it was also noted 
+that ‘improving access to […] care cannot be achieved by addressing in-
+ternal service barriers alone’ (Breckenridge et al., 2014, p.9). Reviews 
+suggested that investing in community engagement and providing 
+opportunities for social interaction extending to people with and 
+without disabilities would likely strengthen support, increase engage-
+ment with services and improve health and wellbeing for disabled 
+people (Breckenridge et al., 2014; Trounson et al., 2020). In particular, 
+it was acknowledged that adults with learning disabilities should be 
+supported to make decisions regarding their own care based on their 
+unique, individual needs and preferences (Bradbury-­Jones et al., 2013; 
+Horner-­Johnson et al., 2019; Matin et al., 2021). Moreover, adults with 
+learning disabilities should also be involved with policy development, 
+awareness raising, service evaluation and research (Bradbury-­Jones 
+et al., 2013).
+4.7  |  Implications for policy, practice and research
+There were common and cross-­cutting themes related to socio-­
+environmental themes identified across different disabilities, age 
+groups and types of health outcomes in the reviews. These common-
+alities indicate that further work needs to be done to ensure ser-
+vices are inclusive, health professionals are adequately trained and 
+knowledgeable about providing disability-­focused care, and univer-
+sal design principles are adopted for the built environment and medi-
+cal equipment. Government policies should consider transportation 
+CHIEF theme
+Sub-­theme
+Quotation
+Authors
+Services—­personal equipment
+“…people with spinal cord injuries…reported discomfort 
+and difficulty in positioning the menstrual product to 
+ensure its maximum absorbency, as well as increasing 
+difficulties with catheters and urinary management during 
+menstruation.” (p10)
+Wilbur et al. (2019)
+“Intervention to enhance blood glucose self-­monitoring using 
+other senses, including touch and hearing, were helpful in 
+maintaining appropriate glucose levels or in increasing the 
+quality of blood glucose monitoring.” (p12)
+Yang et al. (2020)
+Attitude or 
+support
+Attitudes and support—­
+providers, community, family
+“Strong social support from family, friends, and fitness staff 
+is actually one of the best predictors of participating in 
+regular PA [physical activity].” (p62)
+Bodde and Seo (2009)
+“There is strong evidence that women with physical 
+disabilities encounter unwillingness to provide assistance 
+on the part of healthcare providers.” (p9)
+Heideveld-­Gerritsen 
+et al. (2021)
+Knowledge/training—­providers
+“Lack of basic understanding reduced nurses’ ability to pick 
+up on cues, and they recognised the impact of this on their 
+competence and confidence in caring.” (p1504)
+Bradbury-­Jones 
+et al. (2013)
+“While specialists may lack knowledge about general health 
+issues, general practitioners may lack knowledge about 
+outcomes in specific disabling conditions.” (p26)
+Gibson and 
+O’Connor (2010)
+Abbreviation: CHIEF, Craig Hospital Inventory of Environmental Factors.
+TA B LE 4 (Continued)
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    |  1271
+MITCHELL et al.
+issues and service availability in regional areas, including telehealth 
+capacity and availability. Plain-­language messaging in different for-
+mats (e.g. large print, tactile) and involving disabled people in service 
+design is vital.
+There were certain population sub-­groups where there was a lack 
+of reviews examining social, physical or attitudinal factors influenc-
+ing health outcomes, including for disabled children (i.e. ≤16 years) 
+and older people (i.e. ≥65  years). With the ageing of the popula-
+tion in many high-­income countries (United Nations Department 
+of Economic & Social Affairs: Population Division, 2020), there are 
+likely to be key factors relating to ageing and disability that are unac-
+knowledged. Reviews focusing solely on disabled men were largely 
+absent, particularly for preventive health behaviour, such as cancer 
+screening services (Edwards et al., 2020).
+Overall, there was limited information on specific health outcomes 
+(e.g. care complications, hospital readmissions) of disabled people using 
+primary, acute, sub-­acute or community-­based health services. This is 
+predominantly due to disability not being recorded or easily identi-
+fied in routine administrative data collections, such as hospitalisation, 
+emergency department or primary care data (Halcomb et al., 2019). 
+There are increasing opportunities for better identification of disabled 
+people in health data collections through linking health and social data 
+collections. Assessing publication bias in systematic reviews aids in 
+limiting bias towards the inclusion of studies in reviews based on the 
+strength or direction of supporting evidence (Ayorinde et al., 2020). 
+That only six of the reviews in the current overview assessed the risk 
+of publication bias opens some reviews up to selection bias, which 
+could influence review outcomes.
+4.8  |  Strengths and limitations
+The strengths of this overview of systematic reviews were the 
+comprehensive search strategy, that the review followed the 
+PRISMA guideline, and multiple reviewers were involved in the 
+data extraction and synthesis phases with high interrater reli-
+ability. Any disagreements were discussed between reviewers 
+with consensus achieved. The overview also had several limita-
+tions. Only systematic reviews were considered, therefore other 
+reviews (such as integrative and scoping reviews) were excluded 
+that may have contributed additional insights. There is a potential 
+risk of bias in the identification of the key socio-­environmental 
+factors due to the possible overrepresentation of individual 
+studies that were included in multiple systematic reviews. 
+Reviews published in non-­English languages and that considered 
+studies only from low-­ and middle-­income countries were ex-
+cluded, which may result in language-­ and generalisability-­bias 
+respectively.
+FI G U R E 2 Number of socio-­environmental themes identified by health outcome for disabled people1 
+ 
+1Mulple themes and health outcomes could be idenﬁed for each systemac review. 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+Services - personal equipment
+Atudes - providers and peers
+Policy - government
+Atudes - providers and family
+Services - available programs
+Atudes - providers and community
+Policy - organisaon
+Physical - environment
+Policy - ﬁnancial
+Atudes - providers
+Services - transport
+Services - informaon provision/communicaon
+Physical - facility/equipment
+Knowledge/training - providers
+Number
+Socio-environmental theme
+Access to healthcare
+Care quality
+Health promong
+behaviour
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1272 |   
+MITCHELL et al.
+5  |  CONCLUSIONS
+Disabled people encounter common social, physical and attitudinal 
+factors that can hinder their health outcomes in terms of access to 
+services and quality healthcare. Many preventive health and health-
+care services were identified as either inaccessible or not meeting 
+the needs of disabled people. There is an obvious need to reduce 
+health and social inequalities in access to healthcare and participa-
+tion for disabled people. Greater involvement of disabled people in 
+service design and awareness raising is essential.
+ACKNOWLEDGEMENTS
+The authors thank Ms Mary Simons, medical research librarian, for 
+her expertise and guidance regarding the development of the search 
+terminology.
+AUTHOR CONTRIBUTIONS
+R. 
+Mitchell: 
+Conceptualisation, 
+Methodology, 
+Investigation; 
+Writing-­Original draft preparation, Writing—­Review & Editing; T 
+Ryder: Methodology, Investigation, Writing-­Original draft prepara-
+tion, Writing—­Review & Editing; K. Matar: Investigation; R. Lystad: 
+Writing—­Review & Editing; R. Clay-­Williams: Writing—­Review & 
+Editing; J. Braithwaite: Writing—­Review & Editing.
+DATA AVAILABILITY STATEMENT
+Data sharing is not applicable to this article as no datasets were gen-
+erated or analysed during the current study.
+ORCID
+Reidar P. Lystad 
+ https://orcid.org/0000-0003-0506-0902 
+REFERENCES
+Andresen, E. M., Peterson-­Besse, J. J., Krahn, G. L., Walsh, E. S., Horner-­
+Johnson, W., & Iezzoni, L. I. (2013). Pap, mammography, and clinical 
+breast examination screening among women with disabilities: A 
+systematic review. Womens Health Issues, 23, e205–­e214. https://
+doi.org/10.1016/j.whi.2013.04.002
+Attree, P. (2004). Growing up in disadvantage: A systematic review of the 
+qualitative evidence. Child: Care, Health and Development, 30, 679–­
+689. https://doi.org/10.1111/j.1365-­2214.2004.00480.x
+Attree, P., & Milton, B. (2006). Critically appraising qualitative re-
+search for systematic reviews: Defusing the methodological 
+cluster bombs. Evidence & Policy: A Journal of Research, Debate 
+and Practice, 2, 109–­126. https://doi.org/10.1332/17442​64067​
+75249688
+Ayorinde, A. A., Williams, I., Mannion, R., Song, F., Skrybant, M., Lilford, 
+R. J., & Chen, Y.-­F. (2020). Assessment of publication bias and out-
+come reporting bias in systematic reviews of health services and 
+delivery research: A meta-­epidemiological study. PLoS One, 15, 
+e0227580. https://doi.org/10.1371/journ​al.pone.0227580
+Banks, L. M., Mearkle, R., Mactaggart, I., Walsham, M., Kuper, H., & 
+Blanchet, K. (2017). Disability and social protection programmes 
+in low-­and middle-­income countries: A systematic review. Oxford 
+Development Studies, 45, 223–­239. https://doi.org/10.1080/13600​
+818.2016.1142960
+Barr, M., Duncan, J., & Dally, K. (2018). A systematic review of services 
+to DHH children in rural and remote regions. The Journal of Deaf 
+Studies and Deaf Education, 23, 118–­130. https://doi.org/10.1093/
+deafe​d/enx059
+Beverley, C. A., Bath, P. A., & Booth, A. (2004). Health information needs 
+of visually impaired people: A systematic review of the literature. 
+Health and Social Care in the Community, 12, 1–­24. https://doi.
+org/10.1111/j.1365-­2524.2004.00460.x
+Bloemen, M. A. T., Backx, F. J. G., Takken, T., Wittink, H., Benner, J., 
+Mollema, J., & Groot, J. F. (2015). Factors associated with physi-
+cal activity in children and adolescents with a physical disability: 
+A systematic review. Developmental Medicine and Child Neurology, 57, 
+137–­148. https://doi.org/10.1111/dmcn.12624
+Bodde, A. E., & Seo, D. C. (2009). A review of social and environmental 
+barriers to physical activity for adults with intellectual disabilities. 
+Disability and Health Journal, 2, 57–­66. https://doi.org/10.1016/j.
+dhjo.2008.11.004
+Booth, A., & Brice, A. (2001). Research Column: The CRItical Skills 
+Training in Appraisal for Librarians (CriSTAL) project. Health 
+Information and Libraries Journal, 18, 175–­177.
+Bowen, C. N., Havercamp, S. M., Karpiak Bowen, S., & Nye, G. (2020). 
+A call to action: Preparing a disability-­competent health care 
+workforce. Disability and Health Journal, 13, 100941. https://doi.
+org/10.1016/j.dhjo.2020.100941
+Bradbury-­Jones, C., Rattray, J., Jones, M., & MacGillivray, S. (2013). 
+Promoting the health, safety and welfare of adults with learning 
+disabilities in acute care settings: A structured literature review. 
+Journal of Clinical Nursing, 22, 1497–­1509. https://doi.org/10.1111/
+jocn.12109
+Breckenridge, J. P., Devaney, J., Kroll, T., Lazenbatt, A., Taylor, J., & 
+Bradbury-­Jones, C. (2014). Access and utilisation of maternity 
+care for disabled women who experience domestic abuse: A sys-
+tematic review. BMC Pregnancy Childbirth, 14, 234. https://doi.
+org/10.1186/1471-­2393-­14-­234
+Calder, A., Sole, G., & Mulligan, H. (2018). The accessibility of fitness 
+centers for people with disabilities: A systematic review. Disability 
+and Health Journal, 11, 525–­536. https://doi.org/10.1016/j.
+dhjo.2018.04.002
+Caldwell, K., Henshaw, L., & Taylor, G. (2011). Developing a frame-
+work for critiquing health research: An early evaluation. Nurse 
+Education Today, 31, e1–­e7. https://doi.org/10.1016/j.nedt.2010.​
+11.025
+Centers for Disease Control and Prevention. (2020). Common barriers to 
+participation experienced by people with disabilities. Retrieved from 
+https://www.cdc.gov/ncbdd​d/disab​ility​andhe​alth/disab​ility​-­barri​
+ers.html
+Cho, H., MacLachlan, M., Clarke, M., & Mannan, H. (2016). Accessible 
+home environments for people with functional limitations: A sys-
+tematic review. International Journal of Environmental Research and 
+Public Health, 13(8), 826. https://doi.org/10.3390/ijerp​h1308​0826
+Craig Hospital Research Department. (2001). Craig hospital inventory of 
+environmental factors (CHIEF). Version 3.0., 33.
+Critical Appraisal Skills Programme. (2018a). CASP cohort study checklist. 
+Retreived from https://casp-­uk.net/wp-­conte​nt/uploa​ds/2018/​
+01/CASP-­Quali​tativ​e-­Check​list-­2018.pdf
+Critical Appraisal Skills Programme. (2018b). CASP qualitative checklist. 
+Retrieved from https://casp-­uk.net/wp-­conte​nt/uploa​ds/2018/​
+01/CASP-­Quali​tativ​e-­Check​list-­2018.pdf
+Critical Appraisal Skills Programme. (2018c). CASP systematic review 
+checklist. Retrieved from https://casp-­uk.b-­cdn.net/wp-­conte​nt/
+uploa​ds/2018/03/CASP-­Syste​matic​-­Revie​w-­Check​list-­2018_filla​
+ble-­form.pdf
+da Rosa, S. V., Moysés, S. J., Theis, L. C., Soares, R. C., Moysés, S. T., 
+Werneck, R. I., & Rocha, J. S. (2020). Barriers in access to dental 
+services hindering the treatment of people with disabilities: A sys-
+tematic review. International Journal of Dentistry, 2020, 9074618. 
+https://doi.org/10.1155/2020/9074618
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    |  1273
+MITCHELL et al.
+Daly, J., Willis, K., Small, R., Green, J., Welch, N., Kealy, M., & Hughes, 
+E. (2007). A hierarchy of evidence for assessing qualitative health 
+research. Journal of Clinical Epidemiology, 60, 43–­49. https://doi.
+org/10.1016/j.jclin​epi.2006.03.014
+Department of Health Long-­Term Conditions NSF Team. (2005). The 
+national service framework for long-­term conditions. Department of 
+Health.
+Downs, S. H., & Black, N. (1998). The feasibility of creating a checklist for 
+the assessment of the methodological quality both of randomised 
+and non-­randomised studies of health care interventions. Journal 
+of Epidemiology & Community Health, 52, 377–­384. https://doi.
+org/10.1136/jech.52.6.377
+Drainoni, M.-­L., Lee-­Hood, E., Tobias, C., Bachman, S. S., Andrew, J., 
+& Maisels, L. (2006). Cross-­disability experiences of barriers to 
+health-­care access. Journal of Disability Policy Studies, 17, 101–­115. 
+https://doi.org/10.1177/10442​07306​01700​20101
+Edwards, D. J., Sakellariou, D., & Anstey, S. (2020). Barriers to, and fa-
+cilitators of, access to cancer services and experiences of cancer 
+care for adults with a physical disability: A mixed methods system-
+atic review. Disability and Health Journal, 13, 100844. https://doi.
+org/10.1016/j.dhjo.2019.100844
+Effective Public Health Practice Project. (2018). Quality assessment tool 
+for quantitative studies. Retreived from https://merst.ca/wp-­conte​
+nt/uploa​ds/2018/02/quali​ty-­asses​sment​-­tool_2010.pdf
+Eisenberg, Y., Vanderbom, K. A., & Vasudevan, V. (2017). Does the built 
+environment moderate the relationship between having a disability 
+and lower levels of physical activity? A systematic review. Preventive 
+Medicine, 95S, S75–­S84. https://doi.org/10.1016/j.ypmed.2016.​
+07.019
+Gibson, J. C., & O’Connor, R. J. (2010). Access to health care for disabled 
+people: A systematic review. Social Care and Neurodisability, 1(3), 
+21–­31. https://doi.org/10.5042/scn.2010.0599
+Halcomb, E. J., Peters, K., & Smyth, E. (2019). Health screening for 
+women with physical disability in Australian general practice: 
+A survey. Collegian, 26, 250–­255. https://doi.org/10.1016/j.
+colegn.2018.07.008
+Hashemi, G., Wickenden, M., Bright, T., & Kuper, H. (2020). Barriers 
+to accessing primary healthcare services for people with disabil-
+ities in low and middle-­income countries, a Meta-­synthesis of 
+qualitative studies. Disability and Rehabilitation, 1–­14. https://doi.
+org/10.1080/09638​288.2020.1817984
+Heideveld-­Gerritsen, M., van Vulpen, M., Hollander, M., Oude Maatman, 
+S., Ockhuijsen, H., & van den Hoogen, A. (2021). Maternity care 
+experiences of women with physical disabilities: A system-
+atic review. Midwifery, 96, 102938. https://doi.org/10.1016/j.
+midw.2021.102938
+Higgins, J. P. T., Altman, D. G., Gotzsche, P. C., Juni, P., Moher, D., Oxman, 
+A. D., Savovic, J., Schulz, K. F., Weeks, L., & Sterne, J. A. C. (2011). The 
+Cochrane Collaboration’s tool for assessing risk of bias in randomised 
+trials. BMJ, 343, d5928. https://doi.org/10.1136/bmj.d5928
+Homeyard, C., Montgomery, E., Chinn, D., & Patelarou, E. (2016). Current 
+evidence on antenatal care provision for women with intellectual 
+disabilities: A systematic review. Midwifery, 32, 45–­57. https://doi.
+org/10.1016/j.midw.2015.10.002
+Horner-­Johnson, W., Moe, E. L., Stoner, R. C., Klein, K. A., Edelman, A. B., 
+Eden, K. B., Andresen, E. M., Caughey, A. B., & Guise, J.-­M. (2019). 
+Contraceptive knowledge and use among women with intellectual, 
+physical, or sensory disabilities: A systematic review. Disability and Health 
+Journal, 12, 139–­154. https://doi.org/10.1016/j.dhjo.2018.11.006
+Iacono, T., Bigby, C., Unsworth, C., Douglas, J., & Fitzpatrick, P. (2014). A 
+systematic review of hospital experiences of people with intellec-
+tual disability. BMC Health Services Research, 14, 1–­8. https://doi.
+org/10.1186/s1291​3-­014-­0505-­5
+Joanna Briggs Institute (JBI). (2020). Critical appraisal tools. Retrieved 
+from https://jbi.globa​l/criti​cal-­appra​isal-­tools
+Kavanagh, A. (2020). Disability and public health research in Australia. 
+Australian and New Zealand Journal of Public Health, 44, 262–­264. 
+https://doi.org/10.1111/1753-­6405.13003
+Law, M. D., Stewart, D., Pollock, N., Letts, L., Bosch, J., & Westmorland, 
+M. (1998). Critical review form—­Quantitative studies. Retrieved from 
+https://healt​hsci.mcmas​ter.ca/docs/libra​riesp​rovid​er130/​defau​
+lt-­docum​ent-­libra​ry/criti​cal-­revie​w-­form-­quant​itati​ve-­studi​es-­
+engli​sh6b5​cae38​a1784​9c8ab​ad24e​fed28​e4a8.pdf?sfvrs​n=95293​
+2a2_2
+Lawler, D., Lalor, J., & Begley, C. (2013). Access to maternity services for 
+women with a physical disability: A systematic review of the litera-
+ture. International Journal of Childbirth, 3, 203–­217. https://doi.org/
+10.1891/2156-­5287.3.4.203
+Letts, L., Wilkins, S., Law, M., Stewart, D., Bosch, J., & Westmorland, 
+M. (2007). Critical review form—­Qualitative studies. Version 2.0. 
+Retrieved from https://healt​hsci.mcmas​ter.ca/docs/libra​riesp​rovid​
+er130/​defau​lt-­docum​ent-­libra​ry/criti​cal-­revie​w-­form-­quali​tativ​e-­
+studi​es-­versi​on-­2-­1.pdf?sfvrs​n=6723c​450_2
+Lindsay, S. (2016). Child and youth experiences and perspectives of ce-
+rebral palsy: A qualitative systematic review. Child: Care, Health and 
+Development, 42, 153–­175. https://doi.org/10.1111/cch.12309
+Malli, M. A., Sams, L., Forrester-­Jones, R., Murphy, G., & Henwood, M. 
+(2018). Austerity and the lives of people with learning disabilities. 
+A thematic synthesis of current literature. Disability & Society, 33, 
+1412–­1435. https://doi.org/10.1080/09687​599.2018.1497950
+Marrocco, A., & Krouse, H. J. (2017). Obstacles to preventive care for 
+individuals with disability: Implications for nurse practitioners. 
+Journal of the American Association of Nurse Practitioners, 29(5), 282–­
+293. https://doi.org/10.1002/2327-­6924.12449
+Martin Ginis, K. A., Ma, J. K., Latimer-­Cheung, A. E., & Rimmer, J. H. 
+(2016). A systematic review of review articles addressing factors 
+related to physical activity participation among children and adults 
+with physical disabilities. Health Psychology Review, 10(4), 478–­494. 
+https://doi.org/10.1080/17437​199.2016.1198240
+Matin, B. K., Williamson, H. J., Karyani, A. K., Rezaei, S., Soofi, M., & 
+Soltani, S. (2021). Barriers in access to healthcare for women with 
+disabilities: A systematic review in qualitative studies. BMC Womens 
+Health, 21, 44. https://doi.org/10.1186/s1290​5-­021-­01189​-­5
+Merten, J. W., Pomeranz, J. L., King, J. L., Moorhouse, M., & Wynn, R. D. 
+(2015). Barriers to cancer screening for people with disabilities: A 
+literature review. Disability and Health Journal, 8(1), 9–­16. https://
+doi.org/10.1016/j.dhjo.2014.06.004
+Mithen, J., Aitken, Z., Ziersch, A., & Kavanagh, A. M. (2015). Inequalities 
+in social capital and health between people with and without 
+disabilities. Social Science and Medicine, 126, 26–­35. https://doi.
+org/10.1016/j.socsc​imed.2014.12.009
+Mulligan, H. F., Hale, L. A., Whitehead, L., & Baxter, G. D. (2012). Barriers 
+to physical activity for people with long-­term neurological con-
+ditions: A review study. Adapted Physical Activity Quarterly, 29(3), 
+243–­265. https://doi.org/10.1123/apaq.29.3.243
+National People with Disabilities and Carer Council. (2009). SHUT OUT: 
+The experience of people with disabilities and their families in Australia. 
+Australian Government.
+Newhouse, R. P., Dearholt, S. L., Poe, S. S., Pugh, L. C., & White, K. M. 
+(2007). Johns Hopkins nursing evidence-­based practice model and 
+guidelines.
+Newitt, R., Barnett, F., & Crowe, M. (2016). Understanding factors 
+that influence participation in physical activity among people 
+with a neuromusculoskeletal condition: A review of qualita-
+tive studies. Disability and Rehabilitation, 38, 1–­10. https://doi.
+org/10.3109/09638​288.2014.996676
+O’Brien, B. C., Harris, I. B., Beckman, T. J., Reed, D. A., & Cook, D. A. 
+(2014). Standards for reporting qualitative research: A synthesis of 
+recommendations. Academic Medicine, 89, 1245–­1251. https://doi.
+org/10.1097/ACM.00000​00000​000388
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1274 |   
+MITCHELL et al.
+Olaussen, S. J., & Renzaho, A. M. N. (2016). Establishing components 
+of cultural competence healthcare models to better cater for the 
+needs of migrants with disability: A systematic review. Australian 
+Journal of Primary Health, 22, 100–­112. https://doi.org/10.1071/​
+PY14114
+Pace, R., Pluye, P., Bartlett, G., Macaulay, A. C., Salsberg, J., Jagosh, 
+J., & Seller, R. (2012). Testing the reliability and efficiency of the 
+pilot Mixed Methods Appraisal Tool (MMAT) for systematic mixed 
+studies review. International Journal of Nursing Studies, 49, 47–­53. 
+https://doi.org/10.1016/j.ijnur​stu.2011.07.002
+Pelleboer-­Gunnink, H. A., Van Oorsouw, W. M. W. J., Van Weeghel, J., 
+& Embregts, P. J. C. M. (2017). Mainstream health professionals' 
+stigmatising attitudes towards people with intellectual disabilities: 
+A systematic review. Journal of Intellectual Disability Research, 61, 
+411–­434. https://doi.org/10.1111/jir.12353
+Pollock, M., Fernandes, R. M., Becker, L. A., Pieper, D., & Hartling, L. 
+(2021) Overviews of reviews. In J. P. Higgins, J. Thomas, J. Chandler, 
+M. Cumpston, T. Li, M. J. Page, & V. A. Welch (Eds.), Cochrane hand-
+book for systematic reviews of interventions. Cochrane Training. 
+https://train​ing.cochr​ane.org/handb​ook/current
+Reichard, A., Stolzle, H., & Fox, M. H. (2011). Health disparities among 
+adults with physical disabilities or cognitive limitations compared 
+to individuals with no disabilities in the United States. Disability and 
+Health Journal, 4, 59–­67. https://doi.org/10.1016/j.dhjo.2010.05.003
+Robertson, J., Raghavan, R., Emerson, E., Baines, S., & Hatton, C. (2019). What 
+do we know about the health and health care of people with intellec-
+tual disabilities from minority ethnic groups in the United Kingdom? A 
+systematic review. Journal of Applied Research in Intellectual Disabilities, 
+32, 1310–­1334. https://doi.org/10.1111/jar.12630
+Russell, C. K., & Gregory, D. M. (2003). Evaluation of qualitative research 
+studies. Evidence-­Based Nursing, 6, 36–­40. https://doi.org/10.1136/
+ebn.6.2.36
+Satchidanand, N., Gunukula, S. K., Lam, W. Y., McGuigan, D., New, I., 
+Symons, A. B., Withiam-­Leitch, M., & Akl, E. A. (2012). Attitudes 
+of healthcare students and professionals toward patients with 
+physical disability: A systematic review. American Journal of Physical 
+Medicine and Rehabilitation, 91, 533–­545. https://doi.org/10.1097/
+PHM.0b013​e3182​555ea4
+Shea, B. J., Hamel, C., Wells, G. A., Bouter, L. M., Kristjansson, E., 
+Grimshaw, J., Henry, D. A., & Boers, M. (2009). AMSTAR is a reliable 
+and valid measurement tool to assess the methodological quality of 
+systematic reviews. Journal of Clinical Epidemiology, 62, 1013–­1020. 
+https://doi.org/10.1016/j.jclin​epi.2008.10.009
+The Joanna Briggs Institute. (2017). Checklist for systematic reviews and 
+research syntheses. Retrieved from http://joann​abrig​gs.org/resea​
+rch/criti​cal-­appra​isal-­tools.html
+Tong, A., Sainsbury, P., & Craig, J. (2007). Consolidated criteria for re-
+porting qualitative research (COREQ): A 32-­item checklist for in-
+terviews and focus groups. International Journal for Quality in Health 
+Care, 19, 349–­357. https://doi.org/10.1093/intqh​c/mzm042
+Trounson, J. S., Gibbs, J., Kostrz, K., McDonald, R., & Peters, A. (2020). A 
+systematic literature review of Aboriginal and Torres Strait Islander 
+engagement with disability services. Disability & Society, 1–­25. 
+https://doi.org/10.1080/09687​599.2020.1862640
+United Nations. (2006). Convention on the rights of persons with disabilities 
+and optional protocol.
+United Nations Department of Economic and Social Affairs: Popu­
+lation Division. (2020). World Population Ageing 2020. United 
+Nations.
+von Elm, E., Altman, D. G., Egger, M., Pocock, S. J., Gøtzsche, P. C., & 
+Vandenbroucke, J. P. (2007). The Strengthening the Reporting 
+of Observational Studies in Epidemiology (STROBE) statement: 
+Guidelines for reporting observational studies. Annals of Internal 
+Medicine, 147, 573–­577. https://doi.org/10.7326/0003-­4819-­147-­
+8-­20071​0160-­00010
+Wade, D. T., & Halligan, P. W. (2004). Do biomedical models of illness 
+make for good health care systems? BMJ, 329, 1398–­1401. https://
+doi.org/10.1136/bmj.329.7479.1398
+Walsh, D., & Downe, S. (2006). Appraising the quality of qualitative research. 
+Midwifery, 22, 108–­119. https://doi.org/10.1016/j.midw.2005.05.004
+Wells, G. A., Shea, B., O’Connell, D., Peterson, J., Welch, V., Losos, M., & 
+Tugwell, P. (2000). The Newcastle-­Ottawa Scale (NOS) for assessing 
+the quality of nonrandomised studies in meta-­analyses. Oxford.
+Wilbur, J., Torondel, B., Hameed, S., Mahon, T., & Kuper, H. (2019). 
+Systematic review of menstrual hygiene management require-
+ments, its barriers and strategies for disabled people. PLoS One, 14, 
+e0210974. https://doi.org/10.1371/journ​al.pone.0210974
+Wilson, N. J., Macdonald, J., Hayman, B., Bright, A. M., Frawley, P., & 
+Gallego, G. (2018). A narrative review of the literature about peo-
+ple with intellectual disability who identify as lesbian, gay, bisexual, 
+transgender, intersex or questioning. Journal of Intellectual Disabilities, 
+22, 171–­196. https://doi.org/10.1177/17446​29516​682681
+World Health Organization. (2011). World report on disability. WHO.
+World Health Organization. (2021). International Classification of 
+Functioning, Disability and Health (ICF). Retrieved from https://
+www.who.int/stand​ards/class​ifica​tions/​inter​natio​nal-­class​ifica​
+tion-­of-­funct​ionin​g-­disab​ility​-­and-­health
+Yang, E., Kim, H. J., Ryu, H., & Chang, S. J. (2020). Diabetes self-­care be-
+haviors in adults with disabilities: A systematic review. Japan Journal 
+of Nursing Science, 17, e12289. https://doi.org/10.1111/jjns.12289
+Zaza, S., Wright-­De Agüero, L. K., Briss, P. A., Truman, B. I., Hopkins, D. P., 
+Hennessy, M. H., Sosin, D. M., Anderson, L., Carande-­Kulis, V. G., 
+Teutsch, S. M., & Pappaioanou, M. (2000). Data collection instrument 
+and procedure for systematic reviews in the Guide to Community 
+Preventive Services. American Journal of Preventive Medicine, 18, 44–­74.
+SUPPORTING INFORMATION
+Additional supporting information may be found in the online ver-
+sion of the article at the publisher’s website.
+How to cite this article: Mitchell, R. J., Ryder, T., Matar, K., 
+Lystad, R. P., Clay-­Williams, R., & Braithwaite, J. (2022). An 
+overview of systematic reviews to determine the impact of 
+socio-­environmental factors on health outcomes of people 
+with disabilities. Health & Social Care in the Community, 30, 
+1254–­1274. https://doi.org/10.1111/hsc.13665
+ 13652524, 2022, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hsc.13665 by CochraneItalia, Wiley Online Library on [07/06/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

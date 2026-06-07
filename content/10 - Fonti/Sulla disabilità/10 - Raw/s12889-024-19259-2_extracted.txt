@@ -1,0 +1,2204 @@
+RESEARCH
+Open Access
+© The Author(s) 2024. Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, 
+sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and 
+the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included 
+in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will 
+need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The 
+Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available 
+in this article, unless otherwise stated in a credit line to the data.
+Briazu et al. BMC Public Health         (2024) 24:1770 
+https://doi.org/10.1186/s12889-024-19259-2
+Introduction
+Background
+Healthy diet, namely a diet high in fruit vegetables 
+and legumes and low in sugar, fat and salt [1] is essen­
+tial to our overall well-being. Poor diet is one the big­
+gest preventable risk factors to ill-health and adherence 
+to healthy eating recommendations has the potential 
+to increase life expectancy and prevent cardiovascular 
+diseases and some cancers [2]. Every year, in the UK, 
+diets that are low in vegetables and legumes are associ­
+ated with 18,000 premature deaths [3]. In 2018 only 33% 
+of UK adults consumed at least 5 portions of fruit and 
+BMC Public Health
+*Correspondence:
+Rachel McCloy
+r.a.mccloy@reading.ac.uk
+1School of Psychology and Clinical Language Sciences, University of 
+Reading, Berkshire, UK
+2Faculty of Health, University of Plymouth, Plymouth, UK
+3Department of Food and Nutritional Sciences, University of Reading, 
+Reading, UK
+Abstract
+In the UK people living in disadvantaged communities are less likely than those with higher socio-economic status 
+to have a healthy diet. To address this inequality, it is crucial scientists, practitioners and policy makers understand 
+the factors that hinder and assist healthy food choice in these individuals. In this scoping review, we aimed to 
+identify barriers and facilitators to healthy eating among disadvantaged individuals living in the UK. Additionally, 
+we used the Theoretical Domains Framework (TDF) to synthesise results and provide a guide for the development 
+of theory-informed behaviour change interventions. Five databases were searched, (CINAHL, Embase, MEDLINE, 
+PsycINFO, and Web of Science) for articles assessing healthy dietary intake of disadvantaged adults living in the UK. 
+A total of 50 papers (34 quantitative; 16 qualitative) were included in this review. Across all studies we identified 78 
+barriers and 49 facilitators found to either impede and/or encourage healthy eating. Both barriers and facilitators 
+were more commonly classified under the Environmental, Context and Resources TDF domain, with 74% of studies 
+assessing at least one factor pertaining to this domain. Results thus indicate that context related factors such as 
+high cost and accessibility of healthy food, rather than personal factors, such as lack of efficiency in healthy lifestyle 
+drive unhealthy eating in disadvantaged individuals in the UK. We discuss how such factors are largely overlooked 
+in current interventions and propose that more effort should be directed towards implementing interventions that 
+specifically target infrastructures rather than individuals.
+Keywords  Socioeconomic deprivation, Dietary intake, Environmental barriers, Scoping review, Theoretical domains 
+framework
+Barriers and facilitators to healthy eating 
+in disadvantaged adults living in the UK: 
+a scoping review
+Raluca A. Briazu1
+, Fatima Masood1, Louise Hunt2, Clare Pettinger2
+, Carol Wagstaff3
+ and Rachel McCloy1*
+Page 2 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+vegetables a day [4], and less than 1% follow all recom­
+mendations set out in the Eat-Well Guide [5, 6]. Worry­
+ingly, these numbers are even lower for disadvantaged 
+individuals (herein referred to as those experiencing a 
+state of observable and demonstrable disadvantage rela­
+tive to the wider society or nation to which an individual 
+belongs to [7]), as diet is subject to vast socioeconomic 
+disparities. Overall, those in the most deprived quintile 
+consume 37% less fruit and vegetables, 54% less fish and 
+17% less dietary fibre as compared to those in the least 
+deprived quintile [8].
+Tackling dietary inequalities is not only beneficial at 
+an individual level but can also improve the social and 
+economic outlook of the country [9], and thus reducing 
+dietary inequalities should be of importance to policy 
+makers in the UK [10]. The Government’s levelling up 
+agenda tried to address longstanding local and regional 
+inequalities by describing its ambition to address poor 
+diet due to its significant contribution to ill health [11]. 
+The Levelling Up programme promised to take for­
+ward suggestions from the National Food Strategy [12], 
+a Government commissioned independent review that 
+recommends several ways to reduce diet-related health 
+inequalities. Furthermore, the UK government’s National 
+Productivity Investment Fund has provided crucial fund­
+ing for research and development projects such as the 
+Transforming UK Food Systems, aimed at transform­
+ing the UK food system to benefit the health of people 
+and the environment [13]. As part of this larger project, 
+the Food System Equality (FoodSEqual) project, seeks 
+to provide citizens of disadvantaged communities with 
+choice and agency over the food they consume by co-
+developing new products, new supply chains and new 
+policy frameworks [14]. However, the UK Government’s 
+current approach to reducing dietary inequalities has 
+received criticism for being biased towards individual 
+responsibility, and for being vague and unambitious [15]. 
+Consequently, calls have been made for the UK govern­
+ment to consider evidence-based interventions which 
+aim to improve diet quality and reduce social inequalities 
+[16]. One important step towards creating interventions 
+aimed at achieving behaviour change such a healthy eat­
+ing is understanding what determines both the current 
+and desired behaviours.
+To do so, there is a need to understand the barriers and 
+facilitators to healthy eating of disadvantaged individuals. 
+Existing reviews of factors that influence healthy eating 
+focus on specific sections of the general populations such 
+as postpartum women e.g. [17], middle aged individu­
+als [18] and those with impaired mobility [19], or focus 
+on countries outside the UK, or are not specific to the 
+UK e.g. [20]. Additionally, most existing reviews do not 
+highlight factors specific to disadvantage. For example, 
+a review of facilitators and barriers to healthy eating in 
+UK young adults referred to individuals with low-income 
+but grouped findings in relation to this group of individu­
+als together with findings regarding ethnicity and collec­
+tively referred to these groups as socially excluded [21]. 
+Upcoming systematic reviews specifically propose look­
+ing at disadvantaged individuals such as those that are 
+homeless, however again these does not focus on the UK 
+e.g. [22]. This review aims to address this gap in the lit­
+erature by focusing specifically on disadvantaged adults 
+from the UK. Furthermore, it aims to provide a guide for 
+intervention-targeted policy makers by synthesising find­
+ings using the Theoretical Domains Framework (TDF) 
+[23]. The TDF was developed through a collaboration 
+between psychology theorists, health service research­
+ers and health psychologists, by simplifying and integrat­
+ing a multitude of behaviour change theories with the 
+aim of make theory more accessible and usable across 
+disciplines. In total, the TDF synthesises 33 behaviour 
+change theories and 84 key theoretical constructs related 
+to behavioural change under 14 domains, and thus facili­
+tates the use of psychological theories in the development 
+of interventions. The 14 domains include knowledge; 
+skills; memory, attention and decision processes; behav­
+ioural regulation; social/professional role and identity; 
+beliefs about capabilities; optimism; beliefs about conse­
+quences; intentions; goals; reinforcement; emotion; envi­
+ronmental context and resources; and social influences.
+The framework has been thoroughly validated [23] and 
+used to explain implementation problems, develop the­
+ory-informed behaviour change interventions, and assess 
+which theoretical domains are relevant to particular 
+interventions e.g. [24–26]. Furthermore, the TDF links 
+seamlessly to the Behavioural Change Wheel (BCW) 
+[27], a framework designed to aid intervention designers 
+in moving from a behavioural analysis to an evidence-
+based intervention method. The framework provides a 
+link between theorised sources of behaviour, interven­
+tion functions and policy categories [28]. Therefore, by 
+using the TDF to summarise barriers and facilitators to 
+healthy eating in UK disadvantaged communities we aim 
+to identify whether intervention designers need to focus 
+on specific domains in order to inform future interven­
+tions within this context.
+Purpose of the review
+In this scoping review, we aimed to summarise and 
+systematically chart the available empirical evidence 
+regarding the barriers and facilitators to healthy diet 
+encountered by disadvantaged UK adult. The overarch­
+ing review question was: What is known about the factors 
+that encourage or impede the healthy diet of disadvan­
+taged adults living in the UK? In addressing our over­
+arching research question, our specific objectives were 
+to: (1) identify the barriers and facilitators to healthy diet 
+Page 3 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+from the perspective of disadvantaged UK adults using 
+the theoretical lens of the TDF; and (2) help inform the 
+future development of theory led behavioural change 
+interventions in this target population.
+Method
+We conducted a mixed-method scoping review of pub­
+lished peer-reviewed primary research. Scoping reviews 
+provide an overview of available literature on a topic, they 
+examine the extent, type, range and nature of evidence in 
+order to understand the current status of the knowledge 
+related to a topic of interest, without assessing the qual­
+ity of studies included [29–32]. This approach is recom­
+mended when aiming to summarise a body of work that 
+is diverse in its methodology or discipline [30, 31].
+Review protocol
+We used the framework proposed by Levac and col­
+leagues [30] alongside the Population, Concept, and Con­
+text (PCC) framework from the Joanna Briggs Institute 
+[33]. The review was reported in accordance with the 
+PRISMA Extension for Scoping Reviews [34] (PRISMA-
+ScR; see Appendix A). An initial review protocol was 
+devised and agreed by the research team in September 
+2021 (available from authors on request). As advised 
+by Levac and colleagues [30] we adopted an iterative 
+approach to the review process, engaging with each 
+stage in a reflexive way, repeating steps where necessary 
+to ensure comprehensiveness, therefore we updated the 
+protocol in May 2022 to accommodate revised study 
+selection criteria.
+Eligibility criteria
+Studies of any design which qualitatively and/or quan­
+titatively examined factors influencing healthy eating 
+in disadvantaged communities or individuals in the UK 
+were eligible for inclusion. We aimed for review papers 
+to be included as long as they addressed the research 
+question1.
+Initially, we did not include age as an exclusion criteria, 
+however once familiarity with the literature was gained, 
+studies focused on children or adolescents were found to 
+differ in scope in comparison to the other articles. Hence, 
+inclusion criteria were revised to include only studies of 
+individuals aged 18 and over. Studies of young adults that 
+also included participants aged 16- or 17-year-old, were 
+included if most participants were aged over 18. Studies 
+that included adult participants reporting on children’s 
+dietary intake were excluded.
+Our assessment of healthy eating was guided by the 
+World Health Organisation’s [1] definition of healthy 
+1  However, although the search included over 60 reviews, none were found 
+to focus on the question of interest, emphasizing the gap in the literature.
+eating, namely a diverse diet rich in fruit and vegetables 
+and legumes, that limits intake of saturated fat, free 
+sugars and salt. We included studies specifically assess­
+ing food intake and food purchases. We excluded stud­
+ies that looked at intended consumption or perceptions 
+of healthy eating. We also excluded studies that assessed 
+food insecurity without including specific healthy eat­
+ing indicators, because whilst food insecurity is strongly 
+associated with a poor diet the concept of food insecurity 
+is multi-dimensional and includes concepts that are dif­
+ferent to healthy eating such as feeling unsatisfied [35].
+In terms of barriers and facilitators, factors enhancing 
+or positively influencing healthy eating were regarded 
+as facilitators, whilst factors impeding healthy eating 
+were defined as barriers. In both cases we only consid­
+ered physical, psychological or socio-ecological factors. 
+Biological and genetic factors such assigned sex were 
+not included. Furthermore, socio-demographic charac­
+teristics such as age and nationality were also excluded. 
+Studies were only included if a clear link could be drawn 
+between all variables of interest, namely barriers or facili­
+tators, healthy eating and disadvantage.
+We included studies that measured socio-economic 
+status in a standardised way such as Indexes of mul­
+tiple deprivation (IMD) (e.g. English IMD, Welsh IMD 
+or Scottish IMD) [36] or included food bank attendees, 
+homeless or unemployed individuals as these are indi­
+viduals known to experience the highest level of disad­
+vantage [37, 38]. Studies using low household income 
+as an indicator of SES were included, as low-income 
+is the highest risk factor for disadvantage [39]. Studies 
+using social class indicators based on occupation were 
+excluded unless results were specific to social class E, 
+representative of those who are unemployed and have the 
+lowest grade occupations [40]. Studies that only used sin­
+gle proxies for disadvantage such as educational level or 
+general occupation (unless specific to social class E) were 
+excluded. Studies that compared disadvantaged individu­
+als or communities against other types of communities 
+or groups of individuals were included as long as results 
+pertaining to the disadvantaged communities or individ­
+uals could easily be extracted.
+We only included studies that focused on a UK popu­
+lation or individuals from UK countries, namely Eng­
+land, Wales, Scotland and Northern Ireland. Studies that 
+also included groups of participants from outside the 
+UK were only included if results pertaining to UK dis­
+advantaged communities or individuals could be easily 
+extracted.
+Literature search
+A search of the following electronic databases was con­
+ducted: the Cumulative Index to Nursing and Allied 
+Health Literature–CINAHL (EBSCO), Embase (Ovid), 
+Page 4 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+MEDLINE (Ovid), PsycINFO (EBSCO), and Web of Sci­
+ence. The search was guided by a more general research 
+aim, namely investigating the diet intake of disadvantaged 
+communities or individuals in the UK. An experienced 
+information specialist at the University of Plymouth 
+was consulted prior to starting the search to develop the 
+search strategy to ensure the review process followed a 
+systematic approach. The search strategy was the same 
+as the one used in the scoping review by Hunt and col­
+leagues [41]. Significant terms derived from the main 
+research question were selected and expanded to create a 
+comprehensive list of primary search terms and variants. 
+Population search terms related to individuals of all ages 
+were included. Context related search terms comprised 
+terms such as ‘low-income’, ‘poverty’, ‘deprivation’ and 
+‘vulnerable populations’. Concept related search terms 
+referred to diet in general such as ‘diet’, ‘healthy diet’ 
+‘nutritious’ and ’food quality’ as well as means of dietary 
+intake such as ’eat’ ‘consume’ and ‘family meal’. The 
+search also included terms related to the UK, including 
+one for each UK nation. Searches for population, context, 
+concept and location terms were combined using OR, 
+the subsequent results were combined with the location 
+results using AND. Finally, the research was limited to 
+research published between 01.01.2010 and 29.09.2021, 
+in English language, using human participants. Search 
+strategies for each database can be found in Appendix B. 
+We also performed manual searches using the reference 
+lists of articles that met inclusion criteria.
+Data charting
+Following the search, all identified citations were collated 
+and uploaded into a Microsoft Excel [42] spreadsheet and 
+duplicates were removed. Initially, titles and abstracts 
+were screened for assessment against the inclusion crite­
+ria for the review. The full text of selected citations was 
+assessed in detail against the inclusion criteria by two 
+independent reviewers. Reviewers were blinded to jour­
+nal or author information. Reasons for excluding sources 
+of evidence at full text were recorded. Disagreements that 
+arouse between the reviewers at each stage of the selec­
+tion process were resolved through discussion, or by con­
+sulting a third reviewer.
+The following information was extracted: (1) year of 
+publication, (2) study design, (3) research design, (4) 
+socio-economic indicator used to identify disadvantage, 
+(5) dietary variables assessed by the study, (6) healthy eat­
+ing indicator assessment method, (7) barriers, (8) facilita­
+tors, (9) results pertaining to barriers and facilitators. For 
+intervention studies, the intervention itself was classed 
+as a facilitator if this positively influenced healthy eat­
+ing. For qualitative studies, barriers and facilitators were 
+extracted if they were mentioned as part of a theme or 
+subtheme in the discussion section.
+Synthesis of results
+After initial extraction, the Theoretical Domains Frame­
+work was used to categorise the barriers and facilitators. 
+Two reviewers independently categorised the extracted 
+barriers and facilitators into the 14 TDF domains based 
+on a coding manual with theoretical definitions for each 
+domain [22]. Two reviewers initially reached a 70% 
+agreement on the categorisation of barriers and facilita­
+tors. Discrepancies occurred due to the overlap between 
+domains. It has been acknowledged that TDF domains 
+are not mutually exclusive [43]. For example, smok­
+ing could be considered a decision or a habit and thus 
+linked to identity or alternatively to the context one lives 
+in. The reviewers solved discrepancies through discus­
+sion, rereading source material, and collaboration. When 
+no agreement could be reached, the opinion of a third 
+reviewer determined the final result. Final TDF categori­
+sations were reviewed and discussed with the entire team 
+if any alternative categorisations were plausible.
+Results
+Overall, 9099 records were identified through database 
+searches, and one was identified through the manual 
+search, the abstracts of 6860 articles were screened for 
+eligibility of which 6564 were excluded. Of the remaining 
+296 papers that were included in the full-text screen, 246 
+were excluded as they did not meet eligibility criteria (see 
+Appendix C for a list of all excluded records), leaving 50 
+studies for inclusion. Figure 1 shows the study selection 
+process.
+Table  1 summarizes the characteristics of studies 
+included in this review. The reviewed articles included 
+42 studies that found factors that were either positively 
+or negatively associated with healthy eating and 8 studies 
+that included non-significant findings. Most studies, 68% 
+(n = 34) employed quantitative methods, and the remain­
+der used qualitative methods (n = 16). Studies that used a 
+mixed methodology were classified as either qualitative 
+or quantitative depending on the method which was used 
+to gather data included in this review. Only 14 studies 
+included participants from across the UK, with the most 
+being conducted in England (n = 26). A third of studies 
+(32%) focused on variables related to general healthy eat­
+ing indicators (i.e. healthy eating, diet quality, diet vari­
+ety), whilst the majority focused on specific indicators 
+that could be linked to healthy eating such as fast-food, 
+sugar or processed meat consumption. Fruit and veg­
+etable consumption was the most studied single indica­
+tor of healthy eating and was assessed by 47% of studies 
+included in this review.
+Across all studies we identified 78 barriers and 49 facil­
+itators found to either impede and/or correspondingly 
+encourage healthy eating. We further identified 4 barriers 
+Page 5 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+and 7 facilitators found to have no impact on healthy eat­
+ing in disadvantaged communities.
+Tables 2 and 3 summarize all the barriers and facilita­
+tors organized by data type (quantitative and qualitative) 
+and TDF categorization. Below we provide a summary 
+of findings by TDF domain, in addition to the table we 
+also summarize the few studies that focused on interven­
+tions aimed at several factors. In the summary below, we 
+include an example study for each barrier and facilitator, 
+for the full list please refer to Tables 2 and 3.
+Knowledge
+Low educational attainment was identified as a barrier by 
+four different quantitative studies e.g. [43] (see all studies 
+in Table 1) and conversely higher levels of education were 
+identified as a facilitator e.g. [66]. Limited knowledge 
+regarding foods such as nutritional value [74] or knowl­
+edge about sugar [54] were also identified as a barrier. 
+Having adequate knowledge of healthy meals was also 
+found to facilitate healthy eating [74]. However, Marty et 
+al. [69] found that providing calorie labelling on menus, 
+an approach aimed to encourage healthy food consump­
+tion based on increasing nutritional knowledge, did not 
+significantly encourage healthier consumption in partici­
+pants with a low-socio economic position.
+Skills
+Low cooking and food preparation skills were found to be 
+a barrier e.g. [74]. Blow and colleagues [48], specifically 
+highlighted that individuals often feel their cooking skills 
+cannot match their requirement for variety in diet thus 
+leading to the purchase of take-away meals. Accordingly, 
+two studies found that programmes focused on increas­
+ing cooking skills can facilitate healthy eating e.g. [56]. 
+However, Hutchinson et al. [63] found that attending a 
+cooking skill programme could increase consumption of 
+fruit and vegetables and decrease consumption of snacks 
+irrespective of whether individuals were disadvantaged 
+or not.
+Fig. 1  Flowchart of study selection process
+ 
+Page 6 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+First author
+Type of data
+Country
+N
+Disadvantage 
+Indicator
+Healthy Eating 
+Indicator
+Assessment 
+method
+Barriers
+Facili­
+tators
+Baird et al. 
+[44]
+Quantitative
+England
+527
+Living in disadvan­
+taged area
+Diet quality
+20-item FFQ*
+Y
+N
+Barker et al. 
+[45]
+Qualitative
+England
+112
+Food bank users
+Food quality and variety
+Multiple-pass 24-
+hour recall
+Y
+N
+Barton et al. 
+[46]
+Qualitative
+Northen 
+Ireland
+42
+Northern
+Ireland Mul­
+tiple Deprivation 
+Measure
+Healthy eating
+Qualitative 
+interviews
+Y
+N
+Bellis et al. 
+[47]
+Quantitative
+UK
+7047
+the English Index 
+of Multiple Depri­
+vation 2011 (IMD) 
+and the Welsh 
+Index of Multiple 
+Deprivation 2014 
+(WIMD)
+Fruit and vegetable 
+consumption
+Single item 
+questionnaire
+Y
+Y
+Blow et al. 
+[48]
+Qualitative
+England
+13
+Low-socioeco­
+nomic location
+Take-away consumption
+Semi-structured 
+interviews
+Y
+Y
+Burgoine et 
+al. [49]
+Quantitative
+England
+51,361
+Household 
+income
+Consumption of pro­
+cessed meat
+Dietary screener 
+FFQ
+Y
+N
+Davison et al. 
+[50]
+Qualitative
+Northen 
+Ireland
+14
+Not in education, 
+employment or 
+training
+Healthy eating
+Focus groups
+& Semi-structured 
+interviews
+Y
+Y
+Davison et al. 
+[51]
+Quantitative
+Northen 
+Ireland
+168
+Not in education, 
+employment or 
+training
+Healthy diet
+Junk food and fast-food 
+choice
+19-item FFQ
+Y
+Y
+Ejlerskov et 
+al. [52]
+Quantitative
+UK
+unspecified
+Household social 
+grade E
+Purchase of unhealthy 
+checkouts foods
+Sells data
+N
+Y
+Fielden et al. 
+[53]
+Quantitative
+England
+85
+Low socioeco­
+nomic status
+Fruit and vegetable
+Consumption
+24 h recall method N
+Y
+Forde & 
+Solomon-
+Moore [54]
+Qualitative
+England
+8
+Food bank users
+Sugar consumption
+Semi-structure 
+interviews
+Y
+N
+French & 
+McKillop [55]
+Quantitative
+Northen 
+Ireland
+499
+Household 
+income
+Fruit and vegetable 
+consumption
+Fast-food consumption
+Single item ques­
+tionnaire for each 
+variable
+Y
+N
+Garcia et al. 
+[56]
+Quantitative
+Scotland
+102
+Living in disadvan­
+taged area
+Ready meal consumption
+Fruit and vegetable 
+consumption
+Ready meal consumption
+3-item FFQ
+N
+Y
+Gardner et al. 
+[57]
+Quantitative
+England
+4418
+Living in disadvan­
+taged area
+Fried snack consumption
+Fruit and vegetable 
+consumption
+7-day recall for 
+each variable
+N
+Y
+Garthwaite et 
+al. [58]
+Qualitative
+England
+42
+Food bank users
+Healthy diet
+Semi-structured 
+interviews
+Y
+N
+Goodall et al. 
+[59]
+Quantitative
+England
+114
+Living in disadvan­
+taged area
+Fruit and vegetable 
+consumption
+125-item FFQ & 
+3-day food diary
+N
+Y
+Griffith et al. 
+[60]
+Quantitative
+UK
+6235
+Household 
+income
+Nutrient composition of 
+households’ shopping 
+baskets
+Purchase data
+N
+Y
+Hillier et al. 
+[61]
+Quantitative
+England
+128
+Living in disadvan­
+taged area
+Percentage of food 
+energy from fat (%fat)
+Number of portions of 
+fruit and vegetables (FV)
+Computerised 
+previous day recall 
+programme
+N
+Y
+Holmes & 
+Roberts [62]
+Quantitative
+UK
+662
+Index of material 
+deprivation
+Diet quality
+24-h recall multi-
+pass method 
+recorded on 4 
+consecutive days
+Y
+Y
+Table 1  Characteristics for each study included in the review
+Page 7 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+First author
+Type of data
+Country
+N
+Disadvantage 
+Indicator
+Healthy Eating 
+Indicator
+Assessment 
+method
+Barriers
+Facili­
+tators
+Hutchinson 
+et al. [63]
+Quantitative
+England
+462
+Living in disadvan­
+taged area
+Vegetable intake
+Snack consumption
+Single item FFQ 
+for each variable
+N
+Y
+Jenning et al. 
+[64]
+Quantitative
+England
+255
+Living in disadvan­
+taged area
+Fruit and vegetable 
+intake
+2-item FFQ
+N
+Y
+Jones et al. 
+[65]
+Quantitative
+Wales
+151
+Welsh Index 
+of Multiple of 
+Deprivation
+Improvement in healthy 
+diet
+Single item 
+questionnaire
+N
+Y
+Kearns & 
+Mason [66]
+Quantitative
+Scotland
+1283
+Living in disadvan­
+taged area
+Fruit and vegetables 
+consumption
+Sweet snacks 
+consumption
+Frequency of fast-food 
+and home-cooked main 
+meals consumption
+4-item FFQ
+Y
+Y
+Lucas et al. 
+[67]
+Qualitative
+England
+107
+Household 
+income
+Fruit and vegetable 
+consumption
+In-depth 
+interviews
+N
+Y
+Mackenbach 
+et al. [68]
+Quantitative
+England
+10,020
+Household 
+income
+Fruit and vegetable 
+consumption
+130-item, semi-
+quantitative FFQ
+Y
+N
+Marty et al. 
+[69]
+Quantitative
+UK
+1743
+Household 
+income
+Total energy of food 
+chosen to consume
+Virtual food 
+purchasing
+N
+Y
+McFadden et 
+al. [70]
+Qualitative
+England
+85
+Household 
+income
+Fruit and vegetable 
+purchasing
+Healthy diet
+Focus groups and 
+qualitative partici­
+patory workshops
+N
+Y
+Ntouva et al. 
+[71]
+Quantitative
+UK
+2796
+Household 
+income
+Non-milk extrinsic sugars 
+consumption
+24-hour recall 
+‘multiple pass’ 
+method
+Y
+Y
+Ohly et al. 
+[72]
+Qualitative
+England
+11
+Low-income
+Healthy eating
+Semi-structured 
+interview
+N
+Y
+Packard et al. 
+[73]
+Quantitative
+Scotland
+666
+Scotland Index 
+of Multiple 
+Deprivation
+Fruit and vegetable 
+consumption
+21-item FFQ
+N
+Y
+Paudyal et al. 
+[74]
+Qualitative
+Scotland
+28
+Homeless 
+individuals
+Healthy eating
+Semi-structured 
+interview
+Y
+Y
+Pechey et al. 
+[75]
+Quantitative
+UK
+1509
+Multiple indices 
+of material 
+deprivation
+Pre-packaged snack food
+Participant choice
+N
+Y
+Petchey et al. 
+[76]
+Quantitative
+UK
+732
+Household 
+income
+Fresh fruit, cheese and 
+cake consumption
+Single item FFQ 
+for each variable
+Y
+N
+Phillips et al. 
+[77]
+Quantitative
+England
+3986
+English Indices 
+of Multiple 
+Deprivation
+Unhealthy eating
+FFQ
+N
+Y
+Power et al. 
+[78]
+Qualitative
+England
+22
+Household 
+income
+Healthy eating
+Focus groups
+Y
+N
+Puddephatt 
+et al. [79]
+Qualitative
+England
+24
+Food bank users
+Healthy food choices
+Semi-structured 
+interviews
+Y
+N
+Renton et al. 
+[80]
+Quantitative
+England
+4107
+English Indices 
+of Multiple 
+Deprivation
+Fruit and vegetable 
+consumption
+FFQ
+N
+Y
+Russell et al. 
+[81]
+Quantitative
+England
+11,243
+Index of Multiple 
+Deprivation (IMD)
+Fruit and vegetable 
+consumption
+Single item FFQ
+Y
+N
+Scantlebury 
+et al. [82]
+Quantitative
+UK
+64,874
+Benefits receivers
+Fruit and vegetable 
+consumption
+24 h recall
+N
+Y
+Sprake et al. 
+[83]†
+Qualitative
+England
+24
+Food bank users
+Healthy eating
+Semi-structured 
+interviews
+Y
+Y
+St Clair et al. 
+[84]
+Qualitative
+England
+unspecified
+Living in disadvan­
+taged area
+Fruit and vegetable 
+consumption
+Semi-structure in­
+terviews & group 
+interviews
+N
+Y
+Table 1  (continued)
+ 
+Page 8 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+Social professional role and identity
+One study found that following routines and traditions 
+could encourage unhealthy eating [48]. Being employed 
+or in education [88], and personal factors such as extra­
+version and high sense of coherence emerged as facilita­
+tors [73].
+Beliefs about capabilities
+Perceived lack of control over one’s life [44], and over 
+food [50] was identified as a barrier. This was mirrored 
+in the facilitators, as having personal agency was identi­
+fied as enabling healthy eating [450]. Similarly low-self 
+efficacy was identified as a barrier [44] whereas high food 
+self-efficacy was identified as a facilitator by a separate 
+study [51]. Additionally, general high self-efficacy was 
+also found to predict higher fruit and vegetable intake 
+[73]. Self-affirmation and a high degree of self-esteem 
+were also found to facilitate healthy food choices [53].
+Optimism
+No barriers were identified within this domain, but a low 
+level of hopelessness was found to predict a higher con­
+sumption of fruit and vegetables [73].
+Beliefs and consequences
+No barriers or facilitators were identified in this domain.
+Reinforcement
+No barriers or facilitators were identified in this domain.
+Intentions
+No facilitators were identified in this domain, however 
+three qualitative studies identified three different barri­
+ers. First, low motivation, which was affected by personal 
+circumstances in relation to financial stability was found 
+to affect efforts to reduce sugar consumption [54]. Addi­
+tionally, in two studies healthy food options were disre­
+garded due to the need to satisfy hunger or to survive e.g. 
+[83].
+Goals
+No significant facilitators were identified in this domain, 
+however the perceived need to create more time for lei­
+surely activities was identified as a barrier [46]. Inter­
+estingly, Hellier and colleagues (2012) [61] found that 
+setting healthy eating relating goals did not improve 
+dietary intake when compared to standard advice-giving 
+techniques.
+First author
+Type of data
+Country
+N
+Disadvantage 
+Indicator
+Healthy Eating 
+Indicator
+Assessment 
+method
+Barriers
+Facili­
+tators
+Stead et al. 
+[85]
+Quantitative
+UK
+53,367
+Living in disadvan­
+taged area
+Healthy meal deal 
+purchase
+Low fat milk purchasing
+Electronic point of 
+sale data
+N
+Y
+Stevens et al. 
+[86]
+Quantitative
+UK
+228
+Household 
+income
+Healthy eating
+MCQ
+FFQ
+Optional 24 h 
+recall test
+Y
+N
+Thompson et 
+al. [87]
+Qualitative
+England
+26
+Living in disadvan­
+taged area
+Healthy shopping
+Go-along 
+interviews
+N
+Y
+Thompson et 
+al. [88]
+Qualitative
+England
+14
+Food bank users
+Adequate nutrition
+Semi-structured 
+interview
+Y
+N
+Thornton et 
+al. [88]
+Quantitative
+UK
+3738
+Multiple indices 
+of material 
+deprivation
+Fruit and vegetable 
+consumption
+Low fat milk 
+consumption
+Multiple FFQs
+Y
+Y
+Tong et al. 
+[89]
+Quantitative
+UK
+12,417
+Household 
+income
+Adherence to Mediter­
+ranean diet
+130-item semi-
+quantitative FFQ
+Y
+N
+Tsakos et al. 
+[90]
+Quantitative
+UK
+3728
+Household 
+income
+Fruit and vegetable 
+consumption
+Y
+N
+Vogel et al. 
+[91]
+Quantitative
+England
+60
+Index of Multiple 
+Deprivation (IMD) 
+deciles
+Fruit and vegetable 
+purchasing
+Confectionary purchasing
+Diet quality
+20-item FFQ &
+2-item FFQ
+N
+Y
+Watts et al. 
+[92]
+Quantitative
+England
+1120
+English Indices 
+of Multiple 
+Deprivation
+Fruit and vegetable 
+consumption
+Validated FFQ
+Y
+N
+* FFQ = food frequency questionnaire
+† This study used a mixed methods approach, however the results used in this scoping review were based only on the qualitative findings
+Table 1  (continued)
+ 
+Page 9 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+Memory, attention and decision processes
+No barriers were identified in this domain. For this 
+domain one study identified high food involvement, 
+namely the level of importance of food in a person’s 
+life, as a facilitator [51]. Personal values relating to food 
+choice were identified as a facilitator [48]. Implicit lik­
+ing of fruit and perception of fruit (i.e. perceived healthi­
+ness, satiety and value for money) was shown not to 
+significantly explain the relationship between socio-eco­
+nomic status and frequency of fruit consumption [76].
+Environmental context and resources
+Most factors were identified as being part of this 
+domain. Most studies (74%) included at least one factor 
+that could be classified as either a barrier or a facilita­
+tor in this domain. Within this domain, by far the most 
+common factor was related to financial issues such as 
+Table 2  Barriers to healthy eating for each TDF domain
+TDF domain
+Quantitative
+Qualitative
+Knowledge
+Low educational attainment [44, 92]
+Lack of knowledge about nutritional value of food [74]
+Leaving school at 16 [51, 71]
+Limited knowledge about sugar [54]
+Skills
+Cooking skills vs. variety [48]
+Lack of skills to prepare food [74]
+Social/ professional role 
+identity
+Routine and traditions [48]
+Beliefs and capabilities
+Low sense of control [44]
+Low levels of self-efficacy [44]
+Perceived lack of control [50]
+Optimism
+None identified
+None identified
+Beliefs about consequences None identified
+None identified
+Reinforcement
+None identified
+None identified
+Intentions
+Motivation (affected by personal circumstances in relation to 
+financial stability) [54]
+Shopping to satisfy hunger [74]
+Eating to survive [83]
+Goals
+Perceived need to create more time for leisurely activities [46]
+Memory, attention and 
+decision processes
+None identified
+None identified
+Environmental context and 
+resources
+Financial hardship [55]
+Smoking [62]
+Unemployment [92]
+High cost of healthy food [68, 86, 89]
+Presence of children in the household [88]
+Single-parent household [66]
+Good internal home quality [66]
+Adverse childhood Experience [47]
+Childhood Violence [81] *
+Lack of time [86]
+Poor appetite [62]
+Difficulty in chewing [62]
+Poor dental status [90]
+High -proportion of fast-food outlets [49]
+Inability to work [92]
+Long-standing illness [66]
+Anti-social behaviour in neighbourhood [66]
+Eating dinner on lap rather than at Table [62]
+Issues related to financial hardship [45, 48, 74, 78, 83, 87]
+High cost of fresh food [46, 58, 78, 79]
+Low cost of take-away food [46, 50]
+Transport issues [43, 78]
+Poor nutritional value of donated food [93]
+Lack of flavour due to out of season production [46]
+Lacking or saving time [48]
+Takeaway availability [48, 50]
+Lack of facilities to store, cook or warm food [74]
+Accessibility of shops [78, 79]
+Physical health concerns [54, 74, 80]
+Poor access to healthy meals [54, 74]
+Upbringing [54]
+Reliance on processed foods [54]
+Social influences
+Eating alone [62]
+Bonding with others [48]
+Being part of a community [48]
+Influential others [48]
+Cultural acceptance of sugar consumption [54]
+Emotion
+Fatigue [86]
+Feeling stressed [86]
+Low adult well-being * [81]
+Lack of psychological well-being [46]
+Mental Health concerns [54]
+Emotional state (need for emotional boost) [54]
+Worsened health outcomes [80]
+Behavioural regulation
+Lack of efficacy to engage in a healthy lifestyle [50]
+Food rationing strategies [79]
+* Indicate studies that found the factor not to significantly impede healthy eating or to reduce inequalities
+Page 10 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+unemployment, inability to work, financial hardship and 
+cost of food, identified by 19 separate studies e.g. [45, 93]. 
+More specifically, high cost of healthy food e.g. [78, 86] 
+and low cost of unhealthy foods [50] were identified as a 
+barriers whereas charitable meals [83] and interventions 
+that targeted cost such as healthy start vouchers enabled 
+healthier diets e.g. [70]. However, although healthy start 
+vouchers were identified as a facilitator by three stud­
+ies, one quantitative longitudinal study [82] found that 
+Healthy Start eligible families did not increase their fruit 
+and vegetable intake more than other families following 
+the introduction of Healthy Start in 2006 and up to 2014.
+Table 3  Facilitators to healthy eating for each TDF domain
+Domain
+Quantitative
+Qualitative
+Knowledge
+Finishing education at 18 [71]
+High education [66]
+Health information leaflets [59]
+Energy labelling in fast food restaurant [69]*
+Mid-high education 
+[88]
+Adequate knowl­
+edge on the im­
+portance of healthy 
+meals [74]
+Skills
+Cooking skills programme [30, 56] *
+Social/ professional role and identity
+High extraversion [73]
+High sense of coherence [73]
+Being employed or 
+in education [88]
+Beliefs about capabilities
+High food self-efficacy [51]
+High general self-efficacy [73]
+High degree of self-esteem [73]
+Self-affirmation [53]
+Personal agency [50]
+Optimism
+Low hopelessness [73]
+None identified
+Beliefs about consequences
+None identified
+None identified
+Reinforcement
+None identified
+None identified
+Intentions
+None identified
+None identified
+Goals
+Pledge on dietary intake [61] *
+None identified
+Memory, attention and decision processes
+High Food involvement [51]
+Implicit liking of fruit [76] *
+Perception of fruit (i.e. perceived healthiness, satiety and value for money) [76] *
+Personal values 
+relating to food 
+choice [48]
+Environmental context and resources
+Always available adults [47]
+Childhood happiness [81] *
+Creative activity participation [80]
+Cultural event attendance [80]
+Eating at the Table [62]
+Good appetite [62]
+Not smoking [62]
+Product placement in shops [91]
+Increasing availability healthier options * [69, 75] *
+Community engagement programme [77]
+Mobile food store [64]
+Clear check-out policies [52]
+Good internal home quality [66]
+Anti-social behaviour in neighbourhood [66]
+Good local services and amenities [66]
+Long standing illness [66]
+Two—parent households [66]
+Healthy Start vouch­
+ers [60, 67, 70, 72, 
+82] *
+Charitable meals 
+[83]
+Increasing access 
+through community 
+gardening [89*]
+Social influences
+Support from lay community trainers [59] *
+Family and friends 
+support [74]
+Positive role of 
+healthcare profes­
+sional advice [74]
+Proxy agency [50]
+Collective agency 
+[50]
+Emotion
+None identified
+None identified
+Behavioural regulation
+Damage control [48]
+Restricted and 
+budgeted shopping 
+style [87]
+* Indicate studies that found the factor not to significantly facilitate healthy eating or to reduce inequalities
+Page 11 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+General ill health but also dental health that could lead 
+to difficulty in chewing, particularly in men were also 
+identified as barriers e.g. [62, 66]. One study specifically 
+identified smoking and poor appetite in elderly women 
+as a barrier [62]. Conversely, the same study found 
+good appetite and not smoking to be associated with a 
+higher intake of fruit and vegetables. Findings by Kearns 
+and Mason [66], however, also highlight that whilst ill-
+health can be associated with a poor intake of fruit and 
+vegetables, it is also associated with a lower intake of 
+take-aways.
+Another prevalent issue within this domain, identified 
+in both qualitative and quantitative studies, referred to 
+accessibility, this relates to both shop accessibility and 
+also to the poor accessibility of healthy foods and high 
+accessibility of unhealthy food options such as fast-food 
+[54, 79]. Mobile food stores increased availability of fruit 
+and vegetables in disadvantaged communities and led 
+to an increase intake in fruit and vegetables [64]. Good 
+local services and amenities were also found to be a facili­
+tator [66]. Similarly, altering product placement within 
+supermarkets by allowing more prominent placement of 
+fruits and vegetable and removal of unhealthy foods from 
+checkouts was shown to increase the purchase of healthy 
+products in socioeconomically disadvantaged neighbor­
+hoods [91]. However, one study also found that a com­
+munity garden meant to increase access to fresh fruit and 
+vegetables in a disadvantaged community had very little 
+impact on dietary intake [84]. Similarly, two other stud­
+ies found that increasing availability of healthier options 
+such as healthier pre-packaged snacks and lower calorie 
+options did not affect food choice for participants from 
+either lower or higher socio-economic status [69, 75].
+.
+An additional set of variables within this domain referred 
+to living circumstances. Lack of facilities to store, cook or 
+warm food was identified as a barrier [74]. Similarly, eat­
+ing dinner on one’s lap or on the go was identified as a 
+barrier whereas eating at the dinner table was identified 
+as a facilitator [62]. Household composition could be a 
+barrier or a facilitator, with households with children or 
+single-parent families acting as a barrier, whereas two-
+parent households acting as a facilitator [66].
+This domain also included more general factors such as 
+lack of time which was found to be a barrier by two sepa­
+rate studies [48, 86]. Lack of flavour due to out of season 
+production of fruit and vegetables was also identified as a 
+barrier as was the poor nutritional value of donated food 
+[46, 93]. The chance to attend cultural evets and partici­
+pate in creative activities were also identified as facilita­
+tors [80].
+The presence of antisocial behavior in the neighbor­
+hood and good internal home quality were identified 
+as both barriers and facilitators [66]. Namely, antisocial 
+behavior in the neighborhood was found to increase the 
+likelihood or fast-food consumption but be associated 
+with increased fruit and vegetable consumption. Simi­
+larly, good internal home quality was associated both 
+with higher odds of consuming cakes and snacks but also 
+higher odds of consuming fruits and vegetables [66].
+Variables related to upbringing were also mentioned. 
+Upbringing in general and adverse childhood experi­
+ences in particular were mentioned as barriers [47, 54], 
+and conversely the presence of always available adults 
+whilst growing up was a facilitator [47]. However, Russell 
+et al. [81] show that this is not a problem specific to dis­
+advantaged communities. They found that childhood vio­
+lence is a barrier to healthy eating for all socio-economic 
+groups, in the same way that childhood happiness is a 
+facilitator to all.
+Social influences
+Similar factors were identified as both a barrier and 
+facilitators. Bonding with others and being part of a com­
+munity were found to negatively influence healthy eat­
+ing [48]. This is because unhealthy food options such as 
+take-away consumption can support social relationships. 
+However, support from family was found to positively 
+influence healthy eating [74]. Similarly, the positive role 
+of healthcare professional advice and proxy and collec­
+tive agency we also found to be facilitators [50]. However, 
+Goodall et al. [69] found that for a group of disadvan­
+taged individuals with cardio-vascular disease, support 
+from lay health trainers did not have significant impact 
+when compared to offering health information leaflets.
+Emotion
+No facilitators were identified for this domain. Barriers 
+mostly focused on low mental health and individual’s 
+need for an emotional boost that unhealthy foods can 
+offer e.g. [54]. Fatigue and stress were also mentioned 
+[86]. However, it is worth mentioning that low adult well­
+being was found to be a barrier to healthy eating across 
+all socio-economic positions and thus not specific to dis­
+advantaged individuals [781].
+Behavioral regulation
+In this domain, lack of efficacy to engage in a healthy life­
+style was found to be a barrier [50]. Additionally, the need 
+to ration food was found to lead individuals to engage in 
+strategies that lead to unhealthy food related habits such 
+as skipping meals [79]. In terms of facilitators, restricted 
+and budgeted shopping (i.e. having clear shopping objec­
+tives and planning purchases, and limited choices deci­
+sively either in terms of money, health considerations or 
+Page 12 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+both) lead to the purchase of more fruit and vegetables 
+[87]. Additionally, damage control, namely strategies 
+individuals engaged in when wanting unhealthy foods 
+such as managing/ reducing portion size, was found to be 
+a facilitator [48].
+In addition to the individual factors described above, 
+four studies also focused on multi-component interven­
+tions aimed at targeting several factors places across dif­
+ferent TDF domains. The Well-London intervention [77] 
+focused on using traditional health behaviour change 
+activities, improving the local environment, provid­
+ing cultural activities, and improving employment and 
+training opportunities. This intervention was found to 
+significantly increase the intake of fruit and vegetables. 
+The NHS Health Trainer Service [57] targeted goal set­
+ting, action and coping planning but also aimed to 
+make participants aware of environmental triggers to 
+unwanted actions and increase self-efficacy for initiating 
+and maintaining change. The programme also showed a 
+70% increase in fruit and vegetable intake in disadvan­
+taged individuals. Additionally, the JIGSO young families’ 
+project, offered help to disadvantaged young people from 
+17 weeks of pregnancy. The project involved women’s 
+antenatal groups, peer-support mother and baby groups, 
+parenting classes and a 6-week healthy relationships 
+course [65]. Findings suggest that the majority of moth­
+ers attending the trial improved their diet whilst preg­
+nant as a result of attending the programme. Finally, the 
+intervention from Stead and colleagues [85] focused on 
+marketing price promotion, but also included healthy 
+eating advice and recipe suggestions on the purchase of 
+selected healthier foods by low-income consumers. The 
+intervention led to an increase in purchases for healthy 
+meal deals, and lower fat percentage milk.
+Discussion
+The purpose of this study was to identify the barriers and 
+facilitators to healthy eating experienced by disadvan­
+taged individuals in the UK. To the best of our knowledge, 
+this is the first review on barriers and facilitators related 
+to healthy eating specifically for disadvantaged UK adults 
+using a TDF analysis. Findings show that although barri­
+ers and facilitators to healthy eating in UK disadvantaged 
+individuals can be identified for most TDF domains, the 
+vast majority can be classed as part of the environmen­
+tal context and resources domain. Linking our findings to 
+the Behavioural Change Wheel [94], highlights that the 
+environmental context and resources domain relates to 
+the Opportunity part of the COM-B model (‘capability’, 
+‘opportunity’, ‘motivation’ and ‘behaviour’). This implies 
+that interventions need to focus on modifying factors 
+in the physical environment rather than an individual’s 
+capacity (i.e. capability) or their willingness to change (i.e. 
+motivation). These results align with findings by Hunt 
+and colleagues [41], which show the importance of struc­
+tural issues and the need for structural change in relation 
+to the diet disadvantaged communities in the UK.
+Currently however, most dietary interventions focus 
+on individual decision-making, largely ignoring the 
+effects of environmental cues on human behaviour [95]. 
+Our review challenges this assumption and suggests 
+that environmental factors should also be considered. 
+Despite what our review suggests, the most widely used 
+theoretical framework for behavioural interventions tar­
+geting healthy eating is social cognitive theory, which tar­
+gets self-efficacy and outcome expectancy, both of which 
+are individual factors [96–98]. Therefore, there is an 
+overreliance on the assumption that improving an indi­
+vidual’s nutrition knowledge and skills can lead to them 
+subsequently adopting a healthier diet. This is apparent 
+within the UK, where one of the largest national social 
+marketing campaigns, Change4Life [99], uses informa­
+tion to help promote a healthier lifestyle and where the 
+Levelling-up Agenda [8] highlights its commitments to 
+promoting cooking skills and nutrition education. Whilst 
+our review did identify individual factors such as sense 
+of control and self-efficacy as being influential to healthy 
+eating e.g. [44, 50, 51], it also reveals a nuanced under­
+standing of the factors linked to healthy eating. Cooking 
+skills for example were shown to make a difference for 
+some individuals [48, 74], however findings by Hutchin­
+son et al. [63] imply that such interventions are unlikely 
+to address inequalities. Given the results of our review, 
+policy makes and practitioners need to consider that the 
+offer of cooking classes might not be effective unless par­
+ticipants are also enabled to reliably access healthy ingre­
+dients. Interventions that focus on acquiring knowledge 
+should also be considered carefully as other research 
+confirms that disadvantaged individuals are both aware 
+of the need to make changes to their eating habits and 
+willing to do so but struggle nonetheless [78].
+Ignoring the importance of environmental factors can 
+lead to poorly developed interventions that can either 
+be ineffective or backfire leaving customers disempow­
+ered and eroding policy and public support thus creat­
+ing more challenges for successful implementation in the 
+future [100–102]. The current review can pinpoint the 
+type of intervention that are more likely to be successful 
+due to the use of the TDF framework and its link to the 
+Behavioural Change Wheel that provides a guide for the 
+selection of intervention functions, policy categories and 
+behaviour change techniques. Specifically, the Behav­
+ioural Change Wheel suggests that factors linked to phys­
+ical opportunity, as identified in our review, should be 
+addressed by interventions targeting restriction, enable­
+ment, and environmental restructuring [28].
+Interventions based on restriction constrain behaviour 
+by setting rules. In our review, Pechey and colleagues 
+Page 13 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+[75] found that removing unhealthy options from disad­
+vantaged communities could have greater impact that 
+increasing access to healthy options. Indeed, interven­
+tions that focus on changing the environment in which 
+choices are made through choice-architecture and nudg­
+ing (i.e. interventions that lead people to do things with­
+out it being obvious to them that their behaviour is being 
+shaped) [103] are effective at encouraging healthy eating 
+[104]. For example, convenience enhancements, that is 
+increasing the ease with which consumers can alter their 
+choices has been shown to be one of the most effective 
+nudge strategies [105]. Policy makers in the UK have 
+attempted to implement such an approach through leg­
+islation banning multibuy deals on foods and drinks high 
+in fat, salt, or sugar [106]. However, despite evidence 
+about the effectiveness of such an approach, the Gov­
+ernment has delayed this legislation, whilst reasoning 
+that individual should have the right to choose what they 
+want to consume in times of economic upheaval [107]. 
+Whilst disappointing, this could be because implement­
+ing interventions based on choice architecture can be 
+challenging for policymakers due to negative public opin­
+ion [104, 108]. For example, reduction in portion sizes, 
+another behavioural nudge, was found to be one of the 
+most disliked approaches to reducing sugar intake [105]. 
+It could therefore be challenging to use choice architec­
+ture to target barriers found in our review such as reli­
+ance on processed foods [54] or lack of efficacy to engage 
+in a healthy lifestyle [50]. Encouragingly however, sharing 
+the positives of adopting such an approach can increase 
+public acceptability of interventions [109]. This is why it 
+is also imperative that the intention-behaviour gap (fail­
+ure to translate intentions into actions) [110] related to 
+healthy eating in disadvantaged individuals is clearly 
+communicated so that there is a shift in the public’s per­
+ception that interventions need to focus on individual 
+capacity or motivation. The current review provides fur­
+ther evidence for the intention-behaviour gap related to 
+healthy eating in disadvantaged individuals, as it clearly 
+shows that most barriers and facilitators are outside of 
+individual’s control.
+Alternatively, interventions that focus on enablement 
+aim to provide support to improve ability to change 
+[28]. In our review by far the biggest barrier to healthy 
+eating was related to financial issues such as unemploy­
+ment, inability to work, financial hardship and cost of 
+food [45, 93]. Unfortunately, there has been little effort 
+to address issues related to insecure work which is 
+known to disproportionately affect those from disad­
+vantaged communities [111]. However, it is somewhat 
+encouraging that the UK Government has been consid­
+ering some recommendations related to interventions 
+that focus on enablement. Two of the recommendations 
+from the National Food Strategy [12] aimed at reducing 
+diet-related inequality focus on affordability and acces­
+sibility that can be regarded to be under the enablement 
+umbrella. The recommendation affordability around cen­
+tres on the expansion of the Healthy Start scheme, and 
+although our review found several studies to support this 
+scheme as a facilitator [60, 67, 70, 72], others have also 
+found this not to make a difference to healthy eating [82]. 
+Additionally, a more recent study using a larger data­
+set and an appropriate control group also showed that 
+Healthy Start vouchers are unlikely to make an impact 
+on the dietary behaviours of its target population [112]. 
+The recommendation in the National Food Strategy [12] 
+is to expand the financial eligibility and extend the age 
+limit, however this might only be helpful if uptake of the 
+scheme is also improved [70], and if voucher value takes 
+into account rising inflation rates [109]. The second rec­
+ommendation relates to the implementation of a com­
+munity programme involving prescriptions of fruit and 
+vegetables, food education and social support. The focus 
+on multiple elements is laudable, as our review also high­
+lights that such interventions can be effective e.g. [57, 
+77]. Furthermore, prescribing fruits and vegetables could 
+help address financial barriers to healthy eating and thus 
+enable individuals to make healthier choices, this is perti­
+nent given that our review identified high cost of healthy 
+food to be a major barrier e.g. [54, 68, 74, 86, 89]. Cur­
+rently, however the prescription intervention is being 
+piloted in only two London boroughs and is yet to be 
+rolled out across the UK [113]. Furthermore, these inter­
+ventions and means tested and only available to families 
+which limits uptake. Other projects that are trying to 
+address these limitations, such as the Fresh Street Com­
+munity initiative part of the larger FoodSEqual project 
+could provide additional insight into the value of easy 
+and cheap access to fruit and vegetables [114].
+The focus on food education however may need fur­
+ther consideration. Our review did highlight that educa­
+tion can act as a barrier and a facilitator to healthy eating, 
+however most studies referred to general education [44, 
+51, 71, 92]. Only two studies found that food related 
+education could be beneficial to healthy eating [54, 74], 
+however these were studies with a small sample size 
+assessing perceived knowledge rather than actual knowl­
+edge. Therefore, on balance, our review highlights that 
+rather than focusing on food knowledge, policy makers 
+might also want to consider raising general educational 
+attainment. Overall, whilst the government has been 
+considering interventions focusing on enabling healthier 
+choices for disadvantaged individuals, more works needs 
+to be done so that individuals can benefit from such 
+interventions.
+Finally, interventions aimed at environmental restruc­
+turing look at constraining or promoting behaviour 
+by shaping the physical environment [28]. Our review 
+Page 14 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+clearly highlights barriers to healthy eating that relate to 
+the physical environment such as takeaway availability 
+[48–50]. One way the Government has tried to address 
+this is via restrictions relating to the accessibility of fast-
+food outlets in deprived neighbourhoods. However, lat­
+est figures suggest that despite proposals to regulate their 
+proliferation through urban planning, only 50% of local 
+authorities have a policy specifically targeting takeaway 
+food outlets, and only 34% focused on health [115]. Wor­
+ryingly, the effectiveness of urban planning strategies 
+such as restricting new fast-food outlets [116], is being 
+threatened by access to online food delivery services, 
+which appears to be greatest in most deprived areas 
+[117]. This highlights the potential need to develop inter­
+ventions targeting the use of online delivery services for 
+this target population, Jesse et al. [118], for example show 
+that setting default options and adding social informa­
+tion, are nudges that can help individuals select healthier 
+food options in digital contexts.
+Overall, this review highlights important areas where 
+attention could be focused when considering the most 
+effective interventions to improve healthy eating in disad­
+vantaged communities. The systematic approach, use of 
+a TDF to systemize the results and the inclusion of both 
+qualitative and quantitative research are strengths of the 
+paper. Barriers or facilitators could not be identified for 
+several domains, although factors pertaining to these 
+domains have been identified as being of importance in 
+other populations, for example optimism has been shown 
+to positively correlate with healthy eating [119] and 
+higher endorsement of the negative outcomes of obesity 
+is significantly associated with diet quality [120]. This is 
+likely to be due to the retrospective use of the framework 
+on available research results, and highlights gaps in the 
+literature that can be addressed by future research.
+Several limitations also need to be acknowledged, 
+given the nature of this review, the quality of the research 
+included was not assessed. Furthermore, when using the 
+TDF reviewers identified a single most relevant domain 
+for each factor, even though domains are not mutually 
+exclusive. The review also did not include grey literature; 
+thus all relevant evidence might have not been identi­
+fied. Additionally, no analysis of specific sub-populations 
+within the adult population was carried out, for example 
+looking at gender or cultural barriers. We also included 
+several indices to identify disadvantaged individuals but 
+make no comparisons between findings for the differ­
+ent groups in respect to this, future reviews could seek 
+address this in the future.
+In conclusion, even though most interventions related 
+to healthy eating focus on individual responsibility, 
+the current review suggests that to encourage healthy 
+eating in disadvantaged individuals the focus should 
+instead be on enabling, restricting, and restructuring the 
+environment. This is because most of the barriers and 
+facilitators that disadvantaged individuals face are linked 
+to the environmental context and the circumstances 
+they live in. We acknowledge that interventions based 
+on choice-architecture, such as the ones suggested in 
+this paper, are difficult to implement, often due to pub­
+lic perception. Thus, we also advise that it is crucial that 
+he public becomes more aware that disadvantaged indi­
+viduals do desire to eat healthily, but often cannot do so 
+due to the characteristics of the environment they find 
+themselves in. This awareness should make it clear why 
+interventions need to shift away from focusing on moti­
+vation and capacity and instead focus on infrastructure 
+and societal frameworks.
+Supplementary Information
+The online version contains supplementary material available at https://doi.
+org/10.1186/s12889-024-19259-2.
+Supplementary Material 1
+Supplementary Material 2
+Supplementary Material 3
+Author contributions
+The review was jointly designed by RB and RMc. LH and CP devised the 
+literature search strategy. RB and LH performed the literature searches. RB 
+and FM performed data extraction, with decisions about inclusion/exclusion 
+of studies and data extraction validated by RMc. Analysis was predominantly 
+undertaken by RB with discussion of interpretations with RMc. CW made 
+substantial contributions to the conception of the review. RB wrote the paper 
+and all authors reviewed and edited drafts. All authors approved the final 
+manuscript.
+Funding
+This research is funded by the project entitled Co-production of healthy, 
+sustainable food systems for disadvantaged communities (FoodSEqual, 
+BB/V004905/1), one of four consortia projects focused on food systems 
+transformation, funded by the UKRI Strategic Priorities Fund 2021 − 2015. The 
+funding body had no role in the study design, analysis or data interpretation.
+Data availability
+The dataset used during the current study is available from the corresponding 
+author on reasonable request.
+Declarations
+Ethical approval
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Received: 21 November 2023 / Accepted: 25 June 2024
+Page 15 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+References
+1.	
+World Health Organization (WHO). Healthy diet [Internet]. Healthy diet. 2020 
+[cited 2020 Oct 25]. https://www.who.int/news-room/fact-sheets/detail/
+healthy-diet.
+2.	
+Cobiac LJ, Scarborough P, Kaur A, Rayner M. The Eatwell guide: modelling the 
+health implications of incorporating new sugar and fibre guidelines. PLoS 
+ONE. 2016;11(12):e0167859.
+3.	
+Tobi R. Veg Facts 2021: a briefing by the Peas Please initiative Technical 
+Report, 2021.
+4.	
+Bates B, Collins D, Jones K, Page P, Roberts C, Steer T, Swan G. NDNS: results 
+from years 9 to 11 (2016 to 2017 and 2018 to 2019).2020.
+5.	
+Steenson S, Buttriss JL. Healthier and more sustainable diets: what changes 
+are needed in high-income countries? Nutr Bull. 2021;46(3):279–309.
+6.	
+Public Health England. The Eatwell Guide; Public Health England in association 
+with the Welsh Government FSSatFSAiNI: UK, 2016. Available online: https://
+www.nhs.uk/live-well/eat-well/the-eatwell-guide (accessed on 30 March 
+2024).
+7.	
+Townsend P, Deprivation. J Social Policy. 1987;16(2):125–46.
+8.	
+Hughes I. The Broken Plate 2023. 2023.
+9.	
+Anekwe TD, Rahkovsky I. Economic costs and benefits of healthy eating. Curr 
+Obes Rep. 2013;2:225–34.
+10.	 Marmot M. Fair society, healthy lives. Fair Soc Healthy Lives. 2013:1–74.
+11.	 HM Government. Levelling up the United Kingdom [Internet]. 2022 [cited 
+2021 Nov 11]. https://assets.publishing.service.gov.uk/government/uploads/
+system/uploads/attachment_data/file/1052706/Levelling_Up_WP_HRES.pdf.
+12.	 Dimbleby H. National Food Strategy: The Plan (Part Two: Final Report). [Inter­
+net] 2022, Jul [cited2023 Nov 11]Nov. https://www.nationalfoodstrategy.org/.
+13.	 Transforming UK. Food Systems. [Internet]cited (2023, August 24). Available 
+from:. https://ukfoodsystems.ukri.org/.
+14.	 FoodSEQual -. Transforming UK food Systems. [Internet]cited 
+(2023, June 26). Available from:. https://ukfoodsystems.ukri.org/
+research-projects-training-reports/food-systems-equality/.
+15.	 Limb M. Government’s feeble food strategy fails to tackle health challenges, 
+say experts. BMJ. 2022;377:o1460.
+16.	 Colombet Z, O’Flaherty M, Capewell S. England’s food strategy: missed 
+opportunity to use fiscal food policy levers to improve diets and reduce 
+health inequalities. BMJ. 2022;o1835.
+17.	 Ryan RA, Lappen H, Bihuniak JD. Barriers and facilitators to healthy eating 
+and physical activity postpartum: a qualitative systematic review. J Acad Nutr 
+Dietetics. 2021;122(3).
+18.	 Kelly S, Martin S, Kuhn I, Cowan A, Brayne C, Lafortune L. Barriers and 
+Facilitators to the Uptake and Maintenance of Healthy Behaviours by 
+People at Mid-Life: A Rapid Systematic Review. Wang Y, editor. PLOS ONE. 
+2016;11(1):e0145074.
+19.	 Wetherill MS, Duncan AR, Bowman H, Collins R, Santa-Pinter N, Jackson M, 
+et al. Promoting nutrition equity for individuals with physical challenges: 
+a systematic review of barriers and facilitators to healthy eating. Prev Med. 
+2021;153:106723.
+20.	 Zorbas C, Palermo C, Chung A, Iguacel I, Peeters A, Bennett R et al. Factors 
+perceived to influence healthy eating: a systematic review and meta-ethno­
+graphic synthesis of the literature. Nutr Rev. 2018;76(12).
+21.	 Shepherd J. Young people and healthy eating: a systematic review of 
+research on barriers and facilitators. Health Educ Res. 2005;21(2):239–57.
+22.	 Ravikumar-Grant D, Kelly C, Gabhainn SN. The determinants of the nutritional 
+quality of food provided to the homeless population: a mixed methods 
+systematic review protocol. 2023;12(1).
+23.	 Cane J, O’Connor D, Michie S. Validation of the theoretical domains frame­
+work for use in behaviour change and implementation research. Implement 
+Sci. 2012;7(1).
+24.	 Atkins L, Francis J, Islam R, O’Connor D, Patey A, Ivers N et al. A guide to using 
+the theoretical domains Framework of Behaviour Change to investigate 
+implementation problems. Implement Sci. 2017;12(1).
+25.	 Glowacki K, Duncan MJ, Gainforth H, Faulkner G. Barriers and facilitators 
+to physical activity and exercise among adults with depression: a scoping 
+review. Ment Health Phys Act. 2017;13(1):108–19.
+26.	 Heslehurst N, Newham J, Maniatopoulos G, Fleetwood C, Robalino S, Rankin 
+J. Implementation of pregnancy weight management and obesity guide­
+lines: a meta-synthesis of healthcare professionals’ barriers and facilitators 
+using the theoretical domains Framework. Obes Rev. 2014;15(6):462–86.
+27.	 Michie S, van Stralen MM, West R. The behaviour change wheel: a new 
+method for characterising and designing behaviour change interventions. 
+Implement Sci. 2011;6(42).
+28.	 West R, Michie S, Chadwiock P, Atkins L, Lorencatto F. Achieving behaviour 
+change: a guide for national government. Public Health Engl. 2020.
+29.	 Arksey H, O’Malley L. Scoping studies: towards a Methodological Framework. 
+Int J Soc Res Methodol. 2005;8(1):19–32.
+30.	 Levac D, Colquhoun H, O’Brien KK. Scoping studies: advancing the methodol­
+ogy. Implement Sci. 2010;5(1):1–9.
+31.	 Tricco AC, Lillie E, Zarin W, O’Brien K, Colquhoun H, Kastner M, et al. A scoping 
+review on the conduct and reporting of scoping reviews. BMC Med Res 
+Methodol. 2016;16(1):1–10.
+32.	 Rumrill PD, Fitzgerald SM, Merchant WR. Using scoping literature reviews 
+as a means of understanding and interpreting existing literature. Work. 
+2010;35(3):399–404.
+33.	 Peters MD, Godfrey C, McInerney P, Munn Z, Tricco AC, Khalil H. Scoping 
+reviews. Joanna Briggs Inst Reviewer’s Man. 2017;2015:1–24.
+34.	 Tricco AC, lillie E, Zarin W, et al. PRiSMA extension for scop-ing reviews 
+(PRiSMA-ScR): checklist and explanation. Ann Intern Med. 2018;169(7):467–
+73. https://doi.org/10.7326/M18-0850.
+35.	 Schroeder K, Smaldone A. Food Insecurity: a Concept Analysis. Nurs Forum. 
+2015;50(4):274–84.
+36.	 Department for Communities and Local Government. The English Index 
+of Multiple Deprivation (IMD) 2015–Guidance. 2015. https://www.gov.uk/
+government/uploads/system/uploads/attachment_data/file/464430/Eng­
+lish_Index_of_Multiple_Deprivation_2015_-_Guidance.pdf (02 April 2024, 
+date last accessed).
+37.	 England’s most disadvantaged groups: Homeless people An Is England 
+Fairer? review spotlight report (2 of 4) Equality and Human Rights Com­
+mission www.equalityhumanrights.com/IsEnglandFairer [Internet]. 2016. 
+https://www.equalityhumanrights.com/sites/default/files/is-england-fairer-
+2016-most-disadvantaged-groups-homeless-people.pdf.
+38.	 MacLeod MA, Curl A, Kearns A. Understanding the prevalence and Drivers 
+of Food Bank Use: evidence from deprived communities in Glasgow. Social 
+Policy Soc. 2018;18(1):67–86.
+39.	 Calandrino M, Low-income. and Deprivation in British Families: An Explor­
+atory Analysis of the ‘consistent Poverty’ Approach to Poverty Measurement 
+Using Data for Great Britain Drawn from the Families and Children Study: 
+a Study Carried Out on Behalf of the Department for Work and Pensions. 
+Department for Work and Pensions. 2003, Jan 1.
+40.	 Rose D, Pevalin D. A researcher’s guide to the National statistics Socio-
+economic classification. 6 Bonhill Street, London England EC2A 4PU United 
+Kingdom. SAGE Publications, Ltd; 2003.
+41.	 Hunt L, Pettinger C, Wagstaff C. A critical exploration of the diets of UK dis­
+advantaged communities to inform food systems transformation: a scoping 
+review of qualitative literature using a social practice theory lens. BMC Public 
+Health. 2023;23(1).
+42.	 Microsoft Corporation. Microsoft Excel Online, Spreadsheet Software [Inter­
+net]. www.microsoft.com.2018. https://office.microsoft.com/excel.
+43.	 Michie S, Johnston M, Abraham C, Lawton R, Parker D, Walker A. Making 
+psychological theory useful for implementing evidence based practice: a 
+consensus approach. Qual Saf Health Care. 2015;14(1):26–33.
+44.	 Baird J, Jarman M, Lawrence W, Black C, Davies J, Tinati T, et al. The effect of 
+a behaviour change intervention on the diets and physical activity levels of 
+women attending Sure Start children’s centres: results from a complex public 
+health intervention. BMJ Open. 2014;4(7):e005290–0.
+45.	 Barker ME, Halliday V, Mak D, Wottge M, Russell JM. Food security, nutrition 
+and health of food bank attendees in an English city: a cross-sectional study. 
+J Hunger Environ Nutr. 2018;14(1–2):155–67.
+46.	 Barton M, Kearney J, Stewart-Knox BJ. Knowledge of Food Production meth­
+ods informs attitudes toward food but Not Food Choice in adults residing in 
+socioeconomically deprived rural areas within the United Kingdom. J Nutr 
+Educ Behav. 2011;43(5):374–8.
+47.	 Bellis MA, Hardcastle K, Ford K, Hughes K, Ashton K, Quigg Z et al. Does 
+continuous trusted adult support in childhood impart life-course resilience 
+against adverse childhood experiences - a retrospective study on adult 
+health-harming behaviours and mental well-being. BMC Psychiatry. 
+2017;17(1).
+48.	 Blow J, Patel S, Davies IG, Gregg R. Sociocultural aspects of takeaway food 
+consumption in a low-socioeconomic ward in Manchester: a grounded 
+theory study. BMJ Open. 2019;9(3):e023645.
+49.	 Burgoine T, Sarkar C, Webster CJ, Monsivais P. Examining the interaction of 
+fast-food outlet exposure and income on diet and obesity: evidence from 
+51,361 UK Biobank participants. Int J Behav Nutr Phys Activity [Internet]. 
+2018;15(1).
+Page 16 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+50.	 Davison J, Share M, Hennessy M, Knox BS. Caught in a spiral. Barriers to 
+healthy eating and dietary health promotion needs from the perspec­
+tive of unemployed young people and their service providers. Appetite. 
+2015;85:146–54.
+51.	 Davison J, Share M, Hennessy M, Bunting B, Markovina J, Stewart-Knox B. 
+Correlates of food choice in unemployed young people: the role of demo­
+graphic factors, self-efficacy, food involvement, food poverty and physical 
+activity. Food Qual Prefer. 2015;46:40–7.
+52.	 Ejlerskov K, Sharp SJ, Stead M, Adamson AJ, White M, Adams J. Socio-eco­
+nomic and age variations in response to supermarket-led checkout food poli­
+cies: a repeated measures analysis. Int J Behav Nutr Phys Activity. 2018;15(1).
+53.	 Fielden AL, Sillence E, Little L, Harris PR. Online self-affirmation increases 
+Fruit and Vegetable Consumption in groups at High Risk of Low Intake. Appl 
+Psychology: Health Well-Being. 2016;8(1):3–18.
+54.	 Forde H, Solomon-Moore E. A qualitative study to understand the potential 
+efficacy of an information-based Sugar reduction intervention among 
+low socioeconomic individuals in the UK. Int J Environ Res Public Health. 
+2019;16(3):413.
+55.	 French D, McKillop D. The impact of debt and financial stress on health in 
+Northern Irish households. J Eur Social Policy. 2017;27(5):458–73.
+56.	 Garcia AL, Vargas E, Lam PS, Shennan DB, Smith F, Parrett A. Evaluation of a 
+cooking skills programme in parents of young children – a longitudinal study. 
+Public Health Nutr. 2013;17(5):1013–21.
+57.	 Gardner B, Cane J, Rumsey N, Michie S. Behaviour change among overweight 
+and socially disadvantaged adults: a longitudinal study of the NHS Health 
+Trainer Service. Psychol Health. 2012;27(10):1178–93.
+58.	 Garthwaite KA, Collins PJ, Bambra C. Food for thought: an ethnographic study 
+of negotiating ill health and food insecurity in a UK foodbank. Soc Sci Med. 
+2015;132:38–44.
+59.	 Goodall M, Barton GR, Bower P, Byrne P, Cade JE, Capewell S, et al. Food for 
+thought: pilot randomized controlled trial of lay health trainers supporting 
+dietary change to reduce cardiovascular disease in deprived communities. J 
+Public Health. 2013;36(4):635–43.
+60.	 Griffith R, von Hinke S, Smith S. Getting a healthy start: the effective­
+ness of targeted benefits for improving dietary choices. J Health Econ. 
+2018;58:176–87.
+61.	 Hillier FC, Batterham AM, Nixon CA, Crayton AM, Pedley CL, Summerbell CD. 
+A community-based health promotion intervention using brief negotia­
+tion techniques and a pledge on dietary intake, physical activity levels and 
+weight outcomes: lessons learnt from an exploratory trial. Public Health Nutr. 
+2011;15(8):1446–55.
+62.	 Holmes BA, Roberts CL. Diet quality and the influence of social and physical 
+factors on food consumption and nutrient intake in materially deprived older 
+people. Eur J Clin Nutr. 2011;65(4):538–45.
+63.	 Hutchinson J, Watt JF, Strachan EK, Cade JE. Evaluation of the effectiveness of 
+the Ministry of Food cooking programme on self-reported food consump­
+tion and confidence with cooking. Public Health Nutr. 2016;19(18):3417–27.
+64.	 Jennings A, Cassidy A, Winters T, Barnes S, Lipp A, Holland R, et al. Positive 
+effect of a targeted intervention to improve access and availability of fruit 
+and vegetables in an area of deprivation. Health Place. 2012;18(5):1074–8.
+65.	 Jones SW, Darra S, Davies M, Jones C, Sunderland-Evans W, Ward MRM. Col­
+laborative working in health and social care: lessons learned from post‐hoc 
+preliminary findings of a young families’ pregnancy to age 2 project in South 
+Wales, United Kingdom. Health & Social Care in the Community; 2020.
+66.	 Kearns A, Mason P. Regeneration, relocation and health behaviours in 
+deprived communities. Health Place. 2015;32:43–58.
+67.	 Lucas PJ, Jessiman T, Cameron A. Healthy start: the Use of Welfare 
+Food vouchers by low-income parents in England. Social Policy Soc. 
+2015;14(3):457–69.
+68.	 Mackenbach JD, Brage S, Forouhi NG, Griffin SJ, Wareham NJ, Monsivais P. 
+Does the importance of dietary costs for fruit and vegetable intake vary by 
+socioeconomic position? Br J Nutr. 2015;114(9):1464–70.
+69.	 Marty L, Jones A, Robinson E. Socioeconomic position and the impact of 
+increasing availability of lower energy meals vs. menu energy labelling on 
+food choice: two randomized controlled trials in a virtual fast-food restaurant. 
+Int J Behav Nutr Phys Activity. 2020;17(1).
+70.	 McFadden A, Green JM, Williams V, McLeish J, McCormick F, Fox-Rushby J et 
+al. Can food vouchers improve nutrition and reduce health inequalities in 
+low-income mothers and young children: a multi-method evaluation of the 
+experiences of beneficiaries and practitioners of the healthy start programme 
+in England. BMC Public Health. 2014;14(1).
+71.	 Ntouva A, Tsakos G, Watt RG. Sugars consumption in a low-income sample of 
+British young people and adults. Br Dent J. 2013;215(1):E2–2.
+72.	 Ohly H, Crossland N, Dykes F, Lowe N, Moran VH. A realist qualitative study to 
+explore how low-income pregnant women use healthy start food vouchers. 
+Matern Child Nutr. 2019;15(1):e12632.
+73.	 Packard CJ, Cavanagh J, McLean JS, McConnachie A, Messow CM, Batty GD, 
+et al. Interaction of personality traits with social deprivation in determining 
+mental wellbeing and health behaviours. J Public Health. 2012;34(4):615–24.
+74.	 Paudyal V, MacLure K, Forbes-McKay K, McKenzie M, MacLeod J, Smith A, et al. 
+If I die, I die, I don’t care about my health: perspectives on self‐care of people 
+experiencing homelessness. Health Soc Care Commun. 2019;28(1):160–72.
+75.	 Pechey R, Marteau TM. Availability of healthier vs. less healthy food and food 
+choice: an online experiment. BMC Public Health. 2018;18(1).
+76.	 Pechey R, Monsivais P, Ng YL, Marteau TM. Why don’t poor men eat fruit? 
+Socioeconomic differences in motivations for fruit consumption. Appetite. 
+2015;84:271–9.
+77.	 Phillips G, Bottomley C, Schmidt E, Tobi P, Lais S, Yu G, et al. Well London 
+Phase-1: results among adults of a cluster-randomised trial of a community 
+engagement approach to improving health behaviours and mental well-
+being in deprived inner-city neighbourhoods. J Epidemiol Commun Health. 
+2014;68(7):606–14.
+78.	 Power M, Pybus KJ, Pickett KE, Doherty B. The reality is that on Universal 
+Credit I cannot provide the recommended amount of fresh fruit and 
+vegetables per day for my children: moving from a behavioural to a systemic 
+understanding of food practices. Emerald Open Res. 2021;3:3.
+79.	 Puddephatt JA, Keenan GS, Fielden A, Reaves DL, Halford JCG, Hardman CA. 
+Eating to survive: a qualitative analysis of factors influencing food choice and 
+eating behaviour in a food-insecure population. Appetite. 2020;147:104547.
+80.	 Renton A, Phillips G, Daykin N, Yu G, Taylor K, Petticrew M. Think of your 
+art-eries: arts participation, behavioural cardiovascular risk factors and 
+mental well-being in deprived communities in London. Public Health. 
+2012;126:S57–64.
+81.	 Russell SJ, Hughes K, Bellis MA. Impact of childhood experience and 
+adult well-being on eating preferences and behaviours. BMJ Open. 
+2016;6(1):e007770.
+82.	 Scantlebury RJ, Moody A, Oyebode O, Mindell JS. Has the UK Healthy Start 
+Voucher scheme been associated with an increased fruit and vegetable 
+intake among target families? Analysis of Health Survey for England data, 
+2001–2014. J Epidemiol Commun Health. 2018;72(7):623–9. [80].
+83.	 Sprake EF, Russell JM, Barker ME. Food choice and nutrient intake amongst 
+homeless people. J Hum Nutr Dietetics. 2013;27(3):242–50.
+84.	 St. Clair R, Hardman M, Armitage RP, Sherriff G. The trouble with temporary: 
+impacts and pitfalls of a meanwhile community garden in Wythenshawe, 
+South Manchester. Renewable Agric Food Syst. 2017;33(6):548–57.
+85.	 Stead M, MacKintosh AM, Findlay A, Sparks L, Anderson AS, Barton K, et al. 
+Impact of a targeted direct marketing price promotion intervention (Buywell) 
+on food-purchasing behaviour by low income consumers: a randomised 
+controlled trial. J Hum Nutr Dietetics. 2017;30(4):524–33.
+86.	 Stevens R, Kelaiditi E, Myrissa K. Exploration of the dietary habits, lifestyle 
+patterns and barriers to healthy eating in UK post-partum women. Nutr Bull. 
+2021;46(1):26–39.
+87.	 Thompson C, Cummins S, Brown T, Kyle R. Understanding interactions with 
+the food environment: an exploration of supermarket food shopping rou­
+tines in deprived neighbourhoods. Health Place. 2013;19:116–23.
+88.	 Thornton LE, Pearce JR, Ball K. Sociodemographic factors associated with 
+healthy eating and food security in socio-economically disadvantaged 
+groups in the UK and Victoria, Australia. Public Health Nutr. 2013;17(1):20–30.
+89.	 Tong TYN, Imamura F, Monsivais P, Brage S, Griffin SJ, Wareham NJ, et al. 
+Dietary cost associated with adherence to the Mediterranean diet, and 
+its variation by socio-economic factors in the UK Fenland Study. Br J Nutr. 
+2018;119(6):685–94.
+90.	 Tsakos G, Herrick K, Sheiham A, Watt RG. Edentulism and fruit and vegetable 
+intake in low-income adults. J Dent Res. 2010;89(5):462–7.
+91.	 Vogel C, Crozier S, Penn-Newman D, Ball K, Moon G, Lord J et al. Altering 
+product placement to create a healthier layout in supermarkets: Outcomes 
+on store sales, customer purchasing, and diet in a prospective matched con­
+trolled cluster study. Adams J, editor. PLOS Medicine. 2021;18(9):e1003729.
+92.	 Watts P, Buck D, Netuveli G, Renton A. Clustering of lifestyle risk behaviours 
+among residents of forty deprived neighbourhoods in London: lessons for 
+targeting public health interventions. J Public Health. 2015;38(2):308–15.
+93.	 Thompson C, Smith D, Cummins S. Understanding the health and wellbe­
+ing challenges of the food banking system: A qualitative study of food 
+Page 17 of 17
+Briazu et al. BMC Public Health         (2024) 24:1770 
+bank users, providers and referrers in London. Social Science & Medicine. 
+2018;211:95–101.
+94.	 Michie S, Atkins L, West R. The behaviour change wheel: a guide to designing 
+interventions. London: Silverback Publishing; 2014.
+95.	 Holman D, Borgstrom E. Applying social theory to understand health-related 
+behaviours. Med Humanit. 2016;42(2):143–5.
+96.	 Luo M, Allman-Farinelli M. Trends in the number of behavioural theory-
+based healthy eating interventions Inclusive of Dietitians/Nutritionists in 
+2000–2020. Nutrients. 2021;13(11):4161.
+97.	 Luszczynska A, Schwarzer R. Changing Behavior using Social Cognitive 
+Theory. Handb Behav Change. 2020;32–45.
+98.	 Michie S, Jochelson K, Markham WA, Bridle C. Low-income groups and 
+behaviour change interventions: a review of intervention content, 
+effectiveness and theoretical frameworks. J Epidemiol Community Health. 
+2009;63(8):610–22.
+99.	 Mitchell S, Change4Life Three Year Social Marketing Strategy [Internet]. 2011 
+Oct. https://assets.publishing.service.gov.uk/government/uploads/system/
+uploads/attachment_data/file/213719/dh_130488.pdf.
+100.	 Talbot CV, Branley-Bell D. # BetterHealth: a qualitative analysis of reac­
+tions to the UK government’s better health campaign. J Health Psychol. 
+2022;27(5):1252–8.
+101.	 Exworthy M. Policy to tackle the social determinants of health: using 
+conceptual models to understand the policy process. Health Policy Plann. 
+2008;23(5):318–27.
+102.	 Osman M, ‘Backfiring. Reactance, Boomerang, Spillovers, and Rebound 
+Effects: Can We Learn Anything from Examples Where Nudges Do the Oppo­
+site of What They Intended?’. 2020. Retrieved from: https://psyarxiv.com/
+ae756/download?format=pdf.
+103.	 Thaler RH, Sunstein CR, Nudge. Improving decisions about health, wealth, 
+and happiness. New York. N.Y.: Penguin Books; 2008.
+104.	 Walker LA, Chambers CD, Veling H, Lawrence NS. Cognitive and environmen­
+tal interventions to encourage healthy eating: evidence-based recommenda­
+tions for public health policy. Royal Soc Open Sci. 2019;6(10):190624.
+105.	 Cadario R, Chandon P. Which healthy eating nudges Work Best? A Meta-
+analysis of field experiments. Mark Sci. 2019;39(3).
+106.	 Department of Health and Social Care. Restricting Promotions of Products 
+High in fat, Sugar or Salt by Location and by Volume price: Implementation 
+Guidance [Internet], GOV.UK. 2022. https://www.gov.uk/government/publi­
+cations/restricting-promotions-of-products-high-in-fat-sugar-or-salt-by-loca­
+tion-and-by-volume-price/restricting-promotions-of-products-high-in-fat-
+sugar-or-salt-by-location-and-by-volume-price-implementation-guidance.
+107.	 Government delays restrictions on multibuy deals and advertising on TV and 
+online [Internet]. GOV.UK. 2022. https://www.gov.uk/government/news/
+government-delays-restrictions-on-multibuy-deals-and-advertising-on-tv-
+and-online.
+108.	 Petrescu DC, Hollands GJ, Couturier DL, Ng YL, Marteau TM. Public Accept­
+ability in the UK and USA of Nudging to Reduce Obesity: The Example of 
+Reducing Sugar-Sweetened Beverages Consumption. Harezlak J, editor. PLOS 
+ONE. 2016;11(6):e0155995.
+109.	 Reynolds JP, Pilling M, Marteau TM. Communicating quantitative evidence of 
+policy effectiveness and support for the policy: three experimental studies. 
+Soc Sci Med. 2018;218:1–2.
+110.	 Webb TL, Sheeran P. Does changing behavioral intentions engender behavior 
+change? A meta-analysis of the experimental evidence. Psychol Bull. 
+2006;132(2):249–68.
+111.	 Precarious pay and uncertain hours: insecure work in the UK Labour Market. 
+| Living Wage Foundation [Internet]. www.livingwage.org.uk. [cited 2023 Nov 
+11]. https://www.livingwage.org.uk/precarious-pay-and-uncertain-hours-
+insecure-work-uk-labour-market#:~:text=Key%20findings%20from%20
+this%20research.
+112.	 Parnham J, Millett C, Chang K, Laverty AA, von Hinke S, Pearson-Stuttard J et 
+al. Is the healthy start scheme associated with increased food expenditure 
+in low-income families with young children in the United Kingdom? BMC 
+Public Health. 2021;21(1).
+113.	 Rose Vouchers for Fruit. & Veg project [Internet]. Alexandra Rose. [cited 2023 
+Nov 14]. https://www.alexandrarose.org.uk/rose-vouchers/.
+114.	 FoodSEqual Health [Internet]. Food Plymouth. [cited 2023 Nov 11]. https://
+foodplymouth.org/project/foodsequal-health/.
+115.	 Keeble M, Burgoine T, White M, Summerbell C, Cummins S, Adams J. How 
+does local government use the planning system to regulate hot food 
+takeaway outlets? A census of current practice in England using document 
+review. Health Place. 2019;57:171–8.
+116.	 Brown H, Xiang H, Albani V, Goffe L, Akhter N, Lake A, et al. No new fast-food 
+outlets allowed! Evaluating the effect of planning policy on the local food 
+environment in the North East of England. Soc Sci Med. 2022;306:115126.
+117.	 Keeble M, Adams J, Bishop TRP, Burgoine T. Socioeconomic inequalities in 
+food outlet access through an online food delivery service in England: a 
+cross-sectional descriptive analysis. Appl Geogr. 2021;133:102498.
+118.	 Jesse M, Jannach D, Gula B. Digital Nudging for Online Food choices. Front 
+Psychol. 2021;12.
+119.	 Ait-Hadad W, Bénard M, Shankland R, Kesse-Guyot E, Robert M, Touvier M, 
+Hercberg S, Buscail C, Péneau S. Optimism is associated with diet quality, 
+food group consumption and snacking behavior in a general population. 
+Nutr J. 2020;19:1–1.
+120.	 Spyreli E, McGowan L, Heery E, Kelly A, Croker H, Lawlor C, O’Neill R, Kelleher 
+CC, McCarthy M, Wall P, Heinen MM. Public beliefs about the consequences 
+of living with obesity in the Republic of Ireland and Northern Ireland. BMC 
+Public Health. 2022;22(1):1910.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations. 

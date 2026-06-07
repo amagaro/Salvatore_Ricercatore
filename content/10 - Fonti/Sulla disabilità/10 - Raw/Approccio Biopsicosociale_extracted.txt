@@ -1,0 +1,1322 @@
+npj | digital medicine
+Article
+Published in partnership with Seoul National University Bundang Hospital
+https://doi.org/10.1038/s41746-024-01358-4
+Data from the All of Us research program
+reinforces existence of activity inequality
+Check for updates
+Hayoung Jeong
+1,7, Ali R. Roghanizad
+1,7, Hiral Master
+2, Juseong Kim1, Aymone Kouame2,
+Paul A. Harris3,4,5, Melissa Basford2, Kayla Marginean2 & Jessilyn Dunn
+1,6
+Large-scale and detailed analyses of activity in the United States (US) remain limited. In this work, we
+leveraged the comprehensive wearable, demographic, and survey data from the All of Us Research
+Program, the largest and most diverse population health study in the US to date, to apply and extend
+the previous global ﬁndings on activity inequality within the context of the US. We found that daily
+steps differed by sex at birth, age, body characteristics, geography, and built environment. Quantifying
+activity inequality using the modiﬁed Gini index, we found a strong correlation with obesity prevalence
+(R2 = 0.804) and a moderate correlation with perceived walkability (R2 = 0.426) and the activity gender
+gap (R2 = 0.385). This study demonstrates the value of digital health technologies in exploring and
+understanding public health practices while highlighting the need to examine complexities, including
+biopsychosocial factors that may contribute to activity inequality.
+While the health beneﬁts of engaging in physical activity are well-
+recognized1, several studies have unveiled inequality in physical
+activity based on gender or income2–4. Previously, insights into a
+population’s physical activity levels were gathered primarily through
+self-reported questionnaires. However, technological advancements
+now enable physical activity monitoring using mobile and wearable
+devices in free-living conditions. These streams of data gathered
+continually on a daily or even minute-by-minute basis can be shared
+and analyzed in aggregate to gain insights into the overall physical
+activity levels of the population.
+A recent large-scale digital health study on 717,527 smartphone users
+across 111 countries demonstrated a correspondence between activity
+inequality and obesity and a city’s walkability, with ﬁndings of gender dif-
+ferences in activity and obesity5. Such ﬁndings, if found to be robust and
+replicable within the population of the United States (US), can serve as a
+quantiﬁable benchmark for assessing disparities in physical activity in the
+US and their relation to sex, age, geographic location, built environment,
+and other potential key inﬂuencing factors. Further, such measures can be
+used as metrics of success in evaluating the effects of policy changes on
+public health.
+ActivityinequalitystudieshaveyettobereplicatedwithintheUSdueto
+a lack of available digital health datafrom independent and disease-agnostic
+studies. Large research initiatives across the US, such as the Behavioral Risk
+Factor Surveillance System (BRFSS)6,7 and the National Health and Nutri-
+tion Examination Survey (NHANES)8, have collected behavioral and
+activity information using self-reported phone surveys and research-grade
+activitymonitors. Yet, activity monitoring was only collected during a 7-day
+monitoring period and is thus likely to suffer from high variance and noise.
+To enable detailed exploration of US activity levels at the population scale,
+large-scale digital monitoring data is critical.
+The All of Us (AoU) Research Program, an initiative of the
+National Institutes of Health (NIH) launched in 2018, strives to build
+a robust ecosystem of communities and researchers to deliver the
+largest and most diverse publicly-available biomedical dataset with a
+focus on populations usually under-represented in biomedical
+research in the US9. Speciﬁcally, the program accumulates multiple
+streams of health-related information such as electronic health
+records (EHRs), genomics, physical exam measures, participant sur-
+veys, and digital monitoring data (e.g., Fitbit ﬁtness trackers) from
+≥1 million Americans.
+In this work, we sought to evaluate the utility of AoU data for repli-
+cating two seminal digital health studies5,10 that demonstrated activity
+inequality and its relationships to geographic and walkability measures,
+which we derived from AoU’s Social Determinants of Health Survey11. We
+also assessed the relationship between activity inequality and key health
+outcomes (e.g., obesity).
+1Department of Biomedical Engineering, Duke University, Durham, NC, USA. 2Vanderbilt Institute of Clinical and Translational Research, Vanderbilt University
+Medical Center, Nashville, TN, USA. 3Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN, USA. 4Department of Biomedical
+Engineering and Biostatistics, Vanderbilt University Medical Center, Nashville, TN, USA. 5Department of Biostatistics, Vanderbilt University Medical Center,
+Nashville, TN, USA. 6Department of Biostatistics and Bioinformatics, Duke University, Durham, NC, USA. 7These authors contributed equally: Hayoung Jeong, Ali
+R. Roghanizad.
+e-mail: jessilyn.dunn@duke.edu
+npj Digital Medicine |  (2025) 8:8 
+1
+1234567890():,;
+1234567890():,;
+Results
+Overall participant characteristics
+Of the 15,620 AoU participants with Fitbit data available at the time of our
+analysis, we included 7403 participants with over 4.1 million days of
+monitoring prior to the COVID-19 pandemic (January 2016 to December
+2019) from 47 states, the District of Columbia, and other US Territories
+(Flow diagram in Supplementary Fig. 1). The participants included in our
+analytical cohort had a median age of 53 [IQR (37, 64)], a median BMI of
+28.2 kg/m2 [IQR (24.5, 33.1)], and a daily steps average of 8330 (Table 1).
+Nearly68%and81%oftheparticipantsincludedintheanalysiswereFemale
+and White, respectively.
+Variability in daily steps across US states
+Based on average daily step counts across different US states between 2016
+and 2019, we observed that AoU participants in cooler regions (i.e., average
+temperature ≤60 °F) engaged in higher levels of physical activity compared
+to those in warmer regions (average temperature >60 °F) (Fig. 1a). The ﬁve
+most active states based on average daily steps were New York, Colorado,
+Illinois, Massachusetts, and California (Fig. 1a). The ﬁve least active states
+were Louisiana, Tennessee, Arizona, New Hampshire, and Texas. We also
+examined activity intensity levels using deﬁnitions of ≥150 min of
+moderate-intensity aerobic physical activity (MVPA) or ≥75 min of
+vigorous-intensity aerobic physical activity (VPA) per week, respectively
+(see Methods)1. In states with the warmer average temperatures, 28% of
+people did not meet the recommended levels of MVPA or VPA, whereas
+this percentage was around 10% less in regions with cooler temperatures
+(Supplementary Fig. 3a).
+To better characterize the differences in activity between relatively
+“active” and “inactive” US states using daily steps, we compared the dis-
+tribution of daily steps in the two most active states (New York and Illinois)
+and the two least active states (Texas and Arizona) (of states with n > 100
+participants). All states exhibited unimodal distributions (Fig. 1b), and the
+modes (i.e., the peaks) were lower than the respective means (Fig. 1b). Such
+positive skewness of the distributions suggests that the range of daily steps is
+wider among the active individuals in each state. In addition, we found that
+the mode of daily steps for Arizona (7196) was higher than in Texas (6839),
+whereas the mean of daily steps in Arizona (7568) was lower than in Texas
+(7648). The higher mode in Arizona compared to Texas indicates that the
+distribution skewness varies across states and, hence, reinforcesthe utility of
+activity inequality evaluation, which can uncover activity variance within a
+region5.
+We next compared the overall distribution of physical activity across
+New York, Illinois, Texas, and Arizona while normalizing the distribution
+by each state’s mode (i.e., the most common activity level), enabling a
+comparison of how the activity is distributed within each state (Fig. 1c).
+After normalization, we observed that 79% of the population falls within
+50% of the mode (the region between the light gray vertical dashed lines for
+all curves) in Arizona and 72% in Texas. This difference in the distribution
+curves can be translated into a metric of activity inequality, which is mea-
+sured by the Gini coefﬁcient of the daily steps (see Methods) and char-
+acterizes the systematic difference level in physical activity. Quantifying our
+visual inspection from Fig. 1c, activity inequality in Texas (0.223) is higher
+than in Arizona (0.217) because Texas has a slightly more asymmetric
+distribution. Interestingly, while New York was one of the most active states
+and Arizona was one of the least active, the two states display a similar
+distribution (Fig. 1c), indicating a similar variance of activity around the
+most commonly achieved daily steps of each state.
+Variability in the gender-activity gap across US states
+We hypothesized that the skewness in each state’s activity distribution
+(Fig. 1b, c) may be attributable to gender differences in activity levels given
+the ﬁndings by Althoff et al.5. Across all populations, males had approxi-
+mately1200moredailystepsonaveragethanfemales.Thedifferenceindaily
+steps between males and females was statistically signiﬁcant in all states with
+morethan20malesandfemaleseach(seeMethods;studentone-sidedt-test;
+p-value < 0.05), except for Washington (Supplementary Fig. 5). We also
+observed that these activity disparities increase as activity quantiles increase,
+with the largest difference in daily steps between the most active males and
+females (Fig. 2c). Comparing Texas and Arizona, the two least active states
+from Fig. 1b, the disparity in typical activity levels (deﬁned by the mode)
+between males and females was approximately 2.3 times greater in Texas
+(2885steps) thaninArizona(1241steps) (Fig. 2a).InTexas,the distribution
+of daily steps in males is right-skewed while the activity distribution of
+females is left-skewed when compared to the state’s baseline activity
+(Fig. 1b). Overall, not only do typical daily steps differ across states (Fig. 1a)
+but so do the distributions of daily steps, which is attributable in part to the
+underlying difference in activity levels between females and males. In fact,
+38.5% of activity inequality in the US was explained by the activity differ-
+ences between males and females (Fig. 2b). As we found between Texas and
+Arizona, states with larger gaps in activity between males and females have
+higher overall activity inequality.
+Obesity and physical activity
+Obese and overweight individuals took 1963 and 531 fewer daily steps
+than those with normal body mass index (BMI), respectively. Consistent
+with previous ﬁndings5, we found that the fraction of obese individuals
+(BMI ≥30) in each state increases with higher activity inequality
+(R2 = 0.639 [N = 18 states], R2 = 0.804 [excluding outliers: N = 16])
+(Fig. 3a). With every 0.01 increase in the value of the activity inequality
+metric, there is a 5% increase in the fraction obese. We further hypothe-
+sized, based on prior global ﬁndings5, that this relationship may be due to
+females displaying a more rapid increase in obesity with a decrease in daily
+steps. While we found that obesity prevalence does indeed increase as
+daily steps decrease for both genders, we saw no difference in the slope of
+this relationship (Fig. 3b). Therefore, the higher obesity rate in states with
+higher activity inequality cannot be entirely explained by the lower-
+activity females as the obesity prevalence increases equally in both males
+and females as average daily steps decrease.
+Walkability, biopsychosocial factors, and physical activity
+behaviors
+Walkability is a commonly used metric for gaining insight into a built
+environment, which may act as an extrinsic factor inﬂuencing physical
+activity1,12. The perceived walkability of a neighborhood (see “Methods”),
+whichcanrangefrom0to18,didnotdisplayastronglinearrelationshipwith
+average daily steps (R2 = 0.0132) (Supplementary Fig. 6), but we observed a
+moderate association between perceived walkability and activity inequality
+(R2 = 0.4263, p-value < 0.01) (Fig. 4a). When average steps, by the time of
+day,were examined acrossneighborhoodswith highest (14 to 18) and lowest
+(0 to 4) perceived walkability scores, we observed high activity from 8 AM to
+6 PM during weekdays (typical US business hours) and from 9 AM to 5 PM
+on weekends, with a gradual decrease in activity throughout the day for both
+weekdays and weekends (Fig. 4b). These trends are consistent with previous
+ﬁndings5. We also found that the two peaks in steps that typically occur on
+weekdays during commute hours exhibit distinctly higher step counts in
+neighborhoods with high walkability (294 vs. 259 and 315 vs. 242; Fig. 4b).
+The distribution of steps taken early in the morning was similar between
+neighborhoods with high walkability (n = 5) and low walkability (n = 5), but
+individuals in the high walkability neighborhoods had higher average steps
+throughout the evening after 5 PM during weekdays. During weekends,
+neighborhoodswithhighwalkabilitycontinuedtohaveahigheractivitylevel
+after 10 AM as compared to neighborhoods with lower walkability.
+The observation that certain times of day (e.g., during commute hours
+on weekdays) have higher step counts in more walkable neighborhoods
+points to the possibility that public transit and pedestrian infrastructures
+may be drivers of physical activity. Given existing health disparities and the
+established concept of activity inequality5,13,14, we sought to understand
+whether the relationships we uncovered betweenthe built environment and
+physical activity are consistent across demographic subgroups. To enable
+this comparative analysis, we deﬁned a new metric: the walkability-activity
+https://doi.org/10.1038/s41746-024-01358-4
+Article
+npj Digital Medicine |  (2025) 8:8 
+2
+gradient (WAG). The WAG characterizes the rate at which average activity
+levels increase with increasing walkability (Δsteps/Δwalkability).
+On average, individuals with normal BMI (n = 2056) took 531 steps
+and 1963 steps more daily compared to individuals in the overweight
+(n = 2420) and obese (n = 2927) BMI groups. Among all BMI groups,
+individuals with normal BMI also consistently recorded the highest average
+step counts across all levels of perceivedwalkability, followed by those in the
+overweight and then the obese categories (based on BMI). Speciﬁcally, at a
+perceived walkability score of 10 (the mean for the study population,
+indicatedasadashed verticalline inFig. 4c,d),individualswith normalBMI
+averaged 9047 steps while those with overweight or obesity averaged 8329
+and 6832 steps, respectively. Above a perceived walkability score of 10, the
+WAG was highest in the normal BMI group (166 steps per unit of perceived
+walkability), followed by the obese (138) and overweight groups (104),
+suggestingthatthephysicalactivityofthenormalBMIgroupincreasesmost
+per perceived walkability score out of all BMI groups. Interestingly, below a
+walkability score of 10, the overweight group initially demonstrates a
+decrease in physical activity while the obese group displays no change in
+physical activity with increasing perceived walkability.
+A difference in the relationship between perceived walkability and
+physical activity was also seen across the lifespan. Overall, adults over age 65
+(n = 1647) took 721 fewer daily steps than adults below age 65. At a per-
+ceived walk score of 10, the 35–54 and 55–64 age groups had average daily
+step counts of 8062 and 8184, respectively. The 65+ age groups and,
+surprisingly, the 18–34 age group both displayed signiﬁcantly lower average
+step counts at 7732 and 7542 steps. All ages displayed a more rapid increase
+instepcountsafteraperceivedwalkabilityscoreof10.However,theincrease
+in activity with walkability was not as drastic in the older age groups (65 + :
+88 steps increase per unit of perceived walkability and Age 55–64: 113) as
+compared to the younger groups (Age 18–34: 202 and Age 35–54: 237).
+Discussion
+In this study, we leveraged the unique AoU dataset to assess the replicability
+of seminal research studies on population-scale physical activity and to
+uncover new ﬁndings in this ﬁeld. We demonstrated variation in activity
+levels across geographic regions and demographic subgroups. We also
+assessed the translatability of a previously proposed activity inequality
+metric5 to enable a better understanding of factors that may affect physical
+activity and that can be used to support policy decisions such as investing in
+infrastructure to improve walkability. Ourﬁndings provide a foundationfor
+robust evaluation of physical activity across the United States by extracting
+actionable insights from commercially available wearable device data.
+Our replication efforts pointed to challenges in comparing results
+across different population-level physical activity studies that use different
+measurement modalities. We found that the AoU’s Fitbit-based population
+mean (2016–2019) was 3560 daily steps greater than the smartphone-
+measured population average reported by Althoff et al. (2013–2014)5. In
+contrast, we found that the proportion of active individuals (meeting the
+aerobicguidelineof≥150 min/weekofMVPAor≥75 min/weekofVPA1)in
+each state was, on average, 25% higher than in the BRFSS study10, which
+employed self-reports. These differences in ﬁndings point to the potential
+role of the timing of the studies, assessment modalities (smartwatch vs.
+smartphone vs. survey-based self-reports), and/or data processing methods.
+It has been suggested that smartphone-based step counts tend to be lower
+than smartwatch-basedstep counts15. These, combined with our usage of an
+HR-based ﬁltering algorithm to minimize adherence bias, may explain why
+average steps in AoU were higher than those reported by Althoff et al. for
+US16. Separately, methods of self-reporting physical activity10 fail to capture
+absolute levels of physical activity17,18 and may be susceptible to recall and
+response biases. Also, while the details of Fitbit’s algorithm are proprietary,
+Fitbit notes that both heart rate and step data are used to estimate metabolic
+equivalents (METs) and that active minutes are earned when activities with
+≥3 METs are recorded for ≥10 continuous minutes19. Previous validation
+studies of Fitbit showed comparatively accurate estimates of sedentary
+behaviorbutoverestimatedMVPAunderfree-livingconditions17.Together,
+these points may explain why the proportion of active individuals1 was
+higher in AoU as compared to BRFSS. The overall physical activity differ-
+ences across these population-scale studies in the US highlight the need for
+standardizedmethods(e.g.,measurementmodalityagreement,harmonized
+data processing algorithms, consensus deﬁnitions, and metrics) to enable
+both observational and comparative effectiveness studies whose results can
+be used together to improve meta-analyses in this ﬁeld.
+A relationship between activity inequality and obesity has been pre-
+viously demonstrated across countries5, and we found that the same rela-
+tionship held true across the AoU cohort. However, while sex differences
+were previously demonstrated as a mediator of this relationship globally, we
+did notﬁndthisto betruefortheAoUdata.IntheUS,wefound thatneither
+overall obesity prevalence, which is also consistent with the NHANES
+study20, nor its responsiveness (i.e., the amount of reduction in obesity rate)
+to physical activity levels differs between males and females. Our study
+suggests that other potential underlying factors such as social determinants
+of health (e.g., healthcare access and quality, education access and quality,
+social and community context, economic stability), lifestyle, and dietary
+choices must be additionally explored to explain the relationship between
+activity inequality and obesity prevalence. In addition, while the AoU
+Research Program collected BMI through standardized in-clinic physical
+measurements, Althoff et al. relied on self-reported height and weight to
+calculate BMI5. Self-reported data may lead to an underestimation of BMI
+compared to in-clinic measurements because individuals tend to
+Table 1 | Demographic characteristics of the 7403 participants
+Participants
+Characteristic
+Male
+Female
+Other or
+Unknown
+Gender, n (%)
+2108 (28.5%)
+5094 (68.8%)
+201 (2.7%)
+Age (years), mean (SD)
+54.28 (15.93)
+49.45 (15.32)
+51.45 (15.36)
+Age (years), n (%)
+18–34
+363 (17.2%)
+1165 (22.9%)
+38 (18.9%)
+35–54
+574 (27.2%)
+1815 (35.6%)
+71 (35.3%)
+55–64
+516 (24.5%)
+1176 (23.1%)
+38 (18.9%)
+≥65
+655 (31.1%)
+938 (18.4%)
+54 (26.9%)
+BMI (kg/m2), mean (SD)
+29.13 (5.75)
+29.67 (7.33)
+29.73 (6.98)
+BMI, n (%)
+<18.5
+<20 (<1%)
+<20 (<1%)
+<20 (<1%)
+18.5–24.9
+420–530
+(20–25%)
+1250–1530
+(25–30%)
+50–60
+(25–30%)
+25–29.9
+860 (40.8%)
+1495 (29.3%)
+65 (32.3%)
+≥30
+757 (35.9%)
+2089 (41%)
+81 (40.3%)
+Race, n (%)
+Asian
+102 (4.8%)
+130 (2.6%)
+<20 (<1%)
+Black or African
+American
+76 (3.6%)
+326 (6.4%)
+<20 (<1%)
+Middle Eastern or
+North African
+<20 (<1%)
+<20 (<1%)
+<20 (<1%)
+Native Hawaiian or
+Other Paciﬁc Islander
+<20 (<1%)
+<20 (<1%)
+<20 (<1%)
+Not indicated
+111 (5.3%)
+239 (4.7%)
+169 (84.1%)
+Other
+58 (2.8%)
+141 (2.8%)
+<20 (<1%)
+White
+1744 (82.7%)
+4243 (83.3%)
+29 (14.4%)
+Ethnicity, n (%)
+Hispanic or Latino
+140 (6.6%)
+308 (6%)
+<20 (<10%)
+Exact participant counts for categories <20 cannot be shown as per the All of Us Data and Statistics
+Dissemination Policy. They are presented either as <20 or in ranges to prevent participant count of
+less than 20 from being derived from other reported cells or information, including in text, tables, or
+ﬁgures.
+https://doi.org/10.1038/s41746-024-01358-4
+Article
+npj Digital Medicine |  (2025) 8:8 
+3
+underestimate their weight and overestimate their height21. This metho-
+dological difference may account for some of the observed discrepancies
+between the studies.
+Walkability is an important factor considered in urban planning that is
+closely related to quality of life, health beneﬁts, and sustainability. Previous
+work demonstrated an inverse relationship between activity inequality and
+walkability, as measured by WalkScore, which assesses macro-scale features
+like amenities (e.g., parks and shopping centers) and pedestrian friendliness
+(e.g., city block length, street intersection density) at the city level5,21. In our
+study, we were unable to use WalkScore due to the absence of city-level
+information in the AoU dataset. Instead, we evaluated micro-scale walk-
+ability using the Physical Activity Neighborhood Environment Scale
+(PANES), which captures individuals’ perceptions of their local environ-
+ment. Despite these methodological differences, we found a similar rela-
+tionship between activityinequalityand perceived walkability. This suggests
+that policies and interventions aimed at both macro-level improvements
+(e.g., enhancing street connectivity and transit systems) and micro-level
+changes (e.g., improving neighborhood safety) could help reduce activity
+inequality.
+However, we also found that the rate of increase in physical activity
+with improvement in walkability varies across BMI and age groups, which
+may be attributed to various biopsychosocial factors that differ among these
+groups. This suggests that while universal improvements in walkability can
+broadly increase the overall PA level, policy decisions might need to be
+tailored to maximize beneﬁts across different demographic strata and
+improve activity inequality. Although macro- and micro-scale measures of
+walkability are often correlated, they may affect different demographic
+groups in distinct ways. If city-level information becomes available in the
+AoUdataset,futurestudiesshouldinvestigatetheaddedvalueofmicro-level
+walkability information, and whether one measure of walkability is more
+sensitive to the built environment’s inﬂuence on physical activity within
+certain demographics. This comparison could provide valuable insights for
+improving the overall physicalactivity leveland reducing activityinequality.
+As a quantiﬁable metric, activity inequality can systematically measure
+the uneven distribution of physical activity within groups, gaining an
+understanding of the extent of these disparities. Further, it provides a
+baseline for evaluating the effectiveness of targeted interventions and poli-
+cies over time. For instance, future researchers can explore how activity
+inequality and its magnitude vary with changing temperatures and geo-
+graphies,especiallyduringtherecordheatwavesthatoccurredacrosstheUS
+inthesummerof2024.Thequantiﬁabilityofactivitydisparityalsoallowsfor
+targeted and evidence-based interventions. Instead of adopting a one-size-
+ﬁts-all approach, policymakers can use activity inequality as a metric to
+allocate resources and interventions that address the speciﬁc needs of
+communities or demographic groups experiencing the highest levels of
+activity inequality. Overall, activity inequality serves as a data-driven
+Steps
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.0
+0.5
+1.5
+2.0
+2.5
+3.0
+0.0
+Mode
+Probability Density
+Steps
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+x 10-4
+0
+5,000
+10,000 15,000
+20,000
+b.
+c.
+Probability Density
+Texas
+Illinois
+New York
+Arizona
+a.
+New York
+Colorado
+Illinois
+Massachusetts
+California
+Wisconsin
+Minnesota
+New Jersey
+Pennsylvania
+New Mexico
+Washington
+Michigan
+North Carolina
+Georgia
+Indiana
+Florida
+Alabama
+Texas
+New Hampshire
+Arizona
+Tennessee
+Louisiana
+6,500
+7,000
+7,500
+8,000
+8,500
+9,000
+9,500 10,000
+Average 
+Temperature (°F)
+40
+45
+50
+55
+60
+65
+70
+75
+ United States
+Average steps ± 90% CI
+Average daily steps
+Fig. 1 | Demonstration of activity differences across US states using the AoU
+cohort. a The forest plot illustrates the variation in activity levels across the 22 states
+included in the analysis. Lower levels of daily steps are typically found in states with
+higher average temperatures. The gray vertical region indicates the average daily
+steps of all states (including states with n ≤20). Each error bar indicates the 90%
+conﬁdence interval. b (Figure adapted from Althoff et al. Figure 15) The distribution
+of two states with high activity (New York and Illinois) and two states with low
+activity (Texas and Arizona). New York has the highest mode (9336), and Texas has
+the lowest (6915). The mode of each state is indicated by dots, and dashed vertical
+lines correspond to the mean of each state. c (Figure adapted from Althoff et al.
+Figure 15) The distribution plot, normalized by the population mode of steps, reveals
+that New York and Arizona have similar distributions. The dark gray vertical dashed
+line indicates the distribution plot normalized to each state’s mode, and the light gray
+vertical dashed lines are placed at 50% below and above the mode.
+https://doi.org/10.1038/s41746-024-01358-4
+Article
+npj Digital Medicine |  (2025) 8:8 
+4
+foundation for identifying disparities, assessing the impact of interventions,
+and tailoring strategies to address the unique challenges faced by different
+populations. By leveraging this metric, public health efforts can become
+more precise, equitable, and effective in promoting physical activity and
+improving overall health outcomes.
+Onelimitationofthisstudyisitsdemographiccomposition,whichwas
+skewed toward individuals who were >50 years of age, overweight, or obese.
+There was also a signiﬁcantly higher proportion of female participants in
+this study cohort (68.8% female, n = 5094) compared to the population and
+to prior studies, including the CDC’s BRFSS study conducted in 2017
+(55.8%, n = 223,241) and in 2019 (54.5%, n = 203,199)10 or the Althoff et al.
+study (51.1%, n = 98,971)5. Therefore, it is likely that our estimates, such as
+the average daily steps in a region or walkability-activity gradient, may be
+biased toward the highly represented demographics. These discrepancies in
+the published literature emphasize the importance of accounting for
+demographic and contextual factors in analyses and point to the value of
+additional future work exploring associations between physical activity or
+activity inequality and external factors.
+Further, the variability in sample size (N) across states in the AoU
+dataset may also limit the generalizability of our ﬁndings, particularly in
+states with smaller sample sizes like Tennessee, New Mexico, or North
+Carolina. However, the longitudinal nature of the AoU data allows us to
+better estimate individual baseline physical activity levels compared to the
+NHANES accelerometry dataset, which is constrained by a shorter, one-
+week observation period. Aside from the variability in sample size, bring-
+your-own-device (BYOD) studies can lead to selection bias toward tech-
+nology users who may differ from the general population22. In an effort to
+address these concerns, AoU recently launched the WEAR study, which
+provides participants with a Fitbit Charge 4 or Fitbit Versa 3 device at no
+cost23. With the addition of the WEAR study, future researchers can further
+a.
+Illinois (0.205)
+New York (0.206)
+Probability density
+Daily steps
+Daily steps
+0.00
+0.25
+0.50
+0.75
+1.00
+1.25
+x 10
+-4
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+0.00
+0.25
+0.50
+0.75
+1.00
+1.25
+x 10
+-4
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+Sex at birth
+Male
+Female
+Arizona (0.217)
+Texas (0.223)
+0
+2000
+6000
+8000
+10000
+Average steps per day
+A
+Activity quantile
+25th
+50th
+75th
+Sex at birth
+Male
+Female
+12000
+4000
+Gender gap
+0.10
+0.11
+0.12
+0.13
+0.14
+0.16
+0.15
+0.17
+Activity inequality
+0.200
+0.205
+0.210
+0.215
+0.220
+0.225
+0.195
+95% confidence interval
+Linear regression (R2: 0.385)
+Alabama
+Minnesota
+Massachusetts
+Wisconsin
+Illinois
+California
+Florida
+Michigan
+Georgia
+Texas
+Pennsylvania
+Arizona
+New York
+b.
+c.
+Fig. 2 | Relationship between gender and daily steps, activity inequality, and
+activity level. (Figure adapted from Althoff et al. Extended Data Figure 75).
+a Probability density curve by sex assigned at birth of two states with high activity
+(New York and Illinois) and two states with low activity (Texas and Arizona).
+The vertical dashed lines represent the mode steps of each state. The number in
+parentheses represents the activity inequality measure of each state. b Activity
+inequality is explained by the gender gap calculated by dividing the difference in
+daily steps between males and females by the daily steps of males (R2 = 0.385).
+The 95% conﬁdence interval is estimated using bootstrapping and is indicated as
+the light gray bands around the regression line. c Association between average
+steps per day and activity quantile. On average, males take more steps per day
+than females in all activity quantiles. The 95% conﬁdence interval (i.e., error bar)
+is constructed using bootstrapping.
+https://doi.org/10.1038/s41746-024-01358-4
+Article
+npj Digital Medicine |  (2025) 8:8 
+5
+validate the ﬁndings of this study with a dataset more representative of the
+US population for enhanced generalizability.
+Additionally, our Fitbit dataset spanned three years (2016–2019), and
+we assumed that participants did not relocate during this period and had no
+signiﬁcant changes in their BMI, given that BMI was only measured once
+per participant during the AoU data collection period (Supplementary
+Fig. 7). Also, the AoU’s Social Determinants of Health (SDOH) survey we
+used to calculate the perceived walkability scores was conducted two years
+after the wearable monitoring period (November 2021- June 2022). We
+assumed that perception of one’s neighborhood did not change signiﬁcantly
+between the Fitbit observation period and the time the survey was taken.
+Future research should account for how potential spatial and temporal
+changes such as activity changes over time, geographic relocations (between
+states, cities, or countries), and seasonal and behavioral variations in BMI
+and activity, may impact the results of this study24.
+Our study assessed physical activity mainly with average daily steps,
+but future studies can leverage other metrics, such as fairly active minutes
+and/or very active minutes obtained from Fitbit’s daily summary report. In
+addition, while our study focused on obesity as the main health outcome of
+interest, there are additional physical activity-related health outcomes that
+remain to be explored. Finally, the Fitbit device model information was not
+available on the Researcher Workbench at the time of analysis to enable
+adjustment for possible differences in data generated by different Fitbit
+device models. We attempted to minimize the impact of this limitation by
+including participants’ activity data only if they had corresponding heart
+rate data, thus generalizing the ﬁndings to Fitbit devices with heart rate
+compatibility.
+Despite these limitations, our study provides insights to advance
+knowledge surrounding physical activity disparities in the US by leveraging
+wearable device data. Our study builds upon and departs from prior activity
+inequality studies in several innovative ways. We applied a heart rate-based
+ﬁltering algorithm to minimize adherence bias and ensure high-quality
+physical activity (i.e., daily step counts) data from commercial wearable
+devices.Ourﬁndingsonvariationsindeﬁnitionsofactivityinequalityacross
+the US further support the need for equitable interventions to promote
+physical activity, which can, in turn, reduce the prevalence of obesity and
+chronic diseases25. We assessed adapting a prior global analysis of activity
+inequality5 to the US using the AoU data and found both consistencies and
+departures with prior literature. While we found lower activity levels in
+females compared to males and the association between activity inequality
+and obesity to be true, we could not demonstrate the higher reduction in
+obesity with an increase in steps in females. The differences in ﬁndings are
+most likely due to the demographic differences between datasets and
+the smaller variance in physical activity and obesity rate among states
+(i.e., homogenous lifestyle) compared to countries. Future investigations of
+robust activity inequality measures are needed to better capture activity
+differences across the US, especially when the data may be imbalanced
+(e.g., demographics are skewed toward one sex or age group), and to
+establish a relationship to health outcomes.
+Overall, this study explored activity behaviors and activity inequality in
+the US, paving the way for future research that harnesses activity inequality
+metrics derived from commercial wearable device data. The activity
+inequality measure opens future paths for research to explore the intricate
+connections between activity inequality, health outcomes, and targeted
+interventions for the US. The research that is enabled by this study could
+revolutionize how population-level physical activity interventions are
+conceptualized and implemented in the future.
+Methods
+AoU Researcher Workbench
+TheAoUResearcherWorkbenchprovidesasecuredcloud-basedinterface26
+that allows registered researchers to access and analyze data from various
+sources, including surveys, physical exam measurements, electronic health
+records, and wearable devices such as Fitbit. In this study, the Controlled
+Tier dataset version 7 (C2022Q4R11) was used as it provided granular
+sociodemographic information (e.g., up to three digits of zip codes) and
+non-date-shifted Fitbit device data.
+In this study, only the authorized authors who completed AoU
+Responsible Conduct of Research training accessed the data from the
+Researcher Workbench. All research using data made available via the AoU
+Researcher Workbench has been designated as non-human subjects by the
+AoU Institutional Review Board. Since the authors were not directly
+involved with the participants and Researcher Workbench employs a data
+passport model, IRB review was not required. Further, all analyses and
+reporting conducted as part of this study have been performed in accor-
+dance with the AoU Data and Statistics Dissemination Policy. The queries,
+external datasets, and Python code used for statistical analysis are all
+available in the Featured Workspace as Jupyter Notebooks.
+Fraction obese
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.2
+0.16
+0.22
+0.20
+0.18
+0.24
+Activity inequality
+Fraction obese
+0.3
+0.4
+0.5
+0.6
+0.7
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Daily steps (in thousands)
+Sex at birth
+Male
+Female
+a.
+b.
+NJ
+CO
+NH
+CA
+WI
+MA
+NY
+IL
+LA
+WA
+TX
+PA
+AL
+GA
+AZ
+MN
+MI
+FL
+All states
+Exlcuding WA, LA
+Fig. 3 | Obesity prevalence is associated with an increase in activity inequality.
+(Figure adapted from Althoff et al. Figure 25). a Two linear regression lines were ﬁt:
+with all states (R2 = 0.639) and without the two outliers that were identiﬁed visually
+—Washington and Louisiana (R2 = 0.804). b As daily steps decrease, obesity
+prevalence increases. There is no signiﬁcant difference in this association between
+males and females, as indicated by the overlapping 95% conﬁdence intervals (i.e.,
+error bars), which is estimated through bootstrapping.
+https://doi.org/10.1038/s41746-024-01358-4
+Article
+npj Digital Medicine |  (2025) 8:8 
+6
+Study population
+The initial participant cohort was deﬁned using the Cohort Builder tool on
+the AoU Researcher Workbench and consisted of 15,620 individuals who
+provided any Fitbit data (from Jan 2009 to Dec 2022) using their device.
+While AoU participant enrollment began in May 2018, historic Fitbit data
+before enrollment were made available. From this group, we selected 8886
+participants who met the following criteria: had completed The Basics
+survey at the time of enrollment (survey allowed partial responses), at least
+one in-person physical measurement visit, provided any Fitbit activity and
+heart rate intraday data between January 2016 and December 2019, and age
+≥18 (Supplementary Fig. 1). After excluding participants who do not meet
+the device adherence threshold (as deﬁned in Feature Selection and Data
+Preprocessing) or participants who have exceedingly high average step
+counts (i.e., outliers deﬁned by z-score>4), we performed all analyses with
+7403 participants. Of note, although available with the Controlled Tier
+dataset v7 (C2022Q4R11), we excluded any Fitbit data collected after the
+year 2020 to minimize the impact of the COVID-19 pandemic on activity
+behavior27.
+Feature selection and data processing
+Demographic information, including date of birth, geolocation (state), and
+gender (self-reported as sex assigned at birth), was obtained from the
+responses to the basic survey at the time of enrollment. Body mass index
+(BMI) was extracted from each participant’s initial in-person physical
+measurement visit and was used to screen participants for obesity according
+to the CDC guidelines28 (18.5 to <25: normal, 25.0 to <30: overweight, ≥30:
+obesity). Further, in this dataset, to protect participant privacy, birth dates
+were abstracted to year (i.e., set to the 15th of June of a participant’s birth
+year)29. Each participant’s age was calculated relative to each of the data
+points available in the daily activity summary dataset, which was later
+averaged for the overall analysis. We also processed AoU’s Social Deter-
+minants of Health (SDOH) survey that was launched in November 2021 to
+obtain information on participants’ perceptions of their built environment.
+Speciﬁcally, we focused on the eight questions derived from the Physical
+Activity Neighborhood Environment Scale (PANES)30 (Supplementary
+Table 1). When comparing our results by region, we followed the region
+designations provided by the U.S. Census Bureau31.
+a.
+b.
+c.
+Average steps per 30 min
+Normal BMI
+Overweight
+Obese
+Age 18-34
+Age 35-54
+Age 55-64
+Age 65+
+Walkability
+0
+4
+8
+12
+16
+18
+2
+6
+10
+14
+Walkability
+6000
+7000
+8000
+9000
+10000
+11000
+6000
+7000
+8000
+9000
+10000
+11000
+Average daily steps
+0
+4
+8
+12
+16
+18
+2
+6
+10
+14
+Average daily steps
+d.
+2
+4
+6
+8
+10
+12
+14
+16
+Walkability
+18
+Activity inequality
+0.150
+0.175
+0.200
+0.225
+0.250
+0.275
+0.300
+0.100
+0.125
+95% confidence interval
+Linear regression
+0
+100
+200
+300
+400
+50
+150
+250
+350
+High walkability
+Low walkability
+03
+06
+08
+10
+12
+14
+16
+18
+21
+Weekday
+Time of the day
+Weekend
+03
+06
+08
+10
+12
+14
+16
+18
+21
+0
+100
+200
+300
+400
+50
+150
+250
+350
+Fig. 4 | Relationship between perceived walkability and activity inequality and
+average daily steps. a (Figure adapted from Althoff et al. Figure 35) Perceived
+Walkability and activity level measured by Fitbit. Analysis with the AoU dataset
+displays a linear relationship between activity inequality and walkability score as
+indicated in dark gray (R2 = 0.426, p < 0.01). b (Figure adapted from Althoff et al.
+Figure 35) Average steps were taken over the course of weekdays and weekends in the
+ﬁve most (indicated in green) and ﬁve least (orange) perceived walkability scores.
+c The walkability-activity gradient (WAG), which is measured by the slope of the
+linear regression model (y = average steps per day, x = perceived walkability) for
+each subgroup, represents the predicted change in daily steps for a one-unit change
+in perceived walkability. The gray dotted line indicates the average perceived
+walkability score. Individuals with normal BMI consistently recorded the highest
+average steps, followed by those with overweight and obese BMI. WAG was also
+highest for normal BMI individuals when perceived walkability exceeded 10. d For
+all age groups, the highest WAG was observed beyond a perceived walkability score
+of 10. However, the increase in steps was less pronounced in older adults compared
+to younger groups.
+https://doi.org/10.1038/s41746-024-01358-4
+Article
+npj Digital Medicine |  (2025) 8:8 
+7
+Fitbit data included daily summaries of activity (e.g., active minutes
+per day and total steps per day) and intraday data for heart rate and step
+counts. To ensure the validity of our statistical analysis, we implemented a
+heart rate ﬁltering algorithm to identify days with suitable device
+adherence32. As Fitbit’s intraday heart rate data is reported every minute, we
+aggregated all heart rate measurements from a given day per individual to
+determine the daily adherence rate, which is calculated by dividing the total
+number of heart rate measurements by the total number of minutes in a day
+(1440 min). We then plotted the daily adherence rate (ranging from 0 to 1)
+from all participants. From a visual inspection (Supplementary Fig. 2), we
+selectedan adherence threshold (0.4) to label the valid daysto beincludedin
+subsequent analyses. In selecting our optimal adherence threshold for the
+heartrateﬁlteringalgorithm,wemainlyconsidered(1)minimizingdataloss
+and conserving variance (i.e., the demographic distribution of participants)
+and (2) providing comparative results to Althoff et al.’s study5.
+From further observation, we identiﬁed unreasonably high daily step
+values (i.e., daily steps ≥50,000 steps, which is more than would be expected
+froma marathon run) from 172 unique individuals. We removed these days
+(n = 1479), attributing such deviations to errors in the device or its data
+processing. In addition, since the AoU database contains participants’ his-
+torical Fitbit data from before their enrollment, any data points from before
+the participant turned 18 in age were removed from the analysis. Using all
+valid days, we calculated the average daily steps and active minutes for each
+participant and used z-scores to exclude any individuals with extreme
+outliers (n < 20), which are most likely due to having fewer valid days
+(deﬁned as |z-score | > 4).
+Lastly, an indicator of physical activity was derived based on the aerobic
+guideline by the U.S. Department of Health and Human Services. As deﬁned
+by the Physical Activity Guidelines for Americans, an active individual
+engages in a minimum of 150 min of moderate-to-vigorous physical activity
+(MVPA) or 75 min of vigorous physical activity (VPA) per week)1. While the
+BRFSS10 determines whether individuals meet the aerobic activity guideline
+based on self-reported physical activity frequency and durations per week,
+here, we were able to leverage the “fairly active minutes” and “very active
+minutes” from Fitbit’s daily summary report to derive weekly moderate-
+intensity and vigorous-intensity activity minutes, respectively. We consider
+an individual to have met the aerobic activity guideline if their fairly active
+minutes + 2*(vigorous-intensity activity minutes) ≥150 min/week1.
+Statistical analysis
+To examine the relationship between activity inequality and various factors
+such as geographic location, biological sex, obesity, and walkability (an
+environmental factor), we used the methods described in Althoff et al.’s
+paper. This includes the determination of the Gini coefﬁcient based on the
+Lorenz curve drawn by Althoff et al., which plots the proportion of the total
+daily steps of the population that arecumulatively recorded by the bottom X
+% of the population, where X is some pre-set threshold value5. The Gini
+coefﬁcientismathematicallycalculatedbydividingtheareathatliesbetween
+the line of equality and the Lorenz curve by the total area under the line of
+equality33. Thus, the Gini coefﬁcient can be interpreted as an indicator of
+how dispersed the data is—values closer to 1 indicate higher inequality (or
+variance) within the population.
+To investigate the geographic disparity in activity, we created a forest
+plot to visualize the mean of all individuals’ daily steps in each state, along
+with a 90% conﬁdence interval (Fig. 1a and Supplementary Table 2). Only
+states with >20 participants were included as per the data privacy and
+protection guidelines from the AoU Researcher Workbench. We also
+indicated the average annual temperature of each from January 2016 to
+December 2019, as obtained from the NOAA National Centers for Envir-
+onmental Information34. The activity trend was further compared to the
+mean results of the phone surveys conducted by BRFSS in 2017 and 2019
+(Supplementary Fig. 3). We also generated a continuous probability density
+plot of daily steps for the two most active (New York and Illinois) and two
+least active states (Texas and Arizona) with more than 150 participants
+using the kernel density estimate (KDE) method35 (Fig. 1b). The bandwidth
+wasselected usingScott’s rule asthe estimator and adjusted to smoothen the
+kernel density function. In addition, we normalized the density plot to each
+state’s mode (representative of the baseline activity of each state) to better
+characterize the activity variance among individuals in each state (Fig. 1c).
+The activity variance in a state was further investigated by plotting the
+activity of males and females separately to assess whether the activity dif-
+ferences across states (Fig. 1b) are related to sex assigned at birth (Fig. 2a).
+The association between activity inequality and gaps in activity by sex at
+birth, which is deﬁned by the ratio of average daily steps of females to the
+difference in average daily steps between males and females, among states
+was also examined (Fig. 2b). We also examined if the gaps in activity by sex
+at birth differ depending on the typical physical activity level. We computed
+the ﬁrst, second, and third quartiles of average steps per day in ehttps://doi.
+org/10.1007/3-540-27661-0_4ach state (Fig. 2c).
+For the analysis to understand the relationship between activity
+inequalityandobesity,weonlyincludedstateswith>30participants(Fig.3a).
+A greater number of participants per state (compared to Fig. 1a) ensured
+sufﬁcient data points to compute the activity inequality measure. We ﬁt two
+linear regression lines that minimize the residual sum of squares—one with
+and one excluding outliers (Washington and Louisiana). We then investi-
+gatedtheassociationbetweensexassignedatbirthandobesitybyplottingthe
+obesityprevalence(fractionofthepopulationclassiﬁedasobese)ofeachstate
+against their average daily steps (Fig. 3b). The obesity prevalence and daily
+steps for each state were rounded to the nearest 1000.
+Analysis of walkability and activity inequality was performed by
+deﬁning “perceived walkability” from the relevant responses to AoU’s
+SDOHsurvey(SupplementaryTable1).Outoftheeightquestionsthatwere
+sourced fromPANES30,weeliminatedtwoquestions(RecreationalFacilities
+and Day Safety) due to the low response rate (Supplementary Fig. 4). Apart
+from the question regarding the main housing type in the neighborhood,
+responses were transformed using a four-point scale, ranging from 0
+(strongly disagree) to 3 (strongly agree), to gauge agreement with the
+statements related to walkability features. The questions regarding housing
+types were encoded on the same scale and by low (detached single-family
+housing) to high residential density (apartments or condos) (Supplemen-
+tary Table 1). Perceived walkability was obtained by summing the scores
+from all six responses.
+To determine the association of activity inequality with perceived
+walkability, we grouped individuals based on the perceived walkability of
+their neighborhood (Fig. 4a). To ensure statistical robustness, we excluded
+perceived walkability groups with ≤20 individuals (n = 18 groups included,
+n = 1 excluded). To explore activity trends in neighborhoods with high and
+low perceived walkability, we plotted Fitbit intraday step count over the
+course of the day. We binned the data into 30-min segments and averaged
+the data in each bin by weekdays or weekends. We plotted these 30-min-
+averaged steps for the ﬁve neighborhoods with the highest perceived
+walkability scores and the ﬁve neighborhoods with the lowest perceived
+walkability scores (Figs. 4b and Fig. 3c). We smoothed the curve by per-
+formingamovingaverage(takingtheaverageof thelasttwo 30-minbins) to
+better identify the diurnal trend. Finally, we examined the association
+between perceived walkability and activity level in each of the following
+subpopulations: sex assigned at birth, age, and obesity level (Fig. 4d). We
+again excluded groups with ≤20 participants. From the groups that met
+these criteria, we ﬁt a LOESS (locally estimated scatterplot smoothing)
+regression model with perceived walkability score as the independent
+variable and daily steps as the dependent variable for each subpopulation.
+We compared the slopes, which represent the estimated increase in daily
+steps for a one-point increase in perceived walkability score, across sub-
+groups.Theparametersofthelinearregressionmodelforeachsubgroup are
+also reported (Supplementary Table 3).
+Data availability
+To ensure participant privacy, data used for this study is available to
+approved researchers following registration, completion of ethics training,
+and attestation of a data use agreement through the All of Us Research
+https://doi.org/10.1038/s41746-024-01358-4
+Article
+npj Digital Medicine |  (2025) 8:8 
+8
+Workbench platform, which can be accessed via https://workbench.
+researchallofus.org/login.
+Code availability
+All the registered Researcher Workbench users can access the code for this
+project at https://workbench.researchallofus.org/library.
+Received: 25 July 2024; Accepted: 6 November 2024;
+References
+1.
+Piercy, K. L. et al. The Physical Activity Guidelines for Americans.
+JAMA 320, 2020 (2018).
+2.
+SFM, C. et al. Inequality in physical activity, global trends by income
+inequality and gender in adults. Int. J. Behav. Nutr. Phys. Act. 17, 142
+(2020).
+3.
+Pabayo, R., Fuller, D., Lee, E. Y., Horino, M. & Kawachi, I. State-level
+income inequality and meeting physical activity guidelines; differential
+associations among US men and women. J. Public Health 40,
+229–236 (2018).
+4.
+Werneck, A. O., Barboza, L. L., Silva, E. C. M. & Araujo, R. H. O.
+Sociodemographic Inequalities in Physical Activity in Latin America:
+time for policies targeted at groups that need it the most. Int. J. Public
+Health 67, 1605125 (2022).
+5.
+Althoff, T. et al. Large-scale physical activity data reveal worldwide
+activity inequality. Nature 547, 336–339 (2017).
+6.
+Centers for Disease Control and Prevention (CDC). Behavioral Risk
+Factor Surveillance System Survey Questionnaire. Atlanta, Georgia:
+U.S. https://www.cdc.gov/brfss (Department of Health and Human
+Services, Centers for Disease Control and Prevention, 2023).
+7.
+Mokdad, A. H. The behavioral risk factors surveillance system: past,
+present, and future. Annu. Rev. Public Health 30, 43–54 (2009).
+8.
+Centersfor DiseaseControl andPrevention (CDC).NationalCenterfor
+Health Statistics (NCHS). National Health and Nutrition Examination
+Survey. Hyattsville, MD: U.S. Department of Health and Human
+Services, Centers for Disease Control and Prevention. wwwn.cdc.
+gov/nchs/nhanes (2023).
+9.
+The All of Us Research Program Investigators et al. The “All of Us”
+Research Program. N. Engl. J. Med. 381, 668–676 (2019).
+10. Centers for Disease Control and Prevention, National Center for
+Chronic Disease Prevention and Health Promotion, Division of
+Population Health. BRFSS Prevalence & Trends Data. https://www.
+cdc.gov/brfss (2015).
+11. Ramirez, A. H., Gebo, K. A. & Harris, P. A. Progress with the all of us
+research program: opening access for researchers. JAMA 325,
+2441–2442 (2021).
+12. Glazier, R. H. et al. Density, destinations or both? A comparison of
+measures of walkability in relation to transportation behaviors,
+obesity and diabetes in Toronto, Canada. PLoS ONE 9, e85295
+(2014).
+13. Feinstein, L. et al. Racial/ethnic disparities in sleep duration and sleep
+disturbances among pregnant and non-pregnant women in the
+United States. J. Sleep Res. 29, e13000 (2020).
+14. Wilson-Frederick, S. M. et al. Examination of race disparities in
+physical inactivity among adults of similar social context. Ethn. Dis.
+24, 363–369 (2014).
+15. Piccinini, F., Martinelli, G. & Carbonaro, A. Accuracy of mobile
+applications versus wearable devices in long-term step
+measurements. Sensors 20, 6293 (2020).
+16. Adamakis, D. M. Physical activity in the era of mHealth big data:
+considerations on accuracy and bias. SSP J. Sport Sci. Med. 2, 6–10.
+(2019).
+17. Redenius, N., Kim, Y. & Byun, W. Concurrent validity of the Fitbit for
+assessing sedentary behavior and moderate-to-vigorous physical
+activity. BMC Med. Res. Methodol. 19, 29 (2019).
+18. Brewer,W., Swanson,B. T. & Ortiz, A. Validityof Fitbit’s active minutes
+as compared with a research-grade accelerometer and self-reported
+measures. BMJ Open Sport—Exerc. Med. 3, e000254 (2017).
+19. Google. What are Active Zone Minutes or active minutes on my Fitbit
+device? Fitbit Help Center. https://support.google.com/ﬁtbit/answer/
+14236509?hl=en#zippy=%2Chow-does-my-ﬁtbit-device-calculate-
+active-minutes (2024).
+20. Hales, C. M. Prevalence of obesity and severe obesity among adults:
+United States, 2017–2018. NCHS Data Brief. 360, 1–8 (2020).
+21. Fayyaz, K. et al. Validity of measured vs. self-reported weight and
+height and practical considerations for enhancing reliability in clinical
+and epidemiological studies: a systematic review. Nutrients 16, 1704
+(2024).
+22. Cho, P. J. et al. Demographic imbalances resulting from the bring-
+your-own-device study design. JMIR MHealth UHealth 10, e29510
+(2022).
+23. National Institutes of Health (NIH). All of Us Research Program
+Expands Data Collection Efforts with Fitbit. National Institutes of
+Health (NIH) — All of Us https://allofus.nih.gov/news-events-and-
+media/announcements/all-us-research-program-expands-data-
+collection-efforts-ﬁtbit (2020).
+24. Wang, W. K. et al. A systematic review of time series classiﬁcation
+techniques used in biomedical applications. Sensors 22, 8016 (2022).
+25. Lakka, T. A. & Bouchard, C. Physical activity, obesity and
+cardiovascular diseases. Handb. Exp. Pharmacol. 137–163 https://
+doi.org/10.1007/3-540-27661-0_4 (2005).
+26. Mayo, K. R. et al. The all of us data and research center: creating a
+secure, scalable, and sustainable ecosystem for biomedical research.
+Annu. Rev. Biomed. Data Sci. 6, 443–464 (2023).
+27. Desine, S. et al. Daily step counts before and after the COVID-19
+pandemic among all of us research participants. JAMA Netw. Open 6,
+e233526 (2023).
+28. CDC. Deﬁning Adult Overweight and Obesity. Centers for Disease
+Control and Prevention https://www.cdc.gov/obesity/basics/adult-
+deﬁning.html (2022).
+29. All of Us Research Program. How All of Us protectsparticipant privacy.
+User Support https://support.researchallofus.org/hc/en-us/articles/
+4552681983764-How-All-of-Us-protects-participant-privacy (2022).
+30. Sallis, J. F. et al. Evaluating a brief self-report measure of
+neighborhood environments for physical activity research and
+surveillance: Physical Activity Neighborhood Environment Scale
+(PANES). J. Phys. Act. Health 7, 533–540 (2010).
+31. US Census Bureau. 2010 Census Regions and Divisions of the United
+States. Census.gov https://www.census.gov/geographies/
+reference-maps/2010/geo/2010-census-regions-and-divisions-of-
+the-united-states.html (2010).
+32. Lederer, L. et al. The Importance of Data Quality Control in Using Fitbit
+Device Data From the Research Program. JMIR Mhealth Uhealth
+e45103, https://doi.org/10.2196/45103 (2023).
+33. Dorfman, R. A formula for the Gini coefﬁcient. Rev. Econ. Stat. 61, 146
+(1979).
+34. NOAA National Centers for Environmental Information. Climate at a
+Glance: Statewide Mapping. https://www.ncei.noaa.gov/access/
+monitoring/climate-at-a-glance/statewide/mapping (2024).
+35. Waskom, M. L. Seaborn: statistical data visualization. J. Open Source
+Softw. 6, 3021 (2021).
+Acknowledgements
+The All of Us Research Program would not be possible without the
+partnership of its participants. The All of Us Research Program is supported
+by the National Institutes of Health, Ofﬁce of the Director: Regional Medical
+Centers: 1 OT2 OD026549; 1 OT2 OD026554; 1 OT2 OD026557; 1 OT2
+OD026556; 1 OT2 OD026550; 1 OT2 OD 026552; 1 OT2 OD026553; 1 OT2
+OD026548; 1 OT2 OD026551; 1 OT2 OD026555; IAA #: AOD 16037;
+Federally Qualiﬁed Health Centers: HHSN 263201600085U; Data and
+https://doi.org/10.1038/s41746-024-01358-4
+Article
+npj Digital Medicine |  (2025) 8:8 
+9
+Research Center: 5 U2C OD023196; Biobank: 1 U24 OD023121; The
+Participant Center: U24 OD023176; Participant Technology Systems
+Center: 1 U24 OD023163; Communications and Engagement: 3 OT2
+OD023205; 3 OT2 OD023206; and Community Partners: 1 OT2 OD025277;
+3 OT2 OD025315; 1 OT2 OD025337; 1 OT2 OD025276.
+Author contributions
+H.J., A.R., H.M., and J.K. had full access to the data in the study and took
+responsibility for the integrity of the data and the accuracy of the data analysis.
+Conceptanddesign:H.J.,A.R.,J.K.,J.D.Acquisition,analysis,orinterpretation
+of data: H.J., J.K., A.R. Code review: A.R., H.M., A.K. Drafting of the
+manuscript: H.J., A.R., H.M., J.K., J.D. Critical revision of the manuscript for
+important intellectual content: H.J., A.R., H.M.,J.D.,J.K., A.K.,P.H.,M.B., K.M.
+Statistical analysis: H.J., A.R., J.K. Obtained funding: J.D., P.H., M.B.
+Administrative, technical, or material support: H.M., J.D. Supervision: J.D.
+Competing interests
+There are no competing interests for any author. The sponsor, the All of Us
+Research Program, as well as Fitbit, Inc., had no involvement in the design
+and conduct of the study; collection, management, analysis, and
+interpretationof the data; preparation, review, or approval of the manuscript;
+and the decision to submit the manuscript for publication.
+Additional information
+Supplementary information The online version contains
+supplementary material available at
+https://doi.org/10.1038/s41746-024-01358-4.
+Correspondence and requests for materials should be addressed to
+Jessilyn Dunn.
+Reprints and permissions information is available at
+http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral withregardtojurisdictional
+claims in published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License,
+which permits any non-commercial use, sharing, distribution and
+reproduction in any medium or format, as long as you give appropriate
+credit to the original author(s) and the source, provide a link to the Creative
+Commons licence, and indicate if you modiﬁed the licensed material. You
+do not have permission under this licence to share adapted material
+derived from this article or parts of it. The images or other third party
+material in this article are included in the article’s Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material
+isnot includedin thearticle’s CreativeCommons licenceandyour intended
+use is not permitted by statutory regulation or exceeds the permitted use,
+you will need to obtain permission directly from the copyright holder. To
+view a copy of this licence, visit http://creativecommons.org/licenses/by-
+nc-nd/4.0/.
+© The Author(s) 2025
+https://doi.org/10.1038/s41746-024-01358-4
+Article
+npj Digital Medicine |  (2025) 8:8 
+10

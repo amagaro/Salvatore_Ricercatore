@@ -1,0 +1,1001 @@
+https://doi.org/10.1177/13623613221118158
+Autism
+2023, Vol. 27(3) 822­–831
+© The Author(s) 2022
+Article reuse guidelines: 
+sagepub.com/journals-permissions
+DOI: 10.1177/13623613221118158
+journals.sagepub.com/home/aut
+There is a growing body of literature on the experiences of 
+autistic students in higher education. This includes research 
+into rates and predictors of postsecondary education enrol-
+ment (Chiang et al., 2012; Flower et al., 2021), and rea-
+sons for discontinuing university studies (Cage & Howes, 
+2020). Aspects of educational experiences, needs and sup-
+port provisions have been examined (Cai & Richdale, 
+2016; Chandrasekhar, 2020; Elias & White, 2018; McLeod 
+et al., 2019), as well as the social experiences of autistic 
+university students, including interaction and exclusion 
+(Goddard & Cook, 2022; Gurbuz et al., 2019), social 
+supports, networks and anxiety (Lei et al., 2019, 2020) and 
+experiences of bullying (DeNigris et al., 2018).
+What is surprisingly absent from the literature is 
+research on the experiences of autistic people working in 
+Autistics working in academia:  
+What are the barriers and  
+facilitators?
+Sandra C Jones
+Abstract
+Autistic people are under-represented in university student populations, but their numbers are growing, and the barriers 
+to their inclusion are being recognised. Outside of the student body, autistic people in academia are often overlooked, 
+although this is starting to change with the growth in inclusive autism research. However, they remain absent from 
+the academic literature, despite the evident synergies between autistic strengths and academic careers. This study 
+explored the perceptions of 37 autistic academics from various disciplines: what are the positives of working in academia 
+for autistic people, and what are the negatives? Participants reported many positive aspects of an academic career, 
+including the fit with the strengths, characteristics and motivations of autistic people. However, they also noted barriers 
+and challenges – social, environmental and structural – many of which could be addressed by greater awareness and 
+acceptance of autism. Given the considerable benefits that autistic teachers and researchers bring to higher education, 
+there is a clear need for universities and colleges to implement changes to the physical and social environment to make 
+academia more inclusive.
+Lay Abstract 
+Academia appears to provide an ideal career option for autistic people: the opportunity to lock ourselves away in an 
+ivory tower and utilise our extensive knowledge of a very specific topic. We know autistic people are underrepresented 
+in postsecondary education, and there is a growing body of research on how to make universities more inclusive. What 
+is missing from the literature is the voices of autistic people who have survived the university experience and gone 
+on to become university teachers and researchers. Increasing the visibility of autistics in academia, and exploring the 
+barriers and facilitators they experience in an academic career, is important to raise the aspirations of future university 
+students and graduates. This study included 37 autistic academics from various disciplines and countries, exploring their 
+perceptions of the positive and negative aspects of being an autistic in academia.
+Keywords
+employment, higher education, lived experience
+Australian Catholic University, Australia
+Corresponding author:
+Sandra C Jones, Australian Catholic University, St Patrick’s Campus, 
+Level 2, 340 Albert Street, East Melbourne, VIC 3002, Australia. 
+Email: sandra.jones@acu.edu.au
+1118158 AUT0010.1177/13623613221118158AutismJones
+research-article2022
+Original Article
+Jones	
+823
+academia; that is, those who have completed graduate 
+studies and embarked on a research and/or teaching career. 
+This is in part due to the long history of autism research 
+centred in a pathology paradigm (Walker & Raymaker, 
+2020), with autistic people seen as inferior and disordered. 
+Such a paradigm promulgates the belief that advances in 
+our understanding of autism and how to support autistic 
+people will come from neurotypical researchers, and mini-
+mises the contribution of autistic people to ‘end-users’ 
+rather than generators of knowledge. It also promulgates 
+the assumption that autistic people will not be present in 
+higher education and that those ‘rare few’ who are must be 
+‘less autistic’, and the associated stigma deters those who 
+are working in academia from disclosing.
+As Milton et al. (2019) note in their reflection on the 
+establishment of the Participatory Autism Research 
+Collective and the issues facing autistic individuals work-
+ing in the autism field, ‘. . . we are aware of a vast array of 
+issues that we share and with which we need support. 
+These may apply more broadly to many autistic autism 
+professionals and/or activists but are contextualised in a 
+different way within academia’ (p. 86). If we are to encour-
+age more autistic individuals to undertake education and 
+training to become researchers and thus have an equal 
+space at the table with non-autistic researchers, we need to 
+understand what aspects of the role and environment are 
+conducive to (and what presents barriers to) autistic indi-
+viduals succeeding in the academy.
+Recently we have seen a small number of papers reflect-
+ing on ways that academia could be more inclusive and 
+supportive for autistic people, typically from the perspec-
+tive of an autistic scholar contemplating their experiences. 
+For example, Taylor and Johnson (2020) reflect on the first 
+author’s experiences as a doctoral student in geosciences 
+and suggest ways that the field could be more inclusive; 
+and Raymaker (2017) reflects on being an insider-researcher 
+in a community-based participatory research setting.
+Going beyond the experiences of one individual, Martin 
+(2021) reports on a questionnaire study that explored the 
+experiences of 12 autistic researchers (doctoral students, 
+part-time researchers and other non-permanent roles) and 
+‘revealed barriers at every stage of the employment jour-
+ney for autistic academics and highlighted relatively 
+straightforward ways of circumventing them based on 
+principles of Universal Design’ (p. 14). A recent autistic 
+autism researchers’ roundtable (Dwyer et al., 2021) 
+reflected on several topics, including the importance of 
+autistic and intersectional identities, ways in which autistic 
+autism researchers can enhance the quality of autism 
+research, tensions and conflicts that we face as autistic 
+autism researchers, and ways in which inflexible institu-
+tions and practices can impose barriers that restrict autistic 
+involvement in academia.
+The purpose of this study was to explore the perspec-
+tives and experiences of autistic individuals working in 
+academia across various disciplines on the benefits and 
+barriers to pursuing a career in the academy.
+Method
+Participants and procedure
+This study formed part of a larger longitudinal project con-
+ducted across 12 months and involving 37 autistic academ-
+ics (defined as working in, or having recently worked in, a 
+university in a teaching and/or research and/or governance 
+role). Participants were recruited via the promotion of the 
+study on social media and through word of mouth. The 
+social media posts directed interested individuals to a web-
+site that provided study details, a downloadable consent 
+form and an email address for study enrolment.
+Each month, participants were invited via email to pro-
+vide a written reflection on a specific topic, and although 
+prompts were provided, participants were encouraged to 
+write about any aspect of the topic that was of interest or 
+relevance to them. Participation for each topic was 
+optional; however, participants were only included in the 
+sample if they completed and returned the consent form, 
+statistical data sheet and at least four reflections. Twenty-
+eight participants (72%) completed all 12 monthly reflec-
+tions, 31 at least nine and 33 at least six.
+In January 2021, participants were invited to provide a 
+written reflection on the topic of ‘Being an Autistic in 
+Academia’ and all 37 participants (100%) returned a 
+reflection, ranging in length from 189 to 2965 words 
+(x = 1081). This invitation prompted them to reflect on 
+negative aspects of employment in academia (What chal-
+lenges do you experience in your job? What do you like 
+the least about your job?) and positive aspects (What do 
+you like the most about your job?).
+All participants were either currently working in aca-
+demia (n = 26), had previously worked in academia (n = 7) 
+and/or were undertaking doctoral studies (n = 12), with 
+period of employment in academia ranging from 1 to 
+23 years. The majority had a formal autism diagnosis 
+(n = 32); 21 identified as female, nine as male and seven as 
+non-binary. Participants resided in Australia (n = 13), the 
+United States (n = 11), Canada (n = 5), the United Kingdom 
+(n = 5), New Zealand and continental Europe. Participants 
+came from various disciplines, including creative arts, 
+education, engineering, health, languages, leadership, psy-
+chology, sciences, social sciences and sociology.
+Data analysis
+Reflections were saved into a consistent format and 
+imported into NVivo for coding. An inductive approach 
+to data analysis was utilised, following Braun and 
+Clarke’s approach to reflexive thematic analysis (Braun 
+& Clarke, 2019). This approach was chosen because the 
+824	
+Autism 27(3)
+aim of the study was to understand the benefits and chal-
+lenges of autistic people working in universities, as they 
+experience them. Consistent with the author’s position as 
+an ‘insider researcher’ this paradigm recognises that the 
+researcher’s own lived experiences will influence inter-
+pretation of the data.
+The analysis process was iterative, with initial codes 
+created and a visual map produced to identify overlapping 
+and intersecting codes. Following a close reading of all 
+transcripts, each transcript was coded line by line with ini-
+tial codes generated as new concepts or ideas were identi-
+fied. This resulted in a total of 117 initial codes. The codes 
+were then refined and merged with constant reference to 
+the content of each lower-order code, and constant updat-
+ing of the visual map. Based on a thorough review of all 
+codes and their content, 11 provisional themes were gener-
+ated. These were further refined and combined to elimi-
+nate overlapping themes and ensure that all included text 
+was relevant to the overarching theme, resulting in a total 
+of five themes.
+Data were anonymised, with participants providing 
+their preferred pseudonyms for analysis and reporting. 
+The results were shared with all participants to ensure 
+that the interpretation aligned with their reflections and 
+lived experience.
+Researcher positionality
+The researcher is a late-diagnosed autistic woman, parent 
+of two autistic people, autism advocate and experienced 
+autism researcher. She has been working in academia for 
+more than 20 years as a researcher, manager and senior 
+administrator. While she did not know the participants 
+personally, the in-depth nature of the study means she 
+was privy to their thoughts and perspectives on a range of 
+very personal issues; the ongoing nature of the study 
+meant that she interacted with them regularly via email. 
+She also identified with many of their perspectives and 
+was struck by the similarity of their experiences to her 
+own as an autistic in academia.
+Community involvement statement
+This research was conducted entirely by autistic people. 
+The author is an autistic autism researcher. A panel of four 
+autistic people reviewed the data collection tools for clar-
+ity, comprehensiveness and inclusive language; these indi-
+viduals were working as researchers and/or undertaking 
+doctoral studies and did not participate in the study. All 
+study participants are autistic.
+Results
+The five themes the author generated from the analysis of 
+reflections on the positives and negatives of autistic people 
+working in academia are discussed below in order of their 
+prominence within the data and the emphasis placed on 
+these issues in the reflections.
+Social interaction is complicated
+The complexities of social interaction and the challenges it 
+poses for working in academia, including the energy 
+required for constant masking of autistic traits to ‘fit in’, 
+dominated this theme. Enormous amounts of emotional 
+energy are required to manage the nature and frequency of 
+social interactions, both ‘work-based’ interactions such as 
+meetings and ‘social-based’ interactions. Understanding 
+and following social rules, interpreting others’ actions and 
+reactions, masking autistic behaviours, and combining 
+‘professional’ and ‘personal’ interactions are effortful 
+activities for many autistic people. Aspects that non-autis-
+tic people find relaxing and enjoyable (such as morning 
+teas and after-work drinks) can be very challenging for 
+autistic people. Participants frequently mentioned the 
+sheer number of meetings that take place each day in aca-
+demia as a difficult aspect of academic roles. In addition to 
+the energy required to participate in the conversation, frus-
+trations arise around the management of meetings and the 
+time that is wasted when there are more efficient ways of 
+achieving outcomes.
+The transient nature of academia adds to the intensity of 
+the effort required to maintain social interaction. While we 
+may have a consistent group of colleagues (as in other pro-
+fessions), the academic year brings new cohorts of stu-
+dents, and conferences and meetings bring new 
+‘colleagues’. Some participants also noted having prosop-
+agnosia (face blindness), a more common condition among 
+autistic people (Minio-Paluello et al., 2020), and the addi-
+tional challenges this brings to social interactions.
+I also find some social aspects of the job to be tricky; 
+sometimes it’s easy to connect with others over shared 
+interests, but I’m often unsure how to read a situation. And 
+again, with new classes and new work assignments every 
+semester, I’m constantly having to navigate new groups of 
+people and figure out how we’re going to work together. 
+(Dee)
+Social interactions take time and energy that is needed to 
+complete work, creating an ever-present need to balance 
+the work we are paid to do with the social expectations of 
+colleagues. The tendency of autistic people to be intensely 
+focused on the activity they are engaged in can be mis-
+taken for rudeness or hostility. A lack of assertiveness and 
+difficulties with spontaneous communication can be mis-
+taken for disinterest or lower capacity. For some partici-
+pants, this social aspect went beyond the energy 
+requirements of social interaction; they also had the worry 
+of exclusion or hostility from colleagues. The political 
+nature of the workplace was a common topic of reflection 
+Jones	
+825
+concerning the challenges of academia: understanding the 
+hierarchical structure of the organisation, the nuances of 
+power and alliances and the need to intuit the hidden mean-
+ing behind communications.
+I know that I simply don’t have the skills or the capacity to 
+play those nuanced neurotypical games of interpersonal 
+snakes and ladders, and most of the time I’m completely 
+unaware that they’re even going on. . .. I know that I’m likely 
+missing out on opportunities because I’m not able to access 
+the social politics of academia, and that’s sometimes 
+frustrating. (Alex)
+The tendency of autistic people to be honest and direct, to 
+be uncomfortable with deception and unable to detect 
+deception in others can put us at a distinct disadvantage 
+in a work context that is fundamentally competitive. 
+There is constant competition for positions, funding, pro-
+motion and – sadly – like high school, there is competi-
+tion for social status. The interaction between the politics 
+that appear to be inherent in academia and some of the 
+intrinsic aspects of autism (anxiety, perseveration, per-
+fectionism) results in strain on some autistics working in 
+academia, with negative outcomes that extend beyond 
+the workplace.
+Frustration with the lack of commitment and compe-
+tence of others in the workplace – both colleagues and stu-
+dents – was evident in many of the reflections. Those who 
+place high expectations on themselves and work hard to 
+achieve these find it difficult to understand and accept the 
+lackadaisical attitude of others.
+I really hate it when I delegate a task to someone and then 
+when I look at it, it has mistakes in it or they haven’t formatted 
+it consistently. Also it really annoys me when people can’t do 
+basic things then they ask me to do it – I only know how to do 
+things because I have taken the time to understand how things 
+work, have experimented and figured things out for myself. 
+(Olivia)
+It would be easy to assume that these social challenges are 
+only experienced by those in the early stages of their 
+career, but similar themes were evident in the reflections 
+of participants with lengthy careers in academia and those 
+in leadership roles.
+However, the participants’ reflections also emphasised 
+great enjoyment and satisfaction in aspects of interper-
+sonal interactions, particularly those that provide oppor-
+tunities to help others. This was particularly evident in 
+the context of sharing their knowledge with others, which 
+was seen as the highlight of teaching roles. This went 
+beyond the direct transmission of knowledge, reflecting 
+not the stereotype of ‘info-dumping’ on others, but the 
+value of sharing information in a way that helps others 
+learn. As Lisa expressed it, ‘Imparting large amounts of 
+insight to smart students fast, giving them the tools to 
+navigate the world better once they get out there’. Equally 
+evident in the reflections was that a positive aspect of 
+teaching for autistic academics is the ability to help stu-
+dents. Participants commented on the enjoyment of 
+watching students succeed, whether this was the short-
+term success of completing an assignment, or the longer-
+term completion of a research degree or commencement 
+of employment. This was particularly the case in relation 
+to assisting students who experience marginalisation and/
+or disadvantage.
+. . .student’s face when they finally get something after 
+they’ve been struggling to understand it. (i.e. ‘light bulb’ 
+moment) spec con student finally completing subject or 
+sitting exam, etc. (Jane)
+Many participants reflected that a strong motivator and 
+positive aspect of working in academia was the ability to 
+help others and make positive changes in the world. 
+Academia can provide an opportunity to undertake mean-
+ingful research and advocacy and to fight for social justice, 
+an area of importance for many autistic people. This 
+included those working in the autism field – contributing 
+to improved outcomes for autistic people – and those 
+working in other fields that enable them to contribute to 
+the wellbeing of people who experience marginalisation 
+and/or disadvantage.
+I love the opportunity this work gives me to make a difference 
+in people’s lives and create systems change that could make 
+the world better for the next generations of autistic people and 
+people with other disabilities or intersectional identities. 
+(Sunny)
+There’s a lot to juggle
+Various aspects of working in academia are widely 
+acknowledged as challenging for all neurotypes but are 
+exacerbated for autistics. These include job insecurity, low 
+salary compared to many other careers, demanding work-
+load and the competitive nature of academic environments. 
+Other aspects of the role that can be exacting for autistic 
+people include rigid processes, breadth of activity, lack of 
+autonomy and ‘performance’ standards.
+The lack of job security inherent in the role of early 
+career researcher or teacher is problematic for people 
+who struggle with uncertainty and change. The casual 
+nature of the workforce means that there is ongoing 
+uncertainty for those who do not have tenure. Numerous 
+participants commented on aspects of their autism that 
+exacerbate, or are exacerbated by, their ability to manage 
+the heavy workload of academia. The former included 
+underlying generalised anxiety, perfectionism and infor-
+mation processing. The latter included environmental, 
+social and communication challenges. While many par-
+ticipants reported meeting or exceeding the expectations 
+826	
+Autism 27(3)
+of their colleagues and supervisors, this was achieved at 
+a considerable cost to their physical and mental health.
+I am a perfectionist (which could be seen as both a strength 
+and a weakness). As such students often comment on how 
+well delivered or presented my topics are, however this leads 
+to me burning out and experiencing extreme anxiety and 
+overwhelm (usually around Sept/Oct each year). (Scarlett)
+Rigid processes and protocols present challenges for autis-
+tic people working in academia, particularly the adherence 
+to inefficient or inappropriate rules and processes. Related 
+to this is the frustration for autistics when they have identi-
+fied alternative processes that would improve productivity 
+and increase the quality of outcomes. Participants noted 
+the lack of autonomy in academia as a challenge, particu-
+larly those in administrative roles and junior members of 
+research and/or teaching teams. However, some partici-
+pants noted that challenges in academia also come from 
+too much autonomy when this is operationalised as a lack 
+of clear direction. While there is a focus on specialisation 
+in many areas of academia, there is also a breadth of activ-
+ity required and an expectation of a broad range of skills 
+assumed to be inherent in people employed in academia.
+One of the challenges of academia is that it requires one be 
+competent in many areas – one can’t specialize and focus only 
+on one or two little domains where one is especially skilled. 
+One needs to be able to network, write papers, understand and 
+implement research methods, hire and supervise other people, 
+etc. (Scott)
+Participants reflected on the performance aspect of the 
+academic role in the context of conference presentations, 
+media interviews and other forms of public speaking. 
+However, it was of particular concern in teaching. While 
+the transmission of knowledge is one of the most enjoyed 
+aspects of academia for this cohort, the social dimensions 
+of teaching can be draining because the onus of communi-
+cation is on the autistic person who is there to educate and 
+entertain.
+. . .as a professor I am not much of a performer. I am excited 
+by the work and by talking about it, but I am not flashy. I am 
+not charismatic. I have been told that I’m intimidating. I go 
+out of my way to be warm and friendly, but it doesn’t come 
+naturally. Students seem to expect entertainment as much as 
+education these days, and I am not a natural entertainer. 
+(Saskia)
+Positive aspects of the academic’s role reflected on by par-
+ticipants included flexibility and autonomy. References to 
+flexibility included the flexibility of where to work, par-
+ticularly the option to work at home; when to work, includ-
+ing the ability to schedule work around energy levels; and 
+how to work, notably the flexibility around how and how 
+often to engage in social interaction. The flexible nature of 
+many roles in academia provides opportunities to control 
+when and where participants complete their work.
+You can work from home and work by yourself a lot of the 
+time, while still maintaining some degree of social interaction 
+for teaching or meetings. (Amy)
+Other aspects of autonomy that participants highly valued 
+include the capacity to make their own decisions, focus on 
+areas of research and/or teaching of interest to them and 
+work in ways that suit their cognitive processes and sensory 
+needs. Additional positive aspects of academic roles dis-
+cussed in the reflections included the potential for career 
+progression and job stability, being able to follow a routine, 
+visible indicators of success such as winning grants or hav-
+ing papers published and employment conditions such as 
+generous leave provisions and superannuation.
+We have different operating systems
+Differences in information processing processes and 
+styles pose challenges in the predominantly neurotypical 
+workplace of academia. These included learning styles, 
+information processing speed, dealing with change, varia-
+tions in information processing capacity and information 
+synthesis.
+Numerous participants reflected on being a visual 
+learner in a context where information is often presented 
+verbally with no visual aids, such as in conferences and 
+meetings. Working in a context where speed of informa-
+tion processing can be paramount was identified as a chal-
+lenge. Academic environments often value rapid responses 
+– whether that involves a snappy answer to a question or 
+fast-paced marking of assessments. For people who pro-
+cess information carefully and conscientiously, with a 
+focus on determining the most articulate response, this 
+expectation can result in missing out on opportunities or 
+not being heard. The frequency of change in the academic 
+environment and the related expectation that we will be 
+able to absorb and implement changes rapidly create con-
+siderable stress for this autistic cohort.
+Some commented on the apparent paradox of under-
+standing and working with complex information that others 
+grapple with while struggling to process fundamental con-
+cepts that appear intuitive to others. Similarly, participants 
+reflected on difficulties in identifying key points of infor-
+mation, separating the detail from the big picture and know-
+ing where to focus energy. This included aspects of the 
+academic role such as reading literature, writing for publi-
+cation, reviewing others’ writing and preparing lectures.
+I struggle to focus with writing. *Everything* is important 
+about a topic, because it wouldn’t be what it is without all the 
+details. So the advice when publishing in my discipline to ‘tell 
+us what’s important, not what you know’ is pretty much 
+impossible. (Liam)
+Jones	
+827
+Executive functioning challenges interact with the com-
+plex nature of academic roles. Reflections included 
+issues of managing deadlines and requirements, organis-
+ing data, staying on top of tasks, remembering things that 
+need to be done, initiating activities, switching between 
+activities and maintaining focus. A common issue was 
+being in a role that required working on multiple projects 
+simultaneously and the cognitive load involved in man-
+aging the range of tasks, competing deadlines and differ-
+ent task requirements. All participants who mentioned 
+executive functioning challenges also outlined the strate-
+gies they have put in place to address them, including 
+writing copious lists, setting up calendar reminders and 
+using a range of physical and electronic organisation 
+tools. Some compensated for executive functioning limi-
+tations by taking on part-time roles but working more 
+hours than they were paid for, others by living with a 
+constant feeling that they were not meeting the goals set 
+for them, and others by pushing themselves to the extreme 
+to meet the expectations of supervisors. However, it was 
+also evident that managing their executive functioning 
+challenges – while remaining model employees who con-
+sistently meet the demands of the role – significantly 
+impacts their wellbeing.
+Challenges include multitasking and managing executive 
+function issues, so I stay organized and on task, otherwise 
+I get quickly overwhelmed and stressed. Staying organized 
+and on top of everything takes a huge amount of energy 
+and I often come home exhausted, shutdown and nonverbal 
+from the effort of socializing and organizing myself. 
+(Trevor)
+However, there are definite positives of academic work 
+roles for autistic people. The cerebral aspects of the role 
+serve as major attractions to, and benefits of, working in 
+academia. These include the ability to focus on an area of 
+interest and the more general intellectual components of 
+the role. For those fortunate enough to be in research or 
+teaching areas aligned with their interests, academia pro-
+vides a rare environment where autistic special interests 
+are seen as valuable expertise (rather than ‘weird obses-
+sions’). The academic environment offers an opportunity 
+to exercise many of the cognitive strengths of autistic peo-
+ple, including our intense focus, capacity to recognise pat-
+terns and ability to generate novel solutions. As Olivia 
+reflected, ‘I feel that I am finally using my brain properly’. 
+It also values personal characteristics that may be under-
+valued in other careers, such as perseverance, perfection-
+ism and attention to detail.
+I am being paid to conduct research that I am personally and 
+professionally enamoured with. Call it a special interest or 
+weird obsession or whatever other people may label it but for 
+me there are some days I cannot believe I am as lucky as I am 
+to be in the position I am in. (Flora)
+We speak different languages
+Participants identified communication in the workplace as 
+a significant challenge, both understanding and being 
+understood by others. Challenges in receptive communica-
+tion included understanding questions from students and 
+colleagues, understanding and following vague instructions 
+from supervisors and following conversations with others. 
+As with non-work interactions, these issues are exacerbated 
+by the energy required to manage the sensory overload that 
+accompanies interpersonal interactions, particularly in 
+group settings. Challenges in expressive communication 
+included difficulty finding the right words, expressions and 
+tone of voice; being expected to respond spontaneously; 
+knowing how to start and end conversations; and a frequent 
+feeling that others don’t understand their communication.
+. . . the many interactions required over a day or a week can be 
+draining. I’m not so good at knowing how to end conversations, 
+so I often let conversations go on much longer than my time 
+or energy permits. (Marie)
+Many of these communication issues stem from different 
+ways of thinking and being in the neuro-minority in the 
+workplace. Participants described complex, high-level 
+internal thinking processes, including making links between 
+seemingly unrelated concepts, visual thinking and being 
+able to perceive and think in patterns. While these are com-
+mon strengths of autistic brains (Crespi, 2021) and contrib-
+ute to our ability to develop complex and novel solutions to 
+problems, they can be difficult to explain to others. These 
+differences in processing and communication styles also 
+result in contributions being overlooked or dismissed, and 
+a feeling of not being a valued team member.
+Difficulties in written communication are also prob-
+lematic for autistic people working in hierarchical univer-
+sity environments, particularly learning the nuances of 
+correspondence such as emails and formal letters. These 
+skills are perceived to be intuitive to non-autistic people, 
+and there is often a lack of awareness that autistics may 
+need additional support to learn these complex social rules.
+Participants discussed being sensitive to criticism from 
+others and being worn down by negative feedback from 
+supervisors, colleagues or students. While recognising that 
+this reaction to criticism was in part due to oversensitivity, 
+participants also noted that there was often unfair criticism 
+due to poor communication from others or a tendency to 
+attribute problems to them with their autism seen as the ‘rea-
+son’ for problems arising. Several mentioned internalising 
+this criticism and perseverating over how they may have con-
+tributed to the communication issues or negative outcomes.
+I automatically take things to heart too quickly if I think that 
+someone has criticised my work, particularly since I’m 
+working my butt off and it’s unpaid. I’m consciously trying to 
+make myself change that automatic response. . .. (Ava)
+828	
+Autism 27(3)
+Widespread lack of awareness of, and misunderstandings 
+about, autism create challenges in the workplace. Many 
+expend considerable emotional energy trying to correct 
+these misperceptions but find themselves ignored or dis-
+missed based on ‘learnings’ from media exposure or lim-
+ited contact with autistic people. A common concern was 
+the impact of others’ negative and dismissive comments 
+about autism. Those who had disclosed experienced nega-
+tive impacts due to ableist assumptions about their capac-
+ity, and those who had not disclosed by offhand insults 
+about autism from people unaware of their diagnosis. 
+These challenges were in some ways greater for those 
+working specifically in autism research, with constant 
+exposure to the literature that positions autism as a deficit 
+and to practices that are harmful to autistic people.
+. . . being an autistic autism researcher can be very hard. So 
+much of the literature I have to read is, at best, incredibly 
+ableist and, at worst, completely dehumanizing. People do not 
+consider that I may be autistic when they meet me, and speak 
+to me in ways that is often very upsetting and insulting about 
+autism and autistic people. (Louise)
+Intersectionality poses additional challenges, with partici-
+pants experiencing offensive and demeaning commentary 
+about multiple aspects of their identity. Issues of discrimi-
+nation based on gender, race, sexuality and other charac-
+teristics are cumulative and contribute to feeling 
+unwelcome or unsafe in academia. For some, this creates a 
+hostile work environment that is both exhausting and 
+damaging.
+I also experienced enough antisemitism in my academic 
+career to make me feel terribly isolated. One of the problems 
+is that I was never sure if people hate me because I am autistic, 
+or if they hate me because I’m Jewish. (Mia)
+Conversely, participants reflected that academia presents 
+opportunities for connection that enable us to utilise our 
+strengths, be recognised as equals and participate in a 
+meaningful way. The ability to connect over shared inter-
+ests and goals provides a structure for social interaction 
+and acknowledgement of our strengths rather than our 
+challenges.
+What I love about my job, weirdly enough, is the connection 
+with people. I love sharing a special interest with someone 
+and watching the lightbulb go off as they ‘get it’ and appreciate 
+how fascinating it is. Shared fascination is like shared awe: a 
+singular, bonding experience. (Saskia)
+Senses working overdrive
+Physical aspects of the work environment pose additional 
+challenges for autistic academics, particularly those with 
+sensory sensitivities. The most common concerns raised 
+were bright lights, noise and air-conditioning. Several 
+participants commented that this constant sensory input 
+led to sensory overload and meltdown.
+I have sensory integration issues in classrooms and offices 
+where bright lights are used. I also struggle with air-
+conditioners and find it difficult to maintain my composure 
+when a room is too cold for me. (Trina)
+Institutional policies exacerbate these sensory challenges; 
+factors such as who is ‘entitled’ to an office, lack of aware-
+ness and willingness to make necessary environmental 
+adjustments. It is noteworthy that several of these reflec-
+tions came from participants who work in institutions that 
+one would expect to be responsive to sensory issues, such 
+as an autism-focused research and training centre. While 
+many participants expressed frustration with the status 
+quo, others seemed resigned to working in inappropriate 
+conditions despite the cost to their wellbeing (and the min-
+imal expense and effort it would require for organisations 
+to address these issues).
+And the office that they put me in for when I do go in to the 
+office, pre-COVID, of course, it’s quite bright, and they 
+thought they’d try and help by removing a light bulb above 
+my desk, but that doesn’t really help. But it’s the thought that 
+counts. And they also seated me next to, like in sort of a 
+shared office, and there’s quite a bit of movement, which is 
+quite distracting, but I guess they don’t. . . They didn’t really 
+sort of think about that, I guess. And yeah, I’m only in there 
+once a fortnight, so there’s no point in me making a fuss about 
+it. (Charlotte)
+However, the flexibility of many academic roles (dis-
+cussed above) provides opportunities for autistic academ-
+ics to have some degree of control over their physical work 
+environment. While they may not be empowered to change 
+the shared workplace, the ability to work from home or 
+other locations can provide a welcome relief from sensory 
+overstimulation.
+I also like that my current roles are work-from-home (even 
+prior to COVID-19), which suits me very well. I like being 
+able to choose my own hours and work in my pyjamas with 
+my cat on my lap, and I like not being exhausted from 
+interacting with people at the end of each day. (Ella)
+Discussion
+Autism research conducted with autistic people, position-
+ing those with lived experience as partners in research, is 
+becoming the norm and the expectation in high-quality 
+autism journals. However, much of this discussion still 
+positions participatory research as linking two discrete 
+groups of individuals: ‘autism researchers’ (non-autistic 
+people with research training employed in academia) and 
+‘autistic individuals’ (non-research trained people with 
+lived experience of autism). What is often missing from 
+Jones	
+829
+the discussion is autism research conducted by autistic 
+people – that is, autistic people working within universities 
+and other research organisations.
+An autistic autism researcher undertook this study, and 
+participants were autistic researchers from a wide range of 
+disciplines, many of whom undertake research and/or 
+advocacy in autism. As noted in a roundtable discussion on 
+the experiences of autistic autism researchers, ‘no aca-
+demic articles focusing on autistic scholars in autism 
+research currently exist in the literature’ (Dwyer et al., 
+2021). The findings of this study support those of the 
+exploratory questionnaire study of 12 autistic academics in 
+the United Kingdom (Martin, 2021).
+This group of autistic people working in academia iden-
+tified a range of challenges and frustrations of working in 
+academia. They frequently raised aspects of social interac-
+tion, interpersonal communication, stigma and discrimina-
+tion as causing tension within the workplace, as well as 
+leading to anxiety and distress for the autistic employee. 
+This is consistent with research into the employment expe-
+riences of autistic people in other work contexts. For 
+example, a recent multi-country study found that stigma, 
+communication challenges and a lack of understanding of 
+autism were key barriers to successful employment for 
+autistic adults (Black et al., 2020).
+A recent survey of 249 autistic teachers in UK primary 
+and secondary schools (Wood & Happé, 2021) identified 
+the key challenges for that cohort as lack of (autism) 
+understanding and support, including limited flexibility 
+and work accommodations; sensory overload, change and 
+unpredictability; mental health issues such as anxiety, 
+fatigue and burnout; and the emotional toll of observing 
+poor treatment of autistic pupils.
+While academia is seen by many as a privileged and 
+relaxed work environment, the reality of modern universities 
+is increasing workloads and reduced job security (Cannizzo 
+et al., 2019; Steenkamp & Roberts, 2020), to the extent that a 
+healthy work-life balance is difficult to maintain (Cannizzo 
+et al., 2019). The constant social interaction and the need to 
+‘fit in’ imposes pressure on autistic employees to mask aspects 
+of their autism, which impacts physical and emotional well-
+being and career outcomes. While this is not unique to aca-
+demia (North, 2021), it is exacerbated by the transient nature 
+of social groups (such as student cohorts) and the complex 
+dynamics between collaboration and competition.
+I’ve started admitting I am autistic and wow – what a mixed 
+bag that is. I have people who insist it is a mental illness, 
+people who insist I am not and cannot be because their son 
+is, to people who either pity me or shun me more. I abhor 
+pity. I don’t at all care for being ostracized and shunned 
+either. So communication is a challenge. The emotional 
+work environment is hugely challenging. I never had such 
+issues before, and am quite frankly traumatized by things 
+that have happened to me here. So I am now alone. I never 
+was alone before. (Isabella)
+The competitive nature of academia, with its implicit moti-
+vators to withhold knowledge from others, is problematic 
+even for neurotypical people (Hernaus et al., 2019) but is 
+exacerbated for autistic academics who typically have 
+fewer social networks. A recent study concluded that a 
+competitive psychological climate is associated with high 
+work engagement and career success for people with high 
+leader-member exchange (strong relationships between 
+employees and supervisors) but with burnout and lower 
+career success for those with low leader-member exchange 
+(Spurk et al., 2021).
+Executive functioning challenges – including obtain-
+ing, retaining and processing information – were raised by 
+participants as impacting their academic employment suc-
+cess. This is consistent with a recent study into employ-
+ment experiences of autistic adults which found 
+multi-directional associations between executive function, 
+anxiety and work performance (Woolard et al., 2021). 
+Academia is an information-rich, rapidly changing work 
+environment with a constant need to juggle multiple tasks 
+and perspectives, which poses significant challenges for 
+people with limitations on their executive functioning and 
+working memory (Habib et al., 2019). While aware of 
+their executive functioning challenges and consciously 
+putting in place strategies to address them, participants 
+acknowledged that this constant effort significantly 
+impacts their wellbeing.
+Consistent with the UK survey of autistic teachers 
+(Wood & Happé, 2021), the autistic academics in this 
+study also commented on sensory issues related to the 
+physical environment such as bright lights, noise and air-
+conditioning, and noted that these could be exacerbated by 
+institutional policies and lack of awareness among employ-
+ers and colleagues.
+It was concerning to note the extent to which many par-
+ticipants accepted the challenges of working in academia as 
+inevitable and/or requiring them to ‘try harder’ to navigate 
+these challenges. As Martin et al. (2019) note, autistic 
+employees can flourish in the workplace when provided with 
+supportive working environments; employers need to be 
+aware of, and willing to provide, the reasonable adjustments 
+that autistic employees require to achieve their potential.
+Conversely, participants identified significant benefits of 
+academia as a career choice for autistic individuals. The life 
+of an academic is one of deep engagement with areas of 
+interest and where comprehensive knowledge of a specific 
+topic is seen as a strength rather than an anomaly. Autistic 
+strengths – such as intense focus, capacity to recognise pat-
+terns, ability to generate novel solutions, perseverance, per-
+fectionism and attention to detail – can come to the fore in 
+academia in a way that makes this an ideal profession for our 
+neurotype. Also consistent with the findings of the UK 
+teacher study (Wood & Happé, 2021), these academics noted 
+that their ability to connect with and support students – par-
+ticularly those experiencing marginalisation or disadvantage 
+830	
+Autism 27(3)
+– was both a strength and a benefit of this career choice. 
+Academia provides a unique setting to utilise our enthusiasm 
+for sharing our knowledge and providing others with a nur-
+turing and supportive learning environment.
+I like that my supervisor treats me as an equal and provides 
+me with so many opportunities to learn and grow, I genuinely 
+like the vast majority of my colleagues and what’s not to love 
+about working on one of your special interests day in and day 
+out? In many respects, this is my ideal job. (Louise)
+For those fortunate to have supportive colleagues and 
+employers, and to work in an institution that understands 
+and addresses the needs of autistic people, the life of an 
+academic has many other positive aspects. These include 
+flexibility in working style and location, autonomy and 
+independence, predictable routines, visible measures of 
+success, and good employment conditions. In addition, 
+academia provides the opportunity to make a meaningful 
+contribution to others – from teaching an individual stu-
+dent to researching solutions to world problems.
+Conclusion
+This study identified a number of challenges faced by 
+autistic people working in academia across a range of 
+countries and disciplines. Many of these challenges could 
+be remediated by adjustments to the physical environment 
+and workload, such as flexible working hours and work 
+spaces that allow control over sensory input. Others dem-
+onstrate the need to educate supervisors and colleagues on 
+how to work with and support autistic employees. Above 
+all, creating safe and supportive work environments for 
+autistic academics requires a greater understanding of the 
+strengths of autistic people and acceptance of diversity in 
+ways of working. Given the considerable benefits that 
+autistic teachers and researchers bring to higher education, 
+there is a clear need for universities and colleges to imple-
+ment changes to the physical and social environment to 
+make academia more inclusive.
+Acknowledgements
+The author thanks Amandine Catala, Dave Caudel, Patrick 
+Dwyer, Laura Gilmour, Sarah Grant, Jessica Harrison, Fiona 
+Lee, Dora Raymaker, Penny Robinson, Phoenix Shetty, Sarah 
+Thorneycroft, TC Waisman, and 25 other anonymous autistic 
+academics for sharing their reflections throughout the study.
+Declaration of conflicting interests
+The author(s) declared no potential conflicts of interest with 
+respect to the research, authorship and/or publication of this 
+article.
+Funding
+The author(s) received no financial support for the research, 
+authorship and/or publication of this article.
+ORCID iD
+Sandra C Jones 
+ https://orcid.org/0000-0002-0258-3348
+Supplemental material
+Supplemental material for this article is available online.
+References
+Black, M. H., Mahdi, S., Milbourn, B., Scott, M., Gerber, A., 
+Esposito, C., Falkmer, M., Lerner, M. D., Halladay, A., 
+Ström, E., D’Angelo, A., Falkmer, T., Bölte, S., & Girdler, 
+S. (2020). Multi-informant international perspectives on 
+the facilitators and barriers to employment for autistic 
+adults. Autism Research, 13(7), 1195–1214. https://doi.
+org/10.1002/aur.2288
+Braun, V., & Clarke, V. (2019). Reflecting on reflexive the-
+matic analysis. Qualitative Research in Sport, Exercise 
+and Health, 11(4), 589–597. https://doi.org/10.1080/21596
+76X.2019.1628806
+Cage, E., & Howes, J. (2020). Dropping out and moving 
+on: A qualitative study of autistic people’s experiences 
+of university. Autism, 24(7), 1664–1675. https://doi.
+org/10.1177/1362361320918750
+Cai, R. Y., & Richdale, A. L. (2016). Educational experiences 
+and needs of higher education students with autism spectrum 
+disorder. Journal of Autism and Developmental Disorders, 
+46(1), 31–41. https://doi.org/10.1007/s10803-015-2535-1
+Cannizzo, F., Mauri, C., & Osbaldiston, N. (2019). Moral barriers 
+between work/life balance policy and practice in academia. 
+Journal of Cultural Economy, 12(4), 251–264. https://doi.
+org/10.1080/17530350.2019.1605400
+Chandrasekhar, T. (2020). Supporting the needs of college stu-
+dents with autism spectrum disorder. Journal of American 
+College Health, 68(8), 936–939. https://doi.org/10.1080/07
+448481.2019.1686003
+Chiang, H. M., Cheung, Y. K., Hickson, L., Xiang, R., & Tsai, L. 
+Y. (2012). Predictive factors of participation in postsecond-
+ary education for high school leavers with autism. Journal 
+of Autism and Developmental Disorders, 42(5), 685–696. 
+https://doi.org/10.1007/s10803-011-1297-7
+Crespi, B. (2021). Pattern unifies autism [Perspective]. Frontiers 
+in Psychiatry, 12, Article 621659. https://doi.org/10.3389/
+fpsyt.2021.621659
+DeNigris, D., Brooks, P. J., Obeid, R., Alarcon, M., Shane-
+Simpson, C., & Gillespie-Lynch, K. (2018). Bullying and 
+identity development: Insights from autistic and non-autis-
+tic college students. Journal of Autism and Developmental 
+Disorders, 48(3), 666–678. https://doi.org/10.1007/s10803-
+017-3383-y
+Dwyer, P., Acevedo, S. M., Brown, H. M., Grapel, J., Jones, S. 
+C., Nachman, B. R., Raymaker, D. M., & Williams, Z. J. 
+(2021). An expert roundtable discussion on experiences of 
+autistic autism researchers. Autism in Adulthood, 3(3), 209–
+220. https://doi.org/10.1089/aut.2021.29019.rtb
+Elias, R., & White, S. W. (2018). Autism goes to college: 
+Understanding the needs of a student population on the rise. 
+Journal of Autism and Developmental Disorders, 48(3), 
+732–746. https://doi.org/10.1007/s10803-017-3075-7
+Flower, R. L., Richdale, A. L., & Lawson, L. P. (2021). Brief 
+Report: What happens after school? Exploring post-school 
+Jones	
+831
+outcomes for a group of autistic and non-autistic Australian 
+youth. Journal of Autism and Developmental Disorders, 
+51(4), 1385–1391. https://doi.org/10.1007/s10803-020-
+04600-6
+Goddard, H., & Cook, A. (2022). ‘I spent most of Freshers in 
+my room’ – A qualitative study of the social experiences 
+of university students on the autistic spectrum. Journal of 
+Autism Developmental Disorders, 52, 2701–2716. https://
+doi.org/10.1007/s10803-021-05125-2
+Gurbuz, E., Hanley, M., & Riby, D. M. (2019). University stu-
+dents with autism: The social and academic experiences of 
+university in the UK. Journal of Autism and Developmental 
+Disorders, 49(2), 617–631. https://doi.org/10.1007/s10803-
+018-3741-4
+Habib, A., Harris, L., Pollick, F., & Melville, C. (2019). A meta-
+analysis of working memory in individuals with autism 
+spectrum disorders. PLOS ONE, 14(4), Article e0216198. 
+https://doi.org/10.1371/journal.pone.0216198
+Hernaus, T., Cerne, M., Connelly, C., Vokic, N. P., & Škerlavaj, 
+M. (2019). Evasive knowledge hiding in academia: When 
+competitive individuals are asked to collaborate. Journal of 
+Knowledge Management, 23(4), 597–618.
+Lei, J., Ashwin, C., Brosnan, M., & Russell, A. (2019). 
+Developing an online tool to measure social network struc-
+ture and perceived social support amongst autistic students 
+in higher education: A feasibility study. Journal of Autism 
+and Developmental Disorders, 49(9), 3526–3542. https://
+doi.org/10.1007/s10803-019-04070-5
+Lei, J., Ashwin, C., Brosnan, M., & Russell, A. (2020). 
+Differences in anxieties and social networks in a group-
+matched sample of autistic and typically developing stu-
+dents transitioning to university. Autism, 24(5), 1138–1151. 
+https://doi.org/10.1177/1362361319894830
+Martin, N. (2021). Perspectives on UK university employment 
+from autistic researchers and lecturers. Disability & Society, 
+36(9), 1510–1531. https://doi.org/10.1080/09687599.2020.
+1802579
+Martin, N., Barnham, C., & Krupa, J. (2019). Identifying and 
+addressing barriers to employment of autistic adults. Journal 
+of Inclusive Practice in Further and Higher Education, 
+10(1), 56–77.
+McLeod, J. D., Meanwell, E., & Hawbaker, A. (2019). The expe-
+riences of college students on the autism spectrum: A com-
+parison to their neurotypical peers. Journal of Autism and 
+Developmental Disorders, 49(6), 2320–2336. https://doi.
+org/10.1007/s10803-019-03910-8
+Milton, D. E. M., Ridout, S., Kourti, M., Loomes, G., & Martin, 
+N. (2019). A critical reflection on the development of the 
+Participatory Autism Research Collective (PARC). Tizard 
+Learning Disability Review, 24(2), 82–89. https://doi.
+org/10.1108/TLDR-09-2018-0029
+Minio-Paluello, I., Porciello, G., Pascual-Leone, A., & Baron-
+Cohen, S. (2020). Face individual identity recognition: 
+A potential endophenotype in autism. Molecular Autism, 
+11(1), Article 81. https://doi.org/10.1186/s13229-020-
+00371-0
+North, G. (2021). Reconceptualising ‘reasonable adjustments’ 
+for the successful employment of autistic women. Disability 
+& Society. Advance online publication. https://doi.org/10.1
+080/09687599.2021.1971065
+Raymaker, D. M. (2017). Reflections of a community-based par-
+ticipatory researcher from the intersection of disability advo-
+cacy, engineering, and the academy. Action Research, 15(3), 
+258–275. https://doi.org/10.1177/1476750316636669
+Spurk, D., Hofer, A., & Kauffeld, S. (2021). Why does com-
+petitive psychological climate foster or hamper career 
+success? The role of challenge and hindrance pathways 
+and leader-member-exchange. Journal of Vocational 
+Behavior, 127, Article 103542. https://doi.org/10.1016/j.
+jvb.2021.103542
+Steenkamp, N., & Roberts, R. (2020). Does workload and insti-
+tutional pressure on accounting educators affect academia 
+at Australian universities? Accounting & Finance, 60(1), 
+471–506. https://doi.org/10.1111/acfi.12340
+Taylor, N. C., & Johnson, J. H. (2020). Challenges and solu-
+tions for autism in academic geosciences. Advances in 
+Geosciences, 53, Article 33. https://doi.org/10.5194/adgeo-
+53-33-2020
+Walker, N., & Raymaker, D. M. (2020). Toward a neuro-
+queer future: An interview with Nick Walker. Autism in 
+Adulthood, 3(1), 5–10. https://doi.org/10.1089/aut.2020 
+.29014.njw
+Wood, R., & Happé, F. (2021). What are the views and experi-
+ences of autistic teachers? Findings from an online survey 
+in the UK. Disability & Society. Advance online publica-
+tion. https://doi.org/10.1080/09687599.2021.1916888
+Woolard, A., Stratton, E., Demetriou, E. A., Boulton, K. A., 
+Pellicano, E., Glozier, N., Gibbs, V., Rogerson, N., Quinn, 
+P., Hickie, I. B., & Guastella, A. J. (2021). Perceptions of 
+social and work functioning are related to social anxiety and 
+executive function in autistic adults. Autism, 25(7), 2124–
+2134. https://doi.org/10.1177/13623613211013664

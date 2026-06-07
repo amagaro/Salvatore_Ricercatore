@@ -43,6 +43,12 @@ Una ricerca incentrata sulla valorizzazione del patrimonio culturale e museale a
 Raccolta e analisi della documentazione, delle linee guida e delle normative italiane riguardanti l'inclusione, il diritto allo studio e il supporto alle persone neurodivergenti.
 *   **Mappe dei Contenuti:** [[MOC - Normativa Neurodivergenze]]
 
+### 🧑‍🦽 5. Sulla disabilità (Architettura Inclusiva)
+Ricerca incentrata sulle sfide fisiche e sensoriali dell'ambiente costruito, criticando le metriche abiliste dell'urbanistica standard (come il Walk Score e la Città dei 15 Minuti) e promuovendo soluzioni per la neuro-inclusione, l'accessibilità invernale e i problemi dell'ultimo millimetro.
+*   **Mappe dei Contenuti:** [[MOC - Architettura e Urbanistica Inclusiva]]
+*   **Sintesi Avanzate:**
+    *   [[Insight - Sulla disabilità]]
+
 ---
 
 ## 🛠️ La Mia Metodologia Operativa come AI
