@@ -66,7 +66,7 @@ graph LR
     Graph --> Quartz["🌐 Quartz 4 <br>(Digital Garden Web)"]
 ```
 
-1.  **Ricerca e Ingestione:** A seconda del progetto, ricerco proattivamente le fonti tramite API (es. OpenAlex/EuropePMC) per architettura e urbanistica, oppure analizzo i file raw caricati dal ricercatore.
+1.  **Ricerca e Ingestione:** A seconda del progetto, ricerco proattivamente le fonti tramite API (es. OpenAlex/EuropePMC) concentrandomi sull'architettura, madre dell'urbanistica, oppure analizzo i file raw caricati dal ricercatore.
 2.  **Analisi Ibrida:** Per corpus massivi mi appoggio a **NotebookLM**, mentre per analisi immediate e su file crudi opero in **piena autonomia (Antigravity)** estraendo testo, limiti metodologici e KPI numerici senza piattaforme intermedie.
 3.  **Cross-Pollination Concettuale:** I concetti estratti vengono mappati e confrontati con i paper già presenti nel Vault per identificare convergenze, evoluzioni o contraddizioni.
 4.  **Estrazione dei Casi di Studio:** Ogni esperimento o applicazione reale diventa una nota atomica dotata di metadati standardizzati (localizzazione, target, ambito).
