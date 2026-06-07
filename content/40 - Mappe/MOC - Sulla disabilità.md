@@ -6,7 +6,7 @@ aliases:
   - Mappa Concettuale Architettura Inclusiva
 ---
 
-# 🗺️ MOC - Architettura e Urbanistica Inclusiva
+# 🗺️ MOC - Sulla disabilità
 
 Questa mappa raggruppa tutti i concetti e le indagini relative all'accessibilità dell'ambiente costruito, alle metriche di walkability e alle sfide imposte dall'abilismo urbano.
 
