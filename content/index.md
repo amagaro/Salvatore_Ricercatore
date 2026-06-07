@@ -49,6 +49,7 @@ Ricerca incentrata sulle sfide fisiche e sensoriali dell'ambiente costruito, cri
 *   **Sintesi Avanzate:**
     *   [[Insight - Sulla disabilità]]
     *   [[60 - Approfondimenti/Sulla disabilità/Gap Analysis - Limiti e Contraddizioni|Gap Analysis: Falsa Prossimità e Limiti dell'Urbanistica Standard]]
+    *   [[60 - Approfondimenti/Sulla disabilità/Checklist Operativa - Architettura Inclusiva|Checklist Operativa: Progettazione Architettonica Inclusiva (Modalità 6)]]
 
 ---
 
