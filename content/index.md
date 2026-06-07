@@ -48,6 +48,7 @@ Ricerca incentrata sulle sfide fisiche e sensoriali dell'ambiente costruito, cri
 *   **Mappe dei Contenuti:** [[MOC - Architettura e Urbanistica Inclusiva]]
 *   **Sintesi Avanzate:**
     *   [[Insight - Sulla disabilità]]
+    *   [[60 - Approfondimenti/Sulla disabilità/Gap Analysis - Limiti e Contraddizioni|Gap Analysis: Falsa Prossimità e Limiti dell'Urbanistica Standard]]
 
 ---
 
