@@ -13,29 +13,17 @@ Questa Mappa del Contenuto (MOC) organizza la ricerca multidisciplinare sui **Gi
 ## 📚 Fonti di Ricerca (Sources)
 *Analisi sistematica dei paper e tesi processati tramite NotebookLM.*
 
-```dataview
-TABLE autore as "Autore", anno as "Anno", titolo as "Titolo"
-WHERE contains(file.folder, "giardini-terapeutici") AND contains(tags, "source")
-SORT anno DESC
-```
+
 
 ## 💡 Framework Concettuale (Concepts)
 *Note atomiche che definiscono i pilastri teorici della disciplina.*
 
-```dataview
-LIST 
-WHERE contains(file.folder, "giardini-terapeutici") AND contains(tags, "concept")
-SORT file.name ASC
-```
+
 
 ## 🏗️ Casi di Studio (Case Studies)
 *Analisi di implementazioni reali, progetti ospedalieri e rigenerazioni urbane.*
 
-```dataview
-TABLE progetto as "Progetto", localizzazione as "Luogo", tecnologia as "Tecnologia"
-WHERE contains(file.folder, "giardini-terapeutici") AND contains(tags, "casestudy")
-SORT file.name ASC
-```
+
 
 ## 🎯 Target & Vulnerabilità
 *Categorizzazione manuale degli interventi in base alla coorte di riferimento.*

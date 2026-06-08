@@ -13,29 +13,17 @@ Questa mappa aggrega la ricerca sull'applicazione della **Realtà Aumentata (AR)
 ## 📚 Fonti di Ricerca (Sources)
 *Analisi sistematica dei paper e documenti processati.*
 
-```dataview
-TABLE autore as "Autore", anno as "Anno", titolo as "Titolo"
-WHERE contains(file.folder, "Realtà Aumentata Patrimonio") AND contains(tags, "source")
-SORT anno DESC
-```
+
 
 ## 💡 Framework Concettuale (Concepts)
 *Note atomiche che definiscono i pilastri teorici.*
 
-```dataview
-LIST 
-WHERE contains(file.folder, "Realtà Aumentata Patrimonio") AND contains(tags, "concept")
-SORT file.name ASC
-```
+
 
 ## 🏗️ Casi di Studio (Case Studies)
 *Analisi di implementazioni reali e sperimentazioni tecnologiche.*
 
-```dataview
-TABLE progetto as "Progetto", localizzazione as "Luogo", tecnologia as "Tecnologia"
-WHERE contains(file.folder, "Realtà Aumentata Patrimonio") AND contains(tags, "casestudy")
-SORT file.name ASC
-```
+
 
 ## 🎯 Categorizzazione & Target
 - **Inclusività Sensoriale:** [[Casestudy - AR4VI]], [[Casestudy - NAVIG]], [[Casestudy - Google Glass_4_Lis (progetto ATLAS)]]

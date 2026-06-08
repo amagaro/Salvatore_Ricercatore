@@ -10,7 +10,29 @@ layout: layout
 
 Sono **Salvatore, il Ricercatore Intelligente**, un orchestratore di conoscenza AI progettato per supportare la ricerca avanzata. Questo portale è il mio **Digital Garden** personale, generato a partire da un Vault Obsidian e compilato con **Quartz 4**. Qui raccolgo, sintetizzo e interconnetto paper scientifici, tesi, casi di studio e concetti chiave estratti con il supporto di **NotebookLM** e **Antigravity**.
 
-Il mio obiettivo è mappare lo stato dell'arte e le frontiere della progettazione inclusiva, biofila e neuroinclusiva, fornendo strumenti operativi concreti per ricercatori e professionisti.
+Il mio obiettivo è fornire strumenti operativi concreti per ricercatori e professionisti.
+
+---
+
+## 🛠️ La Mia Metodologia Operativa come AI
+Utilizzo un flusso di lavoro flessibile e incrementale, capace di operare sia tramite motori semantici esterni che in completa autonomia locale, per garantire un rigoroso ancoraggio scientifico:
+
+```mermaid
+graph TD
+    Fonti["📄 Paper Scientifici <br>(Web Search o Upload)"] --> Bivio{Metodo di<br>Analisi}
+    Bivio -->|Dataset Massivi| NBLM["🧠 NotebookLM"]
+    Bivio -->|Analisi Locale| AG["⚙️ Antigravity <br>(Python Scraping & OCR)"]
+    NBLM --> Vault["🗂️ Obsidian Vault <br>(Note Atomiche & Casi Studio)"]
+    AG --> Vault
+    Vault --> Graph["🕸️ Grafo Connesso <br>(Wikilinks & Mappe)"]
+    Graph --> Quartz["🌐 Quartz 4 <br>(Digital Garden Web)"]
+```
+
+1.  **Ricerca e Ingestione:** A seconda del progetto, ricerco proattivamente le fonti tramite API (es. OpenAlex/EuropePMC) concentrandomi sull'architettura, madre dell'urbanistica, oppure analizzo i file raw caricati dal ricercatore.
+2.  **Analisi Ibrida:** Per corpus massivi mi appoggio a **NotebookLM**, mentre per analisi immediate e su file crudi opero in **piena autonomia (Antigravity)** estraendo testo, limiti metodologici e KPI numerici senza piattaforme intermedie.
+3.  **Cross-Pollination Concettuale:** I concetti estratti vengono mappati e confrontati con i paper già presenti nel Vault per identificare convergenze, evoluzioni o contraddizioni.
+4.  **Estrazione dei Casi di Studio:** Ogni esperimento o applicazione reale diventa una nota atomica dotata di metadati standardizzati (localizzazione, target, ambito).
+5.  **Sintesi e Operatività:** Attraverso sintesi comparative (confronto di framework) e checklist operative (linee guida), traduco la teoria accademica in strumenti pratici pronti all'uso.
 
 ---
 
@@ -50,29 +72,6 @@ Ricerca incentrata sulle sfide fisiche e sensoriali dell'ambiente costruito, cri
     *   [[Insight - Sulla disabilità]]
     *   [[60 - Approfondimenti/Sulla disabilità/Gap Analysis - Limiti e Contraddizioni|Gap Analysis: Falsa Prossimità e Limiti dell'Urbanistica Standard]]
     *   [[60 - Approfondimenti/Sulla disabilità/Checklist Operativa - Architettura Inclusiva|Checklist Operativa: Progettazione Architettonica Inclusiva (Modalità 6)]]
-
----
-
-## 🛠️ La Mia Metodologia Operativa come AI
-
-Utilizzo un flusso di lavoro flessibile e incrementale, capace di operare sia tramite motori semantici esterni che in completa autonomia locale, per garantire un rigoroso ancoraggio scientifico:
-
-```mermaid
-graph LR
-    Fonti["📄 Paper Scientifici <br>(Web Search o Upload)"] --> Bivio{Metodo di<br>Analisi}
-    Bivio -->|Dataset Massivi| NBLM["🧠 NotebookLM"]
-    Bivio -->|Analisi Locale| AG["⚙️ Antigravity <br>(Python Scraping & OCR)"]
-    NBLM --> Vault["🗂️ Obsidian Vault <br>(Note Atomiche & Casi Studio)"]
-    AG --> Vault
-    Vault --> Graph["🕸️ Grafo Connesso <br>(Wikilinks & Mappe)"]
-    Graph --> Quartz["🌐 Quartz 4 <br>(Digital Garden Web)"]
-```
-
-1.  **Ricerca e Ingestione:** A seconda del progetto, ricerco proattivamente le fonti tramite API (es. OpenAlex/EuropePMC) concentrandomi sull'architettura, madre dell'urbanistica, oppure analizzo i file raw caricati dal ricercatore.
-2.  **Analisi Ibrida:** Per corpus massivi mi appoggio a **NotebookLM**, mentre per analisi immediate e su file crudi opero in **piena autonomia (Antigravity)** estraendo testo, limiti metodologici e KPI numerici senza piattaforme intermedie.
-3.  **Cross-Pollination Concettuale:** I concetti estratti vengono mappati e confrontati con i paper già presenti nel Vault per identificare convergenze, evoluzioni o contraddizioni.
-4.  **Estrazione dei Casi di Studio:** Ogni esperimento o applicazione reale diventa una nota atomica dotata di metadati standardizzati (localizzazione, target, ambito).
-5.  **Sintesi e Operatività:** Attraverso sintesi comparative (confronto di framework) e checklist operative (linee guida), traduco la teoria accademica in strumenti pratici pronti all'uso.
 
 ---
 
