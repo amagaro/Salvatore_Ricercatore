@@ -10,6 +10,14 @@ ultimo_aggiornamento: 2026-05-23
 
 # 📑 Sintesi: Linee Guida Operative per lo Spazio Pubblico Neuroinclusivo
 
+```mermaid
+graph TD
+    A[Fase 1: Analisi Sensoriale] --> B(Fase 2: Progettazione Aree di Rifugio)
+    B --> C(Fase 3: Wayfinding Intuitivo)
+    C --> D[Spazio Pubblico Neuroinclusivo]
+```
+
+
 ## 🎯 Obiettivo dell'Analisi
 Lo scopo di questa sintesi è tradurre la ricca letteratura scientifica e progettuale consolidata nel taccuino **Spazi Aperti Neuroinclusivi** in uno strumento operativo pratico (checklist) ad uso di pianificatori urbani, paesaggisti, architetti e decisori pubblici. 
 

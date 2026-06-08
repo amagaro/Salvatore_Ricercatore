@@ -9,6 +9,17 @@ ultimo_aggiornamento: 2026-05-12
 
 # 📑 Sintesi: Stakeholder - Analisi Potere Decisionale
 
+```mermaid
+graph LR
+    A[Stakeholder] --> B(Enti Locali / Decisori)
+    A --> C(Associazioni Pazienti)
+    A --> D(Progettisti e Ricercatori)
+    B --> E((Co-Design e<br>Potere Decisionale Congiunto))
+    C --> E
+    D --> E
+```
+
+
 ## 🎯 Obiettivo dell'Analisi
 Identificare le preoccupazioni principali dei decisori del settore sanitario (CEO, manager, esecutivi governativi) in merito all'implementazione dei Giardini Terapeutici (THG) e mappare come il design basato sull'evidenza (EBD) possa rispondere a tali criticità in termini di ROI e sostenibilità organizzativa.
 

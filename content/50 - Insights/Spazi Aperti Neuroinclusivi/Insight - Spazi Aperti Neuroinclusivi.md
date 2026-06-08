@@ -8,6 +8,13 @@ ultimo_aggiornamento: 2026-05-23
 
 # 🧠 Insight - Spazi Aperti Neuroinclusivi
 
+```mermaid
+graph LR
+    A(Standardizzazione ADA) --> B(Sensory Responsive Design)
+    B --> C(Neuroarchitettura Dinamica)
+```
+
+
 ## Introduzione
 Questa nota consolida gli insight emergenti dall'analisi trasversale e cumulativa delle fonti del taccuino "Spazi Aperti Neuroinclusivi" (Aminpour 2026, Rachev 2025, Gambardella, Trieste 2025, Finnigan, Attaianese, Cellucci 2024, De Zanetti 2024, Limoncin 2024, Acierno 2024, WIP Collaborative 2021). 
 

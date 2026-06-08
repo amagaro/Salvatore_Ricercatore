@@ -9,6 +9,14 @@ ultimo_aggiornamento: 2026-06-07
 
 # 📑 Sintesi: Gap Analysis - Limiti e Contraddizioni dell'Urbanistica Standard
 
+```mermaid
+graph TD
+    A(Teoria / Normativa) --> B{Gap Applicativo}
+    C(Prassi Progettuale) --> B
+    B --> D[Necessità di Modelli Ibridi e Operativi]
+```
+
+
 ## 🎯 Obiettivo dell'Analisi
 L'obiettivo di questa sintesi è confrontare i nuovi modelli di pianificazione urbana sostenibile (in particolare la "Città dei 15 Minuti" e le "Shared Streets") con le reali esigenze dell'architettura inclusiva. Lo scopo è far emergere i bias impliciti ("abilismo urbano") nelle metriche correnti e documentare i conflitti tra diverse tipologie di disabilità.
 

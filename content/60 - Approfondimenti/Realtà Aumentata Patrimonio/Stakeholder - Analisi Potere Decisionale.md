@@ -9,6 +9,17 @@ ultimo_aggiornamento: 2026-05-12
 
 # 📑 Sintesi: Stakeholder - Analisi Potere Decisionale (AR Museale)
 
+```mermaid
+graph LR
+    A[Stakeholder] --> B(Enti Locali / Decisori)
+    A --> C(Associazioni Pazienti)
+    A --> D(Progettisti e Ricercatori)
+    B --> E((Co-Design e<br>Potere Decisionale Congiunto))
+    C --> E
+    D --> E
+```
+
+
 ## 🎯 Obiettivo dell'Analisi
 Identificare le preoccupazioni principali dei decisori museali (Direttori, Curatori, Enti di tutela) e mappare come l'integrazione di [[Realtà Aumentata (AR) nei Beni Culturali|Realtà Aumentata (AR)]] e [[Intelligenza Artificiale (AI)]] possa rispondere a tali sfide in termini di inclusività, engagement delle nuove generazioni e sostenibilità economica (ROI).
 

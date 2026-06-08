@@ -10,6 +10,14 @@ ultimo_aggiornamento: 2026-06-07
 
 # 📑 Sintesi: Checklist Operativa - Progettazione Architettonica Inclusiva
 
+```mermaid
+graph TD
+    A[Checklist Operativa] --> B(Micro-Design: Last Millimeter)
+    A --> C(Neuro-Inclusione: DeafSpace / SREF)
+    A --> D(Gestione Climatica: Winter Accessibility)
+```
+
+
 ## 🎯 Obiettivo dell'Analisi
 Fornire ai progettisti, urbanisti e architetti uno strumento operativo concreto (Checklist) basato sull'evidenza scientifica estratta. Questa linea guida traduce le criticità sistemiche (abilismo urbano, falsa prossimità, conflitti sensoriali) in criteri progettuali validati per mitigare il "Last Millimeter Problem" e promuovere i "Sensory Responsive Environments".
 

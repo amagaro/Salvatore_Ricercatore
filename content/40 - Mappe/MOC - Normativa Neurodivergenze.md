@@ -6,6 +6,14 @@ tags:
 
 # 🗺️ Map of Content: Normativa Neurodivergenze Italia
 
+```mermaid
+graph TD
+    A["MOC: Normativa Neurodivergenze"] --> B("Leggi Nazionali (L. 104, ecc.)")
+    A --> C("Linee Guida Internazionali")
+    A --> D("Integrazione Scolastica e Lavorativa")
+```
+
+
 Questa mappa raccoglie i riferimenti legislativi, i concetti giuridici e le linee guida cliniche riguardanti le neurodivergenze (con un focus particolare sull'Autismo) nel contesto italiano.
 
 ## 📄 Fonti e Leggi Principali

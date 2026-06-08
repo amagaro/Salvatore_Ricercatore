@@ -7,6 +7,14 @@ taccuino: "[[Notebook - giardini terapeutici]]"
 
 # 🗺️ MOC - Giardini Terapeutici
 
+```mermaid
+graph TD
+    A["MOC: Giardini Terapeutici"] --> B("Benefici Terapeutici")
+    A --> C("Progettazione Biofilica")
+    A --> D("Criteri di Accessibilità")
+```
+
+
 ## 🌟 Visione d'Insieme
 Questa Mappa del Contenuto (MOC) organizza la ricerca multidisciplinare sui **Giardini Terapeutici (Healing Gardens)**, integrando evidenze cliniche, architettura del paesaggio, psicologia ambientale e rigenerazione urbana.
 

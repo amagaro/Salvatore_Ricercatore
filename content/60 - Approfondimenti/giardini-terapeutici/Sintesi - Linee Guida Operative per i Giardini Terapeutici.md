@@ -10,6 +10,14 @@ ultimo_aggiornamento: 2026-05-23
 
 # 📑 Sintesi: Linee Guida Operative per i Giardini Terapeutici
 
+```mermaid
+graph TD
+    A[Progettazione Biofilica] --> B(Scelta Vegetazionale)
+    B --> C(Accessibilità Percorsi)
+    C --> D[Risultato: Giardino Terapeutico Integrato]
+```
+
+
 ## 🎯 Obiettivo dell'Analisi
 Lo scopo di questa sintesi è tradurre la ricca letteratura scientifica e clinica consolidata nel taccuino **Giardini Terapeutici (Healing Gardens)** in uno strumento operativo pratico (checklist). Questo documento è strutturato per guidare architetti del paesaggio, direttori sanitari, psicologi clinici ed amministrazioni pubbliche nella corretta programmazione, progettazione e gestione di aree esterne terapeutiche.
 

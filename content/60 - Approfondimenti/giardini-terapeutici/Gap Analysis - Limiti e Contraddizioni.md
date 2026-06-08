@@ -10,6 +10,14 @@ ultimo_aggiornamento: 2026-05-12
 
 # 📑 Sintesi: Gap Analysis - Limiti e Contraddizioni
 
+```mermaid
+graph TD
+    A(Teoria / Normativa) --> B{Gap Applicativo}
+    C(Prassi Progettuale) --> B
+    B --> D[Necessità di Modelli Ibridi e Operativi]
+```
+
+
 ## 🎯 Obiettivo dell'Analisi
 Identificare le criticità metodologiche ricorrenti nella letteratura scientifica sui giardini terapeutici, analizzare le contraddizioni teoriche tra gli autori (es. Analogico vs Digitale) e proporre opportunità di ricerca originali basate sui vuoti (Research Gaps) rilevati.
 

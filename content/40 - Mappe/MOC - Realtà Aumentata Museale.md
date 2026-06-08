@@ -7,6 +7,14 @@ taccuino: "[[Notebook - Realtà Aumentata Patrimonio]]"
 
 # 🗺️ MOC - Realtà Aumentata Museale
 
+```mermaid
+graph TD
+    A["MOC: Realtà Aumentata Museale"] --> B("Inclusione Culturale")
+    A --> C("Interfacce Multisensoriali")
+    A --> D("Beni Architettonici e Vincoli")
+```
+
+
 ## 🌟 Visione d'Insieme
 Questa mappa aggrega la ricerca sull'applicazione della **Realtà Aumentata (AR)** e delle tecnologie immersive nel contesto dei Beni Culturali, con un focus particolare sull'**inclusività** e l'accessibilità museale per persone con disabilità.
 

@@ -10,6 +10,14 @@ ultimo_aggiornamento: 2026-05-12
 
 # 📑 Sintesi: Gap Analysis - Limiti e Contraddizioni (AR Museale)
 
+```mermaid
+graph TD
+    A(Teoria / Normativa) --> B{Gap Applicativo}
+    C(Prassi Progettuale) --> B
+    B --> D[Necessità di Modelli Ibridi e Operativi]
+```
+
+
 ## 🎯 Obiettivo dell'Analisi
 Identificare le criticità tecnologiche (tracking, hardware) e metodologiche (accessibilità, design partecipativo) ricorrenti nella letteratura sull'AR applicata ai Beni Culturali. Analizzare le visioni divergenti sull'impatto sociale della tecnologia e proporre opportunità di ricerca "di frontiera".
 

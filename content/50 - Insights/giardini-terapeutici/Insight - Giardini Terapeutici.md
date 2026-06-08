@@ -9,6 +9,13 @@ fonti_analizzate: 16
 
 # 🧠 Insight Emergenti: Giardini Terapeutici
 
+```mermaid
+graph LR
+    A(Paradigma Estetico) --> B(Integrazione Clinica)
+    B --> C(Valutazione Post-Occupazionale)
+```
+
+
 ## Sintesi Evolutiva
 L'analisi delle 16 fonti processate evidenzia un consolidamento del paradigma: il giardino terapeutico (THG) sta evolvendo da "spazio ornamentale" a **"infrastruttura clinica e gestionale"**. Le ultime ricerche (2024-2025) sottolineano che il successo di un progetto non dipende solo dal design biofilico, ma dalla sua integrazione nei processi decisionali manageriali e nei masterplan ospedalieri. In questa sessione sono stati formalizzati gli strumenti operativi finali di sintesi: la checklist delle linee guida e il confronto sistematico dei due framework clinici.
 

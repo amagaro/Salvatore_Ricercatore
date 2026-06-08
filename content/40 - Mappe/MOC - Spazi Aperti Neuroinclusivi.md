@@ -7,6 +7,14 @@ taccuino: "[[Notebook - Spazi Aperti Neuroinclusivi]]"
 
 # 🗺️ MOC - Spazi Aperti Neuroinclusivi
 
+```mermaid
+graph TD
+    A["MOC: Spazi Aperti Neuroinclusivi"] --> B("Design Sensoriale")
+    A --> C("Spazi di Decompressione")
+    A --> D("Partecipazione e Co-design")
+```
+
+
 ## 🌟 Visione d'Insieme
 Questa Mappa del Contenuto (MOC) organizza e struttura la ricerca interdisciplinare relativa alla progettazione di **Spazi Aperti Neuroinclusivi**. L'obiettivo è analizzare e sistematizzare le relazioni tra lo spazio fisico (parchi, giardini, piazze e contesti urbani) e il benessere cognitivo, sensoriale e sociale delle persone neurodivergenti (nello spettro autistico, ADHD, DSA, e con fragilità cognitive o demenze).
 

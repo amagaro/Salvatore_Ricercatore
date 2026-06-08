@@ -10,6 +10,14 @@ ultimo_aggiornamento: 2026-05-23
 
 # 📑 Sintesi: Confronto Metodologico e Integrazione Biofilia vs Smart
 
+```mermaid
+graph TD
+    A[Approccio Biofilico] --> C(Integrazione Spaziale)
+    B[Tecnologia Smart] --> C
+    C --> D[Ambiente Sensoriale Reattivo]
+```
+
+
 ## 🎯 Obiettivo dell'Analisi
 Questa sintesi realizza un'**Analisi Comparativa dei Framework (Modalità 5)** confrontando in modo critico e sistematico i due principali approcci metodologici emersi dall'analisi delle 9 fonti scientifiche del taccuino **Spazi Aperti Neuroinclusivi**:
 1. **L'Approccio Biofilico ed Estetico (SREF - Nature-Based):** Focalizzato sul verde terapeutico e la mitigazione sensoriale passiva e naturale.

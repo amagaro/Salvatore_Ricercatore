@@ -6,6 +6,13 @@ tags:
 
 # 🧠 Insight Trasversale: Normativa Neurodivergenze Italia
 
+```mermaid
+graph LR
+    A(Approccio Medico-Legale) --> B(Inclusione Sociale)
+    B --> C(Diritti Universali e Accessibilità)
+```
+
+
 ## Evoluzione del Paradigma (2024-2026)
 L'Italia sta vivendo una fase di profonda trasformazione normativa nella gestione delle disabilità e delle neurodivergenze. Il passaggio dal modello esclusivamente "medico-assistenzialistico" (legato al riconoscimento dell'invalidità) al **Modello Bio-Psico-Sociale** promosso dall'OMS segna una rivoluzione culturale. 
 

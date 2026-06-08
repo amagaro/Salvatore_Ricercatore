@@ -9,6 +9,13 @@ fonti_analizzate: 13
 
 # 🧠 Insight Emergenti: Realtà Aumentata e Patrimonio Culturale
 
+```mermaid
+graph LR
+    A(Adozione Tecnologica Base) --> B(Gamification Museale)
+    B --> C(Accessibilità Immersiva Universale)
+```
+
+
 ## Sintesi Evolutiva
 Il paradigma della fruizione del Patrimonio Culturale (CH) sta attraversando una transizione radicale: dalla fruizione passiva di stampo "Gutenberghiano" a una cultura partecipativa e inclusiva. Le tecnologie immersive (AR/VR), l'AI e la Robotica non sono più visti come semplici "potenziamenti visivi", ma come mediatori socio-cognitivi capaci di democratizzare la conoscenza e sradicare barriere percettive e sensoriali tramite i principi dell'Universal Design for Learning (UDL).
 
