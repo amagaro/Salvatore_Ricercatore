@@ -22,12 +22,10 @@ L'analisi traccia un arco temporale di 5 anni (dal 2021 al 2026) per mappare com
 L'evoluzione temporale del concetto di co-creazione si articola in quattro fasi storiche distinte:
 
 ```mermaid
-timeline
-    title Evoluzione della Co-creazione (2021-2026)
-    2021 : Fase 1 - Consultazione Fisica e Tattile Localizzata : Co-progettazione di prototipi di arredo urbano di quartiere (WIP Collaborative)
-    2024 : Fase 2 - Democrazia Relazionale e Decostruzione dei Corpi Standard : Co-progettazione paritaria come prassi per sfidare l'abilismo e la gerarchia top-down (De Zanetti, Acierno, Cellucci)
-    2025 : Fase 3 - Gioco Fai-da-te e Auto-costruzione Radicale : Gli utenti auto-organizzano rifugi effimeri alterando direttamente lo spazio fisico (Rachev, UOC)
-    2026 : Fase 4 - Istituzionalizzazione Quantitativo-Digitale e Policy : Mappatura in-situ integrata con GIS e Google Maps 360 per guidare i regolamenti comunali (Aminpour)
+graph TD
+    A["2021: Fase 1<br>Consultazione Fisica Localizzata"] --> B["2024: Fase 2<br>Democrazia Relazionale e Decostruzione"]
+    B --> C["2025: Fase 3<br>Gioco Fai-da-te e Auto-costruzione"]
+    C --> D["2026: Fase 4<br>Istituzionalizzazione Quantitativo-Digitale"]
 ```
 
 ---
