@@ -25,11 +25,11 @@ Il seguente diagramma evidenzia come i due pilastri concettuali si alimentino a 
 
 ```mermaid
 graph LR
-    subgraph Concetti Pilastro
+    subgraph S1 [Concetti Pilastro]
         A["Concept: Giustizia Spaziale"] <--> B["Concept: Neuro-Non-Typical Urbanism"]
     end
 
-    subgraph Ground Truth (Fonti Comuni)
+    subgraph S2 [Ground Truth - Fonti Comuni]
         C["Paper - Acierno (2024)<br>'Diritto alla Città'"] -.-> A
         C -.-> B
         D["Paper - Rachev (2025)<br>'DIY Play'"] -.-> A
@@ -38,7 +38,7 @@ graph LR
         E -.-> B
     end
 
-    subgraph Ricaduta Pratica
+    subgraph S3 [Ricaduta Pratica]
         F["Sinergia Operativa:<br>Il Diritto alla Co-creazione Spaziale Attiva (DIY Play)"]
     end
 
