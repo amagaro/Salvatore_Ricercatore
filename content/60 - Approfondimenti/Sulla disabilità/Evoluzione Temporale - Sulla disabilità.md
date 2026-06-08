@@ -8,6 +8,18 @@ ultimo_aggiornamento: 2026-06-08
 
 # 🕒 Evoluzione Temporale del Paradigma: Sulla disabilità (2022-2026)
 
+```mermaid
+graph LR
+    A["2022-2023<br>Consapevolezza e<br>Definizioni"] --> B["2024<br>Decostruzione Critica<br>(Last Millimeter)"]
+    B --> C["2025<br>Misurazione Empirica<br>(Falsa Prossimità)"]
+    C --> D["2026<br>Data Readiness e Policy<br>(EHDS & ICF)"]
+    
+    style A fill:#f9f2f4,stroke:#333,stroke-width:2px
+    style B fill:#e1f5fe,stroke:#333,stroke-width:2px
+    style C fill:#e8f5e9,stroke:#333,stroke-width:2px
+    style D fill:#fff3e0,stroke:#333,stroke-width:2px
+```
+
 ## Sintesi dell'Analisi (Modalità 9)
 L'analisi cronologica delle fonti presenti nel taccuino "Sulla disabilità" evidenzia una chiara e progressiva transizione epistemologica e pratica. Tra il 2022 e il 2026, il concetto di disabilità è passato dall'essere considerato una condizione medica individuale (da gestire tramite riabilitazione) all'essere riconosciuto come un fenomeno sistemico, fortemente determinato o attenuato dalle scelte di pianificazione urbana, architettura e data governance.
 

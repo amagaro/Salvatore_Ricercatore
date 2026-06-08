@@ -9,6 +9,24 @@ ultimo_aggiornamento: 2026-06-08
 
 # 👥 Stakeholder Mapping - Analisi del Valore (ROI) Inclusivo
 
+```mermaid
+graph LR
+    A[Architettura Inclusiva] --> B(Amministrazioni & Urbanisti)
+    A --> C(Istituzioni Sanitarie & OMS)
+    A --> D(Healthcare CEO)
+    A --> E(Enti Regolatori / EHDS)
+    
+    B -->|Previene costosi retrofitting| F[ROI: Infrastrutture Ottimizzate]
+    C -->|Meno YLDs & Più HALE| G[ROI: Riduzione DALYs globale]
+    D -->|Ambienti logistici Smart| H[ROI: Efficienza clinica]
+    E -->|Dati standardizzati ICF| I[ROI: Allocazione predittiva fondi]
+    
+    F --> J((Valore Pubblico e<br>Sostenibilità Integrata))
+    G --> J
+    H --> J
+    I --> J
+```
+
 ## Sintesi dell'Analisi (Modalità 8)
 L'analisi delle fonti del taccuino "Sulla disabilità" ha permesso di mappare le preoccupazioni e le sfide affrontate da diverse tipologie di decisori (policy-maker, amministrazioni pubbliche, istituzioni sanitarie ed economiche). La letteratura dimostra che gli interventi di Universal Design e architettura inclusiva non rispondono solo a imperativi morali, ma offrono un **Ritorno sull'Investimento (ROI) tangibile** in termini di salute pubblica, sostenibilità infrastrutturale e produttività economica.
 

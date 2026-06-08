@@ -10,6 +10,25 @@ aliases:
 
 Questa mappa raggruppa tutti i concetti e le indagini relative all'accessibilità dell'ambiente costruito, alle metriche di walkability e alle sfide imposte dall'abilismo urbano.
 
+```mermaid
+graph TD
+    A["MOC: Sulla disabilità"] --> B("Approccio Biopsicosociale (ICF)")
+    A --> C("Walkability e Città Sostenibile")
+    A --> D("Design Inclusivo Sensoriale")
+    
+    B --> E("Fattori Ambientali")
+    B --> F("DALYs e Salute Pubblica")
+    
+    C --> G("Città dei 15 Minuti")
+    C --> H("Last Millimeter Problems")
+    C --> I("Falsa Prossimità")
+    
+    D --> J("Sensory Responsive Environments")
+    D --> K("DeafSpace")
+    
+    E --> L("Ambiente come Attenuatore")
+```
+
 ## 📌 Concetti Chiave
 
 | Concetto | Ultimo Aggiornamento |

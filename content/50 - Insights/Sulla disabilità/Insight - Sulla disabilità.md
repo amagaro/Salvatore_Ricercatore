@@ -8,6 +8,22 @@ aliases:
 
 # 🧠 Insight - Sulla disabilità (Architettura e Urbanistica)
 
+```mermaid
+graph TD
+    A[Paradigma Tradizionale] -->|Focus| B(Universal Design Prescrittivo)
+    A -->|Metrica| C(Macro-Infrastruttura / 15-Minute City)
+    
+    C -.->|Criticità| D{Falsa Prossimità}
+    D --> E(Last Millimeter Problems)
+    
+    E --> F[Nuovo Paradigma Inclusivo]
+    B -->|Evoluzione| F
+    
+    F --> G(Design Dinamico e Partecipativo)
+    F --> H(Sensory Responsive Environments)
+    F --> I(Micro-Auditing e Co-Design)
+```
+
 ## 📌 Tendenze Emergenti
 Dall'analisi delle fonti più recenti sull'ambiente costruito emergono tre tendenze fondamentali:
 1. **Dalla Prossimità Teorica all'Accessibilità Reale:** Concetti di grande successo come la "Città dei 15 Minuti" stanno subendo una profonda revisione critica. Le isocrone calcolate su una persona normodotata (1.2 m/s) generano un fenomeno di **falsa prossimità** per le persone con disabilità visiva (0.8 m/s) o motoria (0.6 m/s). 

@@ -8,6 +8,20 @@ ultimo_aggiornamento: 2026-06-08
 
 # 🔗 Cross-Pollination: Sinergie Concettuali e Walkability
 
+```mermaid
+graph TD
+    A((ICF / Approccio<br>Biopsicosociale))
+    B((Walkability e<br>Città dei 15 min))
+    C((DALYs / Carico<br>di Malattia))
+    
+    A <-->|L'Ambiente funge da| D[Facilitatore Ambientale]
+    D <-->|Che abilita la vera| B
+    B <-->|Abbassa i| C
+    C <-->|Misura l'efficacia di| A
+    
+    E[Last Millimeter Problems] -.->|Interrompe / Rende inefficace| D
+```
+
 ## Sintesi dell'Analisi (Modalità 10)
 Scansionando le note concettuali del taccuino "Sulla disabilità", è emersa una fitta rete di connessioni (cross-pollination) attorno a specifici cluster semantici. I concetti che presentano il più alto grado di condivisione di fonti (tra le 5 e le 8 fonti in comune) sono:
 1. **[[Modello Biopsicosociale (ICF)]] / Approccio Biopsicosociale**
