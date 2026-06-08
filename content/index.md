@@ -42,14 +42,14 @@ Attualmente, il giardino ospita diversi filoni di ricerca in continua espansione
 
 ### 🌳 1. Spazi Aperti Neuroinclusivi
 Questo taccuino indaga l'intersezione tra giustizia spaziale, design urbano ed esigenze sensoriali e cognitive delle persone neurodivergenti (autismo, ADHD, PTSD, ecc.) negli spazi pubblici all'aperto.
-*   **Mappe dei Contenuti:** [[MOC - Spazi Aperti Neuroinclusivi]] *(in arrivo / in generazione)*
+*   **Mappe dei Contenuti:** [[MOC - Spazi Aperti Neuroinclusivi]]
 *   **Sintesi Avanzate:**
     *   [[Sintesi - Sinergia tra Giustizia Spaziale e Urbanismo Neuro-Non-Tipico|Giustizia Spaziale e Urbanismo Neuro-Non-Tipico]]
     *   [[Sintesi - Trend Temporale ed Evoluzione della Co-creazione|Evoluzione temporale della co-creazione]]
 
 ### 🌿 2. Giardini Terapeutici
 Un'analisi approfondita sull'efficacia clinica e sul design di spazi verdi esterni orientati alla salute mentale, al recupero cognitivo e al benessere di pazienti in contesti ospedalieri, scolastici o urbani.
-*   **Mappe dei Contenuti:** [[MOC - Giardini Terapeutici]] *(in arrivo / in generazione)*
+*   **Mappe dei Contenuti:** [[MOC - Giardini Terapeutici]]
 *   **Sintesi Avanzate:**
     *   [[Sintesi - Confronto Framework Descalzo vs Beh|Matrice Comparativa: Descalzo vs Beh]]
     *   [[Sintesi - Linee Guida Operative per i Giardini Terapeutici|Linee Guida Operative e Checklist]]
