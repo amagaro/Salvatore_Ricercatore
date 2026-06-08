@@ -47,9 +47,9 @@ graph LR
 
     style A fill:#fff2cc,stroke:#d1ae73,stroke-width:2px
     style B fill:#dae8fc,stroke:#6c8ebf,stroke-width:2px
-    style C fill:#f5f5f5,stroke:#666,stroke-dasharray: 5 5
-    style D fill:#f5f5f5,stroke:#666,stroke-dasharray: 5 5
-    style E fill:#f5f5f5,stroke:#666,stroke-dasharray: 5 5
+    style C fill:#f5f5f5,stroke:#666,stroke-dasharray:5
+    style D fill:#f5f5f5,stroke:#666,stroke-dasharray:5
+    style E fill:#f5f5f5,stroke:#666,stroke-dasharray:5
     style F fill:#d5e8d4,stroke:#82b366,stroke-width:2px
 ```
 
