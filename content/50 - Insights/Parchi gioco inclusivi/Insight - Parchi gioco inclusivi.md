@@ -12,7 +12,8 @@ tags:
 graph TD
     A["Diritto al Rischio"] --> B("Sviluppo Psicomotorio")
     C["Spazio Sensoriale"] --> D("Spazi Rifugio")
-    E["Co-progettazione"] --> F("Inclusione Reale (Attiva)")
+    E["Co-progettazione (People Centred)"] --> F("Inclusione Reale (Attiva)")
+    G["Valutazione Pedagogica (COST LUDI)"] --> H("Oltre la Condiscendenza Ludica")
 ```
 
 
@@ -38,7 +39,10 @@ L'analisi ha evidenziato come alcune soluzioni presentate come "inclusive" celin
 - **Esempio emblematico:** Il "Paradosso della Panchina Inclusiva" (Tatano), in cui lo spazio "vuoto" lasciato per la carrozzina al centro della panchina divide le persone, invece di unirle, e i braccioli, giustificati per agevolare l'alzata degli anziani, vengono in realtà usati per impedire ai senzatetto di sdraiarsi (architettura anti-bivacco).
 
 ## 5. Il Valore Generativo della Co-Progettazione (Partecipazione dal Basso)
-Sia nel caso del "Parco Libera Tutti" a Certaldo che nell'Aula all'aperto in via Polesine (Milano), emerge che la "Progettazione Partecipata" non è solo un metodo di raccolta dati, ma una leva strategica per creare "comunità". Quando il parco è co-progettato, i cittadini se ne sentono proprietari (bene comune), prevenendo vandalismi e garantendo l'attivazione a lungo termine dello spazio.
+Sia nel caso del "Parco Libera Tutti" a Certaldo, nell'Aula all'aperto in via Polesine (Milano), sia nel vasto "Parco delle Carpugnane" (Calenzano), emerge che la "Progettazione Partecipata" non è solo un metodo di raccolta dati, ma una leva strategica per creare comunità. Abbracciando la **Progettazione People Centred** e l'**Ergonomia per il Design**, i cittadini se ne sentono proprietari (bene comune), prevenendo vandalismi e garantendo l'attivazione a lungo termine dello spazio relazionale.
+
+## 6. Oltre la "Condiscendenza Ludica": La Valutazione del Gioco
+L'approccio puramente architettonico non basta. Recenti studi pedagogici (Besio & Bianquin) evidenziano un grave difetto educativo: la *Condiscendenza Ludica*. Creare spazi accessibili e limitarsi a "lasciar giocare" i bambini, specie se disabili, non stimola il loro sviluppo. Si rende necessario il passaggio a un rigoroso **Play Assessment** (come il Modello COST LUDI) che misuri le reali competenze ludiche del bambino (e non solo le abilità cliniche) per poter strutturare l'ambiente in modo da attrarlo nella sua zona di sviluppo prossimale.
 
 ## Prospettive Future
-Il parco gioco inclusivo del futuro non è un insieme di attrezzature specialistiche in un'area delimitata, ma un "sistema diffuso" e destrutturato che dialoga con la città. Si passa da un'idea di "protezione della disabilità" a una di "celebrazione della diversità", dove il gioco diventa il medium universale per la costruzione di una società coesa.
+Il parco gioco inclusivo del futuro non è un insieme di attrezzature specialistiche in un'area delimitata, ma un "sistema diffuso" e destrutturato che dialoga con la città. Si passa da un'idea di "protezione della disabilità" a una di "celebrazione della diversità", dove il gioco diventa il medium universale e le competenze ludiche vengono intenzionalmente accresciute.

@@ -13,7 +13,7 @@ L'analisi cronologica della letteratura sui parchi gioco inclusivi mostra un pro
 ```mermaid
 graph LR
     A["2016-2018<br/>Accessibilità Fisica"] --> B["2020-2023<br/>Neurodiversità e Sensorialità"]
-    B --> C["2024-2025<br/>Integrazione CAM e Valore Civico"]
+    B --> C["2024-2025<br/>Integrazione CAM, Valore Civico e Valutazione Pedagogica"]
     
     A -.->|Target:| D["Utenti con disabilità motoria"]
     B -.->|Target:| E["Spettro Autistico, Disabilità Cognitive"]
@@ -32,9 +32,9 @@ L'attenzione si sposta verso:
 1. **Neurodivergenza:** Si introducono concetti come il *Sensory Overload* (sovraccarico sensoriale) e si teorizza la necessità di "Spazi Rifugio" per i bambini autistici.
 2. **Diritto al Rischio:** Si afferma il valore del rischio calcolato nello sviluppo psicomotorio. L'inclusione non significa "azzerare la sfida", ma fornire percorsi a difficoltà graduata (Zona di Sviluppo Prossimale).
 
-## FASE 3 (2024 - 2025): L'Ecologia Sociale e la Sostenibilità Integrata
+## FASE 3 (2024 - 2025): L'Ecologia Sociale, L'Ergonomia e la Valutazione Pedagogica
 
-Negli studi più recenti (es. *Parchi giochi e CAM, 2025*; *Il Gioco come ponte sociale, 2025*), il concetto di inclusione esce dall'alveo puramente assistenziale e si fonde con la **transizione ecologica e sociale**.
-- **Nature Play:** La plastica colorata dei giochi a catalogo cede il passo al paesaggio naturale. La vegetazione non è più un decoro, ma diventa un materiale ludico destrutturato.
-- **Sostenibilità Normata (CAM):** L'inclusività entra nei Criteri Ambientali Minimi per gli appalti pubblici.
-- **Ponte Sociale:** Il parco viene infine riconosciuto non come un recinto per bambini, ma come un hub civico capace di integrare diverse etnie, facilitare il dialogo intergenerazionale (adulti e bambini insieme) e ricostruire le connessioni di quartiere compromesse. 
+Negli studi più recenti (es. *Parchi giochi e CAM, 2025*; *Valutare l'evoluzione del gioco, 2025*; *Design, inclusione e sviluppo sostenibile*), il concetto di inclusione esce dall'alveo puramente assistenziale e si fonde con la **transizione ecologica, l'Ergonomia per il Design e la pedagogia strutturata**.
+- **Sostenibilità Normata (CAM) ed Ergonomia:** L'inclusività entra nei Criteri Ambientali Minimi per gli appalti pubblici. La progettazione si fa *People Centred*, integrando aspetti cognitivi, percettivi ed emotivi per anticipare come utenti diversi interagiranno con lo spazio.
+- **Valutazione del Gioco (Play Assessment):** A livello pedagogico, si critica aspramente l'atteggiamento di "Condiscendenza Ludica" (lasciar semplicemente giocare i bambini in spazi sicuri). Si afferma l'esigenza di misurare le reali abilità ludiche (Modello COST LUDI) per raggruppare i bambini per competenze e non per età o diagnosi clinica.
+- **Ponte Sociale e Smart Tech:** Il parco viene riconosciuto non come un recinto per bambini, ma come un hub civico capace di integrare diverse etnie e facilitare il dialogo intergenerazionale. Le prospettive 2025 puntano all'uso di tecnologie smart (APP di feedback, sensori ambientali) per un monitoraggio continuo post-operam. 

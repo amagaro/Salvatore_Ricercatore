@@ -37,6 +37,8 @@ Nonostante la carenza generale, l'Audit ha isolato alcune metriche quantitative 
    - Secondo i dati del 2015, si contavano a malapena **30 parchi inclusivi** in tutta Italia, e circa 50 parchi contenenti "solo due o tre giochi accessibili" (*Fonte: Creare l'inclusivita TO e parchi giochi*). Questo KPI dimostra la profonda arretratezza infrastrutturale del decennio scorso.
 2. **Metriche Ludico-Tipologiche (Ludodiversità):** 
    - L'analisi sui giochi tradizionali (spesso soppiantati dai giochi a catalogo dei parchi moderni) evidenzia che l'**85%** di essi sono giochi puramente motori e il **45%** prevedono un approccio intrinsecamente intergenerazionale (*Fonte: Pedagogia del gioco il gioco inclusivo*). Questo KPI giustifica la necessità di reintrodurre dinamiche "Play" destrutturate per attrarre adulti e bambini simultaneamente.
+3. **Metriche Qualitative del Gioco (Play Assessment):**
+   - Recenti studi pedagogici (*Fonte: Valutare l'evoluzione del gioco, Besio e Bianquin*) evidenziano l'introduzione di KPI pedagogici per misurare il livello delle competenze ludiche (superando la "condiscendenza ludica"): *Playfulness* (propensione al gioco), *Complessità del Gioco* e *Environmental Supportiveness*. Anche in questo caso, manca ancora una standardizzazione quantitativa universale.
 
 ## 3. Matrice dell'Audit
 
@@ -50,7 +52,9 @@ Di seguito, un riepilogo a campione della maturità dei dati estratti da alcuni 
 | [[Paper - Parchi giochi e CAM (Mezzalana et al.)]] | Tecnico / Normativo | Nessuno (Focus normativo qualitativo sui CAM) |
 | [[Paper - Spazi verdi accessibili e inclusivi (Fiaschi)]] | Osservazionale | Nessuno (Qualitativo) |
 | [[Paper - Configurazione multisensoriale della stanza all'aperto (Segalerba)]] | Progetto Accademico | Nessuno (Qualitativo / Applicazione Framework) |
+| [[Paper - Valutare l'evoluzione del gioco (Besio, Bianquin)]] | Review Sistematica (20 Strumenti) | Nessuno Quantitativo (Evidenzia metriche qualitative come *Playfulness*) |
+| [[Paper - Design, inclusione e sviluppo sostenibile]] | Caso Studio (Parco Carpugnane) | Nessuno (Solo misurazioni spaziali dimensionali: 40 ettari, 9 naturali) |
 
 ## 4. Conclusioni e Sviluppi Futuri
 
-Per elevare la scientificità della progettazione inclusiva, le future ricerche e le co-progettazioni sul campo dovranno integrare **sensori ambientali, mappature termiche e tracking visivo/pedonale** per generare KPI sperimentali reali, colmando il gap tra la teoria dell'Universal Design e la misurazione effettiva dell'inclusione relazionale.
+Per elevare la scientificità della progettazione inclusiva, le future ricerche e le co-progettazioni sul campo dovranno integrare **sensori ambientali, mappature termiche e tracking visivo/pedonale** per generare KPI sperimentali reali, colmando il gap tra la teoria dell'Universal Design e la misurazione effettiva dell'inclusione relazionale. A questo proposito, come emerso dal progetto *Parco delle Carpugnane*, la frontiera futura risiede nello sviluppo di Tecnologie Smart (APP di feedback e sensori) per quantificare post-operam l'efficacia del parco.
