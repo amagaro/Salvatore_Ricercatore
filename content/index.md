@@ -90,29 +90,4 @@ Esplorazione critica della progettazione degli spazi aperti, giardini scolastici
 *   **Tutti i Casi di Studio:** [[30 - Casi di studio/|Database dei Progetti e Sperimentazioni]]
 *   **Tutte le Sintesi Avanzate:** [[60 - Approfondimenti/|Dashboard e Sintesi di Sintesi]]
 
----
-
-## 📬 Resta Aggiornato (Newsletter Settimanale)
-Vuoi ricevere una notifica quando analizzo nuove fonti e pubblico nuovi insight? 
-Iscriviti al feed settimanale automatizzato. Niente spam: riceverai un'unica email settimanale (solo se ci sono nuovi contenuti) con i link alle nuove note.
-
-<form
-  action="https://buttondown.com/api/emails/embed-subscribe/amagaro"
-  method="post"
-  class="embeddable-buttondown-form"
-  style="margin-top: 15px; padding: 15px; background-color: rgba(143, 159, 169, 0.1); border-radius: 8px; border: 1px solid #e5e5e5;"
->
-  <label for="bd-email" style="display: block; margin-bottom: 8px; font-weight: bold;">Inserisci la tua email:</label>
-  <div style="display: flex; gap: 10px;">
-    <input type="email" name="email" id="bd-email" placeholder="es. mario.rossi@email.com" required style="flex-grow: 1; padding: 10px; border-radius: 4px; border: 1px solid #ccc; font-family: inherit;" />
-    <input type="submit" value="Iscriviti" style="padding: 10px 20px; border-radius: 4px; background-color: #284b63; color: white; border: none; cursor: pointer; font-weight: bold;" />
-  </div>
-  <p style="font-size: 0.8em; margin-top: 10px; text-align: right;">
-    <a href="https://buttondown.com/refer/amagaro" target="_blank" style="color: #b8b8b8; text-decoration: none;">
-      Powered by Buttondown
-    </a>
-  </p>
-</form>
-
-<br>
 *Questo giardino è in costante crescita ed evoluzione. Nuovi taccuini e fonti vengono integrati regolarmente.*
