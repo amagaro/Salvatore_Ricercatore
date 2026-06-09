@@ -39,6 +39,7 @@ graph TD
 | [[Concept - Condiscendenza Ludica]] | 2026-06-09 |
 | [[Concept - Critical Play]] | 2026-06-09 |
 | [[Concept - Dicotomia Game e Play]] | 2026-06-09 |
+| [[Concept - Ergonomia per il Design]] | 2026-06-09 |
 | [[Concept - Funzione educante e socializzante del Gioco]] | 2026-06-09 |
 | [[Concept - Il Paradosso della Panchina Inclusiva]] | 2026-06-09 |
 | [[Concept - Laboratorio Sensoriale Esterno]] | 2026-06-09 |
@@ -53,6 +54,7 @@ graph TD
 | [[Concept - Play-based Assessment]] | 2026-06-09 |
 | [[Concept - Principi Universal Design]] | 2026-06-09 |
 | [[Concept - Progettazione Partecipata degli Spazi Educativi]] | 2026-06-09 |
+| [[Concept - Progettazione People Centred]] | 2026-06-09 |
 | [[Concept - Sicurezza tramite Vitalita (Eyes on the street)]] | 2026-06-09 |
 | [[Concept - Spazi Rifugio per la Neurodivergenza]] | 2026-06-09 |
 | [[Concept - Universal Design for Learning nel Gioco]] | 2026-06-09 |
@@ -87,6 +89,7 @@ graph TD
 | :--- | :--- | :--- |
 | [[Paper - Configurazione multisensoriale della stanza all'aperto (Segalerba)]] | Arianna Segalerba | 2024 |
 | [[Paper - Creare l'inclusivita TO e parchi giochi]] | Francesca Buosi | 2016 |
+| [[Paper - Design, inclusione e sviluppo sostenibile]] | Sconosciuto (Estrazione NotebookLM) | N.D. |
 | [[Paper - Il Gioco come ponte sociale]] | Valentina Pastorelli | 2025 |
 | [[Paper - Il gioco in chiave inclusiva]] | Valentina Perciavalle | 2022 |
 | [[Paper - Inclusione 3.0 - Il diritto al gioco]] | Catia Giaconi, Noemi Del Bianco (Curatrici), Paola Nicolini et al. | 2018 |
