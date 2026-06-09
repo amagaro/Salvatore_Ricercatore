@@ -36,6 +36,7 @@ graph TD
 | [[Concept - Atteggiamento Ludico (Playfulness)]] | 2026-06-09 |
 | [[Concept - CAM e Sostenibilita Sociale]] | 2026-06-09 |
 | [[Concept - Co-progettazione inclusiva]] | 2026-06-09 |
+| [[Concept - Condiscendenza Ludica]] | 2026-06-09 |
 | [[Concept - Critical Play]] | 2026-06-09 |
 | [[Concept - Dicotomia Game e Play]] | 2026-06-09 |
 | [[Concept - Funzione educante e socializzante del Gioco]] | 2026-06-09 |
@@ -45,8 +46,11 @@ graph TD
 | [[Concept - Limiti del Gioco a Catalogo]] | 2026-06-09 |
 | [[Concept - Ludodiversità e Giochi Tradizionali]] | 2026-06-09 |
 | [[Concept - Materiale ludico non strutturato]] | 2026-06-09 |
+| [[Concept - Modello COST LUDI]] | 2026-06-09 |
 | [[Concept - Modello Person-Environment-Occupation (PEO)]] | 2026-06-09 |
 | [[Concept - Outdoor Education come Strumento di Inclusione]] | 2026-06-09 |
+| [[Concept - Play Assessment]] | 2026-06-09 |
+| [[Concept - Play-based Assessment]] | 2026-06-09 |
 | [[Concept - Principi Universal Design]] | 2026-06-09 |
 | [[Concept - Progettazione Partecipata degli Spazi Educativi]] | 2026-06-09 |
 | [[Concept - Sicurezza tramite Vitalita (Eyes on the street)]] | 2026-06-09 |
@@ -95,6 +99,7 @@ graph TD
 | [[Paper - Spazi Aperti per Tutti - Gioco al Centro 2]] | Anna Moro, Gianfranco Orsenigo | 2024 |
 | [[Paper - Spazi e pagine che includono un Parco un libro]] | Enrica Polato, Maria Eleonora Reffo | 2023 |
 | [[Paper - Spazi verdi accessibili e inclusivi (Fiaschi)]] | Michela Fiaschi, Caterina Fusi, Diego Cariani (Narrazioni Urbane) | N.D. (Post 2019) |
+| [[Paper - Valutare l'evoluzione del gioco (Besio, Bianquin)]] | Serenella Besio, Nicole Bianquin | 2025 |
 
 
 ## 🔍 Insights Trasversali

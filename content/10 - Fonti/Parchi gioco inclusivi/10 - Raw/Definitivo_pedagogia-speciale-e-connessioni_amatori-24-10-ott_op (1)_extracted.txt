@@ -1,0 +1,979 @@
+
+Collana diretta da Gianluca Amatori e Silvia Maggiolini  
+7
+
+Comitato Scientifico:  
+Simone Aparecida Capellini 
+Universidade de São Paulo 
+Serenella Besio 
+Università degli Studi di Bergamo 
+Nicole Bianquin 
+Università degli Studi di Bergamo 
+Fabio Bocci 
+Università degli Studi Roma Tre 
+Luigi d’Alonzo 
+Università Cattolica del Sacro Cuore di Milano  
+Ewa Domagała-Zyśk 
+John Paul II Catholic University of Lublin  
+Andrea Fiorucci  
+Università del Salento 
+Catia Giaconi 
+Università degli Studi di Macerata 
+Filippo Gomez Paloma 
+Università degli Studi di Macerata 
+Christine Grima Farrell 
+University of New South Wales in Sydney 
+Vanessa Macchia 
+Libera Università degli Studi di Bolzano 
+Maria Helena Mesquita 
+Instituto Politecnico de Castelo Branco 
+Antonello Mura 
+Università degli Studi di Cagliari 
+Moira Sannipoli 
+Università degli Studi di Perugia 
+Maurizio Sibilio 
+Università degli Studi di Salerno 
+Tamara Zappaterra 
+Università degli Studi di Ferrara 
+Antioco Luigi Zurru 
+Università degli Studi di Cagliari 
+Elena Zanfroni 
+Università Cattolica del Sacro Cuore di Piacenza 
+ 
+ 
+Comitato di redazione:  
+Emiliano De Mutiis, Valeria De Padova, Cesare Fregola, Luca Giuseppe Ingrosso 
+Marzia Mazzer, Francesco Palma, Federica Pilotti, Paola Pavone Salafia, Nicoletta Tomei. 
+ 
+I volumi della collana saranno sottoposti a un sistema di double blind referee
+
+Gianluca Amatori, Catia Giaconi 
+[a cura di] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PEDAGOGIA SPECIALE  
+E CONNESSIONI DI CURA 
+ 
+Generazioni, legami, famiglie, caregiving
+
+ 
+ISBN volume 979­12­5568­399­5 
+ 
+2025 © by Pensa MultiMedia® 
+73100 Lecce • Via Arturo Maria Caprioli, 8 • Tel. 0832.230435 
+www.pensamultimedia.it
+
+Introduzione                                                                                                                         1 
+Gianluca Amatori – Catia Giaconi 
+I. Pedagogia speciale e connessioni di cura. Un approccio generativo                                    4 
+Gianluca Amatori 
+II. Sciogliere i «nodi» dell’inclusione a scuola: tra legami presenti e futuri                          12 
+Annalisa Morganti 
+ 
+(SP 1) 
+Sezione Parallela 1 
+Le relazioni familiari nella disabilità 
+ 
+SP1 1 
+Introduzione ai lavori della SP1. Le relazioni familiari nella disabilità                                    24 
+Giombattista Amenta 
+SP1 2 
+“Esperti per esperienza” e disabilità. Il contributo dei siblings3 alla progettazione inclusiva     35 
+Alessia Cinotti - Roberta Caldin 
+SP1 3 
+Famiglia e disabilità: prospettive di analisi pedagogiche nell’orizzonte normativo                   45 
+Emiliano De Mutiis 
+SP1 4 
+Evoluzioni del parenting e della funzione genitoriale. 
+Verso nuovi modelli di cura educativa e di educazione familiare                                             59 
+Maria Vittoria Isidori – Clara Evangelista  
+SP1 5 
+Le famiglie interculturali: dinamiche relazionali e scelte educative. Un’ipotesi di ricerca         68 
+Patrizia Oliva 
+SP1 6 
+La relazione ludicoeducativa con un bambino con disabilità. 
+Innestare nuove pratiche educative                                                                                         77 
+Elisa Rossoni 
+SP1 7 
+Pensare la disabilità: uno studio sul sapere implicito nelle famiglie multiproblematiche          89 
+Fausta Sabatano – Carmen Lucia Moccia 
+Indice
+
+SP1 8 
+Prospettive e riflessioni sulla Qualità di Vita dei siblings: 
+uno studio pilota con fratelli e sorelle di persone con disabilità intellettiva                           102 
+Catia Giaconi - Noemi Del Bianco - Ilaria D’Angelo - Tommaso Santilli 
+SP1 9 
+Narrazione e rappresentazione dell’autismo sui social network. 
+Una indagine esplorativa sui profili di genitori di persone con autismo                                112 
+Alessandra Maria Straniero 
+SP1 10 
+Le relazioni familiari nella disabilità tra dimensioni di ricerca e prospettive di intervento     122 
+Silvia Maggiolini - Arianna Taddei 
+ 
+(SP 2) 
+Sezione Parallela 2 
+Pedagogia speciale per la prima infanzia 
+ 
+SP2 1 
+Valutare l’evoluzione del gioco per costruire contesti ludici inclusivi. 
+Un’analisi critica di strumenti                                                                                              131 
+Serenella Besio - Nicole Bianquin 
+SP2 2 
+La consulenza pedagogica per l’inclusione nei servizi per la prima infanzia: 
+tra promozione della riflessività e pratiche di cura dell’équipe educativa                               145 
+Aurelia Elena Bot - Silvia Maggiolini 
+SP2 3 
+La valenza inclusiva della dimensione temporale nei servizi educativi per la prima infanzia  153 
+Beatrice Del Grosso - Elena Zanfroni 
+SP2 4 
+Promuovere la resilienza nei bambini: Questioni e suggestioni                                             162 
+Simona Gatto 
+SP2 5 
+Le Biblioteche come Spazi Inclusivi per la Prima Infanzia                                                    170 
+Alessandra Lo Piccolo - Daniela Pasqualetto - Marco Muscarà 
+SP2 6 
+Playfulness e inclusione                                                                                                        179 
+Nicoletta Rosati 
+SP2 7 
+Outdoor educazione e inclusione: quale relazione?                                                               188 
+Giorgia Ruzzante 
+SP2 8 
+Traiettorie possibili nella prima infanzia                                                                               196 
+Nicole Bianquin - Diana Carmela Di Gennaro - Moira Sannipoli - Giusi Toto 
+ 
+ 
+
+(SP 3) 
+Sezione Parallela 3 
+Giovani, adulti, anziani: intergenerazionalità e disabilità 
+ 
+SP3 1 
+Introduzione al Panel: Giovani, adulti, anziani: intergenerazionalità e disabilità                   205 
+Patrizia Sandri 
+SP3 2 
+Progetto di vita e occupabilità: uno studio esplorativo                                                          210 
+Valentina Paola Cesarano 
+SP3 3 
+Alcune considerazioni critiche per una pedagogia speciale dell’adolescenza                          219 
+Tommaso Fratini 
+SP3 4 
+La persona con disabilità invecchia: ricerche, politiche e pratiche                                         226 
+Mabel Giraldo - Antonella Gilardoni - Francesca Morganti 
+SP3 5 
+Diventare educatori inclusivi: il ragionamento abduttivo alla prova della pratica educativa      237 
+Enrico Miatto - Beatrice Saltarelli 
+SP3 6 
+Relazioni intergenerazionali e disabilità: il ruolo educativo dei nonni nella famiglia allargata     248 
+Francesco Palma - Gianluca Amatori 
+SP3 7 
+Cura e intergenerazionalità: figli Caregiver di genitori con disabilità                                    256 
+Paola Pavone Salafia - Gianluca Amatori 
+SP3 8 
+Persone con disabilità e lavoro: un’indagine sull’accessibilità fisica, organizzativa  
+e relazionale nelle aziende                                                                                                     266 
+Cecilia Pellizzari - Valeria Friso - Enrico Miatto - Fabio Sacchi 
+SP3 9 
+Intergenerazionalità e disabilità: traiettorie di ricerca                                                            276 
+Valeria Friso - Enrico Miatto - Lorena Montesano 
+ 
+ 
+ 
+(SP 4) 
+Sezione Parallela 4 
+Tecnologie, disabilità, famiglie: connessioni di cura e buone pratiche 
+ 
+SP4 1 
+UDL e didattica universitaria: esiti preliminari di un’indagine sui bisogni 
+e sulle percezioni di un gruppo di studenti dell’Università del Salento. 
+Il progetto PRIN DANTEU1                                                                                              288 
+Andrea Fiorucci - Stefania Pinnelli - Alessia Bevilacqua - Elena Abbate 
+
+SP4 2 
+Una valutazione inclusiva: come costruire conoscenze, abilità, 
+atteggiamenti e competenze all’interno del contesto classe                                                    303 
+Maria Luisa Boninelli 
+SP4 3 
+Robotica sociale e autismo: il ruolo delle famiglie nella promozione di competenze relazionali    315 
+Valentina Pennazio - Rita Cersosimo 
+SP4 4 
+Future of Education: nuove prospettive educative e possibili modelli inclusivi                     325 
+Amelia Lecce - Stefano Di Tore 
+SP4 5 
+Le linee guida UDL 3.0: un’evoluzione linguistica e contenutistica 
+verso l’identità e il background                                                                                             334 
+Andrea Mangiatordi 
+SP4 6 
+Il Progetto di orientamento in uscita per studenti universitari con disabilità, DSA e  
+Bisogni Educativi Speciali: sviluppo e sperimentazione di un MOOC ad Alta Accessibilità  346 
+Barbara De Angelis - Agrusti Francesco - Philipp Botes - Andreina Orlando 
+SP4 7 
+Tecnologie e pratiche di cura. Una connessione possibile in chiave UDL                             355 
+Rosa Sgambelluri 
+SP4 8 
+CONCLUSIONE 
+Prospettive per la didattica universitaria inclusiva. La disabilità, le buone pratiche  
+e il ruolo delle tecnologie                                                                                                     365 
+Marianna Traversetti - Cristina Gaggioli 
+ 
+(SP 5) 
+Sezione Parallela 5 
+Scuola, famiglia, territori: alleanze per e con le persone con disabilità 
+ 
+SP5 a 1 
+Introduzione                                                                                                                        376 
+Marinella Muscarà 
+SP5 a 2 
+La voce dei docenti in formazione: percezioni sull’inclusione scolastica 
+e l’alleanza scuola-famiglie-territorio in un’indagine esplorativa                                            379 
+Maria Concetta Carruba - Alessandro Barca 
+SP5 a 3 
+Caregiver e rete integrata dei servizi: l’esperienza del progetto Janus nel territorio dell’ATS 10   391 
+Antonio Cuccaro - Chiara Gentilozzi - Claudia Maulini 
+SP5 a 4 
+La risorsa “corso di specializzazione per il sostegno”: il “Sistema 4 INN”  
+per il co-sviluppo capacitante                                                                                               405 
+Paola Damiani - Elena Bortolotti - Filippo Dettori 
+
+SP5 a 5 
+Alleanze scuola-famigliaterritorio nella costruzione del Progetto di Vita                               417 
+Ines Guerini - Virginia Benedetti - Alessia Travaglini 
+SP5 a 6 
+Teacher Agency e pratiche riflessive inclusive nella formazione dei docenti                           427 
+Daniela Gulisano 
+SP5 a 7 
+Ecosistemi socioeducativi fondati sulla Widespread Education: 
+vantaggi per l’inclusione e proposte applicative                                                                    437 
+Laura Landi - Paola Damiani 
+SP5 a 8 
+Coltivare il pensiero critico per avere cura del futuro: uno studio esplorativo                       448 
+Guendalina Peconio 
+SP5 a 9 
+Un progetto di inclusione in un’ottica coevolutiva: “una porta per accogliere”                      463 
+Mariagrazia Francesca Marcarini - Donatella Di Franco 
+SP5 a 10 
+Vita Indipendente e Appartenenza (V.I.A). 
+La promozione di una rete inclusiva sinergica e coesa                                                           475 
+Mirca Montanari - Alessia Brunetti - Chiara Pagnottelli 
+SP5 a 11 
+Migliorare le politiche e pratiche inclusive in chiave ecologica: 
+esiti e strumenti di una ricerca europea                                                                                484 
+Annalisa Morganti - Andrea Mangiatordi - Alessia Signorelli - Francesco Marsili 
+SP5 a 12 
+Conclusioni e Prospettive                                                                                                     495 
+Annalisa Morganti 
+SP5 b 1 
+Introduzione. Scuola, famiglia, territori: alleanze per e con le persone con disabilità            501 
+Filippo Gomez Paloma - Angela Magnanini - Donatella Fantozzi 
+SP5 b 2 
+Gruppo di lavoro operativo per l’inclusione, disabilità e famiglie. 
+Riflessioni, indagine e proposte pedagogiche                                                                        508 
+Corrado Muscarà 
+SP5 b 3 
+Una indagine esplorativa sulle alleanze tra società sportive e famiglie                                   519 
+Angela Magnanini - Chiara Pannone - Marta Sánchez Utgé 
+SP5 b 4 
+Percorsi inclusivi nella disabilità visiva                                                                                  529 
+Valentina Perciavalle 
+
+SP5 b 5 
+In prima a tutta potenza. Un progetto di ricercaformazione evidence based per il  
+potenziamento della lettoscrittura e del calcolo. In prima a tutta potenza.  
+An evidence-based research-training project for the reinforcement of literacy and numeracy   537 
+Amalia Lavinia Rizzo - Marianna Traversetti - Marina Chiaro  
+Sofia Boi - Marianna Valente - Fabio Bocci 
+SP5 b 6 
+Trasformare le pratiche di ricerca con studentesse/i con autismo. 
+Il contributo delle metodologie marginali                                                                            549 
+Alessandra Romano 
+SP5 b 7 
+Il “diario di bordo” come strumento di apprendimento trasformativo 
+nella formazione degli insegnanti specializzati                                                                      561 
+Alessandro Romano - Enza Manila Raimondo - David MartínezMaireles 
+SP5 b 8 
+Pause Attive e pratiche in classe: 
+L’esplorazione dei contesti nel progetto ABMove!                                                                 569 
+Clarissa Sorrentino - Stefania Pinnelli - Andrea Fiorucci - Francesca Baccassino -  
+Valeria Di Martino - Rosa Bellacicco 
+SP5 b 9 
+Prendersi cura delle relazioni e delle dinamiche di rete per cocostruire 
+il possibile futuro lavorativo                                                                                                 581 
+Susanna Testa 
+SP5 b 10 
+Lo sviluppo delle abilità emozionali nei docenti in formazione: 
+un’indagine esplorativa nel contesto del TFA sostegno                                                         591 
+Giusi Antonia Toto - Martina Rossi 
+SP5 b 11 
+La gestione del comportamento e dell’emotività nella disabilità intellettiva.  
+Una proposta di intervento                                                                                                  603 
+Donatella Visceglia 
+SP5 b 12 
+Il disagio educativo: la voce degli insegnanti in formazione                                                  612 
+Silvia Zanazzi - Nicoletta Lorrai - Maria Vittoria Battaglia - Andreina Orlando 
+ 
+(SP 6) 
+Sezione Parallela 6 
+Direzioni di cura: sfide attuali e future nella Pedagogia speciale 
+ 
+SP6 1 
+Introduzione                                                                                                                        626 
+Serenella Besio 
+SP6 2 
+Ruolo della cura e dell’impegno del docente nella gestione di situazioni complesse              629 
+Giombattista Amenta 
+
+SP6 3 
+Per una cultura dell’inclusione e della neurodiversità: 
+formare i docenti alla didattica orientativa                                                                            638 
+Rosaria Capobianco 
+SP6 4 
+Direzioni di cura, direttrici di cittadinanza: 
+personalizzazione e comunità nel lavoro nei contesti di vita                                                 647 
+Natascia Curto 
+SP6 5 
+La cura educativa e l’inclusione: l’esigenza di una rivisitazione politicoculturale                   656 
+Patrizia Gaspari 
+SP6 3 
+Cercare alleanze con gli studenti per ascoltare la loro “voce”                                                 666 
+Grazia Lombardi 
+SP6 7 
+Motivazione allo studio, relazioni di attaccamento e performance scolastica nei DSA:  
+indagine esplorativa su studenti della Scuola Secondaria di Secondo Grado                         676 
+Anna Maria Mariani - Eugenia Treglia - Francesco Peluso Cassese 
+SP6 8 
+Connessioni di Cura: tra progetti e innovazione                                                                   693 
+Sara Pellegrini 
+SP6 9 
+Giving families a voice: parents’ and cargivers’ opinions on school inclusion                        702 
+Emanuela Zappalà - Erika Marie Pace - Stuart Woodcock - Umesh Sharma - Paola Aiello 
+SP6 10 
+Conclusioni                                                                                                                         716 
+Andrea Fiorucci - Patrizia Gaspari 
+ 
+(SP 7) 
+Sezione Parallela 7 
+Verso dove? Pedagogia speciale in evoluzione* 
+(sessione riservata a dottorandi, dottori di ricerca e assegnisti 
+nel settore della Pedagogia Speciale) 
+ 
+SP7 1 
+Introduzione. Problemi educativi e direzioni della ricerca                                                     725 
+Elsa Maria Bruni 
+SP7 2 
+Didattica innovativa e stampa 3D per migliorare l’accessibilità 
+dei bambini con disabilità visiva nella scuola primaria                                                          735 
+Addolorata Amadoro - Lucia Campitiell - Diana Carmela Di Gennaro - Stefano Di Tore 
+SP7 3 
+Inclusione scolastica e Universal Design for Learning: 
+risultati di una ricerca-azione-formazione                                                                             742 
+Maria Antonietta Augenti 
+
+SP7 4 
+Immagini che parlano: un’esperienza nella scuola primaria                                                   752 
+Alessandra Capatti 
+SP7 5 
+Agire la leadership per l’inclusione: 
+il ruolo delle funzioni strumentali nella scuola come organizzazione                                    763 
+Flavia Capodanno - Paola Aiello 
+SP7 6 
+Identità plurale e inclusione: politiche e pratiche a favore di studenti internazionali  
+con disabilità nelle università italiane                                                                                   775 
+Sara Casale                                                                                                                                  
+SP7 7 
+InMath – Inclusive Mathematics: migliorare l’accessibilità del problem solving in relazione  
+alla disabilità intellettiva – una revisione sistematica                                                             784 
+Sara Cecchetti - Nicole Bianquin - Chiara Giberti 
+SP7 8 
+“Vorrei parlare di certi argomenti, ma ho paura e non ho gli strumenti”: 
+un’indagine esplorativa sui bisogni formativi di insegnanti in formazione 
+nella prevenzione del bullismo discriminante                                                                       795 
+Barbara Centrone 
+SP7 9 
+Sport e disabilità in età evolutiva: sintesi di un percorso di ricerca sulle pari opportunità     809 
+Lorenzo Cioni 
+SP7 10 
+Insegnare il latino a tutti e a ciascuno? Prospettive didattiche inclusive                                 819 
+Rita Colace - Iolanda Zollo 
+SP7 11 
+La narrazione per la costruzione dell’identità professionale 
+degli educatori di servizi per la prima infanzia                                                                      832 
+Rossella D’Agostino - Umberto Veneruso - Erika Marie Pace 
+SP7 12 
+Intelligenza Artificiale ed Embodiment: prestiti concettuali e derive semantiche                  846 
+Monica Di Domenico - Fabrizio Schiavo - Pio Alfredo Di Tore 
+SP7 13 
+Un nemico invisibile? Il cyberbullismo dal punto di vista dell’insegnante di sostegno           856 
+Marco di Furia - Luigi Traetta 
+SP7 14 
+La musica come veicolo per il potenziamento delle abilità di letto-scrittura 
+in alunni/e a rischio di dislessia: risultati di un’indagine sperimentale                                   868 
+Alessio Di Paolo - Naomi La Manna - Michele Domenico Todino - Maurizio Sibilio 
+SP7 15 
+Promuovere l’Inclusione e l’equità nell’Istruzione: 
+un’analisi critica dei processi e delle pratiche educative nelle scuole                                      877 
+Federica Festa - Rosa Bellacicco - Cecilia Marchisio 
+
+SP7 16 
+La disclosure della neurodivergenza in classe, dal lavoro di rete al gruppo dei pari:  
+studio di caso nella scuola Secondaria di Secondo grado                                                       887 
+Giulia Lampugnani 
+SP7 17 
+Teaching Strategies in Multicultural Classrooms 
+from an Iranian Perspective: A literature review                                                                   898 
+Zahrasadat Mohajeri - Michele Domenico Todino - Erika Marie Pace 
+SP7 18 
+Dalla polarizzazione alla complementarità. 
+Superare la dicotomia tra special e inclusive education                                                           912 
+Alessandro Monchietto 
+SP7 19 
+Il lessico inclusivo: trait d’union tra scuola e famiglia                                                           926 
+Antonella Perrotta - Flavia Capodanno - Paola Aiello 
+SP7 20 
+Oltre lo schermo: esplorare la diversità attraverso esperienze educative phygital                    938 
+Martina Petrini 
+SP7 21 
+Le aspettative di risultato nell’adozione delle TIC: uno studio post pandemico 
+ sullo sviluppo professionale degli insegnanti nella scuola primaria                                       947 
+Mariella Pia 
+SP7 22 
+Life Designing e disabilità: un’analisi ecologica dei fattori intrinseci ed estrinseci                 957 
+Francesca Placanica - Rosa Sgambelluri 
+SP7 23 
+Gioco e inclusione nella scuola primaria e dell’infanzia: 
+idee degli insegnanti attraverso i focus group del progetto FROB                                         966 
+Stefano D’Ambrosio - Elisabetta Prina 
+SP7 24 
+Progettare spazi educativi per e con i bambini                                                                      978 
+Francesca Mara Santangelo  
+SP7 25 
+L’università e la pedagogia speciale: 
+un approccio interdisciplinare per l’inclusione                                                                     985 
+Jacopo Venè 
+ 
+
+SP2 ­ 1 
+Valutare l’evoluzione del gioco per costruire contesti ludici inclusivi.  
+Un’analisi critica di strumenti 
+ 
+ 
+Serenella Besio 
+Università degli Studi di Bergamo  
+ 
+Nicole Bianquin 
+Università degli Studi di Bergamo  
+ 
+ 
+ 
+Abstract  
+Il gioco è un’attività intrinseca all’infanzia, espressione autentica delle po­
+tenzialità cognitive, emotive e sociali, e va valorizzato come motore dello 
+sviluppo dell’individuo. Nonostante l’interesse diffuso sul tema, manca un 
+consenso univoco sulle modalità evolutive del gioco e sugli strumenti per 
+valutarle. Studi e progetti, come COST “LUDI - Play for Children with 
+Disabilities”, hanno evidenziato l’importanza di considerare il gioco come 
+un dominio di ricerca, procedendo ad una sua chiara definizione e siste­
+matizzazione, al fine di attribuire nuovo valore alle sue potenzialità nelle 
+pratiche educative inclusive. Metodologie e strumenti valutativi saldamente 
+fondati e pedagogicamente orientati contribuirebbero a migliorare la pro­
+gettazione di attività formative, favorendo l’individuazione precoce delle 
+aree di intervento e sostenendo lo sviluppo dell’individuo. Un quadro con­
+diviso permetterebbe ai professionisti di condividere una prospettiva scien­
+tifica, un lessico stabile e di comparare esperienze e interventi in modo 
+affidabile, valorizzando il gioco come elemento chiave nel percorso evolu­
+tivo di tutti i bambini. 
+ 
+ 
+1. Valutare il gioco: si può, si deve? 
+ 
+Il gioco è da sempre considerato, in ambito psico-pedagogico, una cartina di tor­
+nasole dello sviluppo del bambino, una manifestazione evidente delle competenze 
+e delle abilità raggiunte in ambito cognitivo e sociale. Le sue caratteristiche e le 
+modalità di espressione nei contesti di vita sono diventate parametri decisivi per 
+la valutazione di alcune disabilità, in particolare il disturbo dello spettro autistico. 
+Tuttavia, non esiste un universale accordo sulle sue modalità evolutive (quale ne 
+sia la matrice, quali le fasi), né una consolidata letteratura, comprensiva di stru­
+menti adeguati, sulla sua valutazione; inoltre, pur essendo reputato un fecondo 
+131
+
+oggetto di studio, raramente lo si considera un’area evolutiva di cui intenzional­
+mente curare lo sviluppo. 
+Il gioco infatti è anche inafferrabile, sulla quale si sono affacciate numerose 
+discipline, attratte dalla fascinazione del suo mistero – autotelismo, evoluzione 
+verso la complessità, necessità lungo l’arco della vita; trasversalità fra le specie ani­
+mali, fra i gruppi etnici e nel corso della storia umana; intreccio con i processi di 
+apprendimento e con il benessere psicologico; capacità di assorbire la mente fin 
+sulla soglia patologica e altro ancora – e in ambito pedagogico è prevalsa (Sut­
+ton-Smith, 2001, 2008; McMahon, Lytle, Sutton-Smith, 2005), dagli anni Set­
+tanta in poi, la valorizzazione, teorica e operativa, della sua libera espressività, la 
+quale, anche se associata all’organizzazione di contesti facilitanti, è accompagnata 
+da condiscendenza (Staccioli, 2008), cioè da un disinvestimento da parte della 
+programmazione didattica verso la sua crescita. 
+Gli assidui ma insoddisfacenti tentativi di comprendere e definire il gioco da 
+parte di Sutton-Smith (2008) e la sua dichiarazione finale di resa hanno forse, al­
+meno oltreoceano, influito sulla sostanziale assenza di studi sistematici recenti 
+sull’argomento, almeno per quanto concerne l’elaborazione di modelli teorici af­
+fidabili, capaci di fornire un quadro di riferimento per correlare lo sviluppo del 
+gioco a quello infantile, riconoscendolo come elemento fondamentale nella cre­
+scita del bambino. Aprirebbe inoltre inevitabilmente la riflessione sul tema della 
+valutazione e produrrebbe lo sviluppo di metodologie di osservazione e sperimen­
+tazioni in ambito educativo-didattico. 
+Si potrebbe così interpretare il gioco, in ambito educativo, non solo come li­
+bero sfogo temporaneo di energie compresse, o sfondo integratore, o piacevole 
+inganno per attività scolastiche gravose (non solo, dunque, per la veste ludiforme 
+di cui può permeare la didattica, come sottolineava Visalberghi, 1958), quanto 
+piuttosto per le sue caratteristiche ludiche intrinseche (di complessità, di fase, di 
+tipologia), che manifestano il grado di competenza raggiunto dal bambino. Su 
+questo livello, come Vygotskij (1967) aveva ben capito, si possono innestare nuove 
+modalità di gioco, di complessità crescente, in cui i compagni e gli adulti svolgono 
+un ruolo prezioso di modello e di stimolo. Forse il salto evolutivo nel gioco è in­
+sieme più immediato e più naturale e potrebbe trasfondersi in salto evolutivo tout 
+court.  
+In questa prospettiva, risulterebbe cruciale accompagnare il bambino nel pas­
+saggio da modalità di gioco semplici a quelle più complesse. Si offrirebbe inoltre 
+ai professionisti dell’educazione un supporto concreto per la progettazione delle 
+attività didattiche, innestandole sull’analisi del gioco di ogni bambino e sul po­
+tenziale evolutivo. I processi didattici inclusivi ne risulterebbero facilitati, per la 
+possibilità di realizzare gruppi di lavoro vicini per livello di competenze, nei quali 
+anche il ruolo dell’adulto acquisisce una funzione più nitida e orientata allo scopo, 
+riuscendo a elicitare la zona prossimale di sviluppo, anche nel gioco. 
+132
+SP2 – Pedagogia speciale per la prima infanzia
+
+Il progetto europeo COST “LUDI - Play for Children with Disabilities” (2014-
+2018) ha dato una iniziale sistematizzazione al tema, giungendo a proporre un’or­
+ganizzazione delle tipologie di gioco per aree di sviluppo (cognitiva e sociale), e 
+proponendo anche una prima riflessione sul loro reciproco evolversi nei primi 
+anni di sviluppo del bambino (Besio, Bulgarelli, Stancheva-Popkostadinova, 
+2017). 
+Esistono alcuni tentativi di sistematizzare il concetto di gioco, concentrandosi 
+sulla definizione di tratti distintivi correlati a parametri come età di insorgenza, 
+abilità e competenze. Tuttavia, manca una classificazione dettagliata che distingua 
+con precisione le diverse tipologie di gioco, evidenziandone le interconnessioni e 
+l’evoluzione nel tempo. Inoltre, pochi studi definiscono esplicitamente il gioco e 
+ancor meno propongono metodologie per una sua valutazione. 
+Una rifondazione teorica e metodologica del dominio del gioco, in ambito pe­
+dagogico, favorirebbe incremento di conoscenza e consapevolezza negli insegnanti 
+e nei professionisti del settore, modificherebbe le prassi didattiche in direzione 
+inclusiva e costituirebbe un nuovo terreno di riflessione per lo studio dello svi­
+luppo del bambino. Infine, permetterebbe di restituire alla cura del gioco la ne­
+cessaria centralità nella proposta educativa, in particolare nei servizi per la prima 
+infanzia, riconoscendone il valore intrinseco e promuovendo un modello peda­
+gogico che ne evidenzi l’importanza. 
+Si può dunque affermare che la valutazione del gioco infantile rimane un 
+campo ricco di potenzialità e di promesse in ambito psico-pedagogico, ma pre­
+tende un inquadramento teorico solido, unito allo sviluppo di metodologie e di 
+strumenti coerenti.  
+Al fine di procedere in questa direzione, è necessario innanzitutto effettuare 
+un’indagine approfondita e sistematica degli strumenti e delle metodologie esi­
+stenti per la valutazione del gioco infantile1. Di seguito ne vengono presentati e 
+discussi i primi risultati. 
+ 
+ 
+2. Analisi critica della letteratura esistente 
+ 
+La revisione degli strumenti e delle metodologie per l’osservazione e la valutazione 
+del gioco infantile è stata condotta perseguendo le seguenti finalità: 
+1
+L’indagine si inserisce all’interno del progetto FROB - Family of ROBots for children with 
+disabilities” - PRIN 2022 M4C2 Investimento 1.1 - finanziato dall’Unione europea – Next 
+Generation EU. Il progetto di natura multidisciplinare sviluppa giocattoli robotici per sup­
+portare il gioco inclusivo di bambini con disabilità in ambienti inclusivi. Basato sul modello 
+COST LUDI (2014-2018), punta a offrire robot modulari che amplino le opportunità di 
+gioco, introducendo vari livelli di complessità.
+133
+SP2 – Pedagogia speciale per la prima infanzia
+
+– documentare e analizzare gli strumenti e le metodologie disponibili a livello 
+internazionale, evidenziandone i punti di forza e criticità, in relazione a: la 
+coerenza con il quadro teorico, l’individuazione e l’organizzazione dei criteri 
+di valutazione, la metodologia proposta, le caratteristiche specifiche; 
+– identificare gli strumenti più adeguati a condurre un processo valutativo effi­
+cace ed esaustivo, comprendente i diversi aspetti del gioco, con particolare ri­
+guardo all’attenzione portata ai bambini con disabilità e alle loro modalità di 
+espressione ludica e all’applicabilità in contesti educativi inclusivi; 
+– fornire la base e offrire orientamenti per futuri sviluppi, promuovendo stru­
+menti esaustivi rispetto alle esigenze di approfondimento teorico e metodolo­
+gico del gioco, colmando le lacune ancora presenti, e inclusivi rispetto alle 
+modalità di indagine adottate e agli scopi perseguiti; 
+– condividere gli esiti dello studio tra ricercatori, educatori e professionisti del 
+settore e diffondere una cultura del gioco come motore di sviluppo e come 
+area di interesse per la progettazione educativa. 
+ 
+ 
+2.1 Metodologia 
+ 
+La revisione della letteratura è stata condotta tra dicembre 2023 e giugno 2024, 
+mediante un’approfondita analisi bibliografica, integrando fonti internazionali e 
+nazionali, con l’obiettivo di esaminare in maniera critica gli strumenti e le meto­
+dologie attualmente impiegati nella ricerca e nella pratica per la valutazione del 
+gioco.  
+Sono stati raccolti 20 strumenti per la valutazione del gioco, suddivisibili, come 
+macro-tipologia, fra: a) test contenuti all’interno di volumi teorici o teorico-pratici 
+dedicati al gioco; b) test (o parti di test) contenuti all’interno di volumi dedicati 
+all’approfondimento di una tematica più ampia (per es., lo sviluppo della comu­
+nicazione nel bambino; la valutazione del disturbo dello spettro autistico); c) kit 
+valutativi (comprendenti anche il materiale da utilizzare per somministrare il test). 
+Ogni strumento è stato sottoposto poi ad un’analisi accurata utilizzando un’ap­
+posita reading form, che ha permesso di identificare e descrivere gli elementi ca­
+ratterizzanti di ciascuno strumento, come di seguito indicato. 
+ 
+– Focus osservativo: individuazione dell’oggetto misurato dal test di valutazione 
+(tipologia di gioco, contesto di gioco, percezioni sul gioco, ecc.). 
+– Grado di complessità del gioco: analisi della complessità di gioco esaminata 
+per ciascuna tipologia, considerando sia la singola sia le interazioni tra le diverse 
+tipologie. 
+– Specifico interesse sulla disabilità: valutazione della presenza, nello strumento, 
+di item, aree di indagine o di attenzione (per es., adattamenti) specificamente 
+134
+SP2 – Pedagogia speciale per la prima infanzia
+
+concepiti per l’analisi del gioco di bambini con disabilità o in contesti che li 
+coinvolgono. 
+– Caratteristiche delle metodologie e degli strumenti: disamina critica di questi 
+elementi, con particolare attenzione alla loro efficacia, affidabilità e applicabi­
+lità nei diversi contesti formativi, nonché alla loro coerenza con il modello teo­
+rico di afferenza e con gli obiettivi della valutazione. 
+ 
+Nella fase successiva è stata condotta un’analisi comparativa degli strumenti, 
+finalizzata a ottenere una visione complessiva delle proposte individuate. Questo 
+processo ha consentito di ottenere un resoconto comparativo, ma anche di indi­
+viduare dimensioni trascurate, assenti, o che richiedono ulteriori approfondi­
+menti. È possibile in tal modo ricavare spunti per nuove prospettive di ricerca e 
+intervento nel campo della valutazione del gioco. 
+ 
+ 
+2.2 Risultati: panoramica generale degli strumenti 
+ 
+Valutazione del gioco e valutazione basata sul gioco 
+ 
+Tutti gli strumenti possono essere suddivisi in due macro-categorie: valutazione 
+del gioco e valutazione basata sul gioco. 
+La prima, quella del play assessment, si concentra sull’analisi del gioco infantile, 
+definito all’interno di un quadro teorico più o meno esplicitato e la affronta stu­
+diando varie dimensioni intrinseche del gioco, a seconda degli interessi e degli 
+obiettivi degli autori. Essa include strumenti che misurano le molteplici dimen­
+sioni del gioco (tipologie, contesti e strumenti di gioco, evoluzione, relazioni lu­
+diche fra pari, atteggiamenti degli adulti, ecc.) nonché il piacere che il bambino 
+prova nel giocare e la sua inclinazione verso il gioco (Stagnitti, 2004). 
+Questi strumenti di valutazione di solito si basano sull’identificazione di tipo­
+logie o forme di gioco che i bambini preferiscono e padroneggiano, sulle attività 
+ludiche a loro accessibili, sul livello di playfulness, nonché le modalità, i luoghi, i 
+tempi e le persone con cui si impegnano nel gioco. Questi strumenti contribui­
+scono a comprendere l’esperienza quotidiana del bambino, il significato del gioco 
+nel contesto sociale, le sfumature del suo comportamento ludico e la modalità 
+con cui partecipa attivamente e funzionalmente al gioco (Miller, Kuhaneck, 
+2008).  
+La seconda, quella del play-based assessment, esamina una o più dimensioni di 
+sviluppo del bambino, attraverso la valutazione delle sue competenze attuali in 
+varie aree evolutive (del linguaggio, psicomotorie, dell’interazione sociale, ecc.) 
+osservate nell’ambito di situazioni ludiche. In questo caso l’analisi del gioco è se­
+condaria, serve cioè a mettere in risalto aspetti dell’interazione tra il bambino e il 
+135
+SP2 – Pedagogia speciale per la prima infanzia
+
+suo ambiente sociale e fisico, al fine di poterne valutare il grado di competenza o 
+abilità raggiunto in campi determinati. 
+Le competenze cognitive, sociali, relazionali, psicomotorie, individuate attra­
+verso questi test possono fornire informazioni utili per la progettazione didattica, 
+clinica, per l’implementazione di programmi educativi e di ricerca (Parham, 2015) 
+e hanno importanti implicazioni per la pianificazione di servizi, al fine di fornire 
+ambienti in cui il bambino possa avere esperienze di gioco piacevoli e di successo, 
+compresi giocattoli e compagni di gioco interessanti e accessibili.  
+La valutazione basata sul gioco si avvale di scale normative ideate apposita­
+mente per osservare e valutare specifiche abilità di sviluppo che emergono durante 
+le attività ludiche, come ad esempio competenze motorie, processuali e comuni­
+cative-interattive (O’Grady & Dusing, 2015). Il gioco rappresenta sia il contesto 
+sia l’attività più efficace per osservare direttamente lo sviluppo del bambino e for­
+nisce un’alternativa significativa alla valutazione tradizionale, che spesso si basa 
+su compiti artificiosi. Secondo Kaugars (2011), essa consente anche di rilevare 
+aspetti psicologici e di sviluppo che potrebbero non emergere nelle tradizionali 
+batterie di test, poiché mette il bambino nella condizione ideale per esprimere 
+una vasta gamma di abilità.  
+Tuttavia, come indicato da O’Grady e Dusing (2015), gli strumenti di valu­
+tazione basati sul gioco misurano un costrutto simile ma non identico a quello 
+dei test di sviluppo. Inoltre, essi sono specificamente progettati per valutare gli 
+aspetti fondamentali del gioco, ma non sono in grado di determinare con preci­
+sione se un bambino gioca e con quale frequenza (Parham, 2015). 
+Gli strumenti individuati, riportati nella tabella seguente, sono stati per il pre­
+sente studio organizzati seguendo queste due distinte macro-categorie: play asses­
+sment e play-based assessment.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+136
+SP2 – Pedagogia speciale per la prima infanzia
+
+ 
+137
+SP2 – Pedagogia speciale per la prima infanzia
+
+ 
+ 
+ 
+Dei 20 strumenti individuati per la valutazione del gioco, 11 si riferiscono al 
+play assessment, mentre gli altri 9 riguardano il play-based assessment.  
+Gli strumenti di play assessment, sviluppati tra il 1989 e il 2014, si concentrano 
+sull’analisi delle principali tipologie di gioco, come ad esempio il gioco simbolico 
+o di costruzione, che possono essere osservate durante le attività ludiche, appro­
+fondendone aspetti diversi, a seconda degli scopi dell’indagine. Questi strumenti 
+permettono di raccogliere informazioni sulle capacità del bambino, sulle sue mo­
+dalità di interazione in contesti di gioco, sulle preferenze e sul piacere manifestato 
+nel gioco, offrendo un quadro utile per comprendere il suo sviluppo nel gioco. 
+Al contrario, gli strumenti di play-based assessment, pubblicati fra il 1968 e il 
+2023, si focalizzano sullo sviluppo evolutivo del bambino attraverso l’osservazione 
+del gioco. In questo caso, il gioco è visto come un’opportunità per studiare e va­
+lutare le competenze del bambino in un ambiente più naturale e dinamico. Questi 
+138
+SP2 – Pedagogia speciale per la prima infanzia
+
+strumenti sono progettati per identificare non solo le abilità motorie e cognitive, 
+ma anche aspetti psicologici e relazionali che potrebbero non emergere in contesti 
+di valutazione più tradizionali.  
+ 
+ 
+Primo piano sugli strumenti di play assessment  
+ 
+Di seguito si mettono in evidenza alcune riflessioni derivanti dall’analisi degli 
+elementi caratterizzanti individuati nei 10 strumenti di play assessment. 
+ 
+Focus osservativo. Due strumenti sono dedicati all’analisi di tipologie di gioco 
+chiaramente definite e forniscono una classificazione dettagliata delle loro carat­
+teristiche distintive (RKPPS; PIECES). Due strumenti si concentrano esclusiva­
+mente sul pretend play ovvero sul “far finta” associato al gioco simbolico, studiato 
+perché riveste un ruolo cruciale nello sviluppo cognitivo, emotivo e sociale del 
+bambino (TOPP; ChIPPA). Altri due strumenti si concentrano su aspetti più ge­
+nerali del gioco, come il ludic behaviour (Assessment of Ludic Behaviour) e la play­
+fulness (TOP), due parametri che permettono di declinare non solo la qualità 
+dell’esperienza ludica ma anche l’atteggiamento complessivo del bambino nei 
+confronti del gioco.  
+Inoltre, due strumenti analizzano il ruolo dell’ambiente nel favorire il gioco, 
+esaminando il concetto di environmental supportiveness (TOES; APS), ossia il so­
+stegno fornito dall’ambiente e le modalità di supporto che facilitano la parteci­
+pazione attiva.  
+Infine, un ulteriore strumento si concentra sulle percezioni dei genitori ri­
+guardo al gioco dei figli, fornendo una prospettiva integrativa che arricchisce la 
+comprensione del comportamento ludico (MCP).  
+La varietà degli oggetti di studio di questi strumenti riflette l’ampiezza e la 
+complessità del gioco infantile, consentendo un’analisi multidimensionale che ab­
+braccia sia il comportamento individuale del bambino sia i fattori ambientali e 
+relazionali che lo influenzano. Tale approccio non solo permette di cogliere la ric­
+chezza del gioco nelle sue molteplici forme, ma offre anche preziosi spunti per 
+interventi educativi mirati. 
+ 
+Grado di complessità del gioco. I quattro strumenti dedicati all’analisi delle 
+tipologie di gioco adottano una prospettiva evolutiva, offrendo la possibilità di 
+collocare le modalità ludiche all’interno di una sequenza di sviluppo che ne evi­
+denzia la progressiva trasformazione e sofisticazione. Questo approccio permette 
+di osservare non solo le manifestazioni attuali del gioco, ma anche il loro poten­
+ziale evolutivo, favorendo una comprensione dinamica delle competenze ludiche 
+e del loro affinamento nel tempo. Inoltre, questi strumenti avvicinano alla possi­
+139
+SP2 – Pedagogia speciale per la prima infanzia
+
+bilità di creare modelli teorici di sviluppo del gioco infantile, che possono risultare 
+promettenti per evoluzioni future. 
+Lo strumento specificamente focalizzato sul ludic behaviour individua livelli 
+di comportamento di complessità crescente; ciò consente di cogliere il percorso 
+di evoluzione del comportamento ludico, che si arricchisce gradualmente attra­
+verso l’acquisizione di competenze di gioco sempre più elaborate. Questi stru­
+menti, offrendo una visione complessiva dei livelli di complessità del gioco, 
+rappresentano risorse fondamentali per comprendere le potenzialità del bambino 
+e per progettare interventi mirati a sostenerne la crescita ludica in modo armo­
+nioso e integrato. 
+ 
+Specifico interesse sulla disabilità. Quattro strumenti fra quelli individuati 
+sono stati appositamente progettati per analizzare anche il gioco dei bambini con 
+disabilità (APS; TOP), affrontando una varietà di condizioni, tra cui disabilità 
+motorie (Assessment of Ludic Behaviour) e autismo (Questionnaire for Play Obser­
+vation). Essi consentono di esplorare in profondità le modalità di gioco specifiche 
+di questi bambini, fornendo una base per identificare eventuali difficoltà e punti 
+di forza. I due strumenti dedicati ai bambini con specifiche disabilità rispondono 
+in modo mirato alle esigenze di osservazione e intervento di questi bambini. Gli 
+altri due, invece, mantengono una maggiore versatilità, trovando applicazione sia 
+con bambini con sviluppo tipico sia con bambini con disabilità, e sottolineano 
+così un approccio inclusivo che valorizza le diversità e promuove pari opportunità 
+di espressione ludica.  
+Questa attenzione specifica al gioco dei bambini con disabilità non solo rico­
+nosce l’importanza del gioco come diritto universale, ma sottolinea anche il suo 
+ruolo cruciale nel sostenere lo sviluppo e l’inclusione. Attraverso strumenti pro­
+gettati con sensibilità e competenza, è possibile individuare strategie efficaci per 
+favorire la partecipazione e la crescita di ogni bambino, contribuendo a creare 
+ambienti ludici che siano realmente accessibili e significativi per tutti. 
+ 
+Caratteristiche delle metodologie e degli strumenti. Gli strumenti analizzati 
+adottano metodologie e contesti diversi di osservazione. Tra queste, questionari e 
+check-list rappresentano modalità rapide e sistematiche per la raccolta dei dati, 
+consentendo di ottenere una panoramica iniziale sulle caratteristiche ludiche dei 
+bambini in modo efficiente e accessibile. Alcuni strumenti prevedono il ricorso a 
+materiali appositamente creati e resi disponibili, come oggetti di gioco e schede 
+di varia natura per la rilevazione dei parametri prescelti (ad es., moduli per la re­
+gistrazione dei punteggi o sistemi di rilevazione temporale). In questo caso l’os­
+servazione a scopo valutativo è più tecnica, e si basa sulla documentazione accurata 
+del comportamento ludico. Inoltre, la presenza di tabelle con indici statistici a 
+supporto di questi strumenti permette di effettuare una valutazione oggettiva, ga­
+140
+SP2 – Pedagogia speciale per la prima infanzia
+
+rantendo la possibilità di confrontare i dati raccolti con parametri normativi, 
+giungendo a delineare, a conclusione dell’attività, un profilo del soggetto osservato 
+comparato con soggetti di età cronologica analoga. Questo approccio non solo 
+rafforza l’affidabilità delle osservazioni, ma favorisce anche la replicabilità degli 
+studi e la costruzione di un quadro comparativo robusto.  
+L’utilizzo di metodologie diversificate e validate offre quindi un significativo 
+vantaggio, in quanto consente di adattare l’analisi alle esigenze specifiche di cia­
+scun contesto e di ottenere informazioni utili per interventi mirati.  
+ 
+ 
+Primo piano sugli strumenti di play-based assessment  
+ 
+Di seguito si mettono in evidenza alcune riflessioni derivanti dall’analisi degli 
+elementi caratterizzanti individuati negli undici strumenti di play-based assessment. 
+ 
+Focus osservativo. Gli strumenti analizzati si concentrano sullo sviluppo glo­
+bale del bambino, esplorato e valutato attraverso il gioco, riconosciuto come 
+mezzo privilegiato per comprendere le sue competenze e potenzialità. In questi 
+strumenti il gioco viene utilizzato come attività privilegiata per analizzare aspetti 
+fondamentali dello sviluppo, tra cui abilità comunicative e simboliche, sviluppo 
+motorio, competenze emotive, comportamento sociale e creatività. Alcuni stru­
+menti si concentrano invece su specifiche aree di indagine: ad esempio il CSBS-
+DP si focalizza in particolare nella valutazione della comunicazione e del 
+linguaggio; il PIPPS sulla valutazione delle relazioni con i pari mentre il PDMS3 
+sugli aspetti motori sia fino-motori sia grosso. Alcuni strumenti specifici, come il 
+TPBA e il DPA-P, costituiscono risorse fondamentali per valutare tali aree e pro­
+gettare, nel caso, interventi riabilitativi e abilitativi mirati. 
+ 
+Grado di complessità del gioco. Tre strumenti dettagliano opportunamente 
+le tipologie di gioco che attivano (CSBS-DP; TPBA; DPA-P) ma solo i primi due 
+strumenti evidenziano una particolare attenzione all’incremento della complessità 
+del gioco stesso. Nella maggior parte dei casi l’interesse si rivolge invece all’osser­
+vazione dell’evoluzione globale del bambino attraverso un gioco non così definito 
+ed organizzato: il gioco rappresenta tale crescita, ma non viene in nessun caso 
+problematizzata o analizzata nel dettaglio direttamente. 
+ 
+Specifico interesse sulla disabilità. Alcuni fra gli strumenti individuati in que­
+sta macro-categoria nascono proprio per valutare lo sviluppo di competenze in 
+bambini con disabilità, o addirittura come strumenti per la diagnosi di disabilità. 
+Uno strumento dichiara la propria efficacia di valutazione anche se utilizzato con 
+bambini con disabilità (TPBA), due si focalizzano su bambini con disturbi dello 
+141
+SP2 – Pedagogia speciale per la prima infanzia
+
+spettro autistico (CARS2, ADOS), e due sono destinati alla valutazione di bambini 
+con “difficoltà dello sviluppo” o definiti “at risk” (PIPPS; APS). È del resto natu­
+rale attendersi che una valutazione che si propone di conoscere le competenze dei 
+bambini, in aree diverse, possa riguardare espressamente bambini con disturbi 
+evolutivi; tale riflessione diviene ancora più pertinente nel caso dei bambini con 
+disturbi dello spettro autistico, per i quali il gioco, divenuto uno dei parametri 
+analizzati nel percorso diagnostico, richiede una specifica attenzione, di tipo cli­
+nico. Ciò può, a sua volta, sul piano più ampiamente culturale, indurre conse­
+guenze indebite sugli atteggiamenti generali (degli educatori, dei genitori) sul 
+gioco quotidiano del bambino, che può rischiare di diventare oggetto di osserva­
+zione continua (e di preoccupazione) più che di svago e di libera espressione crea­
+tiva. 
+ 
+Caratteristiche delle metodologie e degli strumenti. Gli strumenti utilizzati 
+nel play-based assessment si basano principalmente su materiali strutturati, come 
+ad esempio checklist, spesso inseriti all’interno di kit con oggetti ludici, schede 
+per la registrazione dei punteggi e linee guida per la somministrazione. Questi 
+strumenti forniscono anche rating scales e tabelle interpretative che consentono 
+valutazioni affidabili e oggettive, supportando così interventi educativi e terapeu­
+tici fondati su dati concreti. Le metodologie adottate integrano report e questio­
+nari compilati da caregiver e insegnanti con osservazioni strutturate condotte dai 
+professionisti. Vengono analizzate sia situazioni di gioco guidato sia il gioco libero, 
+utilizzando scale di punteggio per valutare le competenze e le difficoltà nel con­
+testo ludico, al fine di supportare interventi mirati. 
+ 
+ 
+3. Riﬂessioni conclusive 
+ 
+Il diritto al gioco di tutti i bambini, compresi quelli con disabilità, oltre ad essere 
+riconosciuto nella sua potenza giuridica e ideale, deve oggi trovare riscontro nelle 
+applicazioni fattuali, in particolare quelle che provengono dal settore pedagogico. 
+Gli studi degli ultimi dieci anni rendono chiaro che, per ottenere questo risultato, 
+il dominio del gioco deve perseguire un diverso grado di approfondimento e di 
+sistematizzazione, affinché le attività e i contesti ludici possano mostrare tutte le 
+loro intrinseche potenzialità in quanto perturbatori e motori di sviluppo. 
+Giungere ad una sistematizzazione significa problematizzare e risolvere le cri­
+ticità presenti, sul piano teorico e operativo, relativamente al gioco. Significa co­
+noscerne meglio l’evoluzione naturale, descriverne le tipologie e le caratteristiche 
+in modo tale da poterle riconoscere, elicitare, persino insegnare, studiarne le de­
+bolezze, i rischi e anche le tipicità.  
+Un ruolo cruciale svolge qui il processo di valutazione del gioco, che implica 
+142
+SP2 – Pedagogia speciale per la prima infanzia
+
+un modello chiaro sul quale implementarsi ed un’ipotesi plausibile relativa alle 
+modalità di evoluzione e al loro rapporto con lo sviluppo generale del bambino. 
+Esso richiede strumenti coerenti ed efficaci, capaci di dare risposte al potenziale 
+di sviluppo che si sta perseguendo. 
+Questo studio, nato nella prospettiva sopra delineata, presenta una prima fase 
+di ricerca esplorativa, relativa all’analisi di prodotti e strumenti esistenti nel settore 
+della valutazione del gioco. La ricchezza degli strumenti disponibili conferma la 
+complessità del comportamento ludico in tutte le sue sfaccettature e la difficoltà 
+di giungere ad una descrizione sufficientemente esaustiva delle caratteristiche cor­
+relate. D’altra parte, l’eterogeneità delle forme metodologiche adottate, degli og­
+getti di studio individuati, la mancanza di un lessico comune e condiviso fra gli 
+studiosi e nei lavori considerati, sugli aspetti fondamentali che compongono que­
+sta area, conferma ancora una volta trattarsi di materia magmatica e imprendibile, 
+sulla quale ancora molto occorre ragionare, e costruire. 
+ 
+ 
+Riferimenti bibliograﬁci 
+ 
+Besio S., Bulgarelli D., Stancheva-Popkostadinova V. (2016). Play development in children 
+with disabilties. Walter de Gruyter GmbH & Co KG. 
+Besio B., Bulgarelli D., Stancheva-Popkostadinova V. (Eds.) (2016). Evaluation of Chil­
+dren’s Play. Tools and Methods (pp. 9-18). Warsaw (P): De Gruyter Poland. 
+Bulgarelli D., Bianquin N., Caprino F., Molina P., Ray-Kaeser S. (2018). Review of the 
+tools for play and play-based assessment. In S. Besio, D. Bulgarelli, V. Stancheva-
+Popkostadinova (Eds.), Evaluation of Children’s Play. Tools and Methods (pp. 58-113). 
+Warsaw (P): De Gruyter Poland. 
+Caprino F., Laudanna E. (2009). Literature analysis on play assessment methodologies. 
+In S. Besio (Ed.), Methodological framework to set up educational and therapy sessions 
+with IROMEC.Trento(I): Editrice Uniservice. 
+Kaugars A.S. (2011). Assessment of pretend play. In S. W. Russ, L. N. Niec (Eds.), Play 
+in Clinical Practice: Evidence-Based Approaches (pp. 51-82). New York, London: The 
+Guilford Press. 
+McMahon F. F., Lytle D. E., Sutton-Smith B. (Eds.). (2005). Play: An interdisciplinary 
+synthesis. University Press of America. 
+Molina P., Muntean A. (2018). Evaluation tools: notes on definition, reliability, validity 
+and administration. In S. Besio, D. Bulgarelli, V. Stancheva Popkostadinova (Eds.), 
+Evaluation of Children’s Play. Tools and Methods (pp. 9-18). Warsaw (P): De Gruyter 
+Poland. 
+O’Grady M. G., Dusing S. C. (2015). Reliability and validity of play-based assessments 
+of motor and cognitive skills for infants and young children: A systematic review. 
+Physical Therapy, 95(1), 25 38. 
+Parham L. D. (2015). Role of play in assessment. In D. Pronin Fromberg, D. Bergen. 
+143
+SP2 – Pedagogia speciale per la prima infanzia
+
+(2015). Play from Birth to Twelve. Contexts, Perspectives and Meanings, 3rd ed. (pp. 
+233-243). London and New York: Routledge. 
+Staccioli G. (2008). Il gioco e il giocare: elementi di didattica ludica. Roma: Carocci. 
+Stagnitti K. (2004). Understanding play: The implications for play assessment. Australian 
+Occupational Therapy Journal, 51(1), 3 12. 
+Sutton-Smith B. (2001). The Ambiguity of Play. Cambridge and London: Harvard Uni­
+versity Press. 
+Sutton-Smith B. (2008). Play theory: a personal journey and new thoughts. American 
+journal of play, 1(1), 80-123. 
+Vygotskij L. S. (1967). Play and its role in the mental development of the child. Soviet 
+Psychology, 5(3), 6-18 (or. ed., 1966). 
+Visalberghi A. (1958). Esperienza e valutazione. Torino: Taylor. 
+144
+SP2 – Pedagogia speciale per la prima infanzia
