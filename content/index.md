@@ -78,6 +78,8 @@ Esplorazione critica della progettazione degli spazi aperti, giardini scolastici
 *   **Mappe dei Contenuti:** [[MOC - Parchi gioco inclusivi]]
 *   **Sintesi Avanzate:**
     *   [[Insight - Parchi gioco inclusivi]]
+    *   [[60 - Approfondimenti/Parchi gioco inclusivi/Gap Analysis - Il Paradosso tra Accessibilita a Norma e Inclusione Reale|Gap Analysis: Il Paradosso tra Accessibilità a Norma e Inclusione Reale]]
+    *   [[60 - Approfondimenti/Parchi gioco inclusivi/Checklist Operativa - Linee Guida per il Parco Inclusivo 3.0|Checklist Operativa: Linee Guida per il Parco Inclusivo 3.0]]
 
 ---
 
