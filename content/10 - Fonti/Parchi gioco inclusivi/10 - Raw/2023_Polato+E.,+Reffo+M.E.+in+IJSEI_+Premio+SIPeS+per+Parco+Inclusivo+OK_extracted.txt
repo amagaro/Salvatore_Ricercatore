@@ -1,0 +1,681 @@
+XI
+n. 1
+2023
+ItalianJournal
+SpecialEducation
+Inclusion
+for
+of
+Italian Journal of Special Education for Inclusion
+anno XI | n. 1 | giugno 2023
+Rivista ufficiale della Società Italiana di Pedagogia Speciale (SI.Pe.S.)
+La rivista è consultabile in rete sul sito https://ojs.pensamultimedia.it/index.php/sipes  e www.sipesjournal.it  
+ 
+Le note editoriali della rivista sono disponibili nel sito www.sipesjournal.it 
+ 
+ 
+Editore 
+Pensa MultiMedia Editore s.r.l. – Via Arturo Maria Caprioli, 8 – 73100 Lecce 
+tel. 0832.230435 – www.pensamultimedia.it – info@pensamultimedia.it 
+Iscritta al Registro degli Operatori di Comunicazione al n. 11735 • C.C.I.A.A. 241468 
+ 
+ 
+Iscritta al n. 9 del Registro della Stampa del Tribunale di Lecce il 14 maggio 2013 
+ 
+ISSN 2282‐6041 (on line) 
+ 
+http://www.sipesjournal.it 
+ 
+ 
+Per l’invio dei contributi e per comunicazioni: sipesjournal@pensamultimedia.it / 06.57334093 
+ 
+ 
+Copyright: © 2023 Author(s). This is an open access, peer‐reviewed article published by Pensa Multimedia and distributed 
+under the terms of the Creative Commons Attribution 4.0 International, which permits unrestricted use, distribution, and re‐
+production in any medium, provided the original author and source are credited. Italian Journal of Special Education for In‐
+clusion. 
+PROCEDURA DI REFERAGGIO 
+Gli articoli pervenuti sono sottoposti a un procedimento di referaggio che prevede giudizi indipendenti da parte di due stu‐
+diosi italiani e stranieri di riconosciuta competenza. I giudizi sono espressi secondo quanto previsto a livello nazionale e in‐
+ternazionale e sono comunicati agli autori unitamente alle eventuali indicazioni di modiﬁca che gli stessi devono accettare 
+ai ﬁni della pubblicazione. Sono accettati solo gli articoli per i quali entrambi i revisori abbiano espresso parere positivo. In 
+caso di giudizi fortemente contrastanti ci si avvale di un terzo revisore.  
+Il Comitato dei Referee coincide con il Comitato Scientiﬁco. Il Board, tuttavia, si avvale anche di ulteriori Referee che saranno 
+resi noti nel primo numero dell'annata successiva. 
+Gianluca Amatori (Università Europea di Roma) 
+Nicole Bianquin (Università di Bergamo) 
+Heidrun Demo (Università di Bolzano) 
+Martina De Castro (Università Roma Tre) 
+Andrea Fiorucci (Università del Salento)  
+Valeria Friso (Università di Bologna)  
+Elisabetta Ghedin (Università di Padova)  
+Ines Guerini (Università Roma Tre)  
+Angela Magnanini (Università Foro Italico di Roma) 
+Patrizia Oliva (Università di Catanzaro) 
+Stefania Pinnelli (Università del Salento) 
+Amalia Rizzo (Università Roma Tre) 
+Francesca Salis (Università di Macerata) 
+Alessandra Straniero (Università della Calabria) 
+Arianna Taddei (Università di Macerata)  
+Umberto Zona (Università Roma Tre)  
+Antioco Luigi Zurru (Università di Cagliari) 
+COMITATO DI REDAZIONE 
+Fabio Bocci (Università Roma Tre) 
+Roberta Caldin (Università di Bologna) 
+Lucio Cottini (Università di Udine) 
+Luigi d’Alonzo (Università Cattolica, Milano) 
+Lucia De Anna (Università del Foro Italico, Roma) 
+Catia Giaconi (Università di Macerata) 
+Anna Maria Murdaca (Università di Messina) 
+BOARD 
+DIRETTORE RESPONSABILE 
+COMITATO SCIENTIFICO
+Paola Aiello (Università di Salerno) 
+Pilar Arnaiz Sánchez (Universidad de Murcia, Spagna) 
+Serenella Besio (Università Valle D’Aosta) 
+Fabio Bocci (Università Roma Tre) 
+Roberta Caldin (Università di Bologna) 
+Andrea Canevaro (Università di Bologna) 
+Lucia Chiappetta Cajola (Università Roma Tre) 
+Lucio Cottini (Università di Udine) 
+Felice Corona (Università di Salerno) 
+Piero Crispiani (Università di Macerata) 
+Armando Curatola (Università di Messina) 
+Roberto Dainese (Università di Bologna) 
+Luigi d’Alonzo (Università Cattolica, Milano) 
+Lucia De Anna (Università del Foro Italico, Roma) 
+Daniele Fedeli (Università di Udine) 
+Carlo Fratini (Università di Firenze) 
+Patrizia Gaspari (Università di Urbino) 
+Maura Gelati (Università Milano Bicocca) 
+Catia Giaconi (Università di Macerata) 
+Karen Guldberg (University of Birmingham, GB) 
+Elias Kourkoutas (Università di Rethymno, Creta) 
+Dario Ianes (Università di Bolzano) 
+Franco Larocca (Università di Verona) 
+Angelo Lascioli (Università di Verona) 
+Michele Mainardi (SUPSI, Svizzera) 
+Pasquale Moliterni (Università Foro Italico, Roma) 
+Margherita Merucci (Università Cattolica de Lyon, Francia) 
+Antonello Mura (Università di Cagliari) 
+Anna Maria Murdaca (Università di Messina) 
+Pilar Orero (Universitat Autònoma de Barcelona, Spagna) 
+Marisa Pavone (Università di Torino) 
+Eric Plaisance (Università Paris V, Parigi, Francia)  
+Béla Pukánszky (University of Budapest, Ungheria) 
+Robert Roche Olivar (Universidad de Barcelona, Spagna) 
+Marina Santi (Università di Padova) 
+Joel Santos (Universidade de Lisboa) 
+Maurizio Sibilio (Università di Salerno) 
+Antonella Valenti (Università della Calabria) 
+Darja Zorc‐Maver (University of Ljubljana, Slovenia) 
+ 
+Luigi d’Alonzo (Università Cattolica del Sacro Cuore, Milano)
+indice /summary 
+7
+Editoriale 
+Luigi d’Alonzo 
+ 
+9
+Introduzione 
+Anna Maria Murdaca, Luigi d’Alonzo, Roberto Dainese  
+ 
+ 
+CALL • L'EREDITÀ DEI MAESTRI E DELLE MAESTRE. UN DIALOGO ATTIVO E CRITICO CHE RIMARRÀ APERTO 
+ 
+12
+CECILIA MARCHISIO, ALESSANDRO MONCHIETTO 
+Change society, not the individual. Oppressione e disabilità nel pensiero di Mike Oliver • Change society, not the indi‐
+vidual. Oppression and disability in Mike Oliver's thought 
+ 
+20
+DONATELLA FANTOZZI 
+Maria Antonella Galanti, a carefully researched mess • Maria Antonella Galanti, un disordine accuratamente ricercato 
+ 
+28
+CRISTINA GAGGIOLI 
+Educating for peace in a world of war: Maria Montessori's heritage in the Umbria region • Educare alla pace in un 
+mondo di guerre: l’eredità di Maria Montessori in Umbria 
+ 
+42
+FABIO BOCCI, TOMMASO FRATINI 
+Other masters. The “Via dei Sabelli” Institute and the Roman School of Child Neuropsychiatry • Altri maestri. L’istituto 
+di “Via dei Sabelli” e la scuola romana di Neuropsichiatria infantile 
+ 
+57
+ENRICO ANGELO EMILI, ANDREA LUPI 
+Alberto Manzi: between inclusive teaching and distance learning • Alberto Manzi: tra didattica inclusiva e didattica a 
+distanza 
+ 
+66
+ROSA SGAMBELLURI, MARIA GRAZIA DE DOMENICO  
+The inclusive educator. A return to Paulo Freire's pedagogy • L’educatore inclusivo.Un ritorno alla pedagogia di Paulo 
+Freire 
+ 
+76
+FAUSTA SABATANO 
+"One does what one can. One can’t do what one is not able to do" Alberto Manzi, teacher of inclusion  • “Fa quel che 
+può, quel che non può non fa”. Alberto Manzi, maestro di inclusione  
+ 
+86
+DANIELE FEDELI  
+The dialogical principle as the foundation of educational action: the legacy of Martin Buber • Il principio dialogico come 
+fondamento dell’azione educante: l’eredità di Martin Buber 
+ 
+93
+ENRICA POLATO, ROBERTA CALDIN 
+Touching, knowing, representing. From touch to tactile images: the thinking of Montessori, Munari, Romagnoli, Ceppi  • Toc‐
+care, conoscere, rappresentare. Dal tatto alle immagini tattili: il pensiero di Montessori, Munari, Romagnoli, Ceppi 
+ 
+103
+JOLE ORSENIGO, ANNA REZZARA, PAOLA MARCIALIS, ROSA RONZIO 
+Teacher always speaks "to the walls" even if from sea, mountains or lake. In order not to disperse the pedagogical he‐
+ritage of the Milanese School Nature Project • Chi insegna parla sempre “ai muri” anche se lo fa al mare, ai monti o al 
+lago. Per non disperdere l’eredità pedagogica del Progetto milanese Scuola Natura 
+ 
+112
+VALENTINA MIGLIARINI, BETH FERRI, SPERANZA MIGLIORE 
+DisCrit and Anti‐Fascist Education: Lessons from Gobetti’s. Story of Sebastiano the Rooster, Otherwise known as the 
+Thirteenth Egg • Discrito ed educazione antifascista: lezione da Gobetti: Storia di Sebastiano il Gallo, detto anche il Tre‐
+dicesimo Uovo 
+ 
+128
+ANTONELLO MURA, ANTIOCO LUIGI ZURRU 
+Innovation in thinking and educational practice: a dialogue with Alain Goussot on Special Educational Needs • Innovazione 
+del pensiero e della pratica educativa. Un dialogo con Alain Goussot sui Bisogni Educativi Speciali 
+ 
+135
+LORENZA ORLANDINI 
+Marcello Trentanove’s vision for an inclusive school. A case study on the primary school of Rimaggio, Bagno a Ripoli 
+(FI) • La visione di Marcello Trentanove per una scuola inclusiva. Uno studio di caso sulla scuola primaria di Rimaggio, 
+Bagno a Ripoli (FI) 
+ 
+147
+TAMARA  ZAPPATERRA  
+Leonardo Trisciuzzi. For a science‐based special education • Leonardo Trisciuzzi. Per una pedagogia speciale di matrice 
+scientiﬁca 
+indice /summary 
+ 
+FUORI CALL  
+ 
+154
+LUDOVICA RIZZO, STEFANIA PINNELLI 
+Promoting well‐being at school: from an inclusive perspective the focus on the gifted student • Promuovere il benessere 
+scolastico: dalla prospettiva inclusiva l’attenzione per l’alunno gifted 
+ 
+165
+VALENTINA PAOLA CESARANO 
+The challenge of the special educator: facilitating emancipatory and transformative processes for the realization of 
+“vital projects” • La sﬁda dell’insegnante di sostegno: facilitare processi emancipativi e trasformativi per la realizzazione 
+di “progetti vitali” 
+ 
+174
+GABRIELLA FERRARA, FRANCESCO LA VERSA, GIUSEPPE BATTAGLIA 
+Resilience and welfare promotion: multilateral training as an innovative didactic method for disabled • Resilienza e 
+promozione del benessere: l’allenamento multilaterale metodo didattico innovativo per persone disabili 
+ 
+183
+LUIGI D’ALONZO, MARIA CONCETTA CARRUBA, ALESSIO RONDENA, MARA CABRINI, FABRIZIO CAPPELLETTI 
+Inclusion at University: a model to taking charge of students with learning disabilities • Includere in Università: un mo‐
+dello di presa in carico degli studenti con DSA 
+ 
+200
+MICHELE MAINARDI 
+Inclusive education: genesis and challenges of a great ethical and educational imperative! • Inclusione educativa: genesi 
+e sﬁde di un imperativo etico e pedagogico sostanziale! 
+ 
+PREMIO SIPES 2022  
+ 
+ 
+208
+ENRICA POLATO, MARIA ELEONORA REFFO  
+Spaces and pages that include: a Park, a book • Spazi e pagine che includono: un Parco, un libro 
+ 
+222
+ARIANNA TADDEI, ROSITA DELUIGI 
+Rimini Open City. New challenges for Care: Education in Emergency• Rimini città aperta. Nuove sﬁde per l’accoglienza: 
+l’educazione in emergenza 
+ 
+ 
+RECENSIONI  
+ 
+230
+MARIELLA PIA 
+Recensione “Maria Ranieri, Competenze digitali per insegnare. Modelli e proposte operative” 
+ 
+232
+ASJA MALLUS 
+Recensione “Morganti, A., Pascoletti, S., & Signorelli, A. Index per le tecnologie socio‐emotive. Approcci innovativi al‐
+l’educazione inclusiva”
+––––––  Italian Journal of Special Education for Inclusion––––––
+anno XI | n. 1 | giugno 2023
+Fuori Call • Premi SIPeS 2022 
+ABSTRACT
+The 'Treasure Tree Park' will be inaugurated in spring 2024 and will be the first sensory‐inclusive municipal park in Padua: it is
+a project of the Municipality of Padua and the Robert Hollman Foundation in cooperation with 17 institutions, including the
+University of Padua. A total of 1528 children from pre‐school and primary schools were involved in the co‐design, using "The
+Treasure of the Enchanted Labyrinth", a specially written and illustrated book characterised by its being multi‐coded (writing
+with Easyreading© fonts, in Braille, Alternative augmentative communication ‐ CAA, audiobook) and therefore accessible. On
+the occasion of the international competition for tactile publishing Typhlo & Tactus (Padua, March 2022), the book was reissued
+as a TIB (Tactile Illustrated Book), adding tactile illustrations and a translation into LIS (Italian Sign Language) to the previous
+codes.
+Keywords: Inclusive park, co‐design, multi‐code accessible books
+How to cite this article: Polato E., & Reﬀo  M.E. (2023). Spaces and pages that include: a Park, a book. Italian Journal of
+Special Education for Inclusion, XI, 1, 208‐221. https://doi.org/10.7346/sipes-01-2023-20
+Corresponding Author: Enrica Polato | enrica.polato@unipd.it
+Received: 02/05/2023| Accepted: 05/06/2023| Published: 30/06/2023
+Italian Journal of Special Education for Inclusion | © Pensa MultiMedia Editore srl 
+ISSN 2282–6041 (on line) | DOI: 10.7346/sipes‐01‐2023‐20
+Enrica Polato
+Professore a contratto di Pedagogia e Didattica per l’inclusione | Università di Padova | enrica.polato@unipd.it
+Maria Eleonora Reﬀo
+Direttrice generale della Fondazione Robert Hollman | me.reffo@fondazioneroberthollman.it
+Double blind peer review
+Spaces and pages that include: 
+a Park, a book
+Spazi e pagine che includono: 
+un Parco, un libro
+209
+Introduzione1
+Il gioco è fondamentale nella vita di ogni bambino ai ﬁni della sua crescita ed è altresì un diritto, sancito
+nell’art. 31 nella Convenzione ONU sui Diritti dell’Infanzia (1989, p. 16), a prescindere dalla presenza o
+meno di disabilità (ivi, art. 23, p.13). Il parco è, per antonomasia, uno tra i luoghi peculiari di gioco per
+tutti i bambini. Quindi, tutti i bambini hanno il diritto di poter accedere, giocare e relazionarsi con gli altri
+in un parco giochi, poiché l’accessibilità è un dovere della comunità ed è fondamento dell’inclusione.
+Partendo da queste convinzioni, nel 2016 la Fondazione Robert Hollman ha presentato all’Amministra‐
+zione Comunale di Padova una proposta: riqualiﬁcare un’area di verde incolto a Parco Comunale inclusivo
+e sensoriale, in cui tutti i frequentatori, aventi diversi funzionamenti e di tutte le età, possano trovare
+spunti e facilitazioni per condividere esperienze nella natura.
+La Fondazione Robert Hollman è un ente non convenzionato, di origine olandese, che oﬀre gratuita‐
+mente consulenza e sostegno allo sviluppo a bambini con deﬁcit visivo di età compresa tra gli 0 e i 14
+anni e alle loro famiglie. L’approccio della Fondazione sin dai suoi esordi si caratterizza come: 
+globale: non si limita alla “cura” della parte deﬁcitaria, ma si estende al “prendersi cura”;
+•
+personalizzato: ogni bambino viene accompagnato nelle diverse fasi della sua età evolutiva;
+•
+integrato: viene prestata attenzione anche alle diverse ﬁgure coinvolte nel percorso di crescita del
+•
+bambino.
+Tale approccio si è quindi tradotto nei seguenti presupposti, che stanno alla base anche di questo pro‐
+getto:
+il lavoro di équipe è fondamentale; 
+•
+il bambino con disabilità è prima di tutto un bambino;
+•
+il gioco è un diritto di tutti i bambini2
+•
+Disporre di solide basi di pensiero 
+Come dovrebbe caratterizzarsi un parco, per essere realmente inclusivo? A tal proposito potremmo far
+nostra la deﬁnizione di “inclusivo” presente nel documento Inclusive Education: What, Why, and How
+(Save the Children, 2016), traslandola dall’ambiente‐classe all’ambiente‐parco: “Inclusivo è un ambiente
+dove le diversità vengono valorizzate così da dare a tutti pari possibilità di crescita in un sistema equo e
+coeso in grado di prendersi cura di tutte le persone, assicurandone la dignità, il rispetto delle diﬀerenze
+e le pari opportunità. Fare educazione inclusiva signiﬁca fare comunità”.
+Per pensare e progettare un parco inclusivo in modo comunitario è necessario condividere alcuni as‐
+sunti e disporre di un linguaggio comune: per quanto riguarda il progetto del parco Albero del Tesoro, i
+concetti portanti che hanno dato solidità alla sua progettazione sono stati: spazio, gioco, Universal Design
+e Index for Inclusion.
+Il primo concetto portante è lo spazio il quale, dice Hall (1972), “è un linguaggio silenzioso, ma molto
+emozionante”. L’emozione che il linguaggio dello spazio genera è determinata anche dagli oggetti e dai
+materiali che vengono introdotti in esso, i quali “non sono passivi o inerti ma possono contenere un invito
+1
+Il presente contributo è frutto del lavoro congiunto delle due autrici. Ai soli ﬁni concorsuali, si dichiara che Maria Elonora
+Reﬀo ha stilato i paragraﬁ “Introduzione” e “Co‐progettare il “parco DI tutti”; Enrica Polato ha stilato i restanti paragraﬁ.
+2
+I paragraﬁ Introduzione, Creare un libro accessibile a tutti per riﬂettere sulle speciﬁcità di ciascuno, Lavorare con i bambini
+sono tratti da Polato E., Battistin T., Stefani S., Reﬀo M.E., Co‐progettare un Parco per co‐costruire cultura dell’inclusione.
+Progettare il “Parco Di tutti” di Padova con i bambini della scuola dell’infanzia e primaria, Infanzia, gennaio‐marzo 2021,
+Casa Editrice Bambini, Bologna, pp. 56‐64.
+all’azione o provocare uno scambio tra bambini”. Questa aﬀermazione di Gandini (1995, p. 239) ci rimanda
+al concetto secondo il quale ciascun oggetto ha una propria aﬀordance, cioè una qualità ﬁsica che sugge‐
+risce all’essere umano le azioni appropriate per manipolarlo. Ad esempio, una superﬁcie piatta oﬀre l’af‐
+fordance di camminarci sopra, mentre una superﬁcie verticale dà l’aﬀordance di ostacolare il movimento
+(Gibson, 2015): il termine aﬀordance è quindi traducibile come “invito”.
+Anche la conformazione dello spazio educativo e ricreativo dei nostri parchi possiede le proprie aﬀor‐
+dance, che invitano i bambini a compiere alcune azioni piuttosto di altre. Ad esempio, non c’è bisogno di
+insegnare la corsa ai bambini: se c’è lo spazio in cui poterlo fare, lo scoprono da soli (Oliverio Ferraris &
+Oliverio, 2017).
+Lo spazio può essere visto come lo specchio dell’approccio educativo prevalente (Weyland & Attia,
+2015) e della pedagogia reale praticata in un determinato luogo: va quindi progettato con cura, proprio
+perché, come aﬀerma Canevaro (in Ghedin, Aquario, Boggino, Pais, & Boggino, 2018, p. 19), ha una sua
+“semantica”. 
+Lella Gandini (1995, pp. 238‐239) ci ricorda infatti che le scelte che riguardano lo spazio non sono mai
+neutre né prive di conseguenze: d’altronde, “quando si è convinti dell’importanza di un sistema educativo
+basato sulla comunicazione, sull’interazione tra persone e con l’ambiente, anche l’altezza di un muro, la
+mancanza di una ﬁnestra o la presenza di una parete sono considerati elementi che modiﬁcano la possi‐
+bilità e la qualità di questi scambi”. Questo è particolarmente vero quando si progetta un parco, dove l’ac‐
+cessibilità di un tavolino da picnic si gioca sui 70 cm di piano sporgente che consenta a una persona che
+si muove con la carrozzina di pranzare comodamente al tavolo piuttosto che dover mangiare senza ap‐
+poggi, tenendo un tovagliolino sulle gambe per non sporcarsi.
+Il secondo concetto portante, già precedentemente accennato, è il gioco, il cui “gusto”, ci ricorda Johan
+Huizinga (1946), resiste ad ogni analisi o interpretazione logica, essendo una categoria di vita assoluta‐
+mente primaria. La realtà “gioco” accomuna tutta l’umanità, non essendo legata in modo esclusivo a nes‐
+sun grado di civiltà né a nessuna concezione di vita. 
+Dal canto suo, Vygotskji (1966, n.12, p. trad.it. p. 150) ci ricorda che “il gioco contiene tutte le tendenze
+evolutive in forma condensata ed è esso stesso una fonte principale di sviluppo”. 
+De Koven (2019, p. 32) include nelle sue Linee guida del gioco anche la sicurezza: ogni bambino, per
+essere disponibile a giocare, ha bisogno che gli venga garantito che non rischierà più di quanto è pronto
+a farlo. Anche i bambini con disabilità hanno bisogno di sentirsi sicuri nel gioco: per questo è importante
+che uno parco “dimostri” la propria accoglienza oﬀrendo a tutti giochi sicuri e, per questo, inclusivi.
+Desideriamo concludere con le parole di Protti, la quale, negli Atti della Tavola Rotonda “Parchi Gioco
+per Tutti” (2017, p. 49), aﬀerma che “tutti i bambini hanno diritto al gioco, a poter quindi frequentare il
+parco insieme ai loro amici: correre, arrampicarsi, dondolare, scivolare. Naturalmente ognuno lo farà in
+modo diﬀerente: si può sfrecciare veloci a piedi, con una bicicletta, su un monopattino o con l’aiuto di
+una carrozzina elettrica. Si può raggiungere la cima di una struttura gioco arrampicandosi, salendo le scale
+o utilizzando una rampa. Non limitiamoci a oﬀrire un’altalena a guscio”
+Il terzo concetto portante è l’Universal Design: per Lancerin (2017, p. 19), attuare una progettazione
+per tutti signiﬁca “progettare non solo per le persone con disabilità ma per un’utenza il più possibile ampia
+e rispondente ad esigenze diversiﬁcate. La progettazione universale è quella trasparente, quella di cui
+non ci si accorge perché è integrata e non è sanitaria, la soluzione progettuale che nasce così, non è stata
+inserita dopo, non è stata appiccicata, non è sul retro, ma fa parte integrante del progetto, è creativa e
+bella anche esteticamente”.
+Il quarto ed ultimo concetto portante è tratto dall’Index for Inclusion (Booth & Ainscow, 2014, p. 33),
+uno strumento per promuovere l’inclusione intesa come “un’impresa collettiva, condivisa […], un compito
+che non ha mai ﬁne, poiché coinvolge tutti in funzione della riﬂessione e della riduzione degli ostacoli
+che noi ed altri abbiamo creato e continuiamo a creare”.
+Anche la co‐progettazione del nostro parco, pur conﬁgurandosi evidentemente come una pratica, è
+avvenuta prestando un’attenzione simultanea anche alle altre due dimensioni dell’Index, essendo ﬁna‐
+lizzata anche a promuovere culture inclusive (lavorando sull’orizzonte dei valori per realizzare una comu‐
+210
+nità sicura, tollerante, cooperativa, stimolante e accogliente, in cui ognuno venga valorizzato) e politiche
+inclusive (facendo in modo che l’inclusione permeasse l’intero progetto e coinvolgesse tutti).
+Co‐progettare il “parco DI tutti”
+Il percorso di sensibilizzazione e di promozione della cultura inclusiva sopra accennato si è declinato, nella
+fase ideativa, in un percorso di co‐progettazione che ha coinvolto la comunità locale, interpellata a vari
+livelli.
+Alla progettazione del parco “Albero del Tesoro” hanno preso parte 17 Enti e Associazioni non proﬁt
+(v. ﬁg. 1), attive sul territorio padovano in ambito di sociale e inclusione: il Gruppo di lavoro così formato
+ha avuto come obiettivo uno studio congiunto, ﬁnalizzato all’individuazione dei criteri per la costruzione
+di un parco veramente inclusivo, in considerazione dei bisogni speciﬁci dei diversi target.
+Fig. 1 Elenco degli Enti ed Associazioni co‐partecipanti al Progetto
+A febbraio 2018 sono stati istituiti quattro tavoli di lavoro, focalizzati rispettivamente sugli aspetti udi‐
+tivi, motori, relazionali e psichici/cognitivi: le indicazioni emerse sono conﬂuite nella creazione di “Linee
+guida per la Progettazione di un Parco inclusivo”, utilizzate dall’Uﬃcio Tecnico del Comune di Padova per
+la sua costruzione.
+L’obiettivo condiviso ﬁn dall’inizio è stato quello di co‐progettare e co‐realizzare un “parco DI tutti”,
+pensato da tutti e costruito con il contributo di tutti, non un parco PER tutti, pensato da qualcuno e co‐
+struito per qualcun altro. Essendo un parco DI tutti, è fondamentale che tutti possano “pensare insieme”
+a come strutturarlo, perché l’inclusione sociale è un obiettivo conseguibile solo attraverso il coinvolgi‐
+mento diretto e consapevole di soggetti aventi età e funzionamenti diversi tra loro. Il parco così co‐pro‐
+gettato si conﬁgura come uno spazio:
+– inclusivo: in cui tutti i frequentatori, con i loro diversi funzionamenti, possono trovare spunti e facili‐
+tazioni per attività comuni; 
+211
+– sensoriale: in cui vengono proposti stimoli soprattutto naturali adeguati ad ogni sensorialità (colori
+contrastanti per la vista, profumi per l’olfatto, suoni per l’udito, texture diversiﬁcate per il tatto); 
+– accessibile: privo di barriere architettoniche e quindi fruibile da tutti.  
+Oltre agli Enti e alle Associazioni, la Fondazione Robert Hollman ha voluto coinvolgere nell’ideazione
+del parco comunale quelli che probabilmente sono i maggiori fruitori di questo servizio, cioè i bambini. 
+Secondo Tonucci, Renzi e Prisco (2019, p. 10), negli ultimi decenni la città è stata pensata e progettata
+assumendo come parametro un cittadino medio adulto, maschio, lavoratore, perdendo di vista e sottra‐
+endo diritti ai cittadini che non corrispondono a questi parametri, tra cui i bambini. Per non perdere nes‐
+suno, questi autori propongono di assumere i bambini come parametro, accettando la diversità che
+ciascuno di essi porta con sé a garanzia di tutte le diversità, poiché si presume che quando la città sarà
+più adatta ai bambini, sarà migliore per tutti. Tonucci (1996, p. 19) infatti continua aﬀermando che “chi è
+capace di tener conto dei bisogni e dei desideri dei bambini non avrà diﬃcoltà a tener conto delle neces‐
+sità dell’anziano, dell’handicappato, dell’extracomunitario. Perché il problema fondamentale è imparare
+ad accettare la diversità e il bambino è un diverso, anzi probabilmente, un bambino è più diverso da suo
+padre di quanto un adulto bianco sia diverso da un adulto nero”. 
+Secondo questo autore (ivi, p. 41) i bambini, ﬁn da piccoli, sono capaci di interpretare i propri bisogni
+e di contribuire al cambiamento della loro città: vale quindi la pena di dar loro la parola, attribuendo loro
+un ruolo da protagonisti e mettendo noi adulti in un atteggiamento di ascolto. D’altronde, nessuno può
+rappresentare i bambini senza preoccuparsi di consultarli, di coinvolgerli, di ascoltarli: logicamente, far
+parlare i bambini non signiﬁca chiedere loro di risolvere i problemi della città […], signiﬁca invece imparare
+a tener conto delle loro idee e delle loro proposte. Certo, occorre essere convinti che i bambini abbiano
+qualcosa da dirci e da darci, che questo qualcosa sia diverso da quello che sappiamo e sappiamo fare noi
+adulti e che quindi valga la pena di metterli in condizione di esprimere quello che pensano davvero. Bi‐
+sogna riportare i bambini ad osare, a desiderare, ad inventare e allora salteranno fuori le idee, le proposte,
+i contributi (ivi, p. 42).
+Per coinvolgere pienamente i bambini in questo processo di sensibilizzazione ﬁnalizzato all’espressione
+delle proprie idee e alla progettazione del parco, la Fondazione Hollman ha ideato e proposto un percorso
+formativo per insegnanti, di seguito delineato.
+Creare un libro accessibile a tutti per riflettere sulle specificità di ciascuno 
+Ad aprile 2018 la Fondazione ha presentato una proposta formativa cui hanno aderito complessivamente
+108 insegnanti, che si sono dichiarati interessati a seguire la formazione e a proporre i laboratori ai loro
+1528 alunni, così distribuiti (v. ﬁg. 2):
+Fig. 2: Insegnanti ed alunni di Padova coinvolti nel progetto
+Il corso per insegnanti, svoltosi a settembre 2018, si è strutturato in due incontri. Nel primo sono stati
+presentati dettagliatamente il Progetto e la cornice teorica condivisa, mentre nel secondo è stata presen‐
+tata dettagliatamente la struttura generale del laboratorio, declinata in due percorsi, uno pensato per gli
+alunni della scuola dell’infanzia e della 1^ primaria, l’altro per gli alunni della 2^, 3^, 4^ e 5^ primaria.
+n° insegnanti formati
+n° alunni che hanno svolto i laboratori
+Scuole dell’infanzia
+56
+853
+Scuole primarie
+52
+675
+TOT
+108
+1528
+212
+È stato inoltre presentato il libro “Il tesoro del labirinto incantato (Paccagnella & Bertelle, 2018)” ap‐
+positamente ideato dalla Fondazione Hollman al ﬁne di creare uno sfondo integratore per i laboratori.
+Maria Eleonora Reﬀo, Direttrice Generale della Fondazione Robert Hollman (ivi, p. 1), presenta questo
+libro come “una storia che parla di diversità, della profonda ricchezza che abita in ognuno di noi e che
+può essere messa a disposizione degli altri, per scoprire tesori incantati”.
+La Fondazione Hollman ha scelto di avvicinare i bambini al tema della disabilità attraverso una favola
+perché questo genere narrativo permette loro, grazie al racconto delle vicende dei vari personaggi, di
+comprendere e divenire consapevoli delle diversità, di viverle immedesimandosi attraverso l’ascolto della
+storia e di poter quindi riﬂettere su di esse. Va infatti considerato che non sempre le diversità vengono
+vissute come occasione per cogliere la “normale diﬀerenza” che identiﬁca ciascuno di noi e per ricono‐
+scere le altrui e proprie peculiarità, il “non essere uguali” che ci caratterizza (Polato, 2006, p. 171). 
+La diversità può rappresentare un valore, un tratto positivo della realtà in termini di varietà, ricchezza,
+possibilità qualora l’incontro con essa sia connotato da rispetto, sospensione del giudizio e curiosità. Per‐
+ché questo avvenga, può essere necessario che l’incontro dei bambini con la diversità venga mediato:
+uno degli strumenti più eﬃcaci per farlo è rappresentato proprio dalla favola. Il potenziale della letteratura
+nell’approcciarsi alla diversità sta infatti innanzitutto nel narrarla e quindi nel parlarne, legittimandone
+l’esistenza, la rilevanza, la positività, la ricchezza. 
+Per sfruttare tali potenzialità la Fondazione Hollman ha scelto come personaggi del proprio libro Red
+il pettirosso, Gaia la tartaruga, Pino la Talpa, Valentino il riccio e Lola la gatta. Messi di fronte alla sﬁda di
+attraversare un labirinto per trovare un tesoro, essi dapprima tentano di muoversi individualmente, per
+poi decidere di unire le forze: questo consentirà al gruppo di arrivare alla meta, per scoprire che…il tesoro
+sono loro! 
+Ognuno dei personaggi ha una sua disabilità, narrata nel testo con le seguenti modalità: 
+il personaggio viene presentato con il suo nome e solo successivamente viene esplicitato il suo fun‐
+–
+zionamento (“Ecco Lola, una sinuosa gatta bianca con dei fantastici occhi azzurri. Lei non sente ma è
+bravissima a leggere le labbra”);
+la disabilità viene quindi espressa tramite la descrizione del funzionamento, non tramite l’aggettivo
+–
+qualiﬁcativo relativo al deﬁcit (non “Ecco la gatta sorda Lola”);
+il funzionamento comprende sia le cose che “riescono diﬃcili” sia quelle che “riescono facili”, quindi
+–
+sia le disabilità sia le abilità (“Pino la talpa non vede con gli occhi, ma all’interno del parco si muove
+con maestria e grazie al suo naso riconosce ogni cosa”);
+ogni personaggio, con il suo funzionamento, contribuisce in modo signiﬁcativo al buon esito dell’av‐
+–
+ventura, quindi al ritrovamento del tesoro, perché “l’unione fa la forza”.
+L’obiettivo di creare un libro accessibile al maggior numero possibile di bambini è stato perseguito rea‐
+lizzando una struttura multicodice. L’aspetto più innovativo de “Il tesoro del labirinto incantato” risiede
+infatti nell’uso contemporaneo (cioè nella stessa pagina) di diverse tipologie di testo e di codici (v. ﬁg. 3).
+213
+Fig. 3: La struttura del testo “Il tesoro del labirinto incantato”
+Per quanto riguarda il testo, ne sono riportate due versioni, una più ampia (in stampato minuscolo),
+pensata per i bambini più grandi e una sempliﬁcata (in stampato maiuscolo ingrandito), pensata per i
+bambini più piccoli, con diﬃcoltà cognitive o con ipovisione. Per entrambe le versioni è stato utilizzato il
+font Easy Reading©, facilitante anche per i lettori con dislessia.
+Per quanto riguarda i codici, il testo risulta accessibile perché illustrato con le icone della Comunica‐
+zione Aumentativa Alternativa, scritto in Braille per i non vedenti e letto da voci esperte nell’audiolibro,
+accessibile tramite QR CODE. 
+Anche le illustrazioni del libro sono state disegnate adottando accorgimenti speciﬁci (contorno evi‐
+dente, colori contrastanti, ﬁgure intere), in modo da facilitare i lettori più piccoli e/o quelli con ipovisione. 
+Ad oggi, il libro è alla sua terza ristampa.
+Lavorare con i bambini
+Gli insegnanti si sono basati sulla struttura di laboratorio proposta nel corso di formazione, che hanno
+poi adattata alla propria speciﬁca sezione o classe, per realizzare un percorso “su misura” per i propri
+alunni. 
+La struttura del percorso, suddivisa in quattro moduli, è riassunta nella ﬁg. 4.
+Primo modulo: in classe
+– Presentazione animata del libro e lettura della storia
+– Attività per la comprensione della storia: approfondimento sui personaggi (caratteristiche e funzionamenti); dai personaggi al
+sé (le mie caratteristiche, i miei funzionamenti)
+Secondo modulo: in classe
+– Lancio della situazione‐problema (video dell’Assessore Piva per coinvolgere i bambini nel Progetto)
+– “Il parco per noi” (confronto tra bambini su come dovrebbe essere un parco “per loro” e sui loro desiderata personali)
+– “Il parco di tutti”: esplicitazione delle prime idee su come dovrebbe essere un parco di tutti
+214
+Fig. 4: La struttura del percorso laboratoriale 
+Inizialmente, nel primo modulo, vi è stata la lettura animata in classe del libro “Il tesoro del labirinto
+incantato”, a cui ha fatto seguito un approfondimento sulle caratteristiche e sul funzionamento di ogni
+personaggio da parte dei bambini. A seguire, i bambini sono stati invitati a riﬂettere su di sé, sulle proprie
+caratteristiche e sui propri funzionamenti. A ciascuno è stato chiesto di esplicitare una cosa che sa fare
+ed una cosa che non sa fare, per poi raccogliere tutte queste informazioni in un cartellone che sintetizza
+ciò che riesce facile e diﬃcile ai bambini di quella speciﬁca sezione/classe. 
+Nel secondo modulo è stato mostrato agli alunni un video nel quale l’Assessore alle Politiche Educative
+e Scolastiche di Padova, Dott.ssa Piva, ha chiesto il loro aiuto per la progettazione di un nuovo Parco in
+via di costruzione. I bambini sono stati quindi invitati ad ampliare la loro riﬂessione, passando dalla vi‐
+sualizzazione dal parco dei propri desideri alla concreta progettazione di un parco inclusivo. 
+Per poter creare il “parco DI tutti”, nel terzo modulo è stata realizzata un’uscita in un ambiente di gioco
+esterno conosciuto dai bambini e da loro facilmente raggiungibile, quale un parco comunale o anche il
+giardino stesso della scuola, dove poter rilevare la presenza o meno di giochi accessibili a tutti e dove si‐
+mulare funzionamenti in base alle diﬀerenti disabilità. I bambini hanno quindi vissuto questa esperienza
+provando a vivere diverse situazioni (gioco libero, merenda, uso del bagno…), mantenendo il funziona‐
+mento concordato. Alla ﬁne dell’esperienza, i bambini hanno potuto esprimere i loro vissuti e le diﬃcoltà
+incontrate.
+Inﬁne, nel quarto modulo, vi è stato un momento laboratoriale in classe, nel quale si è dato libero
+spazio alla presentazione non solo delle diﬃcoltà emerse durante l’esperienza di simulazione, ma anche
+e soprattutto delle ipotesi di soluzione pensate. 
+Ogni bambino ha quindi contribuito, con disegni, scritture e/o manufatti, alla realizzazione di un ela‐
+borato (bi o tridimensionale) che rappresentava concretamente il progetto di “parco DI tutti” elaborato
+dalla sua sezione/classe. Come dice Tonucci (1996, pp. 44‐45), la progettazione, dall’ideazione ﬁno alla
+realizzazione concreta di un plastico, ha richiesto ai bambini, oltre alle importanti fasi della discussione e
+della progettazione graﬁca, anche operazioni concrete come il manipolare, colorare, incollare, nelle quali
+tutti i bambini sono competenti. Questo signiﬁca che la progettazione riesce a non selezionare i bambini
+“bravi” nell’espressione verbale, scritta e graﬁca, come spesso succede per le attività scolastiche, e questo
+deve farla considerare una proposta particolarmente signiﬁcativa e inclusiva.
+I prodotti delle scuole dell’infanzia e primarie (v. ﬁg. 5) sono giunti numerosi alla sede della Fondazione
+Hollman di Padova, dove sono stati esposti in una mostra inaugurata a maggio 2019, visitata da numerose
+scolaresche e dalla cittadinanza.
+Terzo modulo: al parco
+– Visita guidata in un parco o giardino attrezzato e rilevazione di eventuali giochi inclusivi già presenti
+– Esperienza del parco (spostamenti, uso dei giochi, dei bagni, degli eventuali posti ristoro) adottando temporaneamente uno dei
+diversi funzionamenti (cecità, sordità, disabilità motoria che richieda l’uso di una carrozzina).
+Quarto modulo: in classe
+– Progettazione del parco Di tutti, alla luce sia dei desiderata individuali (il parco per me), sia delle soluzioni individuate nel corso
+dell’uscita
+– Sintesi delle soluzioni ideate per la realizzazione di un parco comunale inclusivo, adottando le più svariate modalità di presen‐
+tazione (elaborato scritto, disegni, plastico…)
+215
+Fig. 5: Dall’esperienza di simulazione dei diversi funzionamenti alla progettazione del Parco 
+Questo percorso ci ha consentito di condividere con i bambini alcuni dei loro bisogni, desideri ma
+anche idee e soluzioni progettuali. Come giustamente sottolinea Tonucci  (1996, p. 45), probabilmente
+non tutte possono tradursi in pratica esattamente come i bambini le hanno espresse, ma rappresentano
+sicuramente delle preziose indicazioni condivise con il Progettista. Va evidenziato però che alcune delle
+soluzioni e giochi pensati dagli alunni hanno trovato eﬀettivamente posto nel Parco (v. ﬁg. 6), come ad
+esempio il castello accessibile tramite una rampa o il dondolo basculante utilizzabile da sdraiati3. 
+3
+ Lo stile partecipativo che ha caratterizzato il Progetto del Parco ﬁn di suoi esordi continua a manifestarsi:
+– nel co‐ﬁnanziamento delle opere, cui partecipano il Comune, Aziende e Associazioni ma anche privati cittadini; si sottolinea
+che attualmente tutte le aree gioco sono state completate (v. ﬁgura 7) e si dispone di tutti i ﬁnanziamenti necessari alla
+piena realizzazione del Parco, che verrà inaugurato nella primavera del 2024;
+– nell’utilizzo da parte dei tecnici del Comune di Padova delle conoscenze acquisite in questo percorso nella riqualiﬁcazione
+di altri spazi comunali e non solo;
+– nella co‐progettazione relativa alla futura gestione del Parco. Si stanno tenendo incontri periodici di tipo esplorativo tra
+gli Enti partecipanti per ragionare sulla futura governance del parco, il quale, nelle intenzioni, non dovrebbe essere solo un
+tradizionale spazio giochi diurno, ma anche un luogo dove si svolgeranno eventi e corsi aventi carattere di promozione
+sociale relativa all’inclusione, aperto 365 giorni all’anno.
+Ulteriori informazioni relative all’avanzamento dei lavori sono reperibili nel sito http://parcoinclusivopadova.it/.
+216
+Fig. 6: Giochi pensati e disegnati dai bambini già installati nel Parco
+I feedback sul percorso giunti dai bambini e dalle insegnanti sono stati molteplici: nella ﬁg. 7 ne ripor‐
+tiamo alcuni, a titolo esempliﬁcativo.
+Fig. 6: feedback sul percorso espressi da bambini ed insegnanti
+217
+A giugno 2019, il percorso di formazione è stato proposto anche ad alcuni Istituti Comprensivi vicini a
+Cannero Riviera (VB), dove si trova l’altra sede della Fondazione Hollman.
+Far evolvere il pensiero sui libri multicodice
+In occasione del concorso internazionale per l’editoria tattile Typhlo & Tactus (Padova, marzo 2022) il
+libro “Il tesoro del labirinto incantato” è stato rieditato come TIB (Tactile Illustrated Book) da un gruppo
+di lavoro formato da Marcella Basso, Serena Danieli, Matteo Franceschetti ed Enrica Polato, aggiungendo
+ai codici precedenti le illustrazioni tattili e il videoracconto in LIS, contenuto in microchip e quindi acces‐
+sibile attivando nel proprio device la funzionalità NFC. Una copia di questo nuovo libro è stata donata a
+ciascun giurato provenienti da 9 Paesi, con l’intenzione di contribuire alla diﬀusione e all’evoluzione del
+pensiero relativo ai libri accessibili multicodice (v. ﬁg. 7).
+Figura 7: Struttura del TIB “Il tesoro del labirinto incantato”
+La struttura de “Il tesoro del labirinto incantato” è stata adottata anche dal Comitato Scientiﬁco del
+Progetto “Ravenna per mano”, composto dal Comune di Ravenna (capoﬁla), dal Polo Museale dell’Emilia
+Romagna, dall’Opera di Religione della Diocesi di Ravenna, dal Museo d’Arte della città di Ravenna e dalla
+Fondazione RavennAntica. A tale progetto hanno collaborato il Dipartimento di Scienze dell’Educazione
+dell’Università di Bologna, nelle persone dei Proﬀ. Roberto Dainese e Chiara Panciroli e la Fondazione Ro‐
+bert Hollman, nella persona della Dott.ssa Maria Eleonora Reﬀo. 
+Questo progetto, legato all’accessibilità del patrimonio, prevede la realizzazione di supporti e iniziative
+che favoriscano la fruizione e la conoscenza dei monumenti Unesco ed è rivolto a tutti, riservando una
+particolare attenzione all’inclusione delle persone aventi diverse tipologie di disabilità.
+A partire dalle immagini presenti nelle antiche basiliche, nei mausolei e nei battisteri di Ravenna, è
+stato ideato un percorso alla scoperta di otto simboli raﬃgurati nei mosaici (stella, cervo, agnello, croce,
+monogramma, pavone, colomba, conchiglia), i quali permettono un approccio per immagini volto a su‐
+perare le barriere sensoriali e cognitive, strutturato sulle esigenze delle diverse tipologie di fruitori (Ra‐
+venna per mano ‐ Il Progetto, s.d.).
+218
+Per ognuno degli otto simboli è stato ideato un volume accessibile sia nella parte testuale, scritta in
+diversi codici (nero con carattere ad alta leggibilità, Braille e CAA), sia nella parte tattilmente illustrata.
+Inoltre, ogni fascicolo è corredato da due schede tattili: la prima, propedeutica, presenta il soggetto in
+una forma più vicina al reale (nell’es. della ﬁg. 8, un pavone con i tipici colori e la coda che si apre a ven‐
+taglio), la seconda riporta fedelmente, a rilievo, la sagoma del soggetto come viene rappresentata nel
+mosaico.
+Fig. 8: Le due schede tattilmente illustrate che corredano il volume dedicato al pavone
+Conclusioni
+Rifacendoci ancora una volta al pensiero di Tonucci, Renzi e Prisco (2019, p. 11), è nostra convinzione che
+i bambini non vadano protetti, ma “armati”, dotati cioè dell’arma della parola e quindi di strumenti, abilità
+e autonomia. Invitarli a progettare spazi e strutture vere della città […] non signiﬁca delegare loro il com‐
+pito della progettazione, che sarà sempre e comunque legato ad un titolo abilitante, signiﬁca invece aprire
+anche a loro la possibilità del contributo e della partecipazione (Tonucci, 1996, p. 44).
+Vorremmo riprendere il pensiero di Govinda (in Santi & Ghedin, 2014, p. 110) originariamente rivolto
+alla scuola, facendolo virare nel nostro speciﬁco, quello di un Parco co‐progettato e co‐ﬁnanziato (v. ﬁg.9).
+Potremmo quindi dire che diviene oggi una priorità rendere la gestione di spazi comunali come questo
+più partecipativa e consultiva, coinvolgendo tutti i membri che vi si riconoscono in qualità di co‐sviluppa‐
+tori di approcci inclusivi, ovvero come veri e propri inclusive community shareholders, impegnati per il
+successo e la crescita di ciò che condividono.
+219
+Fig. 9: Le aree gioco del Parco già completate
+Desideriamo concludere aﬀermando che per noi il Progetto del parco comunale inclusivo, la cui idea
+si è aﬀacciata nel 2016, si sta rivelando un grande esercizio di democrazia partecipata e che riteniamo
+possa conﬁgurarsi come una buona prassi nella direzione dell’inclusione e di una società più solidale e
+attenta nei confronti della valorizzazione delle diﬀerenze.
+Riferimenti bibliografici
+Assemblea Generale delle Nazioni Unite. (1989, Novembre 20). Convenzione sui diritti dell’Infanzia e dell’Adolescenza.
+Tratto da UNICEF: https://www.unicef.it/convenzione‐diritti‐infanzia/
+Booth, T., & Ainscow, M. (2014). Nuovo index per l’inclusione. Percorsi di apprendimento e partecipazione a scuola.
+Roma: Carocci Faber.
+De Koven, B. (2019). Buon gioco. Giocare bene per vivere bene. Trento: Erickson.
+Edwards, C., Gandini, L., & Forman, G. (1995). I cento linguaggi dei bambini.L’approccio di Reggio Emilia all’educazione
+dell’infanzia. Bergamo: Junior.
+Gandini, L. (1995). Uno spazio che riﬂette una cultura dell’infanzia. In C. Edwards, L. Gandini, & G. Forman, I cento
+linguaggi dei bambini: l’approccio di Reggio Emilia all’educazione dell’infanzia (pp. 235‐244). Bergamo: Junior.
+Garante Infanzia Adolescenza. (2018). Il diritto al gioco e allo sport dei bambini e dei ragazzi con disabilità.
+Documento di studio e di proposta. Tratto da AGA‐Autorità garante per l’infanzia e l’adolescenza: https://www.ga‐
+ranteinfanzia.org/sites/default/ﬁles/diritto‐al‐gioco‐sport‐bambini‐ragazzi‐disabilita.pdf
+Ghedin, E., Aquario, D., Boggino, N., Pais, I., & Boggino, P. (2018). Accessibilità e universi possibili. Riﬂessioni e
+proposte per promuovere l’educazione per tutti. Canterano (RM): Aracne.
+Gibson, J. J. (2015). The ecological approach to visual perception. New York: Psycology Press.
+Hall, E. T. (1972). Il linguaggio silenzioso. Milano: Garzanti.
+Huizinga, J. (1946). Homo ludens. Torino: Einaudi.
+Lancerin, L. (2017). Introduzione della Tavola Rotonda Parchi Gioco per tutti. Tavola Rotonda Parchi gioco per tutti
+(pp. 17‐22). Bassano: Bassano Accessibile.
+Lanzarin, M. (2017). Presentazione della Tavola Rotonda «Parchi Gioco per Tutti». Parchi Gioco per Tutti (pp. 9‐10).
+Bassano del Grappa: Bassano Accessibile.
+220
+Oliverio Ferraris, A., & Oliverio, A. (2017). A piedi nudi nel verde. Giocare per imparare a vivere. Firenze: Giunti.
+ONU. (2015, Settembre 25). Agenda 2030 per lo sviluppo sostenibile. Tratto da Centro Regionale di Informazione
+delle Nazioni Unite: https://unric.org/it/agenda‐2030/
+Paccagnella, E., & Bertelle, N. (2018). Il tesoro del labirinto incantato. Monselice (PD): Camelozampa.
+Polato, E. (2006). «Voglio che il mio nome signiﬁchi me» Quando le storie sulla viversità...fanno crescere! In R.
+Caldin, E. Polato, & R. Dainese, Essere speciali a scuola (pp. 143‐190). Lecce: Pensa MultiMedia.
+Protti, C. (2017, marzo 25). Parchi gioco inclusivi. Atti della Tavola Rotonda Parchi giochi per tutti (pp. 45‐62).
+Bassano del Grappa: Bassano Accessibile. Tratto da Bassano Accessibile: https://www.bassanoaccessibile.it/wp‐
+content/uploads/2022/02/Parchi‐Giochi‐per‐Tutti‐web.pdf?_gl=1*b0a7x1*_up*MQ..*_ ga*MjA2NDc2MTYzM ‐
+y4xNjgyOTYzOTc1*_ga_G7W42ZS4LJ*MTY4Mjk2Mzk3NC4xLjAuMTY4Mjk2Mzk3NC4wLjAuMA..
+Ravenna per mano ‐ Il Progetto. (s.d.). Tratto da Ravenna per mano: https://ravennapermano.it/il‐progetto/
+Santi, M., & Ghedin, E. (2014). Valutare l’impegno verso l’inclusione: un Repertorio multidimensionale. Rivista
+Italiana di Ricerca Educativa, 99‐111.
+Save the Children. (2016, marzo). Inclusive education: What, Why, and How. A Handbook for Program Implementers.
+Tratto da Save the Children: https://www.savethechildren.it/cosa‐facciamo/pubblicazioni/inclusive‐education‐
+what‐why‐and‐how
+Tonucci, F. (1996). La città dei bambini. Un modo nuovo di pensare la città. Roma‐Bari: Laterza.
+Tonucci, F., Renzi, D., & Prisco, A. (2019). Il Consiglio dei bambini. Bergamo: Zeroseiup.
+UNICEF. (1989). Convenzione ONU sui diritti dell’Infanzia dell’adolescenza. Roma: Unicef.
+Vygotskij, L. S. (1966, n. 12). Play and its role in the mental development of the child. Vosproy Psikhologii, 62‐78.
+Weyland, B., & Attia, S. (2015). Progettare scuole tra pedagogia e architettura. Milano: Guerini Scientiﬁca.
+221

@@ -73,6 +73,12 @@ Ricerca incentrata sulle sfide fisiche e sensoriali dell'ambiente costruito, cri
     *   [[60 - Approfondimenti/Sulla disabilità/Gap Analysis - Limiti e Contraddizioni|Gap Analysis: Falsa Prossimità e Limiti dell'Urbanistica Standard]]
     *   [[60 - Approfondimenti/Sulla disabilità/Checklist Operativa - Architettura Inclusiva|Checklist Operativa: Progettazione Architettonica Inclusiva (Modalità 6)]]
 
+### 🎢 6. Parchi gioco inclusivi
+Esplorazione critica della progettazione degli spazi aperti, giardini scolastici e parchi gioco, passando dal concetto di mera accessibilità fisica (rampe, assenza di dislivelli) a quello di reale inclusione e attivazione sociale. Analisi della neurodivergenza, dell'educazione outdoor e del wayfinding multisensoriale.
+*   **Mappe dei Contenuti:** [[MOC - Parchi gioco inclusivi]]
+*   **Sintesi Avanzate:**
+    *   [[Insight - Parchi gioco inclusivi]]
+
 ---
 
 ## 🚀 Esplora il Grafo di Conoscenza

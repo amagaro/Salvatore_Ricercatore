@@ -1,0 +1,712 @@
+Didattica e  
+inclusione scolastica
+Inklusion im  
+Bildungsbereich
+Emergenze educative 
+Neue Horizonte
+A cura di / Hrsg.
+Heidrun Demo
+Silver Cappello
+Vanessa Macchia
+Konferenzbeiträge / Atti / Proceedings
+Centro di Competenza per l’Inclusione Scolastica 
+Kompetenzzentrum Inklusion im Bildungsbereich 
+15./23./29.10.2021
+Bozen-Bolzano University Press, 2022
+Free University of Bozen-Bolzano
+www.unibz.it/universitypress 
+Cover design / layout: DOC.bz / bu,press
+Printed by Fotolito Varesco
+ISBN 978-88-6046-189-6
+DOI 10.13124/9788860461896
+This work–excluding the cover and the quotations–is licensed under the 
+Creative Commons Attribuition-ShareAlike 4.0 International License.
+peer reviewed
+Indice / Inhalt
+Introduzione / Einführung
+Heidrun Demo, Silver Cappello, Vanessa Macchia.................................................VII
+Wie die Arbeit am Bildungsverständnis zum Motor von Kooperation 
+in Ganztagsgrundschulen werden kann
+Simone Seitz, Catalina Hamacher...........................................................................1
+Sei gradi di libertà: il lavoro libero come pratica inclusiva nell’approccio Montessori	
+Barbara Caprara......................................................................................................17
+„Was uns wichtig ist.“ – Zu den Werten von Kindern im Grundschulalter 
+in der Autonomen Provinz Bozen
+Petra Auer................................................................................................................33
+Pedagogia del gioco: il gioco inclusivo. Riflessioni sulla scuola come spazio ludico 
+Francesca Berti........................................................................................................53
+Lo spazio che crea inclusione.  
+Ricerca INDIRE e buone pratiche nelle scuole fra il primo e secondo ciclo
+Stefania Chipa, Giuseppe Moscato.........................................................................73
+LEA Learning Environment Application, sviluppo di un gioco  
+per la progettazione e l’appropriazione degli spazi della scuola, 
+finalizzato ad includere i bisogni di tutti
+Beate Weyland, Alessandra Galletti........................................................................95
+Progettazione accessibile e Universal Design for Learning per la 
+Didattica Digitale Integrata: sfide e opportunità
+Andrea Mangiatordi..................................................................................................117
+„Die Zukunft ist schon da, sie ist nur ungleich verteilt.“
+Edvina Bešić, Silvia Kopp-Sixt.................................................................................133
+Fremdsprachen sprechen lernen in einer jahrgangsgemischten 
+und inklusiven Lernkultur
+Aurora Floridia, Ira Lenke........................................................................................151
+Provare l’inclusione
+Cristiano Corsini......................................................................................................171
+Le sfide della progettazione individualizzata: da una prospettiva internazionale 
+al contesto italiano
+Petra Auer, Silver Cappello, Dario Ianes.................................................................185 
+Progetto di vita e paradigma dei diritti
+Cecilia M. Marchisio, Natascia Curto.......................................................................203
+Autrici e autori / Autor:innen....................................................................................217
+53
+Pedagogia del gioco: il gioco inclusivo.  
+Riflessioni sulla scuola come spazio ludico 
+Francesca Berti – Libera Università di Bolzano
+Abstract
+Una riflessione sull’incontro tra la pedagogia del gioco e la didattica inclusiva richie-
+de di far luce su un tema controverso come quello dello spazio del gioco nella scuola 
+primaria. Partendo da una prospettiva ampia, sia rispetto agli studi sul gioco che alla 
+didattica inclusiva, il presente contributo propone di superare eventuali perplessità 
+pensando la scuola come uno spazio ludico, ovvero un luogo che contempli non solo la 
+ricchezza di momenti dedicati al gioco, a giochi didattici o ad attività ludico-motorie, 
+ma anche l’attenzione ad un atteggiamento ludico (playfulness), quella dimensione del 
+piacere propria dell’immergersi in un’attività con interesse e quella leggerezza neces-
+saria per stare bene nella relazione tra pari e tra insegnanti e alunni/e.  
+Parole chiave: didattica inclusiva, play studies, play-based learning, gamification, spa-
+zio ludico. 
+Premessa1
+Lungo le scale della Facoltà di Scienze della Formazione della Libera Uni-
+versità di Bolzano, vi sono dei grandi pannelli che riproducono alcuni scritti 
+di bambini e bambine nell’ambito di un progetto dedicato agli ambienti di 
+apprendimento2. Questa collezione di pensieri spontanei fa, al tempo stesso, 
+sorridere e riflettere. Alla domanda “Com’è la scuola dei tuoi sogni?”, le rispo-
+1	
+Un particolare ringraziamento va al Prof. Gianfranco Staccioli, Università di Firenze, 
+per il fervido confronto che ha accompagnato la stesura del presente contributo. 
+2	
+Progetto Lernumgebungen, coordinato dalla Prof.ssa A. Augschöll Blasbichler, 2014-2015. 
+54
+Berti
+ste si soffermano su desideri che rimandano ad una condizione di benessere 
+che ogni adulto condividerebbe: avere pause più lunghe, stare a contatto/im-
+parare nella natura, dedicarsi agli sports, fare amicizia con i/le compagni/e e 
+star bene con gli/le insegnanti. Il ritratto che ne emerge è quello di una scuola 
+in cui si impara facendo, si sta all’aria aperta, e molteplici dimensioni – co-
+gnitiva, motoria, relazionale, affettiva - risultano al pari importanti. La parola 
+gioco ritorna più volte, sia nell’accezione di giocare che di imparare giocando. Mi 
+piace pensare ai colori di questa scuola ideale e mi pare che, oltre al rimando 
+esplicito alla “casa” - una scuola in cui si stia bene “come a casa” - l’immagine 
+che ne esce possa essere quella di uno spazio ludico. Il presente contributo fa 
+di proposito riferimento ad uno spazio ludico, non tanto e non solo al gioco ed 
+al giocare a scuola, sulla base di tre considerazioni:
+1.	 la necessità di andare oltre il termine gioco, in quanto l’associazione gio-
+co-scuola richiama sovente un rapporto dicotomico, in cui il gioco rappre-
+senta il termine oppositivo ora al lavoro, ora al dovere, ora allo studio;
+2.	 il desiderio di sottolineare uno spazio che contenga non solo i games, i 
+giochi propriamente detti ed il play, il giocare inteso, convenzionalmente, 
+come giocare i giochi o il gioco libero, ma anche l’uso della gamification, 
+ovvero di elementi del gioco che aiutino a migliorare sia la relazione di 
+classe che i processi di apprendimento; 
+3.	 l’idea di esplorare e stimolare azioni creative fatte con piacere (playfully) 
+ed un clima di cura e attenzione per i racconti e gli stimoli che vengono 
+dai/dalle bambini/e, in cui stare al gioco con leggerezza (playing along). 
+Per comprendere questa idea di spazio ludico, è utile immaginare il gioco come 
+una cornice all’interno della quale hanno luogo una ricca varietà di azioni e 
+relazioni. Come suggerito dall’antropologo e linguista Gregory Bateson, infat-
+ti, la parola gioco non dà semplicemente nome “ad un’azione”, ma è piuttosto 
+“una cornice per molteplici azioni” (Bateson, 1979, p. 152). In altre parole, lo 
+spazio all’interno di questa cornice non si limita al perimetro intorno al gioco 
+stesso, ma comprende l’intero contesto: ambiente, oggetti, individui - sia gio-
+catori/trici che osservatori/trici - le loro emozioni e le interazioni.
+Oltre a Bateson (1979, 1996), la presente riflessione attinge ai contributi su-
+gli studi sul gioco del teorico del gioco Brian Sutton-Smith (1997) e dei socio-
+logi Roger Caillois (1967), Thomas Henricks (2006, 2008, 2015) e Pierre Parle-
+55
+Pedagogia del gioco: il gioco inclusivo. 
+Riflessioni sulla scuola come spazio ludico 
+bas (2016). Nello specifico del gioco nella didattica, si fa riferimento al filosofo 
+e pedagogo John Dewey, allo psicologo Jean Piaget (1969) e ai pedagogisti 
+Gianfranco Staccioli (2008, 2010) e Hans Petillon (2015), nonché alla letteratu-
+ra sull’esperienza della Spielpädagogik nei paesi di lingua tedesca (Baer, 1995; 
+Baer, Schorn & Waschk, 2017). 
+Il mio approccio alla didattica inclusiva trova il suo fondamento teori-
+co nella pedagogia della diversità (Pädagogik der Vielfalt) della pedagogista 
+Annedore Prengel, secondo cui il principio di inclusione va ricondotto all’u-
+guaglianza e diversità di ogni individuo (Prengel, 2018). Con un profondo 
+riferimento al riconoscimento dei diritti umani, Prengel sostiene l’idea di una 
+“differenza egualitaria” come caratteristica di unicità (Prengel 1993 in Seitz 
+2020). Nella pratica in classe, descritta qui di seguito, i principi della pedago-
+gia della diversità incontrano l’attuale dibattito italiano sulla didattica inclu-
+siva (Demo, 2016, Ianes & Canevaro, 2016).  
+Sullo sfondo rimane Homo Ludens. A Study of the Play-Element in Culture 
+(1949), l’opera dallo storico Johan Huizinga, il quale all’inizio degli anni ’30, 
+per primo intraprese uno studio sistematico dedicato al tema del gioco. La 
+tesi di Huizinga è affascinante e tuttavia disorienta lettori e lettrici, nell’af-
+fermare già nella prefazione che “la cultura nasce nella forma gioco” e che 
+essa è “giocata fin dall’inizio” (Huizinga, 1949). Sebbene questa tesi continui 
+ad essere largamente discussa, come sottolineato dal pedagogista Roberto 
+Farnè, Homo Ludens rappresenta e rimane “l’emblema di una ridefinizione 
+del gioco come categoria su cui l’uomo ha costruito la sua civiltà” e non solo 
+“un’esperienza irrilevante relegata alla provvisorietà dell’infanzia” (Farnè, 
+2016, p. 35). 
+1.	
+Giocare, questo affascinante universale
+L’ampiezza del fenomeno gioco affascina poiché racchiude l’umanità: uomini 
+e donne, bambini e bambine di tutte le epoche e in tutti i continenti. L’ori-
+gine dei giochi è spesso antica, a volte addirittura radicata nella preistoria 
+(Schädler, 2007). I cosiddetti giochi e giocattoli tradizionali sono stati per seco-
+li espressione al tempo stesso dell’universalità dell’uomo e della varietà delle 
+culture (Parlebas, 2016). A partire dalla fine del ‘700, numerosi fattori - quali la 
+56
+Berti
+diffusione dei giochi di società, la produzione in serie, la comparsa di brevetti 
+e patenti, nonché l’invenzione delle materie plastiche a inizio ‘900 - hanno 
+alimentato l’industria del gioco e del giocattolo (Schädler, 2007). Negli ultimi 
+decenni, l’avvento del gioco digitale ha aperto nuovi panorami immaginativi, 
+su una varietà di dispositivi. Eppure, come le fiabe, il gioco è sempre lo stesso 
+e sempre cambia: anche quando il gioco che amiamo è sempre lo stesso, ad 
+esempio la dama, non si ripete mai la stessa partita. Ci si immerge in un’at-
+tività creativa che mette in moto l’immaginazione, o mette alla prova ora la 
+destrezza, ora l’abilità, ora l’ingegno. Si fa e si rifà. Si prova e si riprova. Per 
+puro piacere. 
+L’esperienza del gioco è stata descritta in varie discipline ed epoche e 
+tuttavia ogni studio riflette, inevitabilmente, la prospettiva della disciplina 
+all’interno della quale viene condotto, nonché l’epoca ed il contesto cultu-
+rale in cui è inserito (Staccioli, 2008; Sutton-Smith, 1977; Spariosu, 1989). In 
+campo pedagogico, un esempio illustre è dato da Maria Montessori e dal suo 
+giudizio alquanto critico nei confronti del gioco che, lasciando emergere la 
+prospettiva di medico dei primi del secolo, viene inteso come valore, nel caso 
+del “gioco sportivo” o come attività improduttiva, nel caso del “gioco insen-
+sato”, ovvero il gioco libero dei/delle bambini/e, che viene così contrapposto 
+al lavoro che essi/e invece intraprendono quando lo spazio della scuola è ben 
+preparato dall’adulto (Montessori, 2013, pp. 105-106). 
+Inoltre, come ha osservato Henricks, nonostante i tentativi di trovare “il 
+posto del gioco all’interno dello schema delle relazioni umane” (Henricks, 
+2006, p. 9) siano cresciuti esponenzialmente negli ultimi 50 anni, i cosiddetti 
+play studies continuano a rimanere un campo interdisciplinare composito, e 
+non una disciplina a sé, dal momento che ogni disciplina tende a riportare 
+l’indagine all’interno della propria tradizione retorica e di ricerca, rivendi-
+candone la proprietà. 
+1.1	
+Una definizione che sfugge
+Ogni adulto sa che cosa è il gioco poiché ne ha fatto esperienza e tuttavia la 
+risposta alla domanda “spiegami cosa vuol dire giocare” è spesso tanto piena 
+di esempi quanto priva di sintesi. È come se avessimo un’idea chiara e, al 
+tempo stesso, difficile da esporre: sappiamo descrivere un gioco o una certa 
+57
+Pedagogia del gioco: il gioco inclusivo. 
+Riflessioni sulla scuola come spazio ludico 
+tipologia di giochi, ma il fenomeno complessivo del giocare rimane difficile 
+da concettualizzare (Spariosu, 1989). La proliferazione di innumerevoli studi 
+dedicati agli spazi, agli oggetti ed ai/alle giocatori/trici - si pensi anche solo 
+agli studi recenti dedicati al game design, l’invenzione di nuovi giochi - non 
+riesce a rispondere affatto alla domanda su cosa sia il giocare, poiché, come 
+ricordato da Sutton-Smith:
+Qualsiasi definizione, non è altro che un tentativo di trovare qualcosa in comune 
+alle forme di gioco dei bambini e degli adulti, alle forme animali e umane, ai sogni, 
+ai sogni ad occhi aperti, al giocare ed ai giochi, agli sport ed alle feste (Sutton-Smith, 
+1997, p. 221). 
+Alla fine degli anni ’50, per ovviare alla difficoltà di definire il gioco (play), 
+Roger Caillois in Les jeux und les hommes (1967) ha proposto di spostare l’atten-
+zione dal gioco ai giochi (games). In questa scelta, Caillois sembra quasi volerci 
+dire: “io non so spiegarvi di preciso che cosa sia il gioco (play) però so che la 
+gente gioca i giochi (games). Ho provato ad organizzarli, li ho suddivisi in ca-
+tegorie e poi ho osservato la classificazione che ne è risultata e ho tratto delle 
+osservazioni”. Sebbene lo schema di Caillois sia dichiaratamente solo una pro-
+posta di classificazione, e come tale mai esaustiva - non vengono, ad esempio, 
+presi in considerazione per nulla i giochi cooperativi (Staccioli in intervista, 
+ottobre 2021) - tuttavia, rimane uno dei pochi strumenti3 che permettano di 
+comprendere le varietà del gioco e così orientarsi nella scelta e nella proposta 
+di un gioco a scuola. 
+Lo schema si basa su 4 categorie (agon, alea, mimicry, illinx) e 2 poli opposti 
+(paidia e ludus). Le 4 categorie indicano, rispettivamente, quando il ruolo della 
+competizione, del caso, della simulazione o della vertigine è dominante nel 
+gioco. I poli opposti invece indicano la prevalenza del gioco di libera imma-
+ginazione, il cosiddetto gioco libero (paidia), o del gioco strutturato, guidato 
+dalle regole (ludus). Il sociologo, sottolinea che mentre la presenza delle regole 
+va via via diminuendo dal ludus verso la paidia, quest’ultima, intesa come lo 
+spirito proprio del gioco, rimane sempre presente in tutte le sue forme: 
+3	
+Un altro strumento che merita particolare attenzione è lo studio sulla prasseologia 
+motoria di Parlebas (Parlebas, 1998). 
+58
+Berti
+Resta comunque il fatto che all’origine del gioco c’è una libertà primaria, origina-
+ria, che è esigenza di distensione e insieme distrazione e fantasia. Questa libertà 
+è il motore indispensabile del gioco e rimane all’origine delle sue forme più com-
+plesse e più rigorosamente organizzate. Una simile potenza primaria d’improvvi-
+sazione e spensieratezza, che chiamo paidia, si incontra con il gusto della difficoltà 
+gratuita, che propongo di chiamare ludus, per dare origine ai vari giochi. (Caillois, 
+1967, p.46)
+Pensando alla scuola come spazio ludico, questo passaggio è fondamentale per 
+comprendere il valore, da un lato, del gioco auto-organizzato dei/delle bam-
+bini/e e, dall’altro, la difficoltà che può derivare dal proporre un gioco ad un/a 
+bambino/a che in quel momento non ha il desiderio di giocare. Dal momento 
+che, come ricordava Bateson, non si può mai dire a nessuno “gioca!” (Bateson, 
+1996), l’insegnante può in questo caso solo diversificare la proposta o contem-
+plare la possibilità che questo/a bambino/a si limiti ad osservare gli/le altri/e 
+durante il gioco, avendo fiducia, come osservò Piaget, che anche questa espe-
+rienza sia significativa nel processo di apprendimento (Piaget, 1969). 
+1.2	
+L’essenza del gioco
+Dallo schema dei giochi Caillois deduce, dunque, che giocare è un’attività es-
+senzialmente libera, separata, incerta, improduttiva, governata da regole o fin-
+zione. Ogni giocatore si dedica al gioco di sua volontà e per il proprio piacere 
+scegliendo “il silenzio, la meditazione, la solitudine oziosa o l’attività creati-
+va” (Caillois, 1967, p.22). Il piacere, dunque, sottende ogni gioco: mettersi alla 
+prova in un’impresa intellettuale o motoria per vincere (agon), pretendere di 
+essere qualcun altro o qualcos’altro (mimicry), sfidare la fortuna (alea) o godere 
+di una temporanea perdita di equilibrio (ilinx). 
+Nelle lingue indoeuropee non vi è una radice comune per il gioco ed il 
+giocare e tuttavia sovente si osserva una doppia accezione di gioco-piacere. 
+Nel greco antico αίζω (paízō, da non confondere con ἀγών agon, il gioco com-
+petitivo proprio delle Olimpiadi) indica sia l’atto del giocare come un bambi-
+no sia scherzare e divertirsi. In latino, jocus rimanda al gioco, allo scherzo e 
+alla battuta, mentre ludus indica il gioco, il divertimento, ed in alcuni casi, la 
+scuola, il luogo di apprendimento (Casevitz, 2018).
+59
+Pedagogia del gioco: il gioco inclusivo. 
+Riflessioni sulla scuola come spazio ludico 
+Similmente, si osservano i binomi gioco/piacere, gioco/prestazione, gioco/pas-
+satempo, anche nelle etimologie dei verbi giocare (italiano), spielen (tedesco) e 
+play (inglese):
+1.	 Giocare, dal tardo latino iocor, giocare, divertirsi.
+2.	 Spielen, dall’alto-tedesco antico spil, giocare, eseguire, passatempo (Zeit-
+vertrieb).
+3.	 Play, dall’inglese medio plegian: giocare, fare esercizio, piacere (pleasure, 
+amusement).
+Il piacere, potremmo dedurre, appare l’atteggiamento del gioco stesso: im-
+mergersi in un’azione, per il puro piacere di farlo. È questo un universale che 
+il filosofo, drammaturgo e poeta Friedrick Schiller descrive come impulso al 
+gioco (Spieltrieb), una vera e propria pulsione vitale, dove trieb rimanda sia al 
+germoglio in botanica, sia alla pulsione in psicologia (Schiller, 1967). Benché fos-
+se lontano dall’essere un teorico del gioco, Schiller sembra anticipare il tema 
+di Homo Ludens di Huizinga e Les jeux und les hommes di Caillois nell’affermare 
+che: “L’uomo gioca solo quando è un uomo nel pieno senso della parola, ed è 
+completamente uomo solo quando gioca”4 (p. 106).
+Inoltre, l’uso della metafora del gioco, come passaggio chiave della ri-
+flessione di Schiller sull’educazione estetica, contribuisce ad evidenziare la 
+relazione tra gioco e arte, e dell’impulso che in entrambe sta all’origine all’e-
+sperienza creativa. L’associazione tra il bambino che gioca e l’artista che crea 
+è sottolineata anche da Dewey in How We Think: A Restatement of the Relation 
+of Reflective Thinking to the Educative Process (1933), in cui il filosofo afferma 
+che un compito primario dell’insegnante consiste proprio nello stimolare nei/
+nelle bambini/e l’attitudine dell’artista, al fine di permettere l’incontro tra gio-
+cosità mentale e serietà (mental playfulness e seriousness) (Dewey, 1933, p. 220). 
+Tornerò nei prossimi paragrafi su questo testo di Dewey, a mio parere, fonda-
+mentale nell’aiutarci a pensare la scuola primaria come spazio ludico. 
+4	
+Der Mensch spielt nur, wo er in voller Bedeutung des Worts Mensch ist, und er ist nur 
+da ganz Mensch, wo er spielt. 
+60
+Berti
+1.3	
+Le forme del gioco
+Le forme del gioco sono espressione di infinita creatività e ingegno: vi sono 
+spazi di giochi individuali e collettivi, privati e sociali (la strada, il parco 
+giochi, l’osteria, i centri sportivi e ricreazionali), ambienti interni ed esterni, 
+contesti urbani, rurali, montani, di spiaggia. Ci si diverte con i giochi digitali 
+e quelli analogici, con i giocattoli comprati nei negozi e con altri fatti a mano 
+con materiali naturali o di riciclo. Vi sono giochi che richiedono una costosa 
+attrezzatura ed altri che si possono fare senza bisogno di nulla. Si gioca da 
+soli, in due, in squadra, contro un avversario o cooperando per raggiungere 
+un obiettivo comune. 
+Quanti giochi conosciamo? Quali sono i nostri preferiti? Quali sono quelli 
+che abbiamo giocato nella nostra infanzia e potremmo riproporre a scuola? 
+Quali quelli giocati dai nostri genitori e dagli/dalle anziani/e nel quartiere/
+paese dove sorge la scuola, quando ancora la strada era il luogo del gioco dei/
+delle bambini/e?
+Questi ultimi, giochi di strada, cosiddetti tradizionali, sono un patrimonio 
+che, quando ripreso e riproposto a scuola permette di compensare e arginare 
+il fenomeno della diminuzione di giochi praticati in spazi aperti il cui princi-
+pale effetto è che, negli ultimi 40 anni, i/le bambini/e conoscono sempre meno 
+giochi (Parlebas, 2016). I giochi tradizionali sono, infatti, caratterizzati dalla 
+ludodiversità, ovvero una sorprendente ricchezza di materiali, regole, contesti, 
+giocatori/trici. Il termine “tradizionali” indica convenzionalmente giochi e 
+giocattoli inventati prima della produzione industriale del gioco (circa metà 
+del XVIII secolo), la loro varietà è accompagnata da un altrettanto sorpren-
+dente somiglianza tra giochi, presenti anche in regioni molto distanti tra di 
+loro, appartenenti ad una stessa tipologia/famiglia: trottole, biglie, bocce, bi-
+rilli, bilboquet e vari tipi di giochi di lancio, giochi di squadra, giochi da tavo-
+lo, etc. Tra i giochi tradizionali, l’85% circa sono giochi motori, il restante 15% 
+sono giochi cognitivi, i cosiddetti giochi di società (Lavega Burgués, 2004). Ci 
+sono giochi tradizionali propri dei bambini e altri degli adulti, e circa il 45% 
+di essi sono giocati da entrambi. In particolare, nel gioco tradizionale spesso 
+troviamo, o ritroviamo, l’adulto che gioca. L’UNESCO riconosce le pratiche 
+ludiche tradizionali proprie di una comunità e del suo territorio come parte 
+del Patrimonio Immateriale dell’Umanità. Nel contesto di una classe multi-
+61
+Pedagogia del gioco: il gioco inclusivo. 
+Riflessioni sulla scuola come spazio ludico 
+culturale, possiamo intraprendere progetti sul gioco di strada nel quartiere e, 
+al tempo stesso, raccogliere i racconti del gioco delle famiglie che provengono 
+da altre regioni ed altri paesi, mostrando così il filo che lega l’esperienza del 
+gioco nel mondo (Berti & Lapiccirella Zingari, 2019).
+2.	
+Giocare a scuola: resistenze e buone pratiche
+La scelta di giochi didattici all’interno di una determinata materia, spesso sot-
+tende la domanda “cosa possono imparare gli/le alunni/e giocando questo 
+gioco?”. La presenza del gioco nella didattica, tuttavia, negli ultimi anni tra-
+valica l’uso di meri giochi didattici per comprendere non solo l’attenzione a 
+conoscenze, ma anche a competenze e dinamiche relazionali specifiche grazie:
+1.	 allo sviluppo di una serie di strumenti - serious game, game based learning, 
+digital game based learning - che fanno uso di giochi pensati per favori-
+re l’apprendimento e che vanno ad affiancarsi all’uso di giochi didattici 
+(Nesti, 2017);
+2.	 allo sviluppo del game design, ovvero la creazione del gioco stesso, un pro-
+cesso che può coinvolgere gli/le alunni/e, in un vero e proprio progetto di 
+ricerca da fare in classe (Salem, 2008);
+3.	 al successo della gamification, ovvero l’idea che l’introduzione di elemen-
+ti di gioco in ambienti non di gioco - quali la classe o il museo - sia uno 
+strumento efficace per migliorare la motivazione e l’apprendimento. I so-
+stenitori di questo tipo di operazioni sostengono che le attività gamificate 
+siano in grado di coinvolgere i/le partecipanti e motivarli/e a fare compiti 
+che altrimenti non sarebbero così desiderosi/e di intraprendere. In termini 
+semiotici, le attività gamificate vengono così usate “per rendere le attività 
+più seducenti” (Thibault, 2018, p 204). 
+Tutte queste strategie contribuiscono a trasformare sempre più la scuola in 
+uno spazio ludico, e, tuttavia, come abbiamo visto nel paragrafo precedente, le 
+proposte legate al recupero dei giochi tradizionali sono, a mio parere,  quel-
+le che maggiormente stimolano la riflessione sull’importanza di uscire dalla 
+classe per giocare all’aperto e così interrogarsi, ad esempio, sulle dinamiche 
+corporee, affettive, emotive, sociali che si mettono in moto in un’attività ludi-
+62
+Berti
+co-motoria proposta dall’adulto o in un’attività di gioco libero, magari, altret-
+tanto valorizzata in pause più distese (Farnè, Bortolotto & Terrusi, 2017). 
+Ogni insegnante, poi, attinge alla propria biografia per pensare lo spa-
+zio ludico. Memoria ed esperienza ci portano dentro una fantasticazione, ed 
+iniziamo anche noi ad immaginare la nostra scuola dei sogni: angoli della 
+classe dedicati alla raccolta di scarti, bambini/e seduti/e sul pavimento che 
+giocano con una dama auto-costruita, un laboratorio di mimo sulle emozioni, 
+la raccolta di storie e luoghi di gioco propri del quartiere/paese, un progetto 
+multidisciplinare, tra arte, storia e fisica, sui giochi di equilibrio: dalle trottole 
+nei quadri di Bruegel il Vecchio, ai mobiles di Calder, alla land art di Goldswor-
+thy. Percorsi dedicati all’outdoor education ed una ricreazione senza fretta di 
+rientrare in classe… tutto molto bello, ma, ecco che ritornano moniti lontani: 
+“prima il dovere poi il piacere”, “non si gioca in classe”, “se non fai i compiti, 
+non esci a giocare”.
+2.1	
+Il gioco come antinomia
+Nonostante il tema del gioco sia di grande attualità, infatti, la presenza di 
+una serie di dicotomie - quali quelle che in molte definizioni separano la 
+dimensione del gioco dalla vita reale o che contrappongono il gioco al 
+lavoro - persistono nel linguaggio quotidiano, contribuendo a riprodurre 
+attriti e resistenze soprattutto rispetto alla presenza del gioco nella scuola, 
+fatta eccezione per la scuola dell’infanzia (Wild, 2000). Come sottolineato 
+dal semiotico Mattia Thibault, la cui ricerca è dedicata alla semiotica del 
+gioco, è come se il gioco continuasse ad essere definito “in opposizione a 
+qualcosa”, specialmente nella dicotomia gioco-lavoro, la quale richiama altre 
+contrapposizioni, quali dovere-piacere e lezione-ricreazione. In questo tipo 
+di associazioni: “Il termine opposto è generalmente identificato in qualche 
+attività sostanziale che si distingue dalla leggerezza e dall’elusività del gioco” 
+(Thibault, 2018, p. 35). 
+In particolare, l’opposizione gioco-lavoro è emersa nel corso dell’Ottocen-
+to con la diffusione di giochi da tavolo pensati apposta con un fine didattico: 
+nuovi giochi cosiddetti istruttivi, prodotti con l’intento di impartire una mo-
+rale o insegnare concetti e materie, quali la matematica, la storia, la geografia. 
+Questi giochi, prodotti inizialmente nei paesi del Nord Europa - l’industria 
+63
+Pedagogia del gioco: il gioco inclusivo. 
+Riflessioni sulla scuola come spazio ludico 
+del gioco e del giocattolo ha origine in Germania - e più tardi negli Stati Uniti, 
+rispecchiavano l’etica protestante capitalista, l’etica del lavoro secondo cui 
+prevaleva l’idea che giocare non fosse solo un passatempo (Zeitvertreib), ma 
+una perdita di tempo (Zeitverschwendung) (Schädler, 2007). In questa prospet-
+tiva, i giochi istruttivi rappresentarono un modo per rivalutare e dare un sen-
+so e una funzione ai giochi stessi. Lo slogan “istruttivo e divertente”, apparso 
+sulle confezioni di quel periodo, è tuttora il marchio di garanzia del marke-
+ting dei giochi da tavolo e serve a darne loro valore. 
+2.2	
+L’esperienza delle scuole attive e della Spielpädagogik
+Nei primi del Novecento, Dewey esplorò profondamente la dicotomia gioco-
+lavoro, e nel contesto della scuola criticò questa opposizione, riferendosi alla 
+discrepanza tra scuola dell’infanzia, pensata come il tempo e il luogo in cui i/le 
+bambini/e giocano, e scuola primaria, il tempo e il luogo in cui i/le bambini/e 
+invece dovrebbero solo imparare. In questa fallace distinzione, afferma il 
+filosofo: “Sotto il titolo di gioco, il primo è reso indebitamente simbolico, 
+fantasioso, sentimentale e arbitrario; mentre sotto il titolo antitetico di lavoro 
+il secondo contiene molti compiti assegnati esternamente”5 (Dewey, 1933, p. 218, 
+traduzione F. Berti, corsivo dell’autore).
+Dewey sottolineò come il processo di apprendimento sia, invece, veicolato 
+proprio dall’attitudine al gioco (play attitude): quel profondo assorbimento che 
+hanno i bambini quando giocano, e l’errore, dunque, starebbe nel separare 
+il processo dal prodotto credendo che nell’attività ludica l’interesse risieda 
+nell’attività per se stessa (mental playfulness), mentre nel lavoro essa risieda 
+nel prodotto o risultato con cui termina l’attività (mental seriousness) (Dewey, 
+1933, p. 218). L’incontro tra mental playfulness e seriousness, secondo Dewey, 
+starebbe invece nell’interesse in un’attività che scorre da un momento all’altro 
+e in un’altra che ugualmente scorre e tende ad un culmine, ad un risultato. 
+Vi sarebbe quindi un filo di continuità che lega, in entrambi i casi, tutte le 
+fasi. L’elemento del gioco nella scuola primaria contribuirebbe, dunque, a 
+stimolare l’attitudine al gioco e dovrebbe fluire senza interruzioni dalla scuola 
+5	
+Under the title of play, the former is rendered unduly symbolic, fanciful, sentimental, 
+and arbitrary; while under the antithetical caption of work the latter contains many tasks 
+externally assigned.
+64
+Berti
+dell’infanzia. Eppure, questo principio continua a subire forti resistenze, 
+eccezion fatta per l’esperienza delle scuole attive.
+In Experience and Education, pubblicato nel 1938, quando aveva già 79 anni, 
+Dewey ribadì la necessità di una filosofia dell’educazione basata su una fi-
+losofia dell’esperienza in cui “i tipi di materiale, di metodi e di relazioni so-
+ciali” fossero completamente ridefiniti (Dewey, 1938, pp. 15-18). Esperienza e 
+libertà di apprendimento rappresentavano per Dewey i paradigmi di un’edu-
+cazione progressiva, per una scuola che mettesse al centro il/la bambino/a, ne 
+stimolasse il pensiero critico e la partecipazione attiva. Una scuola posta al 
+centro della comunità e impegnata nello sviluppo di una società democratica. 
+La riflessione del filosofo americano si intrecciò, tra le due guerre, con il va-
+riegato movimento europeo delle scuole attive, unite da un comune desiderio 
+di rinnovamento, per una scuola nuova, che portò a sperimentazioni spesso 
+in dialogo tra loro, attraverso riviste nazionali ed internazionali, a cui contri-
+buirono nomi illustri quali Ferriere, Montessori e Freinet (Cambi, 2003). Da 
+quest’ultimo prende origine, negli anni ‘50, il Movimento di Cooperazione 
+Educativa che ancor oggi sostiene gli scambi e le sperimentazioni didatti-
+che tra gli/le insegnanti nella pratica quotidiana della scuola ed ha trovato 
+in Italia numerosi sostenitori, tra cui Mario Lodi e, più di recente, Franco 
+Lorenzoni. Un’altra esperienza internazionale per la diffusione dell’educa-
+zione attiva e largamente diffusa anche in Italia è quella dei CEMEA, Centri 
+di Esercitazione ai Metodi dell’Educazione Attiva. Nello specifico del gioco, 
+la sezione Ludo-Cemea, costituitasi nel 2001, raccoglie un gruppo di ricerca, 
+punto di riferimento nel panorama ludico italiano (Nesti, 2017). 
+Il gioco, dunque, occupa un posto privilegiato nell’esperienza delle scuole 
+attive come di altre scuole espressamente democratiche ispirate a principi più 
+o meno marcatamente antiautoritarii, tra le altre, quelle ispirate a Summerhill 
+in Inghilterra, fondata da Alexander Neill, e le Freie Aktive Schule nei paesi di 
+lingua tedesca, ispirate all’esperienza della scuola Pesta in Equador, fondata 
+da Rebecca e Mauricio Wild (Wild, 2009).
+Infine, un’altra fonte di ispirazione per la scuola come spazio ludico viene, 
+a mio parere, dalla Spielpädagogik, un’esperienza che, partendo dalle metodo-
+logie del lavoro di gruppo sviluppate negli Stati Uniti negli anni ‘70, fonda 
+la ricerca sul gioco come metodo educativo. Gli ambiti della Spielpädagogik, 
+diffusa principalmente in Germania ed in Austria, sono prevalentemente l’a-
+65
+Pedagogia del gioco: il gioco inclusivo. 
+Riflessioni sulla scuola come spazio ludico 
+nimazione giovanile, la conduzione di gruppi, il gioco cooperativo, l’attività 
+delle ludoteche e dei ludobus (Baer, 1995; Baer, Schorn & Waschk, 2017). In 
+Italia, a partire dagli anni ‘80, esperienze simili riguardano l’animazione e i 
+servizi socio-educativi (Staccioli, 2008, p. 222). 
+3.	
+Lo spazio ludico come strumento prezioso  
+della didattica inclusiva  
+Una prospettiva ampia di didattica inclusiva, che ponga al centro il ricono-
+scimento di ogni alunno/a come persona, unico/a nella sua singolarità, ed il 
+rafforzamento del gruppo classe come comunità attiva, al fine di realizzare un 
+contesto accogliente e di cura per tutti/e, trova particolari affinità e suggestio-
+ni nell’esperienza delle scuole attive. Le strategie per mettere in pratica una 
+visione di scuola inclusiva comprendono una particolare attenzione alla rela-
+zione tra pari e tra insegnanti e alunni/e, alla dimensione narrativa ed auto-
+biografica, ai momenti di apprendimento cooperativo ed alla differenziazione 
+delle attività in una progettualità comune ed alla partecipazione attiva di tutti 
+gli/le alunni/e (Demo, 2016; Ianes & Canevaro, 2016; Seitz, 2020). 
+Nella letteratura sulla pedagogia del gioco, l’attenzione all’aspetto inclu-
+sivo fa prevalentemente riferimento all’inclusione degli/delle alunni/e con 
+disabilità ed alla relazione con l’ambiente di gioco (Heimlich, 2015), fornendo 
+suggerimenti pratici di giochi da fare in classe (Beudels et al., 2019; Clausen, 
+2014; Miola et. al., 2021) oppure è solo accennata. O meglio, va cercata e rac-
+colta nei numerosi passaggi in cui si sottolineano le caratteristiche inclusive 
+intrinseche del giocare (De Rossi, 2006; Flitner, 2002; Manuzzi, 2002; Petillon, 
+2015). Gli/le insegnanti, infatti, hanno la possibilità di scegliere tra infinite 
+possibilità ludiche, dal gioco strutturato al gioco creativo e libero e possono: 
+	-
+“giocare” sull’adattabilità delle regole e dei materiali nei giochi strutturati 
+e semi-strutturati; 
+	-
+rafforzare il gruppo classe attraverso giochi cooperativi;
+	-
+stimolare la partecipazione di bambini/e nell’inventare giochi e attività 
+che coinvolgano e divertano tutti i/le compagni/e;
+	-
+integrare nella lezione un gioco narrativo, creativo o teatrale che stimo-
+li l’immaginazione, il riconoscimento e l’espressione delle emozioni, etc. 
+66
+Berti
+Come sottolineato da Manuzzi, perché gli/le insegnanti siano in grado di co-
+gliere tutte queste possibilità, è necessario che in ambito educativo si diffonda 
+una “cultura del gioco” anzitutto attraverso una formazione a livello universi-
+tario che includa non tanto e non solo il gioco, ma il proprio piacere di giocare, 
+di muoversi e toccare le proprie emozioni (Manuzzi, 2002, p. 149). 
+Inoltre, nel pensare pienamente la scuola come spazio ludico, come sugge-
+rito nel presente contributo, il giocare (play) è inteso come strumento inclusi-
+vo privilegiato. Questa prospettiva non cerca di definire “il gioco inclusivo”, 
+quanto di riconoscere che di per sé il giocare (play) e i giochi (games) sono 
+sempre inclusivi. Per comprendere questo passaggio è utile distinguere tra:
+	-
+un gioco (game), che può essere più o meno inclusivo o esclusivo, in quan-
+to composto di regole, materiali, spazi, etc. non sempre adattabili rispetto, 
+ad esempio, alla manipolazione o a gradi di difficoltà appropriati alle abi-
+lità e conoscenze dei/delle giocatori/trici;
+	-
+i giochi (games), che per via della loro varietà forniscono, invece, insieme 
+al gioco libero, infinite possibilità di scelta.
+Il titolo 1000 giochi per la scuola primaria (1000 Spiele für die Grundschule, 2015) 
+scelto da Petillon, riprende la versatilità della didattica ludica e, al tempo stes-
+so, l’autore ricorda, richiamando la distinzione game e play, che il gioco è sem-
+pre qualcosa di più dei giochi stessi, dove:
+	-
+Game: indica i giochi propriamente detti, i giochi prestrutturati in termini 
+di regole e materiali;
+	-
+Play: riguarda la gestione giocosa delle situazioni quotidiane (spielerischer 
+Umgang mit Alltagssituationen)
+Quest’ultimo riguarda, ad esempio, i momenti in classe in cui certe situazio-
+ni vengono riprese e sviluppate dai bambini in modo giocoso, ma anche le 
+conversazioni nel cerchio del mattino, o lo sviluppo in modo sperimentale 
+e fantasioso di attività di apprendimento, presentate come attività di gioco 
+(Petillon, 2015).
+In modo simile, il presente contributo suggerisce di allargare la prospettiva 
+sul gioco per considerarlo come un “sistema ludico” (Staccioli in intervista, 
+ottobre 2021) che comprenda sia la scelta del gioco come strumento sia un at-
+teggiamento ludico, sia una disposizione consapevole allo stare al gioco e che per-
+67
+Pedagogia del gioco: il gioco inclusivo. 
+Riflessioni sulla scuola come spazio ludico 
+metta, a noi adulti in primis, di entrare nello spirito del gioco, cogliendo rac-
+conti, stimoli, interessi e imprevisti inattesi che arrivano dai/dalle bambini/e. 
+4.	
+Osservazioni
+Il presente contributo è stato elaborato nel contesto di una ricerca che mira ad 
+approfondire la riflessione sullo spazio ludico come motore di inclusione. La 
+presente ricerca si trova al suo stato iniziale. Come nella contemplazione di 
+un quadro, in cui si cerca la distanza giusta per guardarne l’insieme, prima di 
+avvicinarsi e lasciarsi stupire dai particolari, così l’osservazione è partita dalla 
+definizione di gioco, per poi mettere a fuoco resistenze e buone pratiche nel-
+la relazione gioco-scuola. L’accenno alla complessità del fenomeno gioco ha 
+permesso di ricordarne non solo la varietà delle forme, ma anche l’essenza, la 
+quale comprende tutte quelle attività creative in cui ci si immerge condotti dal 
+piacere. Tre osservazioni, infine, vogliono aprire future riflessioni e confronti 
+attorno allo spazio ludico: 
+1.	 Il valore del circle time (Gordon, 1974) che di per sé richiama l’immagine 
+del cerchio magico, una metafora felice spesso usata per indicare lo spazio 
+del gioco, una cornice in cui si entra e che, come accennato nell’introdu-
+zione, comprende non solo il mero perimetro di gioco, ma anche tutta una 
+molteplicità di azioni e relazioni messe in moto dal gioco stesso (Bateson, 
+1996). Il cerchio è lo spazio proprio dell’incontro nel gioco, nella narrazio-
+ne e in entrambi, nella forma della ludobiografia in cui la narrazione stessa 
+è al centro del gioco, per raccontare storie e raccontarsi (Staccioli, 2010).
+2.	 Il gioco di costruire mondi così da stimolare manualità e immaginazione. 
+Progetto un tavoliere, un giocattolo, un percorso di biglie. Disegno nella 
+mia mente un tracciato per giocare a biglie sulla sabbia, provo delle so-
+luzioni per una curva parabolica. Riprovo. Devo immaginare un campo 
+da calcio là dove non c’è per realizzarlo e giocare. Devo immaginare una 
+macchinina per ricavarla da una scatola di fiammiferi, devo immaginarne 
+le ruote, i fanali. Attivo l’immaginazione.
+3.	 La scoperta e riscoperta di giochi tradizionali. Come ricorda Petillon, il si-
+gnificato di giocare una varietà di giochi con i/le bambini/e non riguarda 
+tanto insegnare dei giochi, quanto mettere i/le bambini/e in condizione di 
+68
+Berti
+poter giocare e di sperimentare una molteplicità di situazioni e relazioni 
+(Petillon, 2015). Poiché appartengono a uno schema antico, questi giochi 
+non scompaiono mai del tutto: un gioco può apparire nel cortile di una 
+scuola solo per il tempo di una stagione, e poi svanire. Vi sono fasi di ab-
+bandono e ritorno. Richiamarli contribuisce ad arricchire l’esperienza lu-
+dica dei bambini e delle bambine (Parlebas, 2016).
+Il potenziale di una pratica inclusiva orientata al gioco merita dunque di esse-
+re esplorato, in particolare nell’accezione di uno spazio ludico che, mettendo 
+al centro i bambini e le bambine, ne stimoli la partecipazione attraverso una 
+varietà di giochi, gioco libero, attività ludico-narrative e creative.
+Bibliografia 
+Baer, U. (1995). Spielpraxis: eine Einführung in die Spielpädagogik. Kallmeyer. 
+Baer, U., Schorn, B. & Waschk, M. (2017). Spiele und Aktionen im Ganztag. Kal-
+lmayer. 
+Bateson, G. (1979). Mind and nature. A necessary unity. E.P. Dutton. 
+Bateson, G. (1996). Questo è un gioco. Perché non si può mai dire a qualcuno “gio-
+ca!”. Raffaele Cortina Editore.
+Berti, F. (2021). The Articulation of “Traditional” in Play Studies. In V. Dasen e 
+M. Vespa (a cura di). Play and Games in Classical Antiquity: Definition, Tran-
+smission, Reception. Presses Universitaires de Liège.
+Berti, F. & Lapiccirella Zingari, V. (2019). Between similarities and cultural di-
+versities: intercultural education meets intangible cultural heritage. The 
+example of Traditional Sports and Games. In Conference Proceedings: Inter-
+national Conference of the Journal Scuola Democratica. Education and post de-
+mocracy, Vol. III., pp. 65-70.
+Beudels, W., Diehl, U. & Böcker-Giannini, N. (2019). Bewegungsforderung in der 
+inklusiven Kita. Reinhardt Verlag.
+Caillois, R. (1967). I giochi e gli uomini. La maschera e la vertigine. Bompiani.
+69
+Pedagogia del gioco: il gioco inclusivo. 
+Riflessioni sulla scuola come spazio ludico 
+Cambi, F. (2003). Manuale di storia della pedagogia. Editori Laterza. 
+Caprara, B. (2020). Innovare la didattica con i principi montessoriani. Armando 
+Editore.  
+Casevitz, M. (2018). Le noms du jeu et du jouet en grec. In V. Dasen e T. Haziza 
+(a cura di), Dossier thématique Jeux et jouets. Kentron, 34, pp. 51-60.
+Clauser M. (2014). Inklusion spielerisch umsetzen. Beltz.
+Demo, H. (2016). Didattica aperta e inclusione. Principi, metodologie e strumenti per 
+insegnanti della scuola primaria e secondaria. Erickson. 
+De Rossi, M. (2006). Mettersi in gioco e giocare a scuola. La Biblioteca Pensa Mul-
+tiMedia
+Dewey, J. (1916). Democracy and Education: An Introduction to the Philosophy of 
+Education. Kappa Delta Pi.
+Dewey, J. (1933). How We Think: A Restatement of the Relation of Reflective Thin-
+king to the Educative Process. D.C. Heath & Co Publishers.
+Dewey, J. (1938). Experience and education. Kappa Delta Pi.
+Farnè, R. (2016). Per una fenomenologia del gioco. Encyclopaidedia, XX (45), 
+pp. 30-52.  
+Farnè, R., Bortolotto, A. & Terrusi, M. (2017). Outdoor education: prospettive teo-
+riche e buone pratiche. Carocci Editore.
+Flitner, A. (2002). Spielen-Lernen. Praxis und Deutung des Kinderspiels. Beltz.
+Gordon, T. (1974). Teacher Effectiveness Training. David McKay. Heimlich, U. 
+(2015). Einführung in die Spielpädagogik. Utb. 
+Henricks, T. S. (2006). Play Reconsidered. Sociological Perspectives on Human 
+Expression. University of Illinois Press.
+Henricks, T.S. (2008). The nature of play. An overview. American Journal of 
+Play, 157-180(2), pp. 133-167.
+Henricks, T. S. (2015). Play and the Human Condition. University of Illinois 
+Press.
+Huizinga, J. (1949) [1938]. Homo Ludens. A study of the play-element of culture. 
+Routledge & Kegan Paul.
+Ianes, D. & Canevaro A. (2016). Orizzonte inclusione. Idee e temi da vent’anni di 
+scuola inclusiva. Erikson. 
+Kaiser, A. & Seitz, S. (2017). Inklusiver Sachunterricht. Schneider Verlag.
+Lavega Burgués, P (2004). Traditional Games and Education. To learn to cre-
+ate Bonds. To create Bonds to learn. Studies in Physical Culture & Tourism, 
+70
+Berti
+XI(1), pp. 9-32. Manuzzi, P. (2002). Pedagogia del gioco e dell’animazione. Rif-
+lessioni teoriche e tracce operative. Guerini Studio. 
+Miola, S., Meggiolaro L., Rodighiero, M. P., Lago, C. D. & Bordignon D. (2021). 
+Gioco anch’io. Percorsi e strategie didattiche per l‘educazione fisica inclusiva. 
+Erikson.
+Montessori, M. (2013). La scoperta del bambino. Garzanti Editore. 
+Nesti, R. (2017). Game-based learning. Gioco e progettazione ludica in educazione. 
+Edizioni ETS.
+Parlebas, P. (1998). Jeux, sports et sociétés. Lexique de praxéologie mortice. INSEP.
+Parlebas, P. (a cura di) (2016). Jeux traditionelles, sports et patrimoine culturel. Cul-
+tures et education. L’Harmattan.
+Petillon, H. (2015). 1000 Spiele für die Grundschule: Von Adlerauge bis Zauber-
+baum. Beltz.
+Piaget, J. (1969). Il giudizio morale del fanciullo. Giunti.
+Prengel, A. (2006). Pädagogik der Vielfalt. Verschiedenheit und Gleichberechtigung 
+in Interkultureller, Feministischer und Integrativer Pädagogik. VS Verlag für 
+Sozialwissenschaften.
+Prengel, A. (2018). Pädagogik der Vielfalt. Inklusive Strömungen in der 
+Sphäre spätmoderner Bildung - In: Müller, Frank J. (Ed.), Blick zurück nach 
+vorn - WegbereiterInnen der Inklusion. Psychosozial-Verlag. Pp. 33-56.
+Salen, K. (a cura di) (2008). The Ecology of Games: Connecting Youth, Games, and 
+Learning. MIT Press.
+Schädler, U. (a cura di) (2007). Spiele der Menschheit – 5000 Jahre Kulturge-
+schichte der Gesellschaftsspiele. WBG.
+Schiller, F. (1967) [1793]. On the aesthetic education of man: In a series of letters. 
+Clarendon Press and Oxford University Press.
+Seitz, S. (2020). Dimensionen inklusiver Didaktik - Personalität, Sozialität und 
+Komplexität. Zeitschrift für Inklusion. 15(2). 
+Spariosu, M. (1989). Dionysus Reborn: Play and the Aesthetic Dimension in Mo-
+dern Philosophical and Scientific Discourse. Cornell University Press.
+Staccioli, G. (2008). Il gioco e il giocare. Elementi di didattica ludica. Carocci Edi-
+tore.
+Staccioli, G. (2010). Ludobiografia: raccontare e raccontarsi con il gioco. Carocci 
+Faber.
+71
+Pedagogia del gioco: il gioco inclusivo. 
+Riflessioni sulla scuola come spazio ludico 
+Sutton-Smith, B. (1997). The ambiguity of play. Harvard University Press.
+Sutton-Smith, B. (2008). Play Theory - A personal journey and new thoughts. 
+American Journal of Play, 1(1), pp. 82-125.
+Thibault, M. (2020). Ludosemiotica. Il gioco tra segni, testi, pratiche e discorsi. 
+Aracne.
+Wild, R. (2000). Educare per essere. Una scuola dalla parte dei bambini. Armando 
+Editore.

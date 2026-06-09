@@ -55,5 +55,17 @@ WHERE contains(file.folder, "Sulla disabilità")
 SORT file.name ASC
 ```
 
+## 🎢 Parchi gioco inclusivi
+```dataview
+TABLE 
+  localizzazione AS "📍 Luogo", 
+  ambito AS "🏛️ Ambito",
+  target AS "👥 Target",
+  caratteristiche AS "✨ Caratteristiche"
+FROM #casestudy
+WHERE contains(file.folder, "Parchi gioco inclusivi")
+SORT file.name ASC
+```
+
 ---
-**Ultimo aggiornamento:** 2026-06-07
+**Ultimo aggiornamento:** 2026-06-09

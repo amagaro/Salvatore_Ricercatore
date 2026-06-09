@@ -1,0 +1,5852 @@
+SPAZI APERTI PER TUTTI
+Linee guida per aree gioco inclusive intorno 
+all'esperienza di Gioco al Centro
+Anna Moro, Gianfranco Orsenigo
+con contributi di Elena Acerbi, Talita Medina Amaral
+Digita qui il testo
+Il presente docume nto racog
+lie gli esiti dell'attività “G
+ioco al C entro.  M
+onitoraggio e valutaz ione degli spaz i gioco  nella 
+cit tà di M
+ilano” realiz z ata dal D ipartimento di Ar chit
+ettura e S tudi U rbani D A S tU - P olitecnico 
+di M
+ilano con il cont rib uto di 
+F ondaz ione di C omunità M
+ilano.
+D ipartimento di Ar chit
+ettura e S tudi U rbani D
+AS
+tU - P olitecnico d
+i M
+ilano:
+Ann a M
+oro,  responsabile  del progetto;  G ianf ranco O
+rsenigo,  coor dinamento delle attività;
+ h anno cont ribuit o:  T alita 
+M
+edina Amar al,  esperta di progettaz ione urbana 
+e valutaz ione delle aree gioco;
+ E gidio G iurdanella con un f ocus  
+sull’ osservaz ione dei luoghi e delle pratiche
+ e restituz ione;  E lena A ce rbi co n un cont ribut o su aspetti di interaz ione e 
+restituz ione;  in collabor
+az ione con F
+rance sca C
+ognetti e A ndrea D i F ranco  co me esperti interni.
+F ondaz ione di C omunità M
+ilano C ittà,  Sud O
+vest,  Sud E
+st e A dda M
+artesana:
+F ilippo P etrolati,  M
+ilena L az z a.
+Il progetto G ioco al C entro -  P arch
+i G ioco per T utti è  stato realiz z ato tra il 2018 e il 2023 da F ondaz ione di C omunità 
+M
+ilano insieme al C omune di M
+ilano,  in collabor
+az ione con L 'abil ità O
+nlus,  A N F F A S M
+ilano,  I nter C ampus,  P io I stituto 
+dei Sor di,  U IC
+I U nione It aliana dei C iechi 
+e degli I povedenti O
+nlus,  U I L D M
+ U nione I taliana L otta alla D istroﬁa M
+usc olare e 
+F ondaz ione H ousing Sociale
+.
+G li autori del volume hanno con diviso l’ impostaz ione dell’ intero volume e la scr ittura del par.  7. 2 “D
+ieci princip i guida”  e 
+il cap .  8 “S
+trumenti per la valutaz ione di aree gioco incl usive” .  A  parte diversa indicaz
+ione speciﬁ
+ca ta nelle pagine,  i testi 
+sono da attribuir si agli autori co me segue.  
+Ad An na Mo
+ro:  “In troduz ione.  U na rice rca sulle f orme e il ruolo delle aree gioco incl usive del progetto G ioco al C entro” ,  
+cap .  1 “Il proce sso di realiz z az ione delle aree gioco e il co ntrib uto degli attori” ,  par.  5. 1 “R
+estituz ione dei questionari sulla 
+fr uiz ione delle aree” e 5. 2 “ A nnotaz ioni preliminari per la valutaz ione” ( testi) ,  cap .  6 “ V alutaz ione sintetica delle aree gioco ” ,  
+par.  7.1  “F
+orma e ruolo delle L inee G uida” e  “ N ota concl
+usiva.  Sp az i e abil ità ” .
+A  Gi anfranco Ors
+enigo:  cap .  3 “L
+e aree gioco da v icino e  nel co ntesto” e  cap .  4 “L
+e aree gioco  e la relaz ione con l a cit tà ” .
+Ad E lena Ac erbi le restituz ioni delle interviste del par.  1. 3 “I nterlocuz
+ione con i soggetti coinv olti nel progetto:  restituz ione 
+delle interviste” e  le sche
+de del par.  5.1  “R
+estituz ione dei questionari sulla f ruiz ione delle aree” .
+A  Talita Me
+dina i par.  2.2  “C
+asi di parchi 
+gioco inc lusivi realiz z ati” e 2. 3 “D
+ocum enti,  rice rch
+e e soggetti attivi” ,  le sch
+ede 
+del par.  5.2  “ Ann otaz ioni preliminari per la valutaz ione” .
+P rogetto graﬁco  e impaginaz ione del volume:  E lena Ac erbi.
+F otograﬁe:  E gidio G iurdanella,  An na Mo
+ro,  T alita M
+edina,  G ianfranco Or
+senigo.
+L e rappresentaz ioni cont enute nei ca p.  3 e 4 sono a c ura di G ianfranco Or
+senigo ed E gidio G iurdanella.  L e rappresentaz ioni 
+del cap .  1 sono a cu ra di E lena Ac erbi.  G li sche
+mi cont enuti nel cap .  7 sono a cur a di T alita M
+edina.
+Si r ingraz iano per la collabor
+az ione e lo scambio:
+ M
+ilena L azza e F ilippo P etrolati,  F ondaz ione di C omunità M
+ilano.
+Si ringraz iano per la disponibi lità data attraverso le interviste:  S imonetta V enosta e L udovico Da P rato,  F ondaz ione 
+H ousing Sociale
+;  R ossella Collina,  AN
+F
+AS;
+ L aura B orghetto,  L 'abil ità;
+ M
+arco R asconi,  U I L D M
+;  M
+artina G erosa,  P io I stituto 
+dei Sor di;  Mi
+chela B ellodi,  La C ordata;  Ma
+rco Colombo B olla,  Carlotta Calò  e L ia G allo,  C ampo T eatrale;  M
+arco Z andrini e 
+L etizia P ezzoli,  C onsorz io SiR;
+ Ma
+rtina T esta e S imone Cucchetti,  C ooperativa Social
+e N uova U manità;
+ per le testimonianz e 
+scr itte:  Inter Campus,  Mi
+chela V assena U IC
+I e  L a No stra Comunità .
+!"#$%&#"'()%&"'(&)*))%
+!"#$$%&'"()%*$+%)+$$%&",-,%"#-.'/"0$%"#1,+#,%
+)..2$/*$+"$#3)%("%4",-,%).%5$#1+,
+!""#$%&'&($)*#"+'#",&$-'./"*0&
+,&"$,&"1'*231*$4*$56/"#$!,/'2*($7#6*1#$%/4*"#$!8#'#6
+ISB
+N  978- 88- 916- 7508- 8
+D O
+I 1 0.3 0448/U N I.9 16.7 5088
+©
+ Copy right 2 0 2 4  Ma
+ggioli S .p.A.
+M
+aggioli Edit ore è  un marchio di M
+aggioli S.p
+.A.
+Az
+ienda con s istema qualità ce
+rtiﬁca to ISO
+ 9001: 2015
+47822 Sant arcang elo di R omagna ( RN
+)  • V ia del C arpino,  8
+T el.  0541/628111 • F
+ax 0 541/622595
+w w w .mag giolieditore.it
+e- mail:  clie nti.e ditore@
+maggioli.it
+D iritti di traduz ione,  di memoriz z az ione elettronica,  di riproduz ione e 
+di adattamento,  totale o parz iale,  con quals iasi mez z o sono riservati 
+per tutti i P aesi.
+Il ca talogo comple to è  disponibile  su w w w .ma ggiolieditore.it  e 
+w w w .t he plan.it
+!"#$%&#"'()%&"'(&)*))%
+Garantire il diritto al gioco di ogni bambina e bambino 
+di Milano è un impegno che Fondazione di Comunità 
+Milano porta avanti, in stretta sinergia con l'Assessorato 
+all'Ambiente e al Verde del Comune di Milano, dalla 
+primavera 2018, quando è stato inaugurato il primo 
+parco accessibile del progetto “Gioco al Centro - Parchi 
+gioco per Tutti”. Abbiamo voluto avviare il percorso di 
+attività della Fondazione partendo proprio dai bambini, 
+individuando nel diritto al gioco per tutti una priorità 
+d’interesse generale. Da allora, nonostante la pandemia, 
+sono stati già realizzati otto parchi gioco e il progetto 
+si completerà a giugno 2023 con l’ultimo parco giochi 
+inclusivo presso i Giardini di Santa Maria alla Fontana nel 
+Municipio 9.
+In questi anni abbiamo appreso molto grazie ad un 
+grande lavoro di coprogettazione con diverse realtà. 
+La progettazione di ogni area giochi accessibile ha 
+comportato l’esame dell’Assessorato all’Ambiente e 
+Verde del Comune di Milano per gli aspetti urbanistici 
+e la condivisione con le Associazioni Delegate al Tavolo 
+permanente Disabilità. Il lavoro si è avvalso dell’esperienza 
+pedagogica de L’abilità onlus, delle competenze di 
+ANFFAS, Pio Istituto dei Sordi, UILDM e LEDHA Milano, 
+UICI e dell’esperienza internazionale di Inter Campus. 
+È stato un impegno molto importante e necessario, perché 
+in Italia ci sono pochissimi parchi gioco accessibili. Insieme 
+anche a Fondazione Housing Sociale abbiamo cercato di 
+ideare aree gioco secondo la cosiddetta “progettazione 
+universale”, ovvero la progettazione di prodotti, strutture 
+e servizi utilizzabili da tutte le persone, nella misura più 
+estesa possibile, senza il bisogno di adattamenti o di 
+progettazioni specializzate, per una vera condivisione 
+dell’esperienza di gioco. La struttura e la scelta dei giochi 
+si sono infatti basati su criteri ludici ed ergonomici che 
+5)+.,%6)+-7$11"
+!"#$%&#'(#)*+'&,-%+'#)&%).+/0'%(1)2%3,'+
+hanno portato a selezionare strutture idonee ad assicurare 
+l’accessibilità ai bambini con diverse disabilità – motoria, 
+intellettiva, visiva, uditiva – per favorire il gioco inclusivo.
+Per far crescere il progetto “Gioco al Centro - Parchi gioco 
+per Tutti” abbiamo incoraggiato la solidarietà di tutta la 
+comunità, attivando un Fondo Solidale per raccogliere le 
+donazioni di privati cittadini, di imprese ed enti che hanno 
+condiviso le ﬁnalità del progetto.
+Fondazione di Comunità Milano ha inoltre promosso lo 
+sviluppo di iniziative di animazione e cura dei parchi giochi 
+inclusivi realizzati, volte a rafforzare le reti di solidarietà e 
+di condivisione presenti sul territorio. Attraverso le attività 
+proposte, oltre a promuovere l’inclusione delle bambine 
+e dei bambini con disabilità e delle loro famiglie, abbiamo 
+voluto offrire occasioni di informazione alla cittadinanza 
+rispetto al tema della disabilità e sostenere la presenza 
+attiva degli abitanti per innescare processi di presidio 
+comunitario degli spazi.
+Inﬁne, non potevano mancare percorsi di sensibilizzazione 
+nelle scuole sul tema della disabilità e sui processi di 
+inclusione, occasioni di confronto sui valori del rispetto, 
+della solidarietà e dell’inclusione in vista di un maggiore 
+benessere sociale.
+“Gioco al Centro - Parchi gioco per Tutti” è un grande 
+progetto corale, non ci siamo limitati a costruire nuove 
+aree gioco inclusive, ma ci siamo impegnati soprattutto a 
+far crescere nelle nuove generazioni la consapevolezza del 
+rispetto dell’altro e, nel contempo, abbiamo contribuito 
+ad attivare la solidarietà e a ricostruire le nostre comunità.
+89:;<=>?@:
+4'&%5#
+6
+78
+79
+76
+7:
+99
+9;
+;9
+;<
+6=
+67
+89:;<=>?@:
+.,"3+)2,"5>#((%?)!"#$%&#'(#)*+'&,-%+'#)&%).+/0'%(1)2%3,'+
+>@A9?BC=>?@:
+@',)"%5#"5,)$033#)A+"/#)#)%3)"0+3+)&#33#),"##)B%+5+)%'530$%C#)&#3)D"+B#((+)EF%+5+),3).#'("+G
+)
+HIJ4KLI)4
+)
+MN4L4J4OP4QO)I)4)R4*IR42ILP4
+7)S%>!%89?5:DD?%B>%9:<!>==<=>?@:%B:!!:%<9::%4>?5?%:%>!%5?@A9>ECA?%B:4!>%<AA?9>
+)
+7T7)@')D,"5+)D#")20'%5%D%+U)D"#$#'(,-%+'#)D"#3%/%',"#)&#33#),"##
+)
+7T8)M,)"%5+$("0-%+'#)&#3)D"+5#$$+U)&,33,)%&#,-%+'#),33,)"#,3%--,-%+'#)
+)
+7TV)4'(#"3+50-%+'#)5+')%)$+BB#((%)5+%'C+3(%)'#3)D"+B#((+U)"#$(%(0-%+'#)&#33#)%'(#"C%$(#
+8)S)<9::%4>?5?%>@5!CD>F:G%89?4:AA>H%6<@C<!>%:%9>5:95I:%
+)
+8T7)@',)"%5+B'%-%+'#)&#%)D"%'5%D,3%)"%A#"%/#'(%)',-%+',3%)#&)%'(#"',-%+',3%
+)
+8T8).,$%)&%)D,"5>%)B%+5+)%'530$%C%)"#,3%--,(%
+)
+8TV)W+50/#'(%?)"%5#"5>#)#)$+BB#((%),((%C%
+)
+HIJ4KLI)44
+)
+MI)ORII)W4)F4K.K)OM).ILPRK
+V)S%!:%<9::%4>?5?%B<%F>5>@?%:%@:!%5?@A:DA?
+VT7)F3%)#3#/#'(%)5>#)5+/D+'B+'+)3,)3#((0",)&#33#),"##
+)
+VT8)M#((0"#)&#33#)'+C#),"##
+)
+)))))))H5>#&#),',3%(%5>#
+H!OJ4)O!IRP4)!IR)P@PP4
+9)S)!:%<9::%4>?5?%:%!<%9:!<=>?@:%5?@%!<%5>AAJ
+)
+9T7)M#),"##)B%+5+)%')"#3,-%+'#),)&+(,-%+'%)/,(#"%,3%)#)$#"C%-%)0"X,'%
+)
+9T8)M,)D+$%-%+'#)#)3#)"#3,-%+'%)5+')%)$#"C%-%?)3,)/+X%3%(1)#)3,)Y5%((1)D0XX3%5,Y
+;)4%!:AAC9<%>66:9D>F<%:%>@A:9<=>?@>%@:!!:%<9::%4>?5?
+)
+;T7)R#$(%(0-%+'#)&#%)Z0#$(%+',"%)$033,)A"0%-%+'#)&#33#),"##
+)
+)))))))H5>#&#)Z0#$(%+',"%
+)
+;T8)O''+(,-%+'%)D"#3%/%',"%)D#")3,)C,30(,-%+'#
+)
+)))))))H5>#&#),''+(,-%+'%
+)
+)
+6)S)F<!CA<=>?@:%D>@A:A>5<%B:!!:%<9::%4>?5?
+)
+H5>#&#)C,30(,(%C#)&#33#)'+C#),"##
+)
+HIJ4KLI)444
+)
+IH4P4)I)!RKWKPP4)WIMMO)R4.IR.O
+[ S)!>@::%4C>B<%8:9%!<%9:<!>==<=>?@:%B>%<9::%4>?5?%>@5!CD>F:
+[T7)*+"/,)#)"0+3+)&#33#)M%'##)F0%&,
+)
+[T8)W%#5%)D"%'5%D%)B0%&,
+<)4%DA9C6:@A>%8:9%!<%F<!CA<=>?@:%B>%<9::%4>?5?%>@5!CD>F:
+)
+4'&%5,(+"%)#)$5>#&#)&%)C,30(,-%+'#)
+)
+)
+@?A<%5?@5!CD>F<
+HD,-%)#),X%3%(1
+78[
+78<
+7V[
+)7;9
+7[7
+7<6
+7<<
+7:7
+8=9
+87=
+!"#$%&#"'()%&"'(&)*))%
+!
+C#)%+"-$+-)%/'..$%K,+L$%$%".%+',.,%($..$%
+)+$$%&",-,%"#-.'/"0$%($.%*+,&$11,%M4",-,%).%
+5$#1+,M
+9:7;-<=>9-:5
+Un prodotto di ricerca rivolto a più soggetti
+I l presente volume c ostituisc e l’ esito della ric erc a Gioco al 
+Centro. Monitoraggio e valutazione degli spazi gioco nella 
+città di Milano,  ﬁnaliz z ata a rac c ogliere e sistematiz z are dati,  
+osservaz ioni e analisi sulle aree gioc o inc lusive realiz z ate 
+dalla F ondaz ione di C omunità  M
+ilano tra aprile 2018 e 
+giugno 2023.  L ’ attività  di ric erc a si è  svolta tra l’ estate e 
+l’ autunno 2021 e l’ estate 2022,  in un c ontesto in c ui c irc a la 
+metà  delle aree era già  stata realiz z ata o progettata.  C iò  h a 
+reso possibi le un c onf ronto diretto c on le nuove progettualità  
+in c orso,  c ontrib uendo a ottimiz z arne l’ ef ﬁc ac ia attraverso un 
+dialogo c ostante c on i soggetti c oinvolti.
+L ’ indagine h a of f erto un’ oc c asione di c onf ronto tra una pluralità  
+di attori,  c onsentendo di veriﬁc are non solo il raggiungimento 
+degli ob iettivi progettuali,  ma anc h e l’ ef ﬁc ac ia dei f ormat 
+c omunic ativi e dei linguaggi adottati.  I  princ ipali interloc utori 
+sono stati le istituz ioni pub b lic h e,  c ome il C omune di M
+ilano 
+e le M
+unic ipalità  loc ali,  insieme alla F ondaz ione di C omunità  
+M
+ilano,  promotric e e sostenitric e del progetto.  H anno 
+inoltre preso parte all'indagine assoc iaz ioni del territorio e,  
+indirettamente,  le f amiglie dei potenz iali f ruitori,  f ornendo 
+elementi utili alla valutaz ione delle aree gioc o.
+I l volume rappresenta il princ ipale output della ric erc a e si 
+c onﬁgura c ome uno strumento operativo rivolto a diversi 
+destinatari:  istituz ioni pub b lic h e,  potenz iali promotori di 
+iniz iative analogh e;  soggetti privati,  interessati a sostenere 
+ﬁnanz iariamente progetti inc lusivi attraverso il gioc o;  e 
+operatori esperti,  c ome assoc iaz ioni e prof essionisti soc io-
+sanitari,  il c ui c ontrib uto,  pur non direttamente legato agli 
+aspetti tec nic i della progettaz ione,  si rivela determinante per 
+la qualità  e la f ruib ilità  degli spaz i.  L a nec essità  di rispondere 
+a esigenz e c omunic ative eterogenee h a ric h iesto un’ attenta 
+elab oraz ione dei c ontenuti graﬁc i e testuali,  b ilanc iando 
+rigore tec nic o- sc ientiﬁc o e c h iarez z a divulgativa,  elementi 
+distintivi della ric erc a Gioco al Centro.
+"
+>@A9?BC=>?@:
+Componenti del progetto di 
+ricerca e attività
+COMPRENSIONE DEI PROGETTI
+(spazi e processi)
+OSSERVAZIONE
+PRATICHE ed USI DEI LUOGHI
+RICOSTRUZIONE DELLA 
+SPECIFICITA' DEL TEMA
+. interlocuzione costante
+con Fondazione di
+Comunità Milano
+. ricostruzione del quadro
+normativo vigente;
+. sopralluoghi nei contesti dei
+playgrounds;
+. sopralluoghi nei contesti dei
+playgrounds;
+. letture delle risorse e criticità
+dei luoghi (attivate e attivabili);
+. lettura dei caratteri peculiari
+dei singoli playgrounds;
+. ricostruzione processo
+ideativo e realizzativo;
+. sopralluoghi nei playgrounds
+. sopralluoghi nei playgrounds
+. interviste a stakeholders che
+si occupano di disabilità;
+. interlocuzioni dirette con i 
+fruitori dei playgrounds;
+. individuazione di best practice
+nazionali e internazionali
+. interlocuzione con alcuni
+attori locali coinvolti;
+L’oggetto di indagine: spazi gioco inclusivi
+P er introdurre adeguatamente la ric erc a negli aspetti di 
+progettaz ione,  monitoraggio e valutaz ione delle aree gioc o 
+ac c essibi li ai b amb ini c on disab ilità ,  è  f ondamentale c h iarire 
+il signiﬁc ato e alc une spec iﬁc ità  dell’ oggetto di studio.  S i 
+tratta di un materiale dello spaz io urb ano pub b lic o c h e 
+c omprende le aree attrez z ate e dedic ate al gioc o di b amb ine 
+e b ambi ni,  progettate per garantire un’ elevata ac c essib ilità  a 
+tutte le utenz e,  c on partic olare attenz ione alle persone c on 
+disabi lità .
+L e aree gioc o inc lusive rientrano nella più ampia c ategoria 
+delle “ aree per spaz i pub b lic i attrez z ati a parc o e per il gioc o 
+e lo sport” ,  c ome deﬁnito dal D . M
+.  2 aprile 1968,  n.  1444.  I l 
+dec reto deﬁnisc e le z one omogenee,  stab ilisc e le distanz e 
+tra i f ab b ric ati e le densità  ediliz ie,  oltre alle dotaz ioni 
+!"#$%&#"'()%&"'(&)*))%
+#
+minime di spaz i e serviz i pub b lic i.  I n quanto tali,  le aree 
+gioc o inc lusive c ostituisc ono a pieno titolo una dotaz ione 
+di standard urb anistic i e possono essere c onsiderate parte 
+integrante della rete pub b lic a della c ittà .
+P er c omprendere meglio le c aratteristic h e di questi 
+spaz i a serviz io,  è  utile f are ad ogni modo rif erimento alla 
+C lassiﬁc az ione I nternaz ionale del F unz ionamento,  della 
+D isabi lità  e della S alute ( I C F ) ,  promossa dall’ O
+rganiz z az ione 
+M
+ondiale della S anità  nel 2018.  L a c lassiﬁc az ione,  desc ritta 
+in dettaglio nei rif erimenti del volume,  analiz z a le relaz ioni 
+tra l’ individuo e l’ amb iente attraverso quattro c ategorie:
+1.  f unz ioni e strutture del c orpo –  aspetti medic o- sanitari 
+legati alla mente,  alla voc e e al movimento;
+2.  attività  e partec ipaz ione –  dimensioni legate al b enessere 
+psic o- ﬁsic o,  c ome l’ apprendimento,  le relaz ioni interpersonali 
+e la c ura della persona;
+3.  f attori amb ientali –  elementi esterni c h e inﬂuenz ano 
+l’ esperienz a dell’ individuo,  tra c ui l’ amb iente c ostruito,  il 
+c ontesto c ulturale e le normative politic h e;
+4.  f attori personali –  c aratteristic h e individuali c ome genere,  
+età ,  personalità  ed educ az ione.
+I n sintesi,  le c ondiz ioni e le c aratteristic h e dell’ amb iente 
+gioc ano un ruolo determinante nel f ac ilitare o ostac olare la 
+f ruiz ione degli spaz i,  inﬂuenz ando direttamente la possib ilità  
+di svolgere attività  e di vivere una vita soc iale soddisf ac ente.  
+Q
+uesta prospettiva attrib uisc e alla progettaz ione dello 
+spaz io un ruolo c ruc iale,  poic h é  determina il livello di 
+c oinvolgimento,  partec ipaz ione e integraz ione delle persone 
+nel proprio amb iente di vita.
+Gli obiettivi e le attività di ricerca
+U na volta delineato l'oggetto della ric erc a,  si proc ede 
+alla deﬁniz ione degli ob iettivi,  al ﬁne di inquadrare le 
+attività  desc ritte nel volume.  L ’ analisi e la valutaz ione 
+delle aree gioc o inc lusive h anno perseguito un duplic e 
+sc opo:  da un lato,  f ar emergere le c onosc enz e prodotte 
+nei proc essi di realiz z az ione degli spaz i gioc o;  dall’ altro,  
+desc rivere le c aratteristic h e degli spaz i e le modalità  d’ uso,  
+individuandone c ritic ità  ed elementi signiﬁc ativi sia in una 
+prospettiva puntuale,  sia in relaz ione al c ontesto urb ano più 
+ampio.  L e operaz ioni di ric erc a h anno inteso f ornire spunti e 
+indic az ioni utili alla progettaz ione degli interventi suc c essivi 
+$
+>@A9?BC=>?@:
+previsti nell’ amb ito della stessa iniz iativa,  ma anc h e aprire a 
+nuove opportunità  progettuali.
+L ’ attività  h a avuto inoltre l’ ob iettivo di c omporre una 
+riﬂessione più ampia sulle f orme e il ruolo di un progetto 
+inc lusivo dedic ato a c ategorie f ragili e veic olato attraverso 
+una dimensione esperienz iale e ludic a della relaz ione c on la 
+c ittà .  I l volume riﬂette il c arattere inc rementale e sperimentale 
+del proc esso,  c h e si è  evoluto progressivamente ﬁno 
+alla c onﬁguraz ione ﬁnale attuale:  nel c orso dello studio,  
+l’ analisi e la desc riz ione degli spaz i h anno sollevato nuove 
+domande,  rendendo nec essari ulteriori approf ondimenti.  
+T ale approc c io h a permesso di mettere in luc e elementi 
+f ondamentali per la progettaz ione di spaz i gioc o e,  più in 
+generale,  di spaz i pub b lic i realmente inc lusivi e ac c essib ili a 
+360 gradi.
+C ome desc ritto nelle pagine suc c essive,  il lavoro h a seguito 
+un perc orso artic olato in diverse f asi.  I n una prima f ase,  tra 
+l’ estate e l’ autunno del 2021,  sono stati c ondotti inc ontri 
+c onosc itivi c on le assoc iaz ioni c oinvolte nel progetto e una 
+prima c ampagna di sopralluogh i.  I n questa f ase sono stati 
+somministrati questionari,  ef f ettuati rilievi e mappature,  
+elabo rati ridisegni,  rac c olti c asi studio e rif erimenti 
+signiﬁc ativi,  c on una c ostante interaz ione c on i ref erenti 
+della F ondaz ione di C omunità  M
+ilano.  N ella f ase suc c essiva,  
+tra l’ inverno 2021 e l’ estate 2022,  il lavoro si è  f oc aliz z ato 
+su una sec onda c ampagna di sopralluogh i,  ﬁnaliz z ata ad 
+approf ondimenti mirati,  sull’ interaz ione c on esperti del 
+settore,  sulla c onc lusione della rac c olta di c asi studio e 
+rif erimenti,  e sulla redaz ione delle linee guida.  L ’ attività  di 
+monitoraggio e valutaz ione h a riguardato in dettaglio i primi 
+sette parc h i realiz z ati,  mentre per i due suc c essivi è  stata 
+predisposta una restituz ione sintetic a.
+La  ric erc a si è  c onc lusa c on la presentaz ione dei risultati 
+ﬁnali in un evento pub b lic o organiz z ato da F ondaz ione di 
+C omunità  M
+ilano e rivolto alle istituz ioni loc ali ( 26 maggio 
+2023) .  U n aspetto di partic olare valore è  stata la c ostante 
+c ollabo raz ione tra tutti i soggetti c oinvolti nel progetto 
+G ioc o al C entro:  il dialogo c ontinuo h a f avorito un’ ef f ettiva 
+integraz ione delle c ompetenz e,  c ontrib uendo a un esito più 
+ef ﬁc ac e e rilevante per le f uture pratic h e di trasf ormaz ione 
+degli spaz i urb ani.
+!"#$%&#"'()%&"'(&)*))%
+%&
+Guida alla lettura
+I l volume è  c ostituito di tre sez ioni.  L a prima,  L’iniziativa e i 
+riferimenti,  di c arattere preliminare,  si c onc entra sull'oggetto 
+della ric erc a.  N el primo c apitolo,  Il processo di realizzazione 
+delle aree gioco e il contributo degli attori,  viene ric ostruito 
+il perc orso di ideaz ione e realiz z az ione delle aree gioc o nel 
+tempo,  evidenz iando il ruolo dei diversi attori c oinvolti e 
+l’ interessante dinamic a di apprendimento c h e h a c aratteriz z ato 
+il progetto realiz z ato da F ondaz ione di C omunità  M
+ilano.  
+V iene inoltre analiz z ato c ome il proc esso di progettaz ione si 
+sia sviluppato attraverso f orme di dialogo e c o- disegno tra le 
+parti.  Q
+uesto c apitolo è  l’ esito dell’ interloc uz ione del gruppo 
+di lavoro del D A S tU  c on F ondaz ione di C omunità  M
+ilano 
+e c on le diverse assoc iaz ioni c oinvolte nella realiz z az ione 
+e nell'animaz ione dei parc h i,  c h e si sono prestate ad uno 
+sc ambi o approf ondito sul ruolo della loro c ollab oraz ione.  
+P arallelamente,  il sec ondo c apitolo,  Aree gioco inclusive: 
+progetti, manuali e ricerche,  amplia il c ontesto del tema a 
+livello naz ionale e internaz ionale,  attraverso una rac c olta 
+bi bl iograﬁa di rif erimenti e la selez ione di doc umenti e c asi 
+studio di parc h i c h e h anno esplorato in modo originale 
+il tema del gioc o inc lusivo.  L e letture c ritic h e di questi 
+materiali c ostituisc ono un arc h ivio aperto,  susc ettib ili di 
+aggiornamenti f uturi.  
+La  sec onda sez ione,  Le aree di Gioco al Centro,  è  dedic ata 
+alla desc riz ione delle aree del progetto G ioc o al C entro.  I l 
+terz o c apitolo,  Le aree gioco inclusive da vicino e nel contesto,  
+of f re una desc riz ione dettagliata delle aree,  c onsiderando la 
+c onﬁguraz ione spaz iale,  le dotaz ioni presenti,  l’ ac c essib ilità  
+e la relaz ione c on gli spaz i di prossimità .  L e nove aree 
+gioc o –  tante quante i M
+unic ipi milanesi –  sono osservate 
+entro mappature selettive delle princ ipali dotaz ioni urb ane,  
+esplorando relaz ioni esistenti o potenz iali c on il territorio 
+c irc ostante,  c on maggiore dettaglio nelle prime sette.  I l 
+quarto c apitolo,  Le aree gioco e la relazione con la città,  
+osserva la c olloc az ione delle aree gioc o realiz z ate nella c ittà  
+nel suo c omplesso.  C iò  permette di individuare porz ioni di 
+tessuto urb ano ad una sc ala intermedia,  variab ile per i diversi 
+c asi,  entro c ui viene deﬁnito il c ontesto di rif erimento per 
+c iasc una area in c ui spic c ano spaz i a verde,  sc uole,  serviz i 
+soc io- sanitari,  aree residenz iali,  perc orsi di mob ilità  lenta 
+e punti di ac c esso al trasporto pub b lic o.  I l quinto c apitolo,  
+%%
+>@A9?BC=>?@:
+Lettura immersiva e interazioni nelle aree gioco,  restituisc e 
+gli esiti delle interloc uz ioni c on i f ruitori dei luogh i,  attraverso 
+sc ambi  libe ri e questionari strutturati,  e rac c oglie annotaz ioni 
+e c onsideraz ioni derivate dal monitoraggio degli usi e da un 
+c onf ronto preliminare c on altre realiz z az ioni e c asi studio.  
+I l sesto c apitolo,  Valutazione sintetica delle aree gioco,  
+evidenz ia per le prime sette aree realiz z ate le princ ipali 
+c aratteristic h e positive,  suggerisc e ac c orgimenti puntuali 
+per migliorarne la f ruib ilità  e solleva alc une questioni aperte,  
+of f rendo spunti per ulteriori sviluppi del tema del gioc o 
+inc lusivo.
+La  terz a sez ione,  Esiti e prodotti della ricerca,  rac c oglie i 
+princ ipali risultati della ric erc a,  entro un perc orso,  si è  detto,  
+di apprendimento,  b asato sull’ osservaz ione e valutaz ione 
+c ondotta dal gruppo di ric erc a del D AS
+tU .  I l settimo c apitolo,  
+Linee guida per la realizzazione di aree gioco inclusive,  
+propone uno strumento utile per orientare la progettaz ione 
+di aree gioc o ac c essib ili e ac c oglienti per tutti,  of f rendo 
+una prospettiva evolutiva per il progetto e indic ando 
+spunti applic ab ili a nuove trasf ormaz ioni.  L e L inee G uida 
+individuano temi prioritari c h e dovreb b ero orientare la 
+progettaz ione di aree gioc o inc lusive seguiti da un dec alogo 
+di indic az ioni puntuali,  essenz iali ma non esaustive.  L 'ottavo 
+c apitolo,  Strumenti per la valutazione di aree gioco inclusive,  
+strettamente c onnesso al prec edente,  identiﬁc a i princ ipali 
+indic atori da c onsiderare nella valutaz ione di spaz i gioc o 
+aperti e ac c essib ili,  organiz z andoli in quattro sc h ede 
+predeﬁnite c h e c ompongono un toolk it valutativo.
+I l volume si c onc lude c on una Nota conclusiva. Spazi e abilità,  
+c h e sottolinea il valore pub b lic o e l'importanz a strategic a 
+dello spaz io ac c essib ile,  in grado di ac c ogliere tutte le 
+c ompetenz e e dare valore alle diverse ab ilità  di c iasc uno.  L a 
+progettaz ione di luogh i ac c oglienti non si limita ad aspetti 
+tec nic i,  ma implic a una c onsapevolez z a e una determinaz ione 
+nel promuovere equità  e b enessere c ollettivo,  dove gli 
+spaz i pub bl ic i inc lusivi si c onﬁgurano c ome strumenti 
+f ondamentali per f avorire l’ interaz ione,  l’ apprendimento e la 
+partec ipaz ione di tutte le persone,  indipendentemente dalle 
+loro c aratteristic h e o c ondiz ioni.
+L'INIZIATIVA E I RIFERIMENTI 
+SEZIONE I
+1
+1.1 Un parco per Municipio: presentazione preliminare delle aree
+1.2 La ricostruzione del processo: dalla ideazione alla 
+       realizzazione 
+1.3 Interlocuzione con i soggetti coinvolti nel progetto: 
+       restituzione delle interviste
+ 
+ 
+- Fondazione Housing Sociale
+ 
+- ANFFAS
+ 
+- L’abilità, UILDM
+ 
+- Pio Istituto dei Sordi
+ 
+- Inter Campus
+ 
+- UICI
+ 
+- La Cordata
+ 
+- Campo Teatrale
+ 
+- Consorzio SiR
+ 
+- Coopertiva Sociale Nuova Umanità
+ 
+- La Nostra Comunità
+IL PROCESSO DI REALIZZAZIONE 
+DELLE AREE GIOCO E IL 
+CONTRIBUTO DEGLI ATTORI
+!"#$%&#"'()%&"'(&)*))%
+%'
+!"#$%&
+'$(')*
++&,,&-.#&
++&,,&-.#&
+NON%C#%*)+-,%*$+%6'#"-"*",G%*+$/$#1)3",#$%
+*+$."L"#)+$%($..$%)+$$
+P orta V enezia
+M
+unicipio 1
+Ap rile 2018
+250 mq
+S an S iro
+M
+unicipio 7
+Se ttembr e 2019
+1.4 00 mq
+S ant'E
+rlembardo
+M
+unicipio 2
+G iugno 2019
+280 mq
+F eltre
+M
+unicipio 3
+Se ttembr e 2020
+800 mq
+!"#$%"&"'()*#$+,,"
+-
+!"#$%"&"'.#$/"&+//"
+0
+!"#$%"&"'%"'1",,#'2"&3"
+4
+5 !"#$%"&"'.6&/#&+,,"
+I l progetto “ G ioc o al C entro”  realiz z a i nove spaz i gioc o 
+inc lusivi a partire dal 2018,  c on un primo intervento nel c uore 
+della c ittà  di M
+ilano,  attraverso un perc orso c h e toc c h erà  tutti 
+i M
+unic ipi e si è  c onc luso nel giugno 2023,  sec ondo l'ordine 
+di seguito desc ritto.
+1.  G iardini M
+ontanelli ( M
+unic ipio 1,  q. re P orta V enez ia)  –  
+integraz ione di un’ area gioc h i esistente in un parc o pub b lic o.
+2.  G iardini di V illa F inzi ( M
+unic ipio 2,  q. re S ant'E rlemb ardo/
+G orla)  –  nuova realiz z az ione all'interno di un parc o pub b lic o.
+3.  G iardini M
+artinetti ( M
+unic ipio 7,  q. re S an S iro)  –  giardino 
+esistente,  molto interc luso f ra le c ase,  era un parc o gioc h i 
+molto utiliz z ato ma c h e nec essitava di essere ristrutturato e 
+rinnovato.
+4.  G iardini L ucarelli ( M
+unic ipio 3,  q. re F eltre)  –  ristrutturaz ione 
+di un parc o gioc h i esistente degradato e poc o utiliz z ato.  
+2 0 1 9
+2 0 1 8
+2 0 2 0
+!"#$%"&"'()*#$+,," -
+!"#$%"&"'.#$/"&+//"
+0
+!"#$%"&"'%"'1",,#'2"&3"
+4
+5 !"#$%"&"'.6&/#&+,,"
+%(
+/&..#!$*
++&,,&-.#&
++&,,&-.#&
+-!#0*
+)*1&-.#&
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+2 0 2 1
+2 0 2 2
+2 0 2 3
+!"#$%"&"'%"'7#&/#'.#$"#'#,,#'26&/#&#
+!"#$%"&"'%"'89"+:#';6::#
+!"#$%"&"'%"'
+<"#33#'=>"%"6
+?
+@
+!"#$%"&"'A+$/6,"
+B
+!"#$%"&"'%"'
+<"#33#'C#*"
+D
+E
+Ma
+ciachini
+M
+unicipio 9
+Settembre 2023
+1.6 00 mq
+!"#$%"&"'%"'7#&/#
+.#$"#'#,,#'26&/#&#
+E
+B arona
+M
+unicipio 6
+F ebr
+aio 2021
+530 mq
+F orlanini
+M
+unicipio 4
+M
+arz o 2022
+2.3 00 mq
+Ga llaratese
+M
+unicipio 8
+Se ttembr e 2021
+2.0 00 mq
+Chiesa R ossa
+M
+unicipio 5
+N ovembr e 2022
+2.2 00 mq
+!"#$%"&"'%"'89"+:#';6::#
+!"#$%"&"'%"'<"#33#'=>"%"6
+?
+@
+!"#$%"&"'A+$/6,"
+B
+!"#$%"&"'%"'<"#33#'C#*"
+D
+L inea del tempo delle 
+realizzazioni dei parchi 
+di “Gi
+oco al Centro”
+5.  G iardini di piazza P aci ( M
+unic ipio 6,  q. re B arona/
+S ant’ Am br ogio)  –  trasf ormaz ione di un’ aiuola adiac ente a 
+una piaz z a pavimentata.
+6.  G iardini B ertoli ( M
+unic ipio 8,  q. re G allaratese)  –  era un 
+prato,  parte del progetto di riqualiﬁc az ione della S pina 
+verde del G allaratese.
+7.  G iardini di piazza O
+vidio ( M
+unic ipio 4,  q. re F orlanini)  –  
+ristrutturaz ione di un parc o gioc h i esistente poc o utiliz z ato,  
+su una via traf ﬁc ata e c on of f erta sc arsa.
+8.  G iardini di Chiesa R ossa ( M
+unic ipio 5,  q. re C h iesa R ossa/
+S tadera)  –  nuova realiz z az ione e ampliamento di un'area 
+gioc h i esistente all'interno di un parc o pub b lic o.
+9.  G iardini di S anta M
+aria alla F ontana ( M
+unic ipio 9,  q. re 
+M
+ac iac h ini/F arini)  –  nuova realiz z az ione all'interno di un 
+parc o publ
+ic o.
+!"#$%&#"'()%&"'(&)*))%
+%!
+NOP%!)%+"-,/1+'3",#$%($.%*+,-$//,G%()..)%
+"($)3",#$%)..)%+$)."33)3",#$
+La  ric ostruz ione di un quadro c onosc itivo del proc esso di 
+ideaz ione e realiz z az ione degli interventi c osì  c ome del panel 
+di attori c oinvolti è  stato determinante per c omprendere 
+e meglio c olloc are gli esiti spaz iali e di f ruiz ione dei 
+play ground,  diversiﬁc ati tra loro in relaz ione agli ob iettivi e 
+alle risorse mob ilitate.  
+N el c orso del proc esso promosso da “ G ioc o al C entro”  
+attraverso le diverse realiz z az ioni,  è  inf atti emerso c ome 
+sia possib ile interpretare il disegno dello spaz io inc lusivo 
+artic olando e predisponendone le dotaz ioni per essere più 
+o meno ac c ogliente in relaz ione a diverse disab ilità ,  o ab ilità  
+pref eriremmo dire,  privilegiando alc uni aspetti,  mettendone 
+in sec ondo piano altri.  I noltre attraverso una suc c essione di 
+progettaz ioni da parte della stessa c omb inaz ione di soggetti 
+è  possibi le osservare c ome ogni parc o possa in f ondo 
+intendersi c ome uno step di un proc esso di apprendimento 
+deﬁnizione spazio
+!"#$%&'(()$*+,
+%&$%$#-'."/'()-'0,$1!"!",12,/,2)'0,$1!"2,"
+()$*+,"%$##,3,(,
+!('3$&'0,$1!"('4$)-"
+%'&5$"!",1-!&'0,$1,")-,(,"
+a ﬁnalizzarlo
+5$1#!*1'"2,")1"
+%&$*!--$"%&!(,6,1'&!
+:
+;<<=>"=?@AB;C=>?A"A"B=DABD;"EF;C=
+E<=GHFF>"FB>IA@@>
+J
+• #ondazione di 
+$omunità
+! #ondazione 
+Housing Sociale
+! Municipio
+• $omune (Setto!e 
+%"!&"'
+!"#ondazione 
+Housing Sociale
+%"
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+!"alizzazione
+-&'#7$&6'0,$1!",1"
+%&$*!--$"!#!5)-,/$
+inaugu!azione pa!co
+%&$*&'66'0,$1!"!/!1-,"
+!"'--,/,-8"%!&"3'63,1,"
+1!((9'&5$"2,"2)!"'11,
+;@@=<;C=>?A"A"B=G;ED=>
+K
+• $omune (Setto!e 
+%"!de) # global service 
+• #ondazione 
+di $omunità
+( Aziende
+( Associazioni
+!"Associazioni e enti del territorio
+S chematizzazione del processo 
+che descrive la realizzazione di 
+un'a rea gioco inclusiva
+e approf ondimento delle esigenz e di un utenz a sempre 
+più variegata,  c ontemperandole c on le ef f ettive possib ilità ,  
+ﬁnanz iarie,  c on alc uni limiti della f attib ilità  tec nic a,  c on alc uni 
+vuoti della normativa dedic ata.  T utto c iò  h a evidenz iato 
+un reale progressivo innalz amento della qualità  e della 
+inc lusività  delle realiz z az ioni.  
+L ’ analisi dei proc essi c h e h anno portato alla realiz z az ione 
+delle aree gioc o realiz z ate,  mette in evidenz a il ruolo dei 
+princ ipali attori c oinvolti,  degli strumenti e delle proc edure 
+utiliz z ate,  ric omposti in uno sc h ema generale c h e riassume 
+da un lato il proc esso ideativo,  autoriz z ativo e realiz z ativo 
+e dall'altro rac c oglie rif erimenti al quadro normativo e 
+proc edurale rif erito agli interventi,  qui sotto riportato.
+Coprogettare come metodo e risorsa1
+È  b ene sottolineare c h e il signiﬁc ato di Parchi gioco per tutti
+va oltre la progettaz ione,  la c ostruz ione e la realiz z az ione di 
+nove parc h i gioc o,  c ome si vede leggendo c on attenz ione il 
+volume ed entrando nelle piegh e di un progetto artic olato e 
+c omplesso c h e si è  snodato in c inque anni di intenso lavoro 
+di c onnessioni.
+1.  P aragraf o a c ura di L aura 
+B orgh etto
+!"#$%&#"'()%&"'(&)*))%
+%#
+A vere l’ ob iettivo di garantire ac c essib ilità  e inc lusione h a 
+c omportato nec essariamente una sc elta metodologic a –  
+quella della c oprogettaz ione –  c h e oggi viene c onsiderata a 
+ragion veduta il metodo c h iave per la c ostruz ione di risposte 
+signiﬁc ative ai b isogni della c ittadinanz a.  
+I l metodo impostato da F ondaz ione di C omunità  M
+ilano,  
+ovvero quello del c oinvolgimento attivo di enti del terz o 
+settore e della P ub b lic a amministraz ione in un dialogo 
+c onc reto e proﬁc uo,  h a messo in grado gli uni e gli altri di 
+c ollab orare e of f rire luogh i signiﬁc ativi di c amb iamento della 
+c ittà ,  della c ultura politic a e della partec ipaz ione.
+N on solo le risorse investite –  c h e pure sono ingenti:  per la 
+realiz z az ione di tutti i nove parc h i gioc h i inc lusivi F ondaz ione 
+di C omunità  M
+ilano h a investito f ondi per oltre 750. 000 euro 
+aggiungendo una c if ra di poc o inf eriore -  650. 000 euro -  
+per le attività  di animaz ione dei parc h i e di educ az ione nelle 
+sc uole.
+P erc h é  le risorse diventassero generative di un c amb iamento 
+c ulturale,  c amb iamento c h e è  premessa nec essaria per 
+la c ostruz ione di una soc ietà  inc lusiva –  F ondaz ione h a 
+c ompreso da sub ito c ome il lavoro di c ostruz ione dei parc h i 
+dovesse essere esito di una c oprogettaz ione dif f usa in c ui gli 
+arc h itetti,  le assoc iaz ioni spec iﬁc h e c h e operano nell’ amb ito 
+della disab ilità ,  i c omitati di quartiere,  le assoc iaz ioni c ulturali,  
+f ormali e inf ormali,  potessero dialogare sul c ampo c on 
+l’ A mministraz ione e i M
+unic ipi.
+C osì  c ome i parc h i si sono arric c h iti via via di gioc h i e di 
+strumenti,  segnaletic h e e perc orsi tattili,  c olori e materiali 
+sempre più artic olati e dif f erenz iati nella ric erc a di aprire a 
+tutti e a c iasc uno l’ esperienz a meravigliosa del gioc o,  allo 
+stesso modo c h i h a partec ipato ad ogni passo,  ad ogni 
+riunione di c onf ronto,  c h i h a portato nei parc h i attività  o nelle 
+sc uole lab oratori sulla diversità  si è  sentito protagonista,  non 
+solo della c ostruz ione di un giardino,  ma della c ostruz ione 
+della c ittà .  
+P erc h é  i parc h i divengano epic entri di una c ultura inc lusiva è  
+nec essario c h e c ontinui questo inc ontro della diversità  degli 
+sguardi nella c ostruz ione di nuovi spaz i e sperimentaz ioni:  
+il metodo di lavoro della c oprogettaz ione e le linee guida 
+rappresentano il prez ioso lasc ito per il f uturo di Parchi gioco 
+per tutti.  
+%$
+NOQ%>#1$+.,-'3",#$%-,#%"%/,&&$11"%-,"#0,.1"%
+#$.%*+,&$11,G%+$/1"1'3",#$%($..$%"#1$+0"/1$
+L ’ interloc uz ione del gruppo di ric erc a c on le assoc iaz ioni di 
+esperti sui temi della disb ilità ,  c osì  c ome c on le assoc iaz ioni 
+c h e h anno attivatioiniz iative di animaz ione dei parc h i,  in 
+relaz ione ad uno spec iﬁc o inc aric o/progetto promosso e 
+ﬁnanz iato da F ondaz ione di C omunità  M
+ilano,  è  restituita 
+attraverso una serie di interviste c h e c erc ano di evidenz iare 
+elementi di arric c h imento progressivi nella c omprensione 
+del tema,  nei suoi limiti e c ritic ità ,  nei suoi spaz i di c resc ita e 
+miglioramento.
+L e assoc iaz ioni sono state inc ontrate nel c orso di f oc us group 
+e momenti di disc ussione dedic ati ( online)  o,  in alc uni c asi,  
+attraverso la risposta sc ritta ad alc une domande predisposte 
+dal gruppo di ric erc a.  R iportiamo di seguito le domande 
+guida delle interaz ioni e i c onteuti delle interviste realiz z ate.
+I soggetti partner del progetto
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+!"#$%&#"'()%&"'(&)*))%
+)&
+1 . Contributo al progetto/
+processo
+Q
+uale è  stato il ruolo e 
+c ontribu to della vostra 
+assoc iaz ione all'interno 
+del progetto/programma 
+“ G ioc o al C entro” ?
+L e tre domande guida delle interazioni
+I soggetti intervistati
+P rogettisti
+•  21/06/ 2021 -  
+F ondazione H ousing 
+S ociale.  F oc us group 
+c on S imonetta V enosta e 
+L udovic o D a P rato
+2 . A ccrescimento/
+avanzamento del progetto
+R ispetto al lavoro realiz z ato 
+e perc orso f atto da 
+“ G ioc o al C entro”  sapete 
+individuare punti di f orz a 
+c h e andreb b ero valoriz z ati 
+e c ritic ità /c arenz e inc ontrate 
+dal progetto da c ui trarre 
+insegnamento?
+3 . E ffetti e aperture
+S e c onveniamo c h e un 
+progetto di questo tipo 
+possa apportare dei 
+b eneﬁc i, su quali f ronti e 
+c on quale ric aduta pensi si 
+possano manif estare i più 
+signiﬁc ativi?
+A ssociazioni partner
+•  07/10/2021 -  A N F F A S .  
+F oc us group c on R ossella 
+C ollina
+•  12/10/2021 -  L ’ abilità  e 
+U IL DM
+.  F oc us group c on 
+L aura B orgh etto e M
+arc o 
+R asc oni
+•  30/11/2021 -  P io Istituto 
+dei S ordi.  F oc us group c on 
+M
+artina G erosa
+•  dic emb re 2021 -  Inter 
+Campus.  I ntervista sc ritta
+•  f eb b raio 2022 -  U ICI.  
+I ntervista sc ritta a M
+ic h ela 
+V assena
+A ssociazioni culturali 
+( organizzatori di eventi)
+•  02/02/2022 -  L a Cordata
+( G iardini di piaz z a P ac i) .  
+F oc us group c on M
+ic h ela 
+B ellodi
+•  03/02/2022 -  Campo 
+T eatrale ( G iardini L uc arelli) .  
+F oc us group c on M
+arc o 
+C olomb o B olla,  C arlotta 
+C alò  e L ia G allo
+•  08/02/2022 -  Consorzio 
+S iR  ( G iardini di V illa F inz i e 
+G iardini M
+artinetti) .  F oc us 
+group c on M
+arc o Z andrini e 
+L etiz ia P ez z oli
+•  09/02/2022 -  Coopertiva 
+S ociale N uova U manità
+( G iardini B ertoli) .  F oc us 
+group c on M
+artina T esta e 
+S imone C uc c h etti
+•  marz o 2023 -  L a N ostra 
+Comunità  ( G iardini di piaz z a 
+O
+vidio) .  I ntervista sc ritta
+Un momento di comunità che coinvolge bambinǝ, insegnanti, 
+genitori, associazioni e municipio3 per incontrarsi e ritrovarsi 
+su alcuni temi chiave della nonviolenza.
+SABATO 2 OTTOBRE ORE 15.00 - 18.00
+Giornata internazionale della nonviolenza
+Giardini della Scuola primaria Munari
+● Inaugurazione della panchina delle diversità.
+● Esposizione e performance degli elaborati di alunnǝ della 
+scuola primaria Munari.
+● Laboratorio BeHuman per genitori e figlǝ.
+● Laboratorio teatrale per giovanissimǝ
+ (presso Parco Giochi Giardini Lucarelli)
+Info: www.humanzone.org
+Genitori
+Associazione 
+ B r u n o  M
+u n a r i  -  M
+i l a n o
+w w w . g e n i t o r i s c u o l a f e l t r e . o r g
+S c u o l a  P r i m
+a r i a  
+UBUNTU
+IO SONO 
+perché 
+NOI SIAMO
+UNA SETTIMANA DI NONVIOLENZA
+)%
+Calendario eventi monitorati
+L udobus G rafobus ( P rogetto L ibera E ntrata)
+periodo:  dal 30 agosto al 30 settemb re 2021
+a c ura di:  C onsorz io S iR
+-  dove:  G iardini di V illa F inz i
+quando:  tutti i lunedì  e merc oledì ,  dalle 16: 30 alle 18: 30
+-  dove:  G iardini M
+artinetti
+quando:  tutti i martedì  e giovedì ,  dalle 16: 30 alle 18: 30
+Inaugurazione P arco G iochi A ccessibile
+dove:  G iardini B ertoli
+quando:  saba to 11 settemb re 2021,  dalle 15: 00 alle 18: 00
+L e M
+ini O
+limpiadi di G iocA bilia ( P rogetto B aronA bilia)
+dove:  G iardini di piaz z a P ac i
+quando:  giovedì  30 settemb re 2021,  dalle 16: 30 alle 
+18: 00
+a c ura di:  L a C ordata
+H umanW
+eek
+dove:  G iardini L uc arelli
+quando:  saba to 2 ottob re 2021,  dalle 15: 00 alle 18: 00
+a c ura di:  C ampo T eatrale
+Inaugurazione G iardini di piazza O
+vidio
+quando:  saba to 19 marz o 2022,  dalle 16: 00 alle 18: 30
+E nti e assoc iaz ioni c h e 
+h anno gestito gli eventi:  
+•  Consorzio S iR
+( M
+unic ipi 2 e 7)
+•  Campo T eatrale
+( M
+unic ipio 3)
+•  L a Cordata ( M
+unic ipio 6)
+•  Cooperativa S ociale N uova 
+U manità  ( M
+unic ipio 8)
+•  L a N ostra Comunità
+( M
+unic ipio 4)
+•  Z ero5 ,  L a Dea,  S istema 
+B ibliotecario di M
+ilano
+( M
+unic ipio 5)
+•  T eatro del B uratto,  T eatro 
+B runo M
+unari,  P epita 
+O
+nlus,  A ssociazione L infa
+( M
+unic ipio 9)
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+!"#$%&#"'()%&"'(&)*))%
+))
+A spetti regolativi e limiti di 
+lavoro
+P oic h è  si lavora c on un ap-
+palto aperto del C omune 
+sulla manutenz ione ordina-
+ria,  i progettisti,  pur essendo 
+supportati nel perc orso,  si 
+sc ontrano c on diversi limiti,  
+quali c osti,  tempi,  materiali 
+utiliz z ab ili,  az iende c oinvol-
+gib ili.  I noltre si tende a evita-
+re tutto c iò  c h e può  f avorire 
+atti di vandalismo e oc c upa-
+z ioni improprie dello spaz io.
+P er ogni progetto l'ob iettivo 
+di partenz a è  sempre il rag-
+giungimento una qualità  alta 
+ma i risultati devono stare 
+nei c onﬁni della normativa,  
+dentro a sc h emi tradiz ionali 
+e a vinc oli sia ec onomic i c h e 
+di possib ilità  realiz z ative,  
+quindi non c ’ è  molto spaz io 
+per la c reatività .  I nf atti l’ aspi-
+raz ione sareb b e quella di ri-
+maneggiare il gioc o c lassic o 
+nei termini dell’ inc lusività ,  
+ma c on il tempo c i si è  ade-
+guati al f atto c h e progettare 
+gioc h i nuovi ad hoc è  qua-
+si impossib ile:  sareb b e un 
+perc orso molto c omplesso,  
+sia per le c ertiﬁc az ioni c h e 
+per la dif ﬁc oltà  di gestirlo 
+nei tempi e c on gli strumenti 
+a disposiz ione.  A  dif f erenz a 
+di altri paesi,  in I talia manc a 
+un pensiero progettuale sui 
+parc h i gioc o,  c ome se f osse 
+un settore c h e non esiste,  
+e si lavora quasi esc lusiva-
+mente sui gioc h i a c atalogo 
+c h e quindi sono sempre gli 
+stessi,  e alla ﬁne nella sc elta 
+prevale spesso il tema dei 
+c osti.  
+N ella selez ione delle im-
+prese c ’ è  lib ertà  anc h e nel 
+c oinvolgerne altre rispetto 
+a quelle c h e usa il C omune 
+ab itualmente,  ma usc endo 
+dalla rosa dei gioc h i più tra-
+diz ionali e proponendone di 
+più innovativi,  si alz ano espo-
+nenz ialmente i prez z i e que-
+sto genera resistenz a a f avo-
+re di opz ioni più c lassic h e.
+P rincipi e temi per la pro-
+gettazione
+N ello sviluppo di ogni pro-
+getto si tende a seguire dei 
+c riteri,  anc h e se questi non 
+sono sempre f ac ili da soddi-
+sf are nei risultati:  
+•  C reare uno spaz io all’ in-
+terno del parc o gioc h i per il 
+gioc o ex tra- ordinario,  ossia 
+per situaz ioni alternative ai 
+gioc h i a c atalogo e di serie.  
+A lc une situaz ioni di gioc o al-
+ternative possono essere:
+-  utiliz z are le pavimentaz ioni 
+e il loro disegno per stimo-
+lare interpretaz ioni e gioc h i 
+inediti;
+-  possib ilità  di disegnare a 
+terra o sui muri;
+-  c reare e suggerire amb ien-
+ti e amb ientaz ioni per f avori-
+re gioc h i di ruolo;
+-  progettare o inserire b an-
+c h i lab oratorio per f avorire 
+le attività  di manipolaz ione;
+-  lavorare sull’ idea di perc or-
+so c ome elemento di rela-
+z ione f ra dif f erenti possib ili-
+tà  di gioc o;
+R#$(%(0-%+'#)%'5+'("+
+?@ABCA?B?@
+S imonetta V enosta e 
+L udovico Da P rato
+F ondaz ione H ousing 
+S oc iale
+c on:  M
+ilena L az z a -  F D C  
+M
+ilano e D AS
+tU - P oliM
+i
+Cosa vuol dire proporre un 
+gioco/parco inclusivo
+L ’ obi ettivo del progetto è  
+realiz z are parc h i gioc o c h e 
+possano soddisf are tutti,  c h e 
+ac c olgano quindi b amb ini e 
+ba mbi ne sia normodotati 
+c h e f ragili,  ma più in gene-
+rale c h e sappiano rispettare 
+le diverse personalità  e sen-
+sib ilità .
+L ’ aspetto dell’ inc lusività  è  
+anc ora poc o sviluppato e 
+l’ approc c io da parte delle 
+az iende in molti c asi si tra-
+duc e in una sempliﬁc az ione 
+e quindi una tendenz a ad 
+aba
+ssare il livello dell’ of -
+f erta,  ad esempio propo-
+nendo un gioc o per b amb i-
+ni pic c oli c h e possa andare 
+be ne anc h e per c h i h a delle 
+prob lematic h e.  S olo ultima-
+mente le az iende h anno ini-
+z iato a rec epire il tema e ad 
+aggiornare i propri prodotti,  
+c h e però  h anno anc h e c osti 
+elevati.  M
+a davanti all’ ampia 
+of f erta di gioc h i il prob lema 
+è  c apire quali di questi e 
+c ome possano essere dav-
+vero oc c asione di inc lusività .
+)*
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+-  utiliz z are la natura c ome 
+“ vegetaz ione ab itab ile”  valo-
+riz z ando arb usti,  siepi e alb e-
+ri esistenti c ome “ rif ugi”  o re-
+aliz z ando rif ugi vegetali per 
+valoriz z are la dimensione na-
+turalistic a e il materiale vege-
+tale c h e un tempo erano l’ u-
+nic a dimensione di gioc o per 
+molti b amb ini e b amb ine;
+-  suggerire o c reare spaz i 
+per l’ interaz ione per il gio-
+c o inf ormale e c reativo c h e 
+possano diventare pic c ole 
+sc ene teatrali.
+•  C reare un’of f erta di gioc h i 
+diversiﬁc ata per genere e ti-
+pologia di f ruiz ione tale da 
+essere il più inc lusiva possib i-
+le anc h e a diverse attitudini.  
+•  S ollec itare la progettaz ione 
+originale di gioc h i pensati per 
+situaz ioni spec iﬁc h e.  L i ab b ia-
+mo c h iamati gioc o- sc ultura 
+ma il rif erimento è  alla nec es-
+sità  di pensare ai parc h i gioc o 
+c ome elementi da progettare 
+a partire dal gioc o stesso c h e 
+diventa un oggetto di c om-
+posiz ione artistic a e arc h itet-
+tonic a di qualità .  
+•  P romuovere la presenz a di 
+perc orsi,  gioc h i e attività  c h e 
+permettano di valoriz z are 
+la disabi lità  mettendo in di-
+sc ussione il limite stesso di 
+non- abi tabi lità  e disab ilità .
+Iter tra M
+unicipi,  Comune e 
+F ondazioni -  P rocesso- sto-
+ria della realizzazione di un 
+parco
+P er ogni parc o,  uno per M
+u-
+nic ipio,  si è  lavorato ogni 
+volta su situaz ioni diverse:  in 
+parte erano parc h i esistenti 
+c h e dovevano essere ristrut-
+turati,  in altri c asi il parc o è  di 
+nuova realiz z az ione.  I n gene-
+rale l'iter è  stato il seguente:
+1 )  prime interazioni e deﬁ-
+nizione spazio
+•  F ondaz ione H ousing S o-
+c iale e F ondaz ione di C o-
+munità  M
+ilano si rivolgono 
+ai M
+unic ipi per proporre il 
+progetto;  i M
+unic ipi propon-
+gono gli spaz i e insieme alle 
+F ondaz ioni ne selez ionano 
+2/3 possib ili rispetto a una 
+valutaz ione c h e tiene c onto 
+delle esigenz e e delle realtà  
+dei c ontesti ( c ome la pre-
+senz a di sc uole,  serviz i,  re-
+altà  per disab ili,  altri parc h i 
+gioc o esistenti) ;
+•  in seguito si apre un c onf ron-
+to c on il C omune c h e insieme 
+alla D irez ione V erde mette le 
+proposte a sistema c on gli in-
+terventi già  programmati,  per 
+individuare c osa è  già  c om-
+preso nei b udget.
+2 )  elaborazione del proget-
+to e realizzazione:  in questa 
+f ase c ’ è  un c onf ronto c onti-
+nuo tra le F ondaz ioni,  c h e 
+in seguito si apre anc h e ad 
+interaz ioni c on le assoc ia-
+z ioni e c on l’ amministraz io-
+ne.  O
+gni step rac c oglie i f e-
+edb ac k  utili al progetto per 
+af ﬁnarlo e ﬁnaliz z arlo.
+•  iniz ialmente si ef f ettua-
+no uno o due sopralluogh i 
+c on il C omune:  si valutano 
+insieme le c ondiz ioni ed 
+eventuali prob lematic h e ( ad 
+esempio presenz a di sot-
+toserviz i,  pendenz e,  vinc oli 
+partic olari -  c ome pali della 
+luc e,  alb eri appena piantati,  
+distanz a dagli alb eri,  ec c . ) ;
+•  si ipotiz z a un primo lay out 
+di c ondiz ioni e prestaz ioni 
+del parc o c h e ragiona per 
+aree e amb ienti ( es:  area 
+più ac c essib ile,  più riservata,  
+più dinamic a,  ec c . )  e indivi-
+dua il sistema dei perc orsi e 
+dell'ac c essib ilità ;
+•  si elab orano alc une propo-
+ste di situaz ioni e posiz ioni 
+dei gioc h i.  O
+ltre a quelli c h e 
+si individuano c onsultando 
+le az iende,  si lasc ia sempre 
+lo spaz io per un’ area c rea-
+tiva disegnata a terra in c ui 
+f are per esempio il percorso 
+più atletico/didattico/il gio-
+co/il teatro,  quindi un amb i-
+to dove c 'è  più spaz io per la 
+progettaz ione;  rispetto alla 
+sc elta dei gioc h i viene f atto 
+un c apitolato prestaz ionale 
+delle esigenz e per distrib u-
+irlo ad alc une az iende sc el-
+te,  f are una gara e poi una 
+selez ione delle proposte;
+•  le F ondaz ioni si c onf ron-
+tano c on le assoc iaz ioni 
+partner del progetto per 
+c onf ermare c h e le propo-
+ste rispondano agli ob iettivi 
+di partenz a e insieme c on-
+dividono le proposte c on il 
+C omune;  il progetto c onse-
+gnato è  ad un livello di “ preli-
+minare avanz ato”  e c ontiene 
+tutti gli elementi posiz ionati,  
+le aree di rispetto e le distan-
+z e nec essarie;  
+!"#$%&#"'()%&"'(&)*))%
+)'
+•  il C omune ( S ettore V erde e 
+G lob al S ervic e -  ad oggi so-
+c ietà  M
+I A M
+I )  modiﬁc a il pro-
+getto per motivi di f attib ilità ,  
+riduz ione dei c osti,  semplic ità  
+di esec uz ione e manutenz io-
+ne suc c essiva,  se serve anc h e 
+riorganiz z ando le aree,  e lo 
+rende un progetto esec utivo;
+•  la proposta viene presen-
+tata al M
+unic ipio -  prima al 
+presidente e poi insieme a 
+lui a un gruppo ristretto di 
+assoc iaz ioni c h e si oc c upa-
+no di disabi lità  sul territorio.  
+I n seguito c i può  essere an-
+c h e un invito in giunta per 
+presentare il progetto a una 
+c omunità  più ampia;
+3 )  realizzazione dell’ inter-
+vento,  attivazione e rilascio:  
+per quanto riguarda i c osti 
+F ondaz ione 
+di 
+C omunità  
+M
+ilano e C omune metto-
+no ognuno c irc a metà  della 
+spesa.  C on questa somma 
+F ondaz ione 
+di 
+C omunità  
+M
+ilano ac quista i gioc h i c on 
+un bu dget di c irc a 60/70 
+mila euro ( massimo 90)  e 
+paga anc h e la parte esec u-
+tiva ( mob ilitaz ioni di terreno,  
+pose,  materiali delle pavi-
+mentaz ioni,  ec c . ) .  
+•  a partire dall'inauguraz io-
+ne entrano in c ampo enti 
+e assoc iaz ioni di quartiere 
+c on un programma di atti-
+vità  più o meno immateriali.  
+F ondaz ione di C omunità  M
+i-
+lano ﬁnanz ia c on c irc a altri 
+100. 000 euro queste attività  
+c h e si svolgono nei due anni 
+suc c essivi alla realiz z az ione.  
+R equisito di prossimità  alle 
+scuole
+I  parc h i sono sempre prossi-
+mi alle sc uole,  poic h é  inter-
+c ettano molto di più l’ utenz a 
+( non solo quella spec iﬁc a 
+della f amiglia disab ile,  ma 
+in generale) .  I nf atti è  dif ﬁc ile 
+portare b amb ini e b amb ine 
+in luogh i c h e non f requenta-
+no già  e solitamente non si 
+prendono i mez z i per anda-
+re in un parc o gioc h i,  quindi 
+il parc o deve essere dentro 
+a un tragitto ab ituale.  L ’ uni-
+c a ec c ez ione è  il parc o del 
+quartiere F eltre in c ui è  sta-
+to sc elto un parc o esistente 
+da ristrutturare inserito in un 
+amb ito residenz iale,  ric ono-
+sc ib ile e unitario nella sua 
+c onf ormaz ione e distante 
+dalla sc uola,  quindi gli utenti 
+sono soprattutto quelli lega-
+ti al c ontesto ab itativo.
+A mpio raggio di intervento
+O
+gni intervento in parte si 
+apre anc h e a una rigenera-
+z ione c h e esc e dallo spaz io 
+del parc o ed è  anc h e attra-
+verso le attività  svolte nei 
+parc h i da enti e assoc iaz io-
+ni c h e si attuano perc orsi di 
+radic amento nel quartiere.  
+Q
+uesti,  organiz z ati anc h e 
+in relaz ione c on le sc uole,  
+c oinvolgono i c ittadini in 
+proc essi di appropriaz ione 
+e di c ura del parc o.
+Il lavoro con le associazioni
+L a stretta c ondivisione tra 
+i progettisti e tutte le asso-
+c iaz ioni c h e rappresentano 
+le diverse disab ilità  h anno 
+sempre portato degli ar-
+ric c h imenti 
+nel 
+progetto,  
+in partic olare c ol tempo è  
+migliorata la relaz ione c on 
+tutte quelle il c ui c ontrib u-
+to inﬂuisc e sul progetto in 
+modo più spec iﬁc o.  N ono-
+stante questo servireb b e 
+molto tempo per eventuali 
+progettaz ioni alternative in-
+sieme alle assoc iaz ioni c h e 
+però  sono impegnate nelle 
+proprie attività  e non h anno 
+al loro interno c apac ità  di 
+progettaz ione.  P er esempio 
+insieme a loro si potreb b e 
+aprire un ragionamento per 
+c reare delle situaz ioni c h e 
+non sono dic h iaratamen-
+te per una disab ilità  o per 
+un’ altra;  a volte si riesc e ma 
+non anc ora ab b astanz a.  L ’ e-
+sempio a c ui tendere è  il 
+“ P erc orso al b uio” ,  in c ui si 
+sc amb ia il ruolo tra ab ile e 
+disab ile.
+L ’ aspetto della c omunic az io-
+ne,  c h e è  parte del perc orso 
+c on le assoc iaz ioni,  è  stato 
+elab orato molto nel tempo,  
+arrivando a b uoni risultati.  
+N ell’ ultimo parc o realiz z a-
+to la c omunic az ione è  stata 
+implementata in tutte le sue 
+f orme e linguaggi:  c artelli 
+c on c olori per ipovedenti,  
+sovrapposiz ione del c odic e 
+b raille,  video per raggiun-
+gere anc h e il linguaggio sor-
+domuto,  aggiunta sui c artelli 
+della c omunic az ione aumen-
+tativa per rac c ontare il parc o.  
+)(
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+A perture
+I l progetto è  rivolto princ i-
+palmente nelle operaz ioni 
+progettuali di F ondaz ione 
+H ousing S oc iale per nec es-
+sità  di tempi e perc orsi ma 
+c ’ è  un interesse,  dopo i pri-
+mi 9 parc h i,  ad ampliare il 
+progetto e dargli più struttu-
+ra,  poic h é  c ’ è  anc ora molto 
+spaz io di lavoro,  per esem-
+pio:  f ac endo c onc orsi o gare 
+c on progettisti,  portando 
+il tema nelle università  c on 
+dei pic c oli labo ratori c on le 
+az iende o strutturando dei 
+lab oratori di ric erc a più lun-
+gh i,  o anc ora aprendo una 
+riﬂessione c on le sc uole.
+I l terreno di lavoro lasc ia 
+anc ora spaz io alla riﬂessio-
+ne per una interpretaz ione 
+anc h e di tipo pedagogic o 
+dello spaz io del gioc o c h e 
+h a molto a c h e f are anc h e 
+c on quella c ulturale e non si 
+rivolge solo a gioc h i inc lusi-
+vi c h e integrino più dimen-
+sioni ma è  più ampia.  N e è  
+una prova la dif ﬁc oltà  di pro-
+gettaz ione di gioc h i nuovi,  
+data dalla nec essità  di stare 
+nei tempi e nelle norme,  ma 
+anc h e in una mentalità  c h e 
+dif ende soprattutto l’ aspet-
+to della manutenz ione nel 
+tempo quindi tende a evita-
+re ogni elemento c h e possa 
+provoc are usi impropri.
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+R#$(%(0-%+'#)%'5+'("+
+BDA@BA?B?@
+R ossella Collina
+AN
+F F A S
+c on:  M
+ilena L az z a -  F D C  
+M
+ilano e D A S tU - P oliM
+i
+AN
+F F A S  si oc c upa di disab i-
+lità  intellettiva e disturb i del 
+neurosviluppo,  f ec e da apri-
+pista della progettaz ione di 
+parc h i inc lusivi,  inauguran-
+do a M
+ilano il primo della 
+c ittà  nel 1997.
+V alore f ondante di G ioc o al 
+C entro è  il diritto all’ inc lusio-
+ne e al gioc o per b amb ini e 
+b amb ine,  f ragili e non.  C on 
+l’ ob iettivo di disseminare 
+per la c ittà  “ isole”  dove il 
+diritto al gioc o è  garantito 
+per tutti,  l’ intento è  anc h e 
+quello di c ostruire una c o-
+munità  intorno ai parc h i e 
+c ontaminare anc h e le per-
+sone c on il c onc etto di inc lu-
+sività .  C onsiderando c h e un 
+b amb ino f ragile può  essere 
+d'aiuto e da stimolo per uno 
+normodotato,  la dimensione 
+dell’ inc lusione dovreb b e es-
+sere pervasiva in ogni c am-
+po e situaz ione.
+Contributi al progetto
+N el proc esso di G ioc o al 
+C entro 
+l’ interaz ione 
+c on 
+AN
+F F A S  avviene nella f ase 
+di progettaz ione dei parc h i,  
+momento in c ui F ondaz io-
+ne e progettisti si servono 
+dell’ esperienz a delle asso-
+c iaz ioni esperte sul tema 
+della disab ilità  per avere il 
+punto di vista di ognuno nel 
+gestire sul c ampo b amb ini e 
+b amb ine f ragili.  I l f atto c h e il 
+gruppo di lavoro sia c ostitu-
+ito da c ompetenz e diverse,  
+ognuna c on la sua spec iﬁ-
+c ità  è  un punto di f orz a del 
+progetto e porta a un arric -
+c h imento di tutti.
+A N F F A S  dà  un c ontrib uto 
+anc h e tec nic o ( ad esempio 
+attraverso c onsultaz ioni c on 
+terapisti esperti di autismo,  
+ritardo c ognitivo,  ec c . )  e spe-
+c iﬁc o anc h e nella sc elta dei 
+gioc h i,  non solo dal punto di 
+vista f unz ionale,  ma anc h e 
+c on attenz ione alla sensib ili-
+tà  di b amb ini e b amb ine ( “ se 
+per me f unz iona b ene ma mi 
+f a sentire diverso,  allora non 
+va b ene” )  c on l’ ob iettivo di 
+avere un parc o in c ui ogni 
+attrez z atura possa stimolare 
+le c apac ità  diverse di ogni 
+individuo e l’ interaz ione tra 
+b amb ini/e.
+U n altro aspetto importante 
+è  c h e l'assoc iaz ione essen-
+do a c ontatto c on le f amiglie 
+è  nella posiz ione di c apire il 
+punto di vista di c h i vive la 
+c ondiz ione della disab ilità  
+da dentro.
+S viluppo/percorso di accre-
+scimento del progetto
+I l proc esso è  stato c ostruito 
+e si è  sviluppato nel tempo.  
+D alla progettaz ione del pri-
+mo parc o gioc h i ad oggi,  si 
+!"#$%&#"'()%&"'(&)*))%
+)!
+grande c ompetenz a educ a-
+tiva e sc ientiﬁc a e il risc h io è  
+di f are degli errori.  I l prob le-
+ma è  c h e non esistono linee 
+guida tec nic h e a c ui f are rif e-
+rimento:  nello svolgersi del 
+progetto le h anno deﬁnite i 
+soggetti c oinvolti c on le loro 
+interaz ioni,  c h iedendosi ad 
+esempio “ quanto dovesse 
+essere alto un gioc o music a-
+le per essere ac c essib ile alla 
+c arroz z ina per b amb ini/e e 
+quanto per gli adulti” .
+A perture ed esportabilità
+P er una replic ab ilità  del pro-
+getto sareb b ero importanti 
+vari f attori:  la sempliﬁc az io-
+ne delle proc edure,  la ga-
+ranz ia di b asi solide rispetto 
+ai rapporti c on l’ ente pub b li-
+c o,  un ﬁnanz iamento.  O
+ggi 
+il c ontrib uto ec onomic o di 
+F ondaz ione 
+di 
+C omunità  
+M
+ilano è  f ondamentale:  il 
+perc orso è  c ostoso e i gio-
+c h i h anno c osti elevati an-
+c h e perc h é  sono sempre più 
+raf ﬁnati,  c onsiderando c h e 
+quelli più innovativi oltre ai 
+materiali,  h anno una ric erc a 
+sul c ampo alle spalle.  T utto 
+dovreb b e essere sempre ac -
+c ompagnato da un aspetto 
+valoriale di c ui devono es-
+sere portatori tutti gli attori 
+c oinvolti.
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+è  visto un grande migliora-
+mento nelle c ompetenz e su 
+diversi f ronti:  nella proget-
+taz ione dei parc h i ( da parte 
+degli arc h itetti) ,  nella produ-
+z ione dei gioc h i ( az iende) ,  
+nelle c onsapevolez z a delle 
+assoc iaz ioni.  S i nota inf atti 
+un progressiva sensib ilità  e 
+lo spostamento del signiﬁ-
+c ato di alc une f unz ioni,  spaz i 
+ed elementi del gioc o.  Ad  
+esempio nelle ultime rea-
+liz z az ioni l’ area dei pic c oli è  
+diventata “ l’ area delle prime 
+esperienz e” .
+An c h e il C omune c ol tem-
+po h a c apito l’ importanz a 
+del progetto,  nonostante un 
+parc o tradiz ionale c ontinui 
+ad avere un c osto molto ri-
+dotto rispetto a uno inc lusi-
+vo.  N on è  stato semplic e ﬁn 
+dall'iniz io,  in parte perc h è  la 
+proposta era dirompente e 
+in parte per un tema ec ono-
+mic o,  poic h è  il C omune do-
+veva mettere a disposiz ione 
+delle sue aree verdi e avreb -
+be  avuto in c apo parte dei 
+c osti degli interventi.  
+C ’ è  anc ora inf atti molto po-
+tenz iale di riﬂessione su più 
+livelli:  c ulturale,  ma anc h e di 
+progetto e delle proc edure.
+Criticità /difﬁcoltà
+U na delle più grandi dif ﬁ-
+c oltà  è  c h e nel mondo della 
+disabi lità  la suddivisione in 
+c ategorie non è  semplic e,  è  
+tutto molto c omplesso e da 
+interpretare.  O
+gni situaz ione 
+di f ragilità  h a b isogno di una 
+R#$(%(0-%+'#)%'5+'("+
+@?A@BA?B?@
+L aura B orghetto
+L 'ab ilità
+M
+arco R asconi
+U I L D M
+c on:  M
+ilena L az z a -  F D C  
+M
+ilano e D A S tU - P oliM
+i
+U I L D M
+ e L ’ ab ilità  c h e si oc -
+c upano di disab ilità  e inc lu-
+sione soc iale sono partner 
+del progetto ﬁn dall’ iniz io.
+L a c ollab oraz ione tra F on-
+daz ione,  le assoc iaz ioni e il 
+C omune di M
+ilano nasc e da 
+una c omunione di intenti sui 
+temi del diritto al gioc o per i 
+b amb ini e le b amb ine e de-
+gli spaz i gioc o nella c ittà .
+Contributi al progetto. F or-
+mazione e diritto al gioco
+A ndare a c ostruire parc h i ac -
+c essib ili h a b isogno di un’ a-
+z ione signiﬁc ativa dal punto 
+di vista c ulturale,  inf atti gli 
+aspetti princ ipali su c ui le 
+assoc iaz ioni danno il loro 
+c ontrib uto nel progetto in-
+vestono la dimensione della 
+f ormaz ione e sensib iliz z az io-
+ne rispetto al diritto al gioc o,  
+inteso c ome diritto di tutti.
+G ià  dopo la realiz z az ione del 
+primo parc o inc lusivo di G io-
+c o al C entro è  stato aggiunto 
+nel progetto l’aspetto della 
+f ormaz ione all’ interno del-
+le sc uole.  S i era visto inf atti 
+c h e manc ava un’educ az io-
+)"
+ne c ivic a sia di “ ac c ettaz ione 
+del regalo”  c h e nell’ utiliz z o 
+di un nuovo pez z o di parc o 
+c h e era spec iale e doveva 
+essere rispettato e usato in 
+un c erto modo.  I  perc orsi di 
+f ormaz ione,  avvenuti nelle 
+sc uole primarie ( nelle c lassi 
+1°  e 2°  tenute da L ’ab ilità  e 
+3° ,  4°  e 5°  da U I L D M
+)  h anno 
+visto lab oratori pedagogic i 
+c h e,  per riﬂettere sulla disa-
+b ilità ,  h anno portato nelle 
+c lassi il c onc etto di “ diversità ”  
+in quanto c ondiz ione umana,  
+sviluppato l’approc c io all’a-
+sc olto e all’ac c oglienz a non 
+della persona disab ile ma di 
+qualunque persona c h e vie-
+ne deﬁnita diversa e l’ h anno 
+f atto attraverso il gioc o,  f or-
+nendo a b amb ini e b amb ine 
+strumenti per il c onf ronto e 
+stimolandoli alla c uriosità .
+A  ﬁanc o dell’az ione di sensi-
+b iliz z az ione verso la c omuni-
+tà  si è  aggiunta quella rivolta 
+invec e alle f amiglie di b amb i-
+ni e b amb ine c on disab ilità .  
+I nf atti sec ondo una lettura di 
+tipo sanitario della disab ilità ,  
+la perc ez ione della maggior 
+parte delle f amiglie è  c h e il 
+b amb ino ab b ia b isogno so-
+prattutto di una tutela e c ura 
+di tipo sanitario,  il gioc o non è  
+ritenuto un b isogno primario.  
+A l c ontrario il gioc o dovreb -
+b e essere ritenuto parte della 
+c ura e diritto f ondamentale,  
+non un’opz ione.  I noltre que-
+sto è  un tema trasversale a tut-
+ti i b amb ini e le b amb ine,  poi-
+c h é  sempre di più il gioc o è  
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+sedentario,  perc h é  digitale,  o 
+ﬁsic o ma inteso c ome pratic a 
+sportiva,  quindi non lib era ma 
+c odiﬁc ata.  Q
+uindi ﬁnc h é  le f a-
+miglie non diventano c onsa-
+pevoli di c onsiderare il gioc o 
+c ome un diritto del b amb ino,  
+il risc h io e anc h e la sﬁda del 
+progetto è  c h e i parc h i inc lu-
+sivi non siano f requentati.
+E voluzione nel tempo e ri-
+cadute del progetto
+L ’ integraz ione 
+dell’aspetto 
+della 
+sensib iliz z az ione 
+sia 
+nelle sc uole c h e nelle f ami-
+glie h anno aggiunto qualità  
+al progetto e in partic olare il 
+pez z o rivolto alle sc uole h a 
+prec isato l’ intento di f are in-
+terventi rivolti non al mondo 
+della disab ilità  ma a una c o-
+munità  attenta anc h e a c h i è  
+f ragile ( da “ f are gioc h i inc lu-
+sivi”  a “ f are parc h i per tutti” ) .
+U na c onseguenz a positiva 
+del progetto è  il f atto di aver 
+c reato dei parc h i anc h e per 
+esempio per le persone adul-
+te c on disab ilità  c h e h anno 
+dei ﬁgli normodotati o per i 
+nonni,  di avere c ioè  allargato 
+il c onc etto di diritto al gioc o 
+del b amb ino anc h e alla pos-
+sib ilità  di gioc are c on i propri 
+parenti c h e h anno una f ragili-
+tà ,  quindi alla possib ilità  della 
+relaz ione attraverso il gioc o,  
+e questo è  positivo perc h é  il 
+modo di gioc are più f ormati-
+vo non è  quello singolo.
+D urante lo svolgimento del 
+progetto si è  visto un appren-
+dimento nel tempo,  dato 
+molto anc h e dal rapporto tra 
+soggetti diversi c h e h anno 
+sguardi ed esperienz e diverse.  
+P rogressivamente si è  c apito 
+c ome migliorare e questo h a 
+avuto una ric aduta nella pro-
+gettaz ione degli spaz i gioc o,  
+i c ui ultimi ad esempio h anno 
+provato a rispondere anc h e al 
+tema del rapporto di gioc o tra 
+b amb ini/e e genitori.
+P unti di forza e criticità . 
+A perture future e sﬁde
+L a rete tra F ondaz ione,  C o-
+mune di M
+ilano e mondo 
+assoc iativo di diversa natura 
+h a dato qualità  al progetto.  
+U na delle c ritic ità  sta nell’ in-
+c astro c on il sistema ammini-
+strativo,  c h e a M
+ilano è  molto 
+ampio e c on b udget spesso 
+vinc olati e una gestione delle 
+donaz ioni c h e spesso è  c om-
+plessa,  ma c h e nonostante 
+questo,  nella gestione gene-
+rale del progetto,  f unz iona 
+meglio rispetto a molte altre 
+realtà  a livello naz ionale e dà  
+risultati migliori.
+T utta l’ iniz iativa h a b asi ec o-
+nomic h e importanti graz ie ai 
+ﬁnanz iamenti di F ondaz ione,  
+inf atti lavorare sul diritto al 
+gioc o vuol dire impegnare 
+molte risorse c h e riguarda-
+no:  le strutture,  la progetta-
+z ione,  il mantenimento dei 
+rapporti c on le istituz ioni,  la 
+c omunic az ione e il manteni-
+mento delle attività  nei par-
+c h i,  quindi ottimiz z are risor-
+se,  c apac ità ,  energie h a dato 
+dei b uoni risultati.
+!"#$%&#"'()%&"'(&)*))%
+)#
+S ul f ronte della f ormaz ione 
+a livello c ulturale c ’ è  anc o-
+ra molto margine di lavoro.  
+I n partic olare quando si in-
+teragisc e c on le f amiglie si 
+deve operare su più f ronti,  
+allargando il tema del diritto 
+al gioc o c ome gioc o c h e av-
+venga all’ aperto,  in qualsiasi 
+situaz ione c h e f ac c ia b ene al 
+b amb ino.  P er questo motivo 
+servireb b e anc h e un proc es-
+so per educ are la c ittà  e la 
+soc ietà ,  c ioè  allargare la rete 
+degli stak eh older a livello lo-
+c ale.  S erve un’ az ione ampia 
+di sensib iliz z az ione,  non solo 
+nelle f amiglie di b amb ini e 
+b amb ine c on disab ilità ,  ma 
+a tutte le f amiglie,  agli enti 
+loc ali,  le sc uole,  la neuropsi-
+c h iatria inf antile,  tutti quelli 
+c h e sono i c o- protagonisti 
+della vita di un b amb ino ol-
+tre alla sua f amiglia.  N ell’ a-
+z ione di f ormaz ione nelle 
+sc uole,  c h e è  avvenuta solo 
+in quelle primarie,  si è  rile-
+vata un’ altra c ritic ità  e quindi 
+un possib ile passo avanti per 
+il f uturo,  c h e riguarda le età  
+a c ui rivolgersi.  I l progetto 
+oggi,  interagendo c on b am-
+b ini/e c h e h anno c irc a dai 6 
+ai 10 anni risponde all’ ob iet-
+tivo di f ormare c ittadini c on-
+sapevoli,  ma i parc h i gioc o 
+sono f requentati soprattutto 
+da b amb ini e b amb ine in età  
+presc olare,  inf atti oltre que-
+sto momento sub entrano al-
+tri tipi di attività ,  per questo 
+l’ iniz iativa andreb b e portata 
+nella sc uola d’ inf anz ia.
+T uttavia 
+la 
+sensib iliz z az io-
+ne non passa solo attraver-
+so az ioni c ulturali ma anc h e 
+c onc rete,  
+c reando 
+luogh i 
+visib ilmente ac c essib ili,  ad 
+esempio se in ogni parc o del-
+la c ittà  si trovassero attrez z a-
+ture per il gioc o inc lusivo,  in 
+modo c h e potessero essere 
+ric onosc ib ili da qualsiasi c it-
+tadino in quanto attrez z ature 
+utiliz z ate in modo diverso.
+L ’ amb iz ione è  c h e il parc o 
+inc lusivo possa c ontamina-
+re c omunità  e c ittà ,  c ioè  c rei 
+una modalità  intorno a sé  
+sempre più ampia,  nel c on-
+f rontarsi c on la diversità .  U n 
+mutamento 
+c ulturale 
+c h e 
+passa attraverso l’ esperienz a 
+reale.  S ﬁdarsi nel c onosc e-
+re i limiti e le diversità  degli 
+altri per i pic c oli è  più f ac i-
+le,  anc h e perc h é  b amb ini e 
+b amb ine oggi,  inseriti in una 
+realtà  più multietnic a rispetto 
+a vent’ anni f a,  sono molto più 
+c apac i di c onf rontarsi c on la 
+diversità .  S i lavora su questo 
+tema attraverso il gioc o per-
+c h é  b amb ini e b amb ine lo 
+rec episc ono meglio e le b ar-
+riere mentali non si c ostrui-
+sc ono.  L ’ ob iettivo è  c h e ne si-
+ano investiti anc h e gli adulti.
+L a ric aduta spaz iale di que-
+sta espansione si traduc e in 
+una c ittà  inc lusiva ad esem-
+pio per l’ ac c essib ilità .  L a 
+prossima sﬁda è  quella di 
+usc ire dai c onﬁni del parc o 
+c ostruendoc i attorno la mo-
+dalità  per raggiungerlo.
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+R#$(%(0-%+'#)%'5+'("+
+EBA@@A?B?@
+M
+artina G erosa
+P io I stituto dei S ordi
+c on:  D A S tU - P oliM
+i
+S i tratta di un progetto c h e 
+si oc c upa del gioc o per tut-
+ti i b amb ini e le b amb ine,  
+c ompresi quelli c h e h an-
+no dif ﬁc oltà  di qualunque 
+tipo a gioc are,  dove questo 
+aspetto va del resto mitigato 
+c on il tema del risc h io,  dei 
+peric oli insiti nel vivere in 
+un c ontesto urb ano c on c ui 
+dob b iamo 
+prob ab ilmente 
+sc endere a patti.  
+L a dott. ssa G erosa h a in-
+trodotto la sua esperienz a 
+prof essionale e personale 
+c itando una serie di c ontesti 
+interessanti c on c ui è  entrata 
+in c ontatto nel tempo ( signi-
+ﬁc ative anc h e per il presen-
+te studio)  tra c ui ad esempio 
+C H D  ( C entro D oc umenta-
+z ione H andic ap)  e la c oope-
+rativa soc iale A C C A P arlante,  
+e in generale tutto il gruppo 
+b olognese molto attivo an-
+c h e in relaz ione c on l’ A mmi-
+nistraz ione C omunale.  
+C ondivide c on noi un ap-
+proc c io alla sf era delle di-
+sab ilità  
+introduc endo 
+il 
+c onc etto di “ arc ipelago/ar-
+c ipelagh i”  per meglio c on-
+notare la soggettività  e le 
+)$
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+f ac ilitano la partec ipaz ione 
+e l’ interaz ione.  
+I l tema più interessante di 
+questi parc h i è  la possib ilità  
+di attivare un gioc o lib ero,  
+non unic amente c onc en-
+trato attorno ad alc une at-
+trez z ature 
+standardiz z ate.  
+I n più,  tali spaz i si possono 
+intendere di valore per l’ a-
+spetto relaz ionale c h e met-
+tono in moto.  I l superamen-
+to delle b arriere e dei limiti 
+di relaz ione c on l’ amb iente 
+potreb b e del resto esse-
+re gestito maggiormente 
+anc h e attraverso la tec no-
+logia,  in partic olare di tipo 
+“ assistivo” .  U n esempio per 
+un ipovedente potreb b e 
+essere la innovativa c intura 
+c h e avverte della presenz a 
+di ostac oli ( sviluppata dal 
+P olitec nic o di M
+ilano) .  Q
+ue-
+sto aspetto della tec nologia 
+c ome modo per rendere più 
+f ruib ile i parc h i è  stato svi-
+luppato nell’ ultimo proget-
+to ( G iardini B ertoli)  in modo 
+interessante c on un video,  
+c on c omunic az ione di tipo 
+aumentato,  c on l’ utiliz z o di 
+un linguaggio semplic e.  
+U n tema molto rilevante ri-
+spetto al proc esso c h e porta 
+alla realiz z az ione di spaz i di 
+questo tipo è  l’ avere all’ in-
+terno del gruppo di lavoro 
+anc h e i potenz iali destinata-
+ri del progetto,  ovvero per-
+sone c on disab ilità  e le loro 
+f amiglie.  
+U na riﬂessione ulteriore sul 
+modo in c ui ampliﬁc are il 
+ruolo di tali spaz i è  quello 
+di mettersi in relaz ione c on 
+altri serviz i,  c ome le b ib liote-
+c h e.  I l sistema b ib liotec ario 
+milanese è  attivo e sensib ile 
+al tema delle disab ilità  attra-
+verso attività  dedic ate e ma-
+nif estaz ioni c h e ripetendosi 
+periodic amente h anno c on-
+solidato delle reti c ollab ora-
+tive.  L e b ib liotec h e sono un 
+elemento c h iave c h e mette 
+in relaz ione un numero si-
+gniﬁc ativo di altre istituz ioni 
+e soggetti.  I n altre regioni 
+questo aspetto è  sviluppato,  
+ad esempio in E milia- R oma-
+gna c on il C entro doc umen-
+taz ione h andic ap di B olo-
+gna.
+I nﬁne,  alc uni input per au-
+mentare l’ ef f etto del pro-
+getto G ioc o al C entro ed in 
+generale le realiz z az ioni di 
+spaz i di questa natura può  
+essere lavorare sugli aspetti 
+di inf ormaz ione e c omunic a-
+z ione della presenz a di tali 
+oc c asioni,  sul tempo e sulla 
+disponib ilità  delle f amiglie 
+di b amb ine e b amb ini c on 
+disab ilità  spesso già  oc c u-
+pate rispetto alle questioni 
+di “ salute- trattamenti” ,  c osì  
+c ome inc entivare f orme di 
+uso dello spaz io dif f erente 
+da parte delle assoc iaz ioni/
+istituz ioni c h e se prendono 
+c ura.
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+dif f erenz e entro deﬁniz ioni 
+spesso standardiz z ate e non 
+rappresentative.  A d esem-
+pio,  rispetto alla disab ilità  
+uditiva esistono molte per-
+sone af f ette da ipoac usia ( in 
+modi diversi)  e meno perso-
+ne c on una disab ilità  totale,  
+c osì  per la vista,  la sf era c o-
+gnitiva e motoria.  V i è  una 
+grande dif f erenz a tra una 
+c ondiz ione in c ui,  parlando 
+della disab ilità  motoria,  di 
+una c arroz z ina c h e si gover-
+na o c h e deve essere spinta 
+da un altro soggetto.  C osì  
+c ome c h i h a una disab ilità  
+c ognitiva potreb b e avere in-
+vec e una grande f orz a e ab i-
+lità  motoria,  o meno.  A  que-
+sto proposito assume molto 
+rilievo una c onosc enz a di 
+b ase delle c lassiﬁc az ioni del 
+f unz ionamento della disab i-
+lità  ( C lassiﬁc az ione I nterna-
+z ionale del F unz ionamento,  
+della D isab ilità  e della S alu-
+te –  versione per B amb ini e 
+A dolesc enti ( I C F - C Y )  di c ui 
+la D ott. ssa M
+atilde L eonardi 
+del B E S T A  è  la ref erente ita-
+liana.  D a tali spunti emerge 
+una deﬁniz ione di disab ili-
+tà  c h e non è  static a ma sta 
+nell'interaz ione tra i deﬁc it e 
+le c aratteristic h e di una per-
+sona e l’ amb iente,  interaz io-
+ne c h e può  essere f ac ilitata 
+o meno.  
+I n una c ittà ,  c h e possiede 
+molti ostac oli,  i parc h i di 
+G ioc o al C entro sono da in-
+tendersi c ome oggetti c h e 
+!"#$%&#"'()%&"'(&)*))%
+*&
+4'(#"C%$(,)$5"%((,
+<*,/82'/$?B?@
+Inter Campus
+Contributo al progetto/pro-
+cesso. Quale è stato il ruo-
+lo e contributo della vostra 
+associazione all'interno del 
+progetto/programma “Gio-
+co al Centro”?
+I nter C ampus vive da sempre 
+al serviz io di b amb ini e b am-
+b ine,  nel tentativo di restitui-
+re loro il diritto al G ioc o,  uno 
+dei diritti f ondamentali del 
+F anc iullo sanc iti dalle U N .  I n 
+I talia la nostra attenz ione si 
+è  c onc entrata soprattutto su 
+b amb ini e b amb ine disab i-
+li e su c ome integrare il no-
+stro perc orso educ ativo c on 
+le loro nec essità ,  su c ome 
+imparare da loro e dalle as-
+soc iaz ioni c h e ad essi si de-
+dic ano,  a migliorare la nostra 
+attività  f ormativa.  A b b iamo 
+quindi avuto la f ortuna di in-
+c ontrare sul nostro c ammino 
+graz ie alla F dC M
+,  l’ assoc ia-
+z ione L ’ A b iltà  e c i è  semb ra-
+to interessante e naturale 
+mettere a disposiz ione del 
+progetto G ioc o al C entro la 
+nostra preparaz ione arric c h i-
+ta da questo f elic e inc ontro.
+A b b iamo la possib ilità  di par-
+tec ipare soprattutto al mo-
+mento di inauguraz ione del 
+P arc o,  c on sessioni di gioc o 
+organiz z ate in spaz i alterna-
+tivi per b amb ine e b amb ini.  
+I  nostri allenatori sono a di-
+sposiz ione nella giornata di 
+inauguraz ione per momenti 
+di gioc o per 2 o 4 b amb ini 
+alla volta su un c ampo at-
+trez z ato in sic urez z a montato 
+per l’ oc c asione nei pressi del 
+parc o.  
+L a nostra c omunic az ione si 
+rende inoltre disponib ile a 
+c ondividere i messaggi ri-
+guardanti questo progetto 
+attraverso i nostri c anali.
+Accrescimento/avanzamen-
+to del progetto. Rispetto al 
+lavoro realizzato e percorso 
+fatto da “Gioco al Centro” 
+sapete individuare punti di 
+forza che andrebbero valo-
+rizzati e criticità/carenze in-
+contrate dal progetto da cui 
+trarre insegnamento? 
+S aremmo f elic i di poter pro-
+porre la nostra attività  ai f re-
+quentatori del parc o anc h e 
+in momenti suc c essivi al gior-
+no d’ inauguraz ione,  ma c au-
+sa pandemia i suc c essivi mo-
+menti di attività  non h anno 
+avuto ﬁnora luogo.  S areb b e 
+b ellissimo f ar vivere il parc o 
+c on giornate ad hoc nei vari 
+mesi dell’ anno.
+Effetti e aperture. Se con-
+veniamo che un progetto di 
+questo tipo possa apportare 
+dei beneﬁci, su quali fronti 
+e con quale ricaduta pensi 
+si possano manifestare i più 
+signiﬁcativi? 
+L a nostra partec ipaz ione a 
+questo progetto è  c onse-
+guenz a dell’assoluta ﬁduc ia 
+alla validità  e utilità  del pro-
+getto.  I n una c ittà  c ome M
+i-
+lano ab b iamo c reato luogh i 
+c h e manc avano e di c ui c ’era 
+un assoluto seppure silenz io-
+so b isogno.  P urtroppo le ne-
+c essità  dei più f ragili a volte 
+non emergono c on la stessa 
+vemenz a di mark eting di altre 
+c ampagne.  M
+a siamo f elic i di 
+aver avuto un orec c h io atten-
+to ad asc oltare le ric h ieste 
+sussurrate dai più pic c oli e 
+vulnerab ili.  U n luogo di inc lu-
+sione,  pub b lic o,  aperto a tutti,  
+gratuito e soprattutto allegro 
+e studiato c on attenz ione e 
+dediz ione non esisteva.  F on-
+damentale è  inoltre la perma-
+nenz a e la stab ilità  di queste 
+strutture.  N on interventi spot,  
+ma destinati a durare e quin-
+di ac c ompagnati e “ ac c om-
+pagnab ili”  da una proposta 
+f ormativa ed educ ativa.
+P enso c h e la ric aduta positi-
+va stia proprio nella possib i-
+lità  di c reare attorno al P arc o 
+G ioc o una c omunità  parte-
+c ipe ed attenta c h e c resc a 
+insieme intorno a queste 
+nec essita c h e erano rimaste 
+inasc oltate.  S areb b e interes-
+sante rendere anc or di più 
+le c omunità  di rif erimento 
+soggetti agenti e respon-
+sab ili di tali luogh i.  A nc h e i 
+b amb ini e le b amb ine,  c h e 
+sic uramente da tale presa di 
+responsab ilità  avreb b ero da 
+suggerirc i sic uramente nuo-
+ve potenz ialità  del progetto.
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+*%
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+4'(#"C%$(,)$5"%((,
+F/22'#*&$?B??
+M
+ichela V assena
+U I C I
+Contributo al progetto/pro-
+cesso. Quale è stato il ruo-
+lo e contributo della vostra 
+associazione all'interno del 
+progetto/programma “Gio-
+co al Centro”?
+I n qualità  di c onsulente tec -
+nic o -  C ommissione A utono-
+mia del C onsiglio R egionale 
+L omb ardo dell'U . I . C . I .  U nio-
+ne I taliana dei C iec h i e degli 
+I povedenti O
+nlus c on parti-
+c olare esperienz a nella elimi-
+naz ione delle b arriere arc h i-
+tettonic h e e progettaz ione 
+dei perc orsi tattilo plantari 
+per persone non vedenti e 
+ipovedenti,  c i siamo oc c upati 
+della progettaz ione dei per-
+c orsi tattilo plantari e delle 
+mappe tattili c ondividendo,  
+di volta in volta,  le propo-
+ste e le soluz ioni c on alc uni 
+ref erenti della C ommissio-
+ne autonomia e c on alc une 
+persone c on disab ilità  sen-
+soriale,  anc h e sulla b ase di 
+prec edenti esperienz e.  C on 
+l’ oc c asione,  ab b iamo c erc a-
+to di dare ulteriore supporto 
+anc h e per quanto c onc erne 
+la sc elta delle aree gioc o e la 
+c olloc az ione ottimale dei vari 
+gioc h i in virtù di una c orretta 
+f ruib ilità  da parte delle per-
+sone c on diversa disab ilità .  
+U n partic olare approf ondi-
+mento e studio è  stato f atto,  
+in alc uni c asi,  anc h e per la 
+sc elta dei c olori e delle sc rit-
+te per agevolare le persone 
+ipovedenti e malvedenti.
+Accrescimento/avanzamen-
+to del progetto. Rispetto al 
+lavoro realizzato e percorso 
+fatto da “Gioco al Centro” 
+sapete individuare punti di 
+forza che andrebbero valo-
+rizzati e criticità/carenze in-
+contrate dal progetto da cui 
+trarre insegnamento? 
+I  punti di f orz a c h e andreb -
+b ero valoriz z ati sono pro-
+prio gli ob iettivi preﬁssati di 
+ac c essib ilità  e f ruib ilità  delle 
+aree gioc o attraverso tutti 
+gli ac c orgimenti e ausili c h e 
+sono stati previsti e realiz z ati 
+per f ar si c h e lo spaz io aggre-
+gativo possa essere f ruito da 
+parte di tutte le persone.  U no 
+studio approf ondito ed ef f et-
+tuato graz ie al c oinvolgimen-
+to di A ssoc iaz ioni rappresen-
+tanti le diverse disab ilità  c h e 
+h anno c ontrib uito a “ c ostrui-
+re”  uno spaz io di inc ontro e 
+di soc ializ z az ione ac c essib ile 
+e f ruib ile ove previsto,  in al-
+c uni c asi volutamente limita-
+to per ragioni di sic urez z a,  in 
+altri c asi totalmente f ruib ile.  
+L a valoriz z az ione di questi 
+punti di f orz a si potreb b e 
+trovare,  ad esempio,  nell’ in-
+segnare ai b amb ini/ragaz z i 
+delle sc uole primarie e se-
+c ondarie ( i maggiori f ruitori 
+in età  evolutiva) ,  portando 
+nelle sc uole queste aree gio-
+c o c ome esempio,  il perc h é  
+di alc une sc elte,  la motiva-
+z ione c h e h a portato a c rea-
+re alc une aree piuttosto c h e 
+altre,  il signiﬁc ato degli ausili 
+utiliz z ati,  il loro uso da parte 
+delle persone c on disab ilità ,  
+ovvero f ar c omprendere le 
+nec essità  delle varie disab ili-
+tà ,  le soluz ioni trovate e i mo-
+tivi di alc une sc elte,  perc h é  
+possano f ruire dei suddetti 
+spaz i c onsapevolmente e c o-
+sc ientemente in un c orretto 
+rapporto c on tutti gli utenti.
+P er quanto c onc erne le c a-
+renz e inc ontrate da c ui trarre 
+insegnamento per un pros-
+simo f uturo e su c ui b attersi 
+maggiormente,  ritengo sia-
+no da imputare a un non suf -
+ﬁc iente c oordinamento b u-
+roc ratic o c h e,  in taluni c asi,  
+può  prec ludere tutto o in 
+parte il lavoro di progettaz io-
+ne c onsapevole.  U na evolu-
+z ione c h e c i sarà  c ertamente 
+c on il tempo,  c osì  c ome negli 
+ultimi anni si sono sempre 
+più c omprese le nec essità  
+delle persone disab ili,  di un 
+c ontesto “ senz a b arriere”  per 
+eliminare anc h e le disab ilità .  
+F ac c io un esempio:  se il par-
+c o gioc h i h a al suo interno 
+aree ac c essib ili,  gioc h i ac -
+c essib ili,  perc orsi ac c essib ili,  
+e via dic endo,  ma per arri-
+vare al parc o devo attraver-
+sare una strada dove c i sono 
+le strisc e pedonali ma senz a 
+sc ivolo e senz a perc orso tat-
+!"#$%&#"'()%&"'(&)*))%
+*)
+tilo plantare per persone non 
+vedenti,  ovvero mi trovo una 
+b arriera c h e non mi permet-
+te di arrivare al parc o,  ec c o 
+c h e gran parte del lavoro è  
+vaniﬁc ato.  S e non c i sono 
+mez z i ac c essib ili c h e mi por-
+tano al P arc o,  se non c i sono 
+parc h eggi per disab ili nelle 
+vic inanz e e un perc orso f rui-
+b ile,  purtroppo,  al P arc o non 
+riesc o ad arrivare.
+I n c onc lusione,  servireb b e 
+maggiore 
+predisposiz ione 
+da parte dell’ A mministraz io-
+ne P ub
+lic a per un c orretto 
+c oordinamento tra i vari S et-
+tori c h e devono interagire e 
+c ollab orare per f ar si c h e an-
+c h e l’ ambi ente c irc ostante 
+sia senz a b arriere.
+Effetti e aperture. Se con-
+veniamo che un progetto di 
+questo tipo possa apportare 
+dei beneﬁci, su quali fronti 
+e con quale ricaduta pensi 
+si possano manifestare i più 
+signiﬁcativi? 
+C onsiderato c h e il P arc o 
+G ioc h i viene utiliz z ato non 
+solo dai b amb ini in età  evo-
+lutiva ma anc h e dai genitori,  
+nonni,  amic i e parenti c h e 
+li ac c ompagnano ( quindi 
+adulti) ,  
+c onsiderato 
+l’ alto 
+grado di individualismo ed 
+egoismo in c ui c i si trova so-
+c ialmente in questo prec iso 
+periodo storic o,  ritengo e 
+auspic o c h e i b eneﬁc i mag-
+giori possano prendere f or-
+ma in una maggiore c onsa-
+pevolez z a dei b isogni altrui,  
+una maggiore educ az ione 
+nei c onf ronti del prossimo,  
+una più autentic a predispo-
+siz ione all’ ac c ettarsi rec ipro-
+c amente.  M
+i auguro c h e in 
+uno spaz io di gioc h i e di di-
+vertimento nuovo,  b ello,  ac -
+c essib ile,  f ruib ile,  c olorato,  si 
+possa trovare quella giusta 
+serenità  per riappropriarsi 
+del proprio tempo e di quel-
+la gentilez z a perduta.
+R#$(%(0-%+'#)%'5+'("+
+B?AB?A?B??
+M
+ichela B ellodi
+L a C ordata
+c on:  M
+ilena L az z a -  F D C  
+M
+ilano e D A S tU - P oliM
+i
+P rogramma di animazione
+L 'area gioc h i inc lusiva di 
+piaz z a P ac i è  epic entro di 
+un progetto di animaz ione 
+ed esploraz ione territoria-
+le e di sensib iliz z az ione sui 
+temi dell'inc lusione rivolto 
+a b amb ini/e e ragaz z i/e,  c h e 
+c oinvolge in generale gli 
+spaz i della più ampia piaz z a 
+P ac i,  gli spaz i pub b lic i limi-
+troﬁ e le sc uole di dif f erenti 
+gradi presenti nel quartiere.
+I l progetto BaronAbilia è  sta-
+to avviato nella primavera 
+2021.  G uidato dall'assoc ia-
+z ione L a C ordata,  supporta-
+to dal M
+unic ipio 6 e svolto in 
+c ollab oraz ione c on altri enti 
+( L udosoﬁc i,  U I L D M
+,  C omu-
+nità  N uova e L 'I mpronta) ,  si 
+muove c on diverse attività  
+su tre dif f erenti assi d'az io-
+ne:
+•  I l primo di animaz ione ter-
+ritoriale interessa in modo 
+trasversale tutte le f asc e 
+d'età .  Q
+ueste az ioni,  c h e 
+sono ﬁnanz iate dal G ruppo 
+C A P  ( az ienda pub b lic a c h e 
+gestisc e il serviz io idric o in-
+tegrato della C ittà  metro-
+politana di M
+ilano e c h e h a 
+sede in z ona F amagosta) ,  si 
+svolgono negli spaz i di piaz -
+z a P ac i,  in partic olare nell'a-
+rea gioc h i inc lusiva ma più in 
+generale nel quartiere.
+•  I l sec ondo di attività  rivolte 
+al target spec iﬁc o degli ado-
+lesc enti.  I nf atti nel quartiere 
+B arona non c 'è  nè  un C A G  
+( C entro di A ggregaz ione 
+G iovanile)  nè  spaz i dedi-
+c ati alla f asc ia d'età  10- 19.  
+L 'assoc iaz ione propone ad 
+esempio:  attività  sportive iti-
+neranti ( U nità  M
+ob ile S port) ,  
+attività  c ulturali legate alla 
+music a rap ( M
+usic o e T era-
+pia)  e alla street art ( realiz z a-
+z ione di murales) .
+•  I l terz o asse lavora sulla 
+sensib iliz z az ione all'inc lusio-
+ne attraverso attività  e spet-
+tac oli teatrali interattivi per 
+rac c ontare la diversità .  Q
+ue-
+ste attività ,  svolte anc h e nel-
+le sc uole elementari e medie 
+sono state organiz z ate c on 
+U I L D M
+ e sono iniz iate solo a 
+novemb re,  in ritardo,  a c ausa 
+dell'emergenz a C ovid.
+**
+F ruizione dell' area giochi 
+inclusiva
+N onostante un iniz iale sc et-
+tic ismo sulla loc aliz z az ione 
+dell'area inc lusiva,  la perc e-
+z ione oggi è  c h e la c omunità  
+non solo l'ab b ia ac c olta po-
+sitivamente ma se ne pren-
+da anc h e c ura.  I nf atti il parc o 
+non è  stato vandaliz z ato e si-
+c uramente h a portato quali-
+tà  e be llez z a in un luogo c h e 
+ne è  c arente.  P er il momen-
+to però ,  rispetto al tipo di 
+f ruiz ione,  semb ra c h e c i sia 
+una sc arsa f requentaz ione 
+dell'area gioc o da parte di 
+ba mb ini/e disab ili e,  più in 
+generale,  di persone f ragili.
+S e osservato questo aspet-
+to nell'amb ito delle attività  
+del progetto BaronAbilia si 
+può  dire c h e,  ad esempio,  in 
+oc c asione dell'attività  “ G io-
+c A bi lia”  –  svolta a maggio,  
+giugno e luglio c on 1 even-
+to al mese –  h anno partec i-
+pato 83 b ambi ni di c ui 14 
+c on disabi lità ;  a settemb re 
+in oc c asione di più eventi,  
+tra c ui “ A  spasso c on S oﬁa” ,  
+una passeggiata- lab oratorio 
+nel quartiere,  h anno parte-
+c ipato anc h e alc uni ragaz z i 
+disabi li;  un evento sportivo 
+( organiz z ato c on U I L D M
+)  h a 
+c oinvolto soprattutto b am-
+bi ni normodotati c h e h anno 
+però  sperimentato lo sport 
+dell'h oc k ey  in c arroz z ina.
+N el perc orso del progetto 
+( non anc ora c onc luso)  la 
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+R#$(%(0-%+'#)%'5+'("+
+BEAB?A?B??
+M
+arco Colombo B olla,  
+Carlotta Calò  e L ia G allo
+C ampo T eatrale
+c on:  M
+ilena L az z a -  F D C  
+M
+ilano e D A S tU - P oliM
+i
+Contributo al progetto
+L ’ assoc iaz ione 
+c ulturale 
+C ampo T eatrale h a anima-
+to il parc o gioc h i inc lusivo 
+presso i G iardini L uc arelli a 
+partire dall’ evento inaugura-
+le tenutosi a settemb re 2020 
+e c ontinuerà  ad animarlo per 
+i due anni suc c essivi,  ﬁno a 
+luglio 2022.  I l progetto e il 
+programma di animaz ione si 
+svolge sia presso i G iardini 
+sia all’ interno di istituti sc ola-
+stic i della z ona o sedi di as-
+soc iaz ioni c h e trattano i temi 
+delle disab ilità .  I l teatro e le 
+disc ipline dello spettac olo 
+sono c iò  c h e c aratteriz z a le 
+attività  proposte.  
+N el 2021,  dopo l’ evento 
+inaugurale,  sono stati or-
+ganiz z ati 10 dif f erenti mo-
+c ollab oraz ione c on partner 
+c h e si oc c upano di disab ili-
+tà  è  stato un aspetto f onda-
+mentale e arric c h ente.  E ssi 
+inf atti h anno portato c ono-
+sc enz a e c ompetenz a,  tra le 
+altre c ose anc h e per c oglie-
+re e trattare disab ilità  non 
+f ac ili da ric onosc ere,  c ome 
+quelle c ognitive.
+menti ( prima tra aprile e 
+giugno,  poi tra settemb re e 
+ottob re)  di animaz ione ne-
+gli spaz i del parc o gioc h i e 
+in una sc uola primaria e una 
+sec ondaria limitrof e perc h è  
+of f rivano spaz i più adeguati 
+a rappresentaz ioni teatrali 
+c on pub b lic o.  C omplessi-
+vamente a questo c ic lo di 
+eventi h anno partec ipato 
+c irc a 480 ragaz z i e 390 adul-
+ti.  I  dati sono desunti dalle 
+prenotaz ioni 
+online.  
+O
+c -
+c orre inf atti ric ordare c h e il 
+progetto di animaz ione si è  
+svolto durante il periodo di 
+restriz ioni dovute alla dif f u-
+sione del virus C ovid- 19,  per 
+c ui alle attività  si poteva ac -
+c edere solo c on prenotaz io-
+ne online c h e prevedeva un 
+questionario c on la rac c olta 
+di dati di b ase.  U n sec ondo 
+c ic lo di eventi è  previsto per 
+la primavera ed estate 2022.
+C ontemporaneamente 
+a 
+questi momenti sono sta-
+te portate avanti altre at-
+tività ,  già  previste in sede 
+di progettaz ione.  L a prima 
+c oinvolge 12 b amb ini/e del 
+C entro D iurno de L 'ab ilità  
+O
+nlus ( partner del program-
+ma G ioc o al C entro) .  U na se-
+c onda è  un “ perc orso lab o-
+ratoriale di teatro integrato” ,  
+svolto negli spaz i della sede 
+di C ampo T eatrale;  vi h anno 
+partec ipato 8 ragaz z i di c ui 
+5 c on disab ilità .  A  queste 
+iniz iative si af ﬁanc a quella 
+di lab oratori teatrali gratuiti 
+presso sei dif f erenti sc uo-
+!"#$%&#"'()%&"'(&)*))%
+*'
+le primarie di primo grado 
+della z ona.  G raz ie al ﬁnan-
+z iamento di F ondaz ione di 
+C omunità  M
+ilano è  stato 
+possibi le svolgere i lab ora-
+tori in 33 c lassi.  
+Q
+uesto perc orso permet-
+te,  di maturare esperienz a 
+e c onosc enz a,  ma anc h e di 
+sperimentare e rac c ogliere 
+molti strumenti c h e c ondur-
+ranno ad ideare un nuovo 
+spettac olo sui temi della di-
+sab ilità  c h e sarà  messo in 
+sc ena nel mese di aprile per 
+la stagione teatrale 2022/23.  
+F ruizione dell’ area da parte 
+di persone disabili
+C ome ac c ennato in prec e-
+denz a il primo anno di attivi-
+tà  h a dovuto f are i c onti c on 
+l’emergenz a C ovid- 19.  P er 
+gestire la partec ipaz ione agli 
+eventi è  stato attivato un si-
+stema di prenotaz ione online 
+al quale era assoc iato un que-
+stionario.  N onostante questo 
+strumento è  dif ﬁc ile ric ostrui-
+re un quadro numeric o c erto 
+sulla partec ipaz ione di b am-
+b ini/e o persone c on f ragilità .  
+L e segnalaz ioni f atte in sede 
+di prenotaz ioni riguardavano 
+quasi esc lusivamente b am-
+b ini/e in sedia a rotelle.  U na 
+stima è  dif ﬁc ile da f are anc h e 
+perc h é  non sempre la disab i-
+lità  è  perc epib ile,  per il gra-
+do di importanz a o perc h é  
+di tipo c ognitivo e dif ﬁc ile 
+da ric onosc ere ad un primo 
+sguardo.  L a sensaz ione però  
+è  c h e la presenz a sia molto 
+b assa;  si potreb b e stimare 
+c ome ordine di grandez z a un 
+5%
+ di persone c on disab ilità  
+sul totale dei partec ipanti.  L e 
+ragioni prob ab ilmente sono 
+molteplic i,  a partire dalla ti-
+tub anz a delle f amiglie nell'e-
+sporre b amb ini e b amb ine a 
+situaz ioni di risc h io inf ez ione 
+in questo periodo,  alla dif ﬁ-
+c oltà  di gestione o altro.
+O
+pportunità  spaziali dell’ a-
+rea gioco
+I  lab oratori nelle sc uole si 
+svolgono nella stagione in-
+vernale,  quindi non è  possi-
+b ile usare gli spaz i dei G iar-
+dini L uc c arelli,  ma nell’ estate 
+del 2021 è  stato f atto l'espe-
+rimento di usare le strutture 
+del parc o gioc h i nell'amb ito 
+della sc uola di rec itaz ione 
+dell’ assoc iaz ione c on pic c oli 
+gruppi di b amb ini e b amb i-
+ne under 11 ( nessuno di que-
+sti c on f ragilità ) .  L 'esperienz a 
+di portare il teatro al parc o e 
+rivolgersi a non prof essioni-
+sti è  molto sﬁdante.  L e pro-
+poste a livello perf ormativo 
+sono di natura molto c orale,  
+ma il c ontesto è  molto rumo-
+roso e i tanti b amb ini e b am-
+b ine in sc ena non possono 
+essere tutti mic rof onare.  I l 
+tema dell’ audio riduc e molto 
+il potenz iale di perf orman-
+c e all’ interno della c ornic e 
+del parc o.  A nc h e gli aspetti 
+di natura logistic a non sono 
+semplic i.  O
+gni volta c h e si 
+organiz z a un evento al par-
+c o serve un generatore di 
+c orrente per una attrez z atura 
+audio di b ase,  anc h e solo per 
+riprodurre music a.  I n pro-
+spettiva sareb b e auspic ab ile 
+c h e i parc h i siano dotati di 
+allac c i elettric i a disposiz ione 
+di c h i organiz z a eventi.  
+L 'area gioc h i L uc arelli è  sta-
+to un’ ottima c ornic e per le 
+esperienz e di c arattere la-
+b oratoriale più c h e perf or-
+mative.  G li attori e c ondut-
+tori delle esperienz e h anno 
+usato il parc o c ome sc enario 
+c h e potesse ac c ogliere le 
+varie esperienz e.  I l c astello,  i 
+gioc h i sospesi,  la rete sono 
+diventati 
+tutti 
+espedienti,  
+amb ientaz ioni di viaggi f an-
+tastic i.  N on soltanto per la 
+c onc retez z a c h e questi ele-
+menti portano c on sé  ma 
+anc h e per la possib ilità  di 
+attivare un immaginario e di-
+ventare quasi un portale per 
+un altrove.  S i lavorava c on i 
+gessetti e i f ogli da luc ido ap-
+plic andoli in alc une parti del 
+parc o per immaginare c h e 
+quelle aree,  superﬁc i,  segni 
+a terra f ossero ac c essi per 
+altri mondi:  la j ungla,  il mare 
+in tempesta dove inc ontrare 
+i pirati.  U sare le strutture per 
+quello c h e erano,  o c h e evo-
+c avano,  o anc h e per quello 
+c h e non erano è  stato inte-
+ressanti ed è  anc h e una tipi-
+c a attività  teatrale.
+L 'area gioc h i è  stata uno 
+sc enario molto f ertile per la 
+c reaz ione delle esperienz e.  
+I l ruolo degli animatori è  sta-
+to quello di portare i b amb i-
+*(
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+ni e le b ambi ne a sentire c h e 
+tutti gli elementi c h e si tro-
+vano lì  h anno un potenz iale 
+più ampio di quello c h e h a 
+l’ oggetto di per sé .  L 'attività  
+teatrale aiuta a c amb iare lo 
+sguardo,  a guardare c on oc -
+c h i nuovi un oggetto c h e si 
+da per sc ontato.  
+È  stato organiz z ato anc h e 
+un “ pic nic  artistic o”  in c ol-
+lab oraz ione c on U I L D M
+,  al-
+tro partner di progetto.  I n 
+quell’ oc c asione il parc o è  
+stato tappez z ato di tovaglie 
+b ianc h e c h e sono state di-
+pinte durante un lab oratorio 
+di pitturae sono poi diventa-
+te tovaglie per un pic nic  dif -
+f uso.  U n’ esperienz a logisti-
+c amente sﬁdante visto c h e la 
+sede di U I L D M
+ è  molto lon-
+tana.  L ’ interesse però  è  quel-
+lo di c ontinuare il perc orso 
+di c ollab oraz ione,  pensando 
+però  a degli inc ontri anc h e 
+presso i loro spaz i.  
+I n un’ altra oc c asione lab ora-
+toriale si è  proposto un’ atti-
+vità  di piantumaz ione di ar-
+bu sti vic ino all’ area gioc o e 
+in dialogo c on M
+unic ipio 3 è  
+stata realiz z ata un’ aiuola per 
+rendere più piac evole un 
+angolo dell’ area gioc h i.  
+R elazioni costituite e aper-
+ture future
+L a sperimentaz ione di lab o-
+ratori teatrali appare molto 
+signiﬁc ativa per f ar lavorare i 
+b amb ine e b amb ini sui temi 
+della disab ilità  ed inc lusio-
+ne.  L a volontà  di c ontinuare 
+e dare maggior c onsistenz a 
+all’esperienz a del lab oratorio 
+di teatro integrato,  ad esem-
+pio,  h a spinto l’assoc iaz ione 
+a programmare una rac c olta 
+f ondi in c row df unding.  I nf atti 
+si è  ric onosc iuta la nec essità  
+di un tempo di sedimenta-
+z ione,  lavoro e c ondivisione 
+più ampio.  L ’esperienz a nelle 
+sc uole è  stata ac c olta posi-
+tivamente,  inf atti durante il 
+perc orso h anno manif estato 
+interesse altre 10 c lassi,  poi 
+c oinvolte graz ie ad un ﬁnan-
+z iamento del M
+unic ipio 3;  al-
+tre 2 c lassi si sono aggiunte in 
+seguito c on una quota versa-
+ta direttamente dalle f amiglie.  
+S ono stati c osì  c oinvolti c irc a 
+mille tra b amb ine e b amb i-
+ni.  Q
+uesti lab oratori,  svolti 
+nel periodo invernale,  h anno 
+avuto luogo durante l’orario 
+sc olastic o,  in c ollab oraz ione 
+c on le insegnanti e all’ interno 
+degli spaz i della sc uola.
+I l programma h a permes-
+so di attivare un’ ampia rete 
+territoriale attraverso le ini-
+z iative attorno al parc o e at-
+traverso il c oinvolgimento di 
+molte sc uole c on le attività  
+lab oratoriali.  Q
+uesto lavo-
+ro permette di prevedere,  
+per il periodo primaverile 
+ed estivo 2022,  un ritorno al 
+parc o c on un programma di 
+iniz iative c h e metterà  a siste-
+ma quanto f atto e proverà  
+a rac c oglierne i f rutti in una 
+c omunità  sc olastic a c h e in 
+questi mesi è  stata “ ampia-
+mente nutrita” .  L o spettac olo 
+teatrale ﬁnale c h e tratterà  il 
+tema della disab ilità  a parti-
+re da quanto si è  appreso in 
+questi due anni di perc orso 
+sul territorio vuole essere un 
+momento c h iave di questo 
+perc orso e si propone di ri-
+unire i molti ﬁli tessuti.  A llo 
+spettac olo si af ﬁanc h erà  la 
+c reaz ione di un’ opera d'ar-
+te pub b lic a installata all'in-
+terno del parc o,  c h e sarà  la 
+c onc retiz z az ione di un per-
+c orso di lab oratori artistic i 
+svolti in c ollab oraz ione c on 
+una artista,  in c ui c onﬂuiran-
+no i materiali rac c olti duran-
+te una serie di rilevamenti.  
+A l c ontempo,  C ampo T ea-
+trale è  parte del T avolo per 
+la N on V iolenz a,  organiz z ato 
+dal M
+unic ipio 3.  Q
+uesta rete 
+è  c ostituita da molte realtà  
+attive su tematic h e di natura 
+soc iale e oltre a promuovere 
+c ollab oraz ioni è  un c anale 
+di divulgaz ione delle attività  
+promosse al parc o.
+L 'organiz z az ione 
+S paz io 
+A perto S erviz i h a af ﬁanc a-
+to l’ assoc iaz ione nell’ evento 
+Mister Brush del 2021;  c on 
+la presenz a di un interpre-
+te è  stato possib ile rendere 
+ac c essib ile lo spettac olo an-
+c h e a persone c on limitate 
+c apac ità  uditive.  
+L a logic a c on la quale l’ as-
+soc iaz ione opera è  quella di 
+sviluppare un palinsesto di 
+eventi c h e di volta in volta 
+c oinvolgano un partner di 
+!"#$%&#"'()%&"'(&)*))%
+*!
+progetto,  o non,  c h e possa 
+essere un interloc utore pri-
+vilegiato e apra l’ iniz iativa ad 
+una c omunità  spec iﬁc a.  I n 
+partic olare provando a f are 
+inc ontrare le persone in si-
+tuaz ioni dif f erenti:  ad esem-
+pio gli attori c h e svolgono 
+gli spettac oli ai G iardini 
+sono gli stessi c h e svolgono 
+le attività  labo ratoriali nelle 
+sc uole,  provando a c ostruire 
+una c onsuetudine.  
+R ispetto ad assoc iaz ioni e 
+istituti c h e si oc c upano spe-
+c iﬁc amente di disab ilità  è  da 
+segnalare c h e c apita di regi-
+strare delle resistenz e in un 
+loro diretto c oinvolgimento 
+strutturato nelle attività .  An -
+c h e in questo c aso i motivi 
+sono molteplic i,  a partire da 
+quelli logistic i,  ma anc h e le-
+gati a inc ertez z e su una reale 
+disponib ilità  delle f amiglie a 
+prendervi parte,  o perc h é  
+non anc ora abi tuati nel rite-
+nere ac c essib ile la partec i-
+paz ione ad attività  teatrali.
+Q
+uello c h e emerge è  una 
+rete aperta e multisc ala f atta 
+di luogh i ( il parc o,  le sc uole,  
+le sedi di assoc iaz ioni) ,  di re-
+laz ioni tra soggetti dif f erenti 
+e di progettualità  moltepli-
+c i dedic ate alla disab ilità  la 
+c ui c ostruz ione è  supportata 
+dalla densità  di c onnessio-
+ni c h e si stanno attivando e 
+c h e si alimentano vic ende-
+volmente.  U na rete di sup-
+porto alla dif f usione della 
+c ultura di inc lusività .
+R#$(%(0-%+'#)%'5+'("+
+BGAB?A?B??
+M
+arco Z andrini e L etizia 
+P ezzoli
+C onsorz io S iR
+c on:  M
+ilena L az z a -  F D C  
+M
+ilano e D A S tU - P oliM
+i
+Il lavoro su due parchi diffe-
+renti
+C onsorz io S iR  si è  oc c upato 
+di tutte le attività  di animaz io-
+ne dei parc h i inc lusivi di V illa 
+F inz i ( M
+unic ipio 2)  e M
+artinet-
+ti ( M
+unic ipio 7) .  P er quest’ ulti-
+mo h a gestito anc h e il lanc io 
+e inauguraz ione del parc o a 
+settemb re 2019,  mentre l’ i-
+nauguraz ione del parc o di 
+V illa F inz i era stata c urata da 
+L ’ab ilità  a giugno dello stesso 
+anno.  P er quanto riguarda le 
+relaz ioni c on le sc uole,  sono 
+state le assoc iaz ioni L ’ab ilità  e 
+U I L D M
+ a lavorare all’ interno 
+degli istituti sc olastic i dei due 
+c ontesti c on un progetto di 
+animaz ione.
+Al l’ interno del progetto G io-
+c o al C entro,  C onsorz io S iR  
+è  l’ assoc iaz ione c h e h a ini-
+z iato prima le sue attività  di 
+animaz ione c on l’ iniz iativa 
+Libera entrata ed h a inf atti 
+già  c onc luso il progetto.  I l 
+perc orso è  stato anc h e attra-
+versato dall’ iniz io della pan-
+demia e per questo le attivi-
+tà  sono uf ﬁc ialmente partite 
+solo a settemb re 2020 e non 
+a f eb b raio/marz o.
+A ver portato il progetto in 
+due parc h i e c ontesti diver-
+si h a permesso di osservare 
+due situaz ioni c on alc une 
+dif f erenz e.
+•  l’ area gioc o di V illa F inz i è  
+inserita in un parc o storic o 
+della c ittà ,  quindi già  f re-
+quentato e c onosc iuto da 
+f amiglie del quartiere,  as-
+soc iaz ioni e serviz i del terz o 
+settore c h e inf atti h anno an-
+c h e sedi all’ interno del par-
+c o.  Q
+uando C onsorz io S iR  si 
+è  inserito in questo c ontesto 
+c on le attività  di animaz ione 
+h a avuto un primo dialogo 
+c on la C asa S olidale c h e h a 
+sede nel parc o –  e ospita ser-
+viz i e rac c oglie progetti per 
+le persone c on disab ilità  e i 
+loro f amiliari –  e c on l’ asso-
+c iaz ione O
+rtic a c h e gestisc e 
+il C entro D iurno D isab ili.  L e 
+iniz iative sono state promos-
+se sul territorio e c omunic a-
+te sui soc ial e c ’ è  stato sub ito 
+un b uon risc ontro da parte 
+della c ittadinanz a.  L a parte-
+c ipaz ione è  stata rilevante ed 
+è  stata molto naturale per-
+c h é  si trattava di un c ontesto 
+già  c onosc iuto e f requentato 
+all’ interno del quartiere.
+•  il parc o di via M
+artinetti è  
+nuovo all’ interno del quar-
+tiere ed è  stato inaugurato 
+proprio c on l’ installaz ione 
+dell’ area gioc h i inc lusiva.  N el 
+settemb re 2019 è  stato f atto 
+un lavoro iniz iale di c omuni-
+c az ione c oinvolgendo molto 
+le assoc iaz ioni,  le sc uole e gli 
+oratori della z ona,  per f ar c o-
+*"
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+sull’ area dei gioc h i inc lusivi 
+e permette c h e le f amiglie si 
+sentano più sic ure nel por-
+tarc i b amb ine e b amb ini.
+A ttività  di animazione e fase 
+pandemica
+L a prima ondata di pande-
+mia h a imposto una variaz io-
+ne dei programmi in termini 
+temporali ( le attività  di ani-
+maz ione sono iniz iate solo 
+a settemb re 2020 e non in 
+primavera)  ma h a anc h e al-
+terato le tipologie di attivi-
+tà  e le f orme del gioc o.  A d 
+esempio non si sono potute 
+svolgere delle giornate le-
+gate a ric orrenz e o f estività  
+e si è  rinunc iato ad az ioni di 
+ingaggio della c ittadinanz a 
+per la manutenz ione e puli-
+z ia del parc o,  c ome invec e 
+era previsto iniz ialmente dal 
+progetto.
+P er le restriz ioni legate all’ e-
+mergenz a sanitaria anc h e 
+la modalità  di svolgimento 
+delle attività  h a sub ito delle 
+variaz ioni importanti,  inf atti 
+l’ attività  proposta ( Ludobus) ,  
+una ludotec a itinerante c h e 
+of f re vari gioc h i c h e si svol-
+gono e distrib uisc ono nello 
+spaz io,  solitamente permet-
+te un c erto grado di lib ertà  
+nei tempi di utiliz z o,  nell’ in-
+teraz ione f ra b amb ini/e e f ra 
+b amb ini/e e gioc h i.  A  c ausa 
+del momento storic o non 
+si è  potuta sperimentare 
+la normale f ormula di f un-
+z ionamento della ludotec a 
+inserita nel c ontesto dell’ a-
+rea gioc h i inc lusiva,  poic h é  
+la nec essità  era di stare in 
+un’ area perimetrata,  separa-
+ta dalle strutture del parc o e 
+c oi tempi organiz z ati in turni.
+U n altro aspetto c h e è  sta-
+to limitato dal periodo di 
+emergenz a è  stato il dialogo 
+c on le assoc iaz ioni e i serviz i 
+per la disab ilità .  I n quel pe-
+riodo inf atti questi erano in 
+una f ase riorganiz z ativa e di 
+c onf usione e non era un mo-
+mento adatto per loro per 
+gestire delle giornate di ani-
+maz ione di gruppo all’ aper-
+to c on tante persone.  Q
+ue-
+sto si è  visto in partic olare 
+nell’ amb ito dell’ area gioc o 
+di V illa F inz i nelle c ui vic inan-
+z e h anno sede diverse strut-
+ture del terz o settore c on c ui 
+iniz ialmente si era aperto un 
+dialogo e immaginato delle 
+giornate c ondivise.
+N onostante gli ostac oli le 
+attività  sono riusc ite e sono 
+state vissute c ome un suc -
+c esso proprio in relaz ione al 
+periodo storic o in c ui si sono 
+svolte.
+P artecipazione e fruizione 
+da parte di bambini/e disa-
+bili durante e al di fuori del-
+le attività  organizzate
+R elativamente 
+all’ af ﬂuenz a 
+in generale tra i due parc h i 
+ai G iardini M
+artinetti c ’ è  sta-
+to una partec ipaz ione mag-
+giore.  L ’ assoc iaz ione h a la-
+vorato c on c irc a 50 b amb ine 
+e b amb ini ogni pomeriggio 
+e al termine del progetto ne 
+nosc ere il progetto e il nuo-
+vo spaz io.  I l parc o è  limitro-
+f o a un istituto c omprensivo 
+c h e è  stato c oinvolto nell’ e-
+vento inaugurale dei G iardi-
+ni e,  si pensa c h e anc h e per 
+questo motivo,  la giornata 
+sia stata molto partec ipata.  
+E rano mesi c h e le persone 
+vedevano i lavori quindi c ’ e-
+ra molta attesa e l’ ac c oglien-
+z a da parte delle f amiglie del 
+parc o gioc h i e delle attività  
+c h e h a portato c on sé  è  stata 
+molto c alorosa.  I nf atti sia gli 
+usi quotidiani c h e le giorna-
+te di animaz ione iniz iate più 
+avanti h anno visto un alto nu-
+mero di partec ipanti:  anc h e 
+liste di 50 b amb ini e b amb i-
+ne divisi in gruppi da 10 c h e 
+dovevano aspettare ognuno 
+la propria mez z ora per gio-
+c are.  L ’ iniz iativa quindi è  sta-
+ta un suc c esso e data questa 
+esperienz a si pensa c h e per 
+la riusc ita di questi interventi 
+sia molto importante c ostrui-
+re la relaz ione c on le sc uole e 
+le assoc iaz ioni del territorio.
+S embr a c h e il parc o di via 
+M
+artinetti sia entrato a f ar 
+parte dei luogh i f requentati 
+abi tualmente dalle f amiglie,  
+diventando c osì  una parte 
+importante e integrante del 
+tessuto urb ano del quartiere.  
+L ’ impressione è  anc h e c h e la 
+c onf ormaz ione del parc o sia 
+ottimale perc h é  c h iuso e,  a 
+dif f erenz a di quello di V illa 
+F inz i c h e è  molto grande e 
+più dispersivo,  è  inc entrato 
+!"#$%&#"'()%&"'(&)*))%
+*#
+sono stati c oinvolti c irc a 400.  
+N on è  possib ile avere un 
+dato c erto sulla partec ipa-
+z ione di b amb ine e b amb ini 
+disabi li:  alc uni utenti sono 
+venuti più f requentemente,  
+altri in modo sporadic o e al-
+tri la c ui disabi lità  non è  c osì  
+evidente e quindi non è  pos-
+sib ile tenerne trac c ia.
+La  perc ez ione,  data anc h e 
+dal c onf ronto c oi serviz i in-
+terni a C onsorz io S iR  c h e si 
+oc c upano di riab ilitaz ione e 
+neuropsic h iatria inf antile,  è  
+c h e,  data la f ase pandemic a,  
+nel periodo del programma 
+di animaz ione le f amiglie 
+c on ba mb ini e b amb ine di-
+sab ili erano molto titub anti 
+dal portarli a gioc are in una 
+situaz ione di gruppo.  
+A  V illa F inz i il parc o viene 
+f requentato dalle assoc ia-
+z ioni per la disab ilità  c h e 
+h anno sede all’ interno del 
+parc o,  prima f ra tutti l’ asso-
+c iaz ione L ’ ortic a c h e gesti-
+sc e il C entro D iurno D isab ili 
+e c h e in quel periodo era so-
+lita f requentare l’ area gioc h i 
+al mattino,  quando non c ’ era 
+nessuno e la situaz ione era 
+più c ontrollata.  Q
+uindi evi-
+dentemente l’ interaz ione di 
+ba mb ini e ba mb ine disab ili 
+c on l’ area gioc h i è  avvenuta 
+più c h e altro in queste mo-
+dalità .  C iò  vuol dire c h e c i 
+sono delle assoc iaz ioni c h e 
+h anno usato il parc o in mo-
+menti a loro dedic ati:  c erta-
+mente viene meno il senso 
+dell’ inc lusione ma il parc o 
+rimane un f ac ilitatore per 
+attività  soc io- assistenz iali e 
+quindi si tratta c omunque 
+di un valore aggiunto per il 
+territorio e per le attività  di 
+quelle assoc iaz ioni.
+L ’ area gioc h i di via M
+arti-
+netti invec e viene utiliz z ata 
+da molte f amiglie c h e f re-
+quentano la sc uola materna 
+lì  vic ina c h e inoltre h a dei 
+perc orsi interni su disab ili-
+tà  e sensib iliz z az ione.  Q
+ui 
+c i sono b amb ini e b amb ine 
+disab ili c h e sic uramente f re-
+quentano il parc o.
+L a presenz a del Ludobus 
+è  stata l’ oc c asione per l’ as-
+soc iaz ione per interf ac c iar-
+si c oi genitori e rac c ontare 
+questi parc h i dif f erenti,  per-
+c h é  sono stati realiz z ati e 
+qual è  l’ idea c h e vogliono 
+dif f ondere.
+P er quanto riguarda b am-
+b ini e b amb ine è  semb rato 
+c h e quelli presenti nell’ area 
+di via M
+artinetti,  prob ab il-
+mente perc h é  f requenta-
+vano le sc uole ed erano 
+presenti 
+all’ inauguraz ione,  
+f ossero più c onsapevoli del-
+la partic olarità  di quel posto.  
+N el parc o di V illa F inz i il pro-
+getto era meno c onosc iuto.
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+R#$(%(0-%+'#)%'5+'("+
+BHAB?A?B??
+M
+artina T esta e S imone 
+Cucchetti
+C oopertiva S oc iale N uova 
+U manità
+c on:  M
+ilena L az z a -  F D C  
+M
+ilano e D A S tU - P oliM
+i
+P roposta e percorso legato 
+alla animazione territoriale
+L ’ intervento intorno ai G iar-
+dini B ertoli guidato dalla 
+C ooperativa S oc iale N uova 
+U manità  lavora su due assi:  
+-  una parte di promoz ione 
+della c ultura dell’ inc lusione 
+c h e si svolge all’ interno del 
+parc o in f orma animativa/
+aggregativa/lab oratoriale,  
+per animarlo e renderlo ac -
+c essib ile al territorio;
+-  una parte f ormativa e di 
+sensib iliz z az ione all’ interno 
+e in c ollab oraz ione c on le 
+sc uole del M
+unic ipio 8 ( ini-
+z ierà  a marz o 2022) .
+I l parc o è  stato inaugurato a 
+settemb re 2021 dando il via 
+al progetto L ib eri di essere,  
+dopodic h é  sono state av-
+viate c on la f requenz a di tre 
+volte alla settimana una seria 
+di attività  di animaz ione ter-
+ritoriale c on l’ ac c ompagna-
+mento di due ﬁgure di edu-
+c atori.  Q
+ueste attività  di tipo 
+lab oratoriale da un lato e di 
+sensib iliz z az ione 
+dall’ altro,  
+h anno visto una prima parte 
+*$
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+di az ioni esplorative del par-
+c o,  una osservaz ione parte-
+c ipata per mappare da c h i 
+era f requentato e c ome era 
+utiliz z ato e per iniz iare a c re-
+are relaz ioni.  A  partire dall’ i-
+nauguraz ione ﬁno a novem-
+br e/dic embr e è  stato f atto 
+un lavoro di agganc io c on 
+ba mb ini/e e genitori e in pa-
+rallelo c on gruppi inf ormali 
+di ragaz z i,  c on c ui sono sta-
+te organiz z ate attività  spor-
+tive c on l’ obi ettivo di c reare 
+un senso di appartenenz a 
+allo spaz io e disinc entivare 
+az ioni f uture di vandalismo 
+( tema molto sentito anc h e 
+da parte delle istituz ioni del-
+la z ona) .
+P er non ab b andonare il pre-
+sidio educ ativo sul territorio,  
+anc h e nel periodo invernale 
+sono stati organiz z ati diversi 
+inc ontri rivolti a b amb ini e 
+ba mb ine delle sc uole ele-
+mentari.  Q
+uesti appunta-
+menti,  in parte lab oratoriali,  
+in parte di presenz a sul ter-
+ritorio,  sono stati organiz z a-
+ti ogni 15 giorni di sab ato 
+mattina e h anno af f rontato 
+il tema dell’ inc lusione.  S e-
+guendo il ﬁlo di L ib eri di es-
+sere si è  lavorato su un per-
+c orso di c reaz ione di ﬁab e 
+utiliz z ando i gioc h i del par-
+c o.  L ’ idea di partenz a è  quel-
+la c h e anc h e i gioc h i siano 
+libe ri di essere qualc osa di 
+diverso e c h e quindi si pos-
+sano trasf ormare in amb ien-
+ti e personaggi.  I l gioc o h a 
+previsto la c reaz ione di un 
+eroe ogni volta diverso c h e 
+possedeva alc une c aratteri-
+stic h e ma non tutte e dove-
+va af f rontare delle sﬁde c on 
+diverse 
+c apac ità .  
+Q
+uesto 
+f ormat,  c h e riporta al tema 
+della diversità ,  h a permes-
+so a b amb ine e b amb ini di 
+sviluppare un pensiero sim-
+b olic o c h e allo stesso tempo 
+lavorava sullo spaz io.  I n pa-
+rallelo inf atti b amb ini e b am-
+b ine h anno c reato una map-
+pa personale legata al parc o 
+e alle ﬁab e.  A lla c onc lusione 
+di ogni inc ontro a b amb ini e 
+f amiglie è  stato lasc iato un 
+simb olo della ﬁab a c h e por-
+tava un messaggio legato 
+all’ inc lusione e per il f uturo 
+tutto il perc orso c onﬂuirà  in 
+un lib ro delle ﬁab e dei G iar-
+dini B ertoli c h e sarà  c ondivi-
+so c on le f amiglie.
+A  partire da marz o ’ 22 ﬁno 
+a luglio si amplierà  l’ utenz a 
+c oinvolta ( b amb ini/e delle 
+sc uole elementari,  medie,  
+superiori e f amiglie) ,  inf atti:
+-  riprenderanno gli appun-
+tamenti di animaz ione tre 
+volte alla settimana,  in c ui i 
+lab oratori saranno dif f eren-
+z iati per f asc e d’ età ;
+-  sarà  avviata la c ollab oraz io-
+ne c on la sc uola superiore 
+C ardano ( soc io- psic o- peda-
+gogic o)  c on perc orsi di al-
+ternanz a sc uola- lavoro,  c on 
+l’ob iettivo c h e le proposte di 
+animaz ione territoriale ven-
+gano anc h e da parte dei ra-
+gaz z i c h e,  sensib iliz z ati sul 
+tema dell’ inc lusione saranno 
+in questo modo sia utenti c h e 
+volontari;
+-  saranno organiz z ati 6 ap-
+puntamenti ( sab ato) ,  la c ui 
+f orma è  anc ora da deﬁnire,  
+f atti in c ollab oraz ione c on 
+tutti gli enti della rete;
+-  al di f uori del progetto,  a 
+maggio i G iardini B ertoli 
+ospiteranno attività  teatrali 
+nell’ amb ito dell’ iniz iativa T e-
+atro C ity  del C omune di M
+i-
+lano,  quindi in quel periodo 
+c i saranno c ommistioni c on 
+altri enti e altre realtà  ( anc h e 
+non f ormalmente inc luse 
+nella rete attiva per il pro-
+getto) .
+F ruizione da parte di perso-
+ne disabili
+D opo l’ inauguraz ione del 
+parc o,  in c ui c ’ è  stata una 
+alta partec ipaz ione di per-
+sone disab ili anc h e graz ie 
+alla presenz a dell’ A ssoc ia-
+z ione N assigh ,  si è  assistito 
+a un c alo ( partendo da una 
+presenz a c omunque non 
+partic olarmente signiﬁc ati-
+va)  della f requentaz ione del 
+parc o da parte dell’ utenz a 
+primaria per la quale è  stato 
+pensato.  
+E merge inf atti una dimen-
+sione di f atic a,  vergogna e 
+timore delle f amiglie legata 
+all’ esposiz ione dei ﬁgli allo 
+sguardo altrui.  S emb ra an-
+c h e c h e per i genitori il par-
+c o non sia anc ora c onsidera-
+ta una risorsa,  per questo si 
+!"#$%&#"'()%&"'(&)*))%
+'&
+z a delle sc uole medie e su-
+periori of f rendo possib ilità  
+aggregative di vario tipo,  
+c h e vanno dal sostegno sc o-
+lastic o nella f orma di stimolo 
+allo studio tra pari,  attività  di 
+lib era aggregaz ione,  attività  
+sportive,  attività  di c ittadi-
+nanz a attiva.  L ’ equipe edu-
+c ativa dei G iardini B ertoli 
+( quindi del progetto L ib eri 
+di essere)  lavora in sinergia 
+c on quella del C A G ,  tanto 
+c h e anc h e la prima f ase di 
+az ioni esplorative dello spa-
+z io è  stata f atta c ol c ontrib u-
+to dei ragaz z i del C A G  c h e 
+f requentano la z ona e h anno 
+portato la loro esperienz a.
+I l progetto sui G iardini B er-
+toli si inserisc e perf ettamen-
+te nel proc esso c h e h a c oin-
+volto in passato il C A G  e un 
+altro parc o in z ona ( il c osid-
+detto P arc o dei triangoli)  e 
+c h e h a visto f ormaliz z arsi un 
+patto di c ollab oraz ione per 
+la gestione dei b eni c omuni 
+c on il C omune e altri enti del 
+territorio.  L ’ idea è  di strin-
+gere anc h e nell’ amb ito dei 
+G iardini B ertoli questo tipo 
+di relaz ione,  c h e diventereb -
+b e in questo modo un impe-
+gno f ormale c h e tanti enti si 
+possono prendere dando 
+la garanz ia c h e l’ intervento 
+possa proseguire nel tempo.  
+Q
+uesto tipo di patto c onsen-
+tireb b e anc h e una sempliﬁ-
+c az ione nella realiz z az ione 
+degli eventi poic h é  non ser-
+vireb b e c h iedere ogni volta 
+l’ autoriz z az ione.
+pensa c h e anc h e i genitori 
+deba
+no essere ac c ompa-
+gnati nella sua c onosc enz a 
+ed uso.
+C ’ è  bi sogno anc h e di lavo-
+rare su aspetti c onc reti della 
+c omunic az ione,  c h e si pen-
+sa deba
+ essere raf f orz ata 
+per un più esplic ito rac c on-
+to della voc az ione e identità  
+del parc o.  I  pannelli espli-
+c ativi c h e desc rivono il pro-
+getto non lo f anno in modo 
+lampante e servono az ioni 
+più c onc rete,  ad esempio 
+si sta lavorando sulla pro-
+duz ione di ba nner e di Q
+R  
+C ode c h e verranno applic ati 
+per interagire e c onosc ere il 
+progetto.
+S arebe
+ importante anc h e 
+f requentare e stringere an-
+c ora di più le relaz ioni c on 
+gli enti ( U O
+N P I A  -  U nità  
+O
+perativa N europsic h iatria 
+P sic ologia I nf anz ia A dole-
+sc enz a)  ed entrare in c ontat-
+to c on le persone lì  c oinvol-
+te ( genitori) .
+R elazioni costituite e aper-
+ture future
+T utta la parte iniz iale di ani-
+maz ione territoriale si è  in-
+tersec ata c on le az ioni di 
+c ittadinanz a attiva promos-
+se dallo spaz io O
+tto e mez -
+z o ( C entro di A ggregaz ione 
+G iovanile della z ona)  la c ui 
+sede è  vic ina ai G iardini B er-
+toli.  I l c entro è  aperto tutti i 
+pomeriggi e c opre un’ uten-
+L e az ioni di animaz ione 
+territoriale sono af ﬁanc ate 
+sempre da un lavoro di “ re-
+c lutamento”  di ﬁgure di vo-
+lontari.  C ome già  detto si 
+attiverà  la sc uola C ardano in 
+un programma di alternanz a 
+sc uola- lavoro e in paralle-
+lo avverrà  la f ormaz ione di 
+una rete inf ormale di c itta-
+dini c h e possano presidiare 
+il parc o anc h e nei momenti 
+in c ui non c ’ è  e non c i sarà  il 
+presidio di N uova U manità  e 
+potreb b ero anc h e diventa-
+re risorse educ ative ( a ﬁan-
+c o del personale di N uova 
+U manità )  rispetto al tema 
+della disab ilità  e della c ura 
+degli spaz i.
+A ttualmente si stanno av-
+viando c onf ronti c on enti del 
+territorio c h e si oc c upano di 
+disab ilità  minorile,  c ome le 
+U O
+N P I A  e si è  c onsolidata 
+la relaz ione c ol M
+unic ipio 8.  
+Q
+uesto aspetto in partic o-
+lare sta aiutando a c ostruire 
+nuove relaz ioni,  ad esempio 
+c on le sc uole.  I l M
+unic ipio 
+inf atti h a c reato un tavolo te-
+matic o ( T avolo S c uole)  c h e 
+è  una rete di tutti gli istituti 
+c omprensivi del M
+unic ipio 
+8,  quindi primarie e sec on-
+darie di primo grado,  in c ui 
+si pone c ome mediatore 
+nell’ interaz ione c oi serviz i 
+sc olastic i e a volte ospita re-
+altà  del terz o settore.
+P er l’ anno prossimo si è  
+pensato di disloc are l’ az io-
+'%
+NO%>.%*+,-$//,%("%+$)."33)3",#$%($..$%)+$$%&",-,%$%".%-,#1+"R'1,%($&."%)11,+"
+ne di animaz ione di strada,  
+tenendo c ome f uoc o i G iar-
+dini B ertoli ma proponen-
+do una presenz a animativa 
+anc h e sugli altri parc h i del 
+quartiere.
+I n una visione più ampia per 
+il f uturo si pensa c h e un luo-
+go c ome i G iardini B ertoli 
+potreb b e essere anc h e un 
+palc osc enic o per parlare di 
+tematic h e importanti c ome 
+il diritto al gioc o.  I ndipen-
+dentemente da c h i f requen-
+ta il parc o,  quello dovreb b e 
+essere un posto in c ui passa 
+il c onc etto della nec essità  
+del diritto al gioc o per tutti.  
+H a una valenz a politic a la 
+presenz a nei quartieri di po-
+sti c ome questo.
+4'(#"C%$(,)$5"%((,
+%#'I&$?B?E
+L a N ostra Comunità
+Contributo al progetto/pro-
+cesso. Quale è stato il ruo-
+lo e contributo della vostra 
+associazione all'interno del 
+progetto/programma “Gio-
+co al Centro”?
+L ’ A ssoc iaz ione 
+L a 
+N ostra 
+C omunità  da oltre 40 anni 
+è  radic ata nel M
+unic ipio 4 
+ed opera c on una presenz a 
+c ontinuativa di attività ,  ser-
+viz i e progetti c h e f avorisc o-
+no e promuovono,  anc h e 
+nei quartieri dove è  stato 
+riqualiﬁc ato il P arc o G ioc h i 
+c ipalmente di tipo ludic o,  
+ric reativo e di presenz a re-
+laz ionale,  nello spaz io del 
+parc o gioc h i ac c essib ile di 
+piaz z a O
+vidio e/o eventi su 
+ric orrenz e tradiz ionali quali 
+f este di quartiere,  adesione 
+a proposte c ittadine ( G re-
+en W
+eek  -  C ivil W
+eek ) ;  per 
+tenere sempre vivo il parc o 
+gioc h i e per garantire livelli 
+minimi di partec ipaz ione a 
+tutti,  nessuno esc luso,  aven-
+do partic olare c ura verso 
+ausili e strumenti di ac c o-
+modamento 
+ragionevole 
+sull’ amb iente ( materiali,  c o-
+munic az ione,  ec c . )  e sulle 
+relaz ioni soc iali.
+Accrescimento/avanzamen-
+to del progetto. Rispetto al 
+lavoro realizzato e percorso 
+fatto da “Gioco al Centro” 
+sapete individuare punti di 
+forza che andrebbero valo-
+rizzati e criticità/carenze in-
+contrate dal progetto da cui 
+trarre insegnamento? 
+P remesso c h e siamo al primo 
+anno di attività  e c h e alc une 
+az ioni di progetto ( c ome la 
+sensib iliz z az ione nelle sc uo-
+le c h e da c ronoprogramma 
+partirà  nel sec ondo anno di 
+progetto)  non h anno suf ﬁ-
+c ienti elementi di valutaz io-
+ne,  rileviamo:
+•  P unti di f orz a 
+-  la ﬁnalità  del progetto c h e 
+intende essere un segno c on-
+c reto e misurab ile di impatto 
+su tutto il territorio milanese;
+di piaz z a O
+vidio,  proc essi e 
+pratic h e di inc lusione a tute-
+la dei minori c on disab ilità  e 
+delle f amiglie.
+Al l’ interno del progetto G io-
+c o al C entro ab b iamo:
+-  sostenuto c on f orz a la vision
+del perc orso c omplessivo di 
+progetto c h e porta ad un 
+c amb iamento c ulturale del 
+paradigma della disab ilità :  
+dal b isogno all’ assunz ione di 
+ruoli attivi e di protagonismo 
+dei minori più vulnerab ili,  
+sensib iliz z ando sui maggio-
+ri temi c h e ruotano intorno 
+al mondo della disab ilità  
+( inc lusione sc olastic a,  soc ia-
+le,  doppia disc riminaz ione,  
+ec c . ) ;  advoc ac y  c ondivisa e 
+sﬁda sulla quale lavoriamo 
+da sempre c on un ruolo atti-
+vo nella c ostruz ione di politi-
+c h e di w elf are inc lusive;
+-  messo a disposiz ione del 
+progetto il nostro know how
+ed i legami/reti c ostruiti e 
+mantenuti nella c omunità  lo-
+c ale negli anni di impegno e 
+di serviz io alla c ittadinanz a;  
+-  assunto un ruolo operati-
+vo nella realiz z az ione ( orga-
+niz z az ione,  c oordinamento 
+ed implementaz ione)  delle 
+az ioni ed iniz iative di ani-
+maz ione del parc o gioc h i,  
+garantendo una presenz a 
+attiva e c alendariz z ata di 
+proposte:  ad 1 anno dell’ i-
+nauguraz ione 
+del 
+parc o 
+siamo a 53 proposte c on 
+una partec ipaz ione di oltre 
+4. 000 persone.
+L e attività  sono state prin-
+!"#$%&#"'()%&"'(&)*))%
+')
+-  opportunità  per i territori di 
+c onsolidare e/o promuove-
+re e sviluppare b uone prati-
+c h e e legami c h e f anno c re-
+sc ere la c omunità  educ ante 
+e la c ittadinanz a sul ruolo 
+di maggiore responsab ilità  
+verso i minori e verso una 
+c ura c h e c omprende anc h e 
+gli spaz i publ
+ic i ( b ene c o-
+mune) ;
+-  c onc retez z a dell’ oggetto di 
+progetto:  un parc o gioc h i e 
+il quartiere;
+-  sperimentaz ione di iniz ia-
+tive e di attività  sulle quali i 
+soggetti della rete posso-
+no avere una sostenib ilità  
+anc h e ec onomic a ( vista la 
+c arenz a di risorse dei M
+uni-
+c ipi) .
+•  P unti di c ritic ità
+-  manc anz a di momenti di 
+c onf ronto tra i soggetti ge-
+stori delle iniz iative animati-
+ve nei diversi parc h i realiz -
+z ati e/o in realiz z az ione sia 
+in termini di possib ile sc am-
+bi o del know how sia c ome 
+opportunità  di c reare eventi 
+ed iniz iative c h e si svolgo-
+no c ontemporaneamente in 
+tutti i parc h i c ittadini inseriti 
+nel progetto;
+-  un sistema di c omunic az io-
+ne c omplessivo più organiz -
+z ato ( si sa poc o di c iò  c h e 
+avviene nei parc h i a livello 
+c ittadino) ;
+-  sarebe
+ importante avere 
+una sempre più signiﬁc ativa 
+partec ipaz ione e supporto 
+da parte delle istituz ioni a 
+questo tipo di iniz iative;
+-  il parc o rimane anc ora 
+poc o f requentato e partec i-
+pato da minori c on disab ilità  
+e dalle loro f amiglie ( rispetto 
+alle nostre aspettative e alle 
+aspettative di progetto) ,  sa-
+reb b e interessante indagare 
+questo aspetto insieme.
+Effetti e aperture. Se con-
+veniamo che un progetto di 
+questo tipo possa apportare 
+dei beneﬁci, su quali fronti 
+e con quale ricaduta pensi 
+si possano manifestare i più 
+signiﬁcativi?
+I  f ronti maggiormente signi-
+ﬁc ativi promossi dal proget-
+to riguardano:  
+-  c ultura della b ellez z a dei 
+luogh i pub b lic i/c ittadini c h e 
+può  aiutare a migliorare la 
+qualità  della vita delle per-
+sone,  poic h é  la b ellez z a dei 
+luogh i può  inﬂuenz are posi-
+tivamente il loro umore e il 
+loro b enessere generale;
+-  essere un esempio c onc re-
+to di ac c essib ilità  sia in ter-
+mini di assenz a di b arriere 
+arc h itettonic h e sia in termini 
+di f ac ilitaz ione delle c omu-
+nic az ioni e dell’ ac c esso alle 
+inf ormaz ioni;
+-  c ultura della diversità  pro-
+mossa sin da pic c oli nelle 
+sc uole al ﬁne di inc entivare 
+uno sguardo di apertura e 
+di tolleranz a nei c onf ronti 
+dell’ altro;
+-  apprendere e sviluppare 
+b uone pratic h e c h e riguar-
+dano l’ inc lusione:  un b ene-
+ﬁc io per le c omunità  terri-
+toriali ed educ anti ( sc uole,  
+f amiglie,  realtà  del territorio 
+f ormali e non) ;
+-  inserire c ome ob iettivo ed 
+az ione di programma que-
+sta esperienz a nella politic a 
+c ittadina e territoriale:  c o-
+struire patti di c ollab oraz io-
+ne ed impegni f ormaliz z ati 
+per dare sostenib ilità  nel 
+tempo ( di legami e di risorse 
+ec onomic h e) .
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+2.1 Una ricognizione dei principali riferimenti nazionali ed 
+       internazionali
+2.2 Casi di parchi gioco inclusivi realizzati
+ 
+- Clemyjontri Park
+ 
+- Salem Rehab Adaptive Playground
+ 
+- Tuen Mun Park
+ 
+- Saluda Shoals Park
+ 
+- Magical Bridge Playground
+ 
+- Parco Inclusivo via delle Acacie
+ 
+- Parco Federico Fellini
+ 
+- Il Parco dei Suoni
+2.3 Documenti, ricerche e soggetti attivi 
+ 
+- ICF-Classificazione Internazionale del Funzionamento, della
+         Disabilità e della Salute
+ 
+- Inclusive Play Design Guide
+AREE GIOCO INCLUSIVE: 
+PROGETTI, MANUALI E RICERCHE
+2
+!"#$%&#"'()%&"'(&)*))%
+''
+I l tema della progettaz ione di spaz i pub b lic i inc lusivi in 
+relaz ione alla sf era della disab ilità  ( nell’ ac c ez ione ampia 
+del termine e nelle molteplic i sf umature)  è  stato approc iato 
+attraverso la ric ogniz ione di rif erimenti teoric i c ome manuali 
+tec nic i e linee guida,  la ric erc a entro piattaf orme di rac c olta 
+di iniz iative e progetti,  siti w eb  e b log di assoc iaz ioni 
+dedic ate al tema c h e c ondensano una c onosc enz a esperta 
+di notevole interesse.  I  princ ipali rif erimenti sono rac c olti 
+nelle pagine suc c essive,  in sc h ede ed elenc h i aperti e f uture 
+implementaz ioni.
+N ell’ ottic a di produrre una valutaz ione c omplessiva delle 
+aree gioc o e del progetto,  è  stato determinante ampliare la 
+c onosc enz a spec iﬁc a sul tema degli spaz i f ruib ili per persone 
+c on disab ilità ,  attraverso lo studio di c asi internaz ionali di 
+rilievo.  
+La  selez ione di rif erimenti progettuali naz ionali ed 
+internaz ionali prende avvio da alc uni c asi noti,  c itati ad 
+esempio in “ I nc lusive P lay  D esign G uide”  ed è  stata integrata 
+c on esperienz e emerse durante gli inc ontri c on esperti 
+nel c ampo della progettaz ione e disegno di politic h e per 
+l'inc lusività  e l'ac c essib ilità .  L a selez ione non è  f atta per 
+omogeneità  di sc ala e investimento rispetto alle aree gioc o 
+inc lusive realiz z ate dal progetto G ioc o al C entro,  ma c on 
+l'idea di individuare spunti progettuali e dispositivi f unz ionali 
+al progetto inc lusivo.
+PON%C#)%+"-,&#"3",#$%($"%*+"#-"*)."%
++"K$+"L$#1"%#)3",#)."%$(%"#1$+#)3",#)."
+'(
+!"#$%&&#'()*)#(+*,-.(/&0#1%)'&22(3#45+-5,(#&#%(*&%*6&
+'(
+Internazionali
+•  Clemy j ontri P ark
+M
+c L ean,  V irginia,  S tati U niti,  
+2 0 0 6
+https://www.fairfaxcounty.gov/
+parks/clemyjontri
+http://friendsofclemy.com/
+https://www.fxva.com/
+clemyjontri-park/
+•  S alem R ehab A daptive 
+P lay ground
+P ortland,  O
+regon,  S tati U niti,  
+2 0 1 6
+https://archive.curbed.
+com/2018/7/20/17582148/
+accessible-playgrounds-desi-
+gn-ada-standards-inclusive
+https://2inkstudio.com/work/
+salem-rehab-adaptive-play-
+ground/
+•  T uen M
+un P ark  
+D istretto di T uen M
+un,  H ong 
+K ong, 2 0 1 7
+https://www.youth.gov.hk/en/
+gov-job/stories/detail.htm?con-
+tent-id=2374680&section=GO-
+VJOB
+https://www.lcsd.gov.hk/en/par-
+ks/tmp/facilities/facilities_p4.ht-
+ml
+https://www.playtimes.com.hk/
+inclusive-playground-in-tuen-
+mun-park/
+•  S aluda S hoals P ark
+C olumb ia,  C arolina del S ud,  
+S tati U niti,  2 0 1 9
+https://churchichrecreation.
+com/projects/saluda-sho-
+als-park/
+https://whosonthemove.com/
+grand-opening-for-saluda-sho-
+als-parks-universally-inclusi-
+ve-playground-to-be-held-au-
+gust-24-2019/
+•  M
+agical B ridge P lay -
+ground
+P alo Al to,  C alif ornia,  S tati 
+U niti,  2 0 2 0
+https://www.pbs.org/new-
+shour/show/a-playground-for-
+everyone-no-matter-your-age-
+or-ability
+https://www.redwoodcity.org/
+departments/parks-recrea-
+tion-and-community-services/
+magical-bridge-playgroundht-
+tps://magicalbridge.org/
+Italiani
+•  P arco Inclusivo via delle 
+A cacie
+F ontaniva,  I talia,  2 0 1 6
+http://www.parchipertutti.com/
+la-nostra-gita-al-parco-gio-
+chi-inclusivo-di-fontaniva/
+https://www.inclusiveplay-
+solutions.com/index.php/
+it/idee-e-soluzioni-gio-
+co/2-non-categorizza-
+to/27-progetto-centro-esti-
+vo-inclusivo-fontaniva-pd
+•  P arco F ederico F ellini
+R imini,  I talia,  2 0 1 6
+http://www.parchipertutti.com/
+area-giochi-inclusiva-tutti-bor-
+do/ 
+https://www.superabile.it/
+cs/superabile/accessibili-
+ta/20201005-nf-rimini-par-
+co-senza-barriere.html
+•  Il P arco dei S uoni
+P alermo,  I talia,  2 0 2 1
+https://www.parcodeisuoni.it/
+https://www.superabile.it/
+cs/superabile/accessibili-
+ta/20210609-nf-nasce-il-par-
+co-dei-suoni.html
+POP%5)/"%("%*)+-7"%&",-,%"#-.'/"0"%+$)."33)1"
+!"#$%&#"'()%&"'(&)*))%
+'!
+Clemy j ontri P ark
+L uogo:  Mc
+L ean,  V irginia,  S tati 
+U niti
+D ata realiz z az ione:  2 0 0 6
+I l parc o è  c ostituito da un'area gioc o di c irc a 20. 000 mq 
+pensata per persone af f ette da diverse disab ilità :  motorie 
+( utenti di sedie a rotelle,  deamb ulatori o b retelle) ,  sensoriali 
+o dello sviluppo.  H a due perc orsi princ ipali di ac c esso,  uno 
+dall’ area di sosta temporanea dell’ auto e l’ altro dal parc h eggio 
+attrez z ato di posti auto per disab ili.  O
+ltre agli elementi 
+vertic ali è  di un c erto interesse il disegno c omplessivo della
+pavimentazione progettata come segnaletica ( c on c olori 
+diversi per c iasc una delle 4 mac ro aree) ,  come gioco ( c on gli 
+sc ac c h i o la pista di atletic a) ,  come percorso di circolazione 
+( c on un nastro c h e avvolge le mac ro aree)  e come materiale 
+didattico ( c on i c olori dell’ arc ob aleno o il sistema stradale 
+c on c ui imparare le prime noz ioni del C odic e della S trada) .
+F onti:  https://www.fairfaxcounty.gov/parks/clemyjontri
+http://friendsofclemy.com/; https://www.fxva.com/clemyjontri-park/
+L a multifunzionalità  
+del suolo arricchisce 
+l' area di inaspettate 
+opportunità  di gioco
+S trutture coperte 
+forniscono aree 
+ombreggiate e 
+attrezzate per piccoli 
+eventi
+'"
+!"#$%&&#'()*)#(+*,-.(/&0#1%)'&22(3#45+-5,(#&#%(*&%*6&
+'"
+Q
+uesta area gioc o inc lusiva si presenta c ome un vero 
+e proprio spazio di riabilitazione a cielo aperto.  H a un 
+impianto c h iuso,  c irc ondato da rec inz ioni e da z one a verde 
+poste a una quota più alta rispetto alle superﬁc i del gioc o e 
+vi si ac c ede da tre punti:  uno in c ontinuità  c on il parc h eggio,  
+dotato di posti auto per disab ili,  un sec ondo direttamente 
+dalla porta d’ ingresso del c entro di riab ilitaz ione e il terz o 
+per gli ab itanti della z ona,  attraverso un marc iapiede.  L e 
+aree all’ interno sono delimitate da diversi tratti di muretti 
+e sedute e la pavimentaz ione è  usata c ome dispositivo di 
+delimitaz ione delle aree di ingomb ro dei gioc h i/attrez z i.  U n 
+nastro perimetrale c irc onda l'area dei gioc h i e rappresenta 
+anc h e un perc orso attrez z ato per eserc iz i di riab ilitaz ione.  
+S alem R ehab Ad aptive P lay ground
+L uogo:  P ortland,  Or
+egon,  S tati 
+U niti
+D ata realiz z az ione:  2 0 1 6
+U n nastro curvilineo 
+organizza un circuito 
+terapeutico
+L ' uso di differenti 
+quote del suolo 
+identiﬁca e protegge 
+l' area gioco 
+F onti:  https://archive.curbed.com/2018/7/20/17582148/accessible-playgrounds-design-ada-standards-inclusive
+https://2inkstudio.com/work/salem-rehab-adaptive-playground/
+!"#$%&#"'()%&"'(&)*))%
+'#
+I l parc o è  un progetto pilota nato da un c onc orso di idee poi 
+sviluppato all’ interno dei dipartimenti del M
+unic ipio di H ong 
+K ong.  A ll'interno di un proc esso di c o- design sono stati invitati 
+a partecipare ai w ork shop diversi attori e sono state rac c olte le 
+opinioni dei potenz iali utenti ( user-oriented approach) .  I bambini 
+e gli esperti sono stati coinvolti in laboratori esperienziali e 
+in sessioni di prove di gioco c on l'ob iettivo di promuovere e 
+testare il progetto.  I n questi eventi si è  potuto osservare l'uso del 
+parc o,  sondare le opinioni degli utenti e c ondurre valutaz ioni 
+per il miglioramento c ontinuo delle strutture e della gestione 
+dell'area.  P er c iò  c h e riguarda il lay out,  il progetto raggruppa 
+gli elementi di gioco simili ( co-located)  ma che richiedono 
+diversi livelli di abilità  inc oraggiando b amb ini e b amb ine della 
+stessa età  ma c on ab ilità  diverse,  a gioc are nello stesso luogo.
+T uen Mu
+n P ark
+L uogo:  Distretto di T uen M
+un,  
+Ho ng K ong
+D ata realiz z az ione:  2 0 1 7
+F onti:  https://www.youth.gov.hk/en/gov-job/stories/detail.htm?content-id=2374680&section=GOVJOB
+https://www.lcsd.gov.hk/en/parks/tmp/facilities/facilities_p4.html
+https://www.playtimes.com.hk/inclusive-playground-in-tuen-mun-park/
+R aggruppamento di 
+elementi simili per 
+diversi gradi di abilità
+P rocesso partecipativo 
+user- oriented continuo 
+'$
+!"#$%&&#'()*)#(+*,-.(/&0#1%)'&22(3#45+-5,(#&#%(*&%*6&
+'$
+S aluda S hoals P ark
+L' area gioc o è  stata progettata c on grande attenz ione 
+per l’ utenz a in sedie a rotelle,  inf atti gli spaz i f ra i singoli 
+gioc h i sono ampi ed i perc orsi ( in b lu e in c emento c h iaro)  
+sono sgomb eri da b arriere ﬁsic h e e segnalati in modo 
+evidente.  È  interessante l’ uso del “ nastro”  az z urro c h e h a la 
+doppia f unz ione di marc are l’ area di ingomb ro del singolo 
+gioc o e insieme quella di segnalare un perc orso ﬂuido di 
+spostamento tra un gioc o e l’ altro.  L 'area h a un impianto 
+semi- aperto,  poic h è  le delimitazioni sono date da una 
+lunga rampa e dai movimenti di terra.  N ella disposiz ione 
+dei gioc h i vi è  una netta separaz ione tra quelli per il gioc o 
+static o ( c ome i gioc h i music ali)  e quelli di movimento.
+L uogo:  Columbia,  Carolina del 
+S ud,  S tati U niti
+D ata realiz z az ione:  2 0 1 9
+F onti:  https://churchichrecreation.com/projects/saluda-shoals-park/
+https://whosonthemove.com/grand-opening-for-saluda-shoals-parks-universally-inclusive-playground-to-be-
+held-august-24-2019/
+F orme e colori delle 
+pavimentazioni 
+facilitano l' orientarsi 
+nello spazio
+L a modellazione del 
+suolo è  usata per la 
+costruzione di spazi 
+protetti
+!"#$%&#"'()%&"'(&)*))%
+(&
+Ma
+gical B ridge P lay ground
+L uogo:  P alo Al to,  California,  S tati 
+U niti
+D ata realiz z az ione:  2 0 2 0
+I l parc o,  detto 1-in-4 of us park,  è  progettato per persone c on 
+disab ilità  ﬁsic h e,  c ognitive,  sensoriali,  c ondiz ioni medic h e 
+f ragili e/o popolaz ione anz iana.  S i tratta di un'area gioc o c on 
+una superﬁc ie di c irc a 13. 000 mq c h e presenta una netta 
+separaz ione in termini spaz iali tra tipologie di gioc h i:  sc ivoli,  
+gioc h i d’ ac qua,  altalene,  giostre girevoli,  ec c .  I l tessuto 
+c onnettivo f ra i diversi amb iti è  c ostituito da un perc orso 
+delimitato da tratti di muretti/sedute c h e insieme alle panc h ine 
+e ad alc uni gioc h i ( c ome gli sc ivoli D ignity  L andings™
+)  c reano 
+numerose opportunità  di sedersi,  appoggiarsi e riposarsi 
+a distanz e ravvic inate,  c reando un'alternanza fra zone di 
+movimento e zone statiche.  L ’ area h a un impianto c h iuso c on 
+appena tre porte di ac c esso:  è  in parte rec intata e in parte 
+c h iusa dalle rampe e dai movimenti di terra.
+Ad  ogni attività  di 
+gioco è  dedicato un 
+ambito facilmente 
+identiﬁcabile
+F onti:  https://www.pbs.org/newshour/show/a-playground-for-everyone-no-matter-your-age-or-ability
+https://www.redwoodcity.org/departments/parks-recreation-and-community-services/magical-bridge-
+playgroundhttps://magicalbridge.org/
+(%
+!"#$%&&#'()*)#(+*,-.(/&0#1%)'&22(3#45+-5,(#&#%(*&%*6&
+(%
+L uogo:  F ontaniva,  Italia
+D ata realiz z az ione:  2 0 1 6
+P arco Inclusivo via delle Ac acie
+I l parc o è  utiliz z ato c ome un’ importante risorsa spaz iale 
+educ ativa e soc ializ z ante del Centro E stivo Inclusivo,  un 
+programma pedagogic o per b amb ini/e e ragaz z i/e dai 5 ai 
+14 anni.  L 'ob iettivo del programma è  quello di far esprimere 
+alla struttura parco le potenzialità  formative,  inclusive e di 
+sostegno alla famiglia.  E ssendo lo spaz io del gioc o un elemento 
+f ac ilitatore dell’ apprendimento,  è  punto di rif erimento per la 
+pianiﬁc az ione delle attività  e nel garantire la b uona osservanz a 
+delle norme di sic urez z a.  I l parc o è  dotato di c irc a 1 5  strutture 
+gioco progettate per bambini e bambine con diverse forme 
+di disabilità  ed è  f ornito di pic c ole automob ili c h e possono 
+essere guidate in autonomia dal b amb ino o c on la spinta dei 
+genitori.  Q
+ueste sostituisc ono le sedie a rotelle c h e possono 
+essere lasc iate all’ entrata del parc o.
+I bambini e le bambine 
+possono muoversi 
+all' interno dell' area con 
+piccole automobili
+L ' area gioco è  la sede 
+di un centro estivo 
+inclusivo
+F onti:  http://www.parchipertutti.com/la-nostra-gita-al-parco-giochi-inclusivo-di-fontaniva/
+https://www.inclusiveplaysolutions.com/index.php/it/idee-e-soluzioni-gioco/2-non-categorizzato/27-
+progetto-centro-estivo-inclusivo-fontaniva-pd
+!"#$%&#"'()%&"'(&)*))%
+()
+P arco F ederico F ellini
+L uogo:  Ri mini,  Italia
+D ata realiz z az ione:  2 0 1 6
+L ’ area gioc o h a una posiz ione c entrale nella c ittà ,  davanti al 
+lungomare attrez z ato.  V i si ac c ede in due punti dalle strade 
+c h e lo delimitano ed è  dotato di posti auto per disab ili 
+nell'immediato perimetro.  L ’ impianto,  parz ialmente c h iuso 
+dalla struttura dello sc ivolo,  è  ac c essib ile nei c onf ronti di una 
+disabi lità  motoria attraverso una rampa e una sc ala attrez z ata 
+per la disc esa delle sedie a rotelle.  I l “ nastro” ,  o perc orso di 
+c irc olaz ione,  è  in c emento ed è  posto sul perimetro,  tangente 
+alle isole di gioc o in pavimentaz ione antitrauma c olorata.  S ia 
+i gioc h i c h e il resto delle dotaz ioni ( tavoli,  sedute,  c orrimano)  
+sono adatti per le disab ilità  motorie c h e f anno quindi uso di 
+sedie a rotelle.  È  da evidenz iare la realiz z az ione di dispositivi 
+di transizione ( piattaforme per sedersi) ,  ad esempio nello 
+scivolo,  punto f oc ale del parc o.  
+F onti:  http://www.parchipertutti.com/area-giochi-inclusiva-tutti-bordo/
+https://www.superabile.it/cs/superabile/accessibilita/20201005-nf-rimini-parco-senza-barriere.html
+P iccoli dispositivi di 
+transizione sono stati 
+inseriti nei giochi
+L ungo il “n astro” 
+la segnaletica per 
+disabilità  visive indica 
+la posizione dei giochi
+(*
+!"#$%&&#'()*)#(+*,-.(/&0#1%)'&22(3#45+-5,(#&#%(*&%*6&
+(*
+L uogo:  P alermo,  Italia
+D ata realiz z az ione:  2 0 2 1
+Il P arco dei S uoni
+L ’ area gioc o inc lusiva è  inserita nel P arc o sportivo inc lusivo 
+polif unz ionale dell’ I stituto dei C iec h i di P alermo.  S i trova 
+all’ interno della c orte e vi si ac c ede da una sola entrata 
+publ
+ic a attraverso la portineria dell'ediﬁc io.  I  maggiori 
+f ruitori dell'area sono persone c on disab ilità  visive e/o 
+uditive e persone c on disturb i del neurosviluppo.  L ’ area è  
+costituita da quattro spazi- gioco per attività  ludico- motorie 
+e perimetrata da un percorso “ nastro”  che va a costituire 
+una pista di atletica di 100 metri.  G li amb iti interni h anno 
+ac c esso diretto dalla pista e sono c onnessi due a due 
+attraverso una pavimentaz ione c ontinua nel materiale e nel 
+c olore.  L e superﬁc i risultanti interne sono a prato e le z one di 
+riposo dotate di sedute sono posiz ionate esterne al nastro,  
+lungo il viale di c irc olaz ione del parc o.
+F onti:  https://www.parcodeisuoni.it/
+https://www.superabile.it/cs/superabile/accessibilita/20210609-nf-nasce-il-parco-dei-suoni.html
+Il disegno delle 
+superﬁci supporta sia 
+attività  sportive che di 
+gioco
+L ' area è  deﬁnita da un 
+anello per la corsa
+!"#$%&#"'()%&"'(&)*))%
+('
+L inee guida e manuali
+•  Inclusive P lay  Design 
+G uide,  è  un doc umento di 
+linee guida per la proget-
+taz ione di aree gioc o inc lu-
+sive per utenz e di diverse 
+f orme di disab ilità  f atto da 
+un gruppo interdisc iplina-
+re di esperti in progetta-
+z ione e sviluppo inf antile.  
+https://www.accessible-
+playground.net/wp-con-
+tent/uploads/2016/05/
+Inclusive-Play-Design-Gui-
+de-LowRes-2.pdf
+•  E very one can play  -  A  
+guideline to create inclusi-
+ve play spaces,  è  un doc u-
+mento di linee guide per la 
+pianiﬁc az ione,  il disegno e 
+la valutaz ione di aree gioc o 
+inc lusive.  https://everyo-
+necanplay.nsw.gov.au/
+sites/default/ﬁles/2019-02/
+Everyone%20Can%20
+Play%20Guideline.pdf
+•  Developing A ccessible 
+P lay  S pace -  A  G ood P racti-
+ce G uide,  T h e O
+f ﬁc e of  
+th e D eputy  P rime M
+inister,  
+L ondon ( 2013) ,  è  una guida 
+pratic a su c ome reliz z are un 
+parc o in f orma c ondivisa.  
+http://odpm.gov.uk
+•  ICF  -  Classiﬁcazione Inter-
+nazionale del F unzionamen-
+to,  della Disabilità  e della 
+S alute International Classiﬁ-
+cation of Functioning, Di-
+sability and Health -  trad.  it.  
+I C F ,  T rento,  E rik son,  ( 2002) ,  
+è  un manuale di c lassiﬁc a-
+z ione delle disab ilità  elab o-
+rato dalla O
+rganiz z az ione 
+M
+ondiale della S anità .
+-  ICF - CY . V ersione per B am-
+bini e A dolescenti,  T rento,  
+E ric k son ( 2007)
+A ssociazioni,  fondazioni 
+e piattaforme
+• S ito w eb  c reato amato-
+rialmente c h e rac c oglie 
+progetti e iniz iative in I talia.  
+http://www.parchipertutti.
+com/giochi-parchi-inclusi-
+vi-italia/
+• As soc iaz ione e sito w eb  su 
+disab ilità  e inc lusività  ( B olo-
+gna) .  https://www.accapar-
+lante.it/chi-siamo/
+• S ito w eb  di inf ormaz ione 
+di I N AI
+L .  https://www.supe-
+rabile.it/cs/superabile/home
+•  A ccessible P lay ground,  
+è  una piattaf orma di pro-
+moz ione e supporto alla 
+c reaz ione di aree gioc o 
+inc lusive.  http://www.acces-
+sibleplayground.net/
+•  U nlimited P lay  è  una 
+assoc iaz ione non- proﬁt c h e 
+dà  supporto nella pianiﬁc a-
+z ione,  disegno e realiz z az io-
+ne di aree gioc o inc lusive.  
+https://unlimitedplay.org/
+•  M
+agical B ridge F ounda-
+tion,  è  una assoc iaz ione 
+non- proﬁt di promoz ione e 
+sensib iliz z az ione sul tema 
+della disab ilità  e di suppor-
+to alla realiz z az ione di spaz i 
+adatti in aree gioc o,  parc h i,  
+sc uole,  musei.  https://magi-
+calbridge.org/
+•  H arper’ s play ground,  è  
+una assoc iaz ione non- proﬁt 
+di supporto e promoz ione 
+di aree gioc o adatte a diver-
+se disab ilità .  https://www.
+harpersplayground.org/
+•  S hane’ s inspiration,  è  una 
+assoc iaz ione non- proﬁt 
+internaz ionale di supporto,  
+promoz ione e sensib iliz z a-
+z ione sulle tematic h e legate 
+alle varie disab ilità .  http://
+shanesinspiration.org/
+https://inclusionmatters.org/
+POQ%B,-'L$#1"H%+"-$+-7$%$%/,&&$11"%)11"0"
+((
+!"#$%&&#'()*)#(+*,-.(/&0#1%)'&22(3#45+-5,(#&#%(*&%*6&
+((
+•  L u bird’ s light F oundation,
+è  una assoc iaz ione non- pro-
+ﬁt c h e rac c oglie donaz ioni 
+per la realiz z az ione di spaz i 
+gioc o inc lusivi.  https://lu-
+birdslight.org/
+•  L ondon P lay  O
+rganization,  
+è  un'organiz z az ione di pro-
+moz ione e rac c olta f ondi per 
+la realiz z az ione di nuovi spaz i 
+gioc o per i b amb ini e le b am-
+b ine della c ittà  di L ondra.  
+https://londonplay.org.uk/
+S tudi e ricerche
+•  T racce di S port,  è  un'attività  
+di ric erc a e c omunic az ione,  
+c h e h a avuto avvio nell'estate 
+2010 c on un viaggio in I talia,  
+nato su iniz iativa di E lena D o-
+naggio ( ric erc atric e I R S  -  area 
+P olitic h e U rb ane e T erritoriali)  
+e A ndrea Z orz i ( ex - pallavoli-
+sta e giornalista)  c on l'ob iet-
+tivo di guardare allo sport 
+dalla duplic e prospettiva del 
+ric erc atore e dello sportivo.  
+D a “ T rac c e di S port” ,  è  nato 
+nel 2013 il progetto M
+i M
+uo-
+vo di promoz ione dell’attività  
+motoria negli spaz i pub b lic i 
+urb ani ( parc h i,  piaz z e,  aree 
+verdi,  c ortili)  intesi c ome 
+palestre a c ielo aperto,  attra-
+verso un c alendario ﬁtto di 
+eventi svolti c on la c ollab o-
+raz ione delle assoc iaz ioni e 
+delle soc ietà  sportive di z ona.  
+https://segnalidifuturo.com/
+item/mi-muovo-la-palestra-
+sotto-casa-che-non-sai-di-
+avere/
+https://progettomimuovo.
+wordpress.com/
+•  A  S coping review  of evi-
+dence- informed recom-
+mendations for designing 
+Inclusive P lay grounds,  è  una 
+revisione della letteratura 
+per af f rontare la domanda di 
+ric erc a:  “ Q
+uali sono le rac c o-
+mandaz ioni b asate sull'evi-
+denz a per la progettaz ione 
+di parc h i gioc h i inc lusivi per 
+c onsentire la partec ipaz ione 
+dei b amb ini c on disab ilità ? ”  
+È  stata presa in c onsideraz io-
+ne non solo la progettaz ione 
+ﬁsic a dei parc h i gioc h i,  ma 
+anc h e gli amb ienti c ostruiti e 
+soc iali c h e li c irc ondano.  ht-
+tps://www.researchgate.net/
+publication/351813515_A_
+Scoping_Review_of_Eviden-
+ce-Informed_Recommenda-
+tions_for_Designing_Inclusi-
+ve_Playgrounds
+•  Designing public play -
+grounds for inclusion:  a sco-
+ping review  of grey  literatu-
+re guidelines for U niversal 
+Design,  è  una revisione delle 
+linee guida internaz ionali 
+per raf f orz are la b ase di c o-
+nosc enz e per la progettaz io-
+ne di parc h i gioc h i pub b lic i 
+inc lusivi.  S ono stati identiﬁc a-
+ti tre temi c h e c aratteriz z ano 
+le c onsideraz ioni f ondamen-
+tali per un b uon design:  ( 1)  
+approc c i di progettaz ione,  
+( 2)  princ ipi di progettaz ione 
+e ( 3)  rac c omandaz ioni di 
+progettaz ione.  https://www.
+researchgate.net/publica-
+tion/360503703_Designing_
+public_playgrounds_for_in-
+clusion_a_scoping_review_
+of_grey_literature_guideli-
+nes_for_Universal_Design
+•  R eclaim the street,  reclaim 
+the school. L o spazio urbano 
+delle scuole tra urbanistica,  
+mobilità  e istruzione,  è  un 
+c ontrib uto c h e disc ute l'e-
+sperienz a di T orino M
+ob ility  
+L ab ,  un progetto di mob ilità  
+sostenib ile ﬁnanz iato nell’am-
+b ito del P rogramma speri-
+mentale naz ionale di mob ilità  
+sostenib ile c asa- sc uola e 
+c asa- lavoro dal M
+inistero 
+dell’ A mb iente.  A  partire da 
+uno sguardo mirato sul ruolo,  
+le c ondiz ioni di ac c esso e le 
+f orme di mob ilità  e d’ uso de-
+gli spaz i pub b lic i in relaz ione 
+alle sc uole c ittadine presenti 
+nel quartiere di S an S alvario,  
+il progetto aspira all’elab o-
+raz ione e sperimentaz ione 
+di un “ piano attuativo della 
+mob ilità  d’amb ito” :  una sorta 
+di anello di c ongiunz ione 
+tra pianiﬁc az ione generale 
+e attuativa della mob ilità ,  
+ma c h e,  al c ontempo,  h a 
+l’amb iz ione di c ostruire 
+c onnessioni ulteriori,  anz itut-
+to tra i temi ( e gli strumenti)  
+della mob ilità ,  dell’amb iente,  
+dell’ istruz ione e dell’ediliz ia 
+sc olastic a.  https://issuu.com/
+planumnet/docs/volume_01_
+ok/s/12206743w
+!"#$%&#"'()%&"'(&)*))%
+(!
+ICF -
+ Classiﬁcazione Internazionale del 
+F unzionamento,  della Disabilità  e della S alute
+La  c lassiﬁc az ione I C F  rappresenta un nuovo approc c io al 
+c onc etto di disab ilità  c h e l’ O
+M
+S  ( O
+rganiz z az ione M
+ondiale 
+della S anità ) ,  h a presentato nel 2001.  L a c lassiﬁc az ione è  stata 
+approvata dall’ As semb lea M
+ondiale della S anità  e ac c ettata 
+da 191 P aesi,  inc lusa l’ I talia c h e è  tra i 65 paesi c h e h anno 
+c ontrib uito alla sua c reaz ione.  L ’ I C F  rappresenta un sistema 
+c onc ettuale universale,  c h e risulta applic ab ile non solo alle 
+persone c on disab ilità  ma riguarda tutti.  E ssa h a lo sc opo di 
+f ornire un linguaggio comune per la descrizione della salute 
+e delle condizioni ad essa correlate.  S ec ondo l’ approc c io 
+I C F ,  il soggetto di riferimento è  l’ uomo,  le cui abilità  si 
+deﬁniscono non solo in base alle caratteristiche strutturali 
+( ﬁsiche e psicologiche) ,  ma anche alle capacità  di svolgere 
+attività  in autonomia e partecipare alla vita sociale.  M
+igliori 
+sono le c ondiz ioni amb ientali,  e maggiore è  la possib ilità  c h e 
+una persona c on limitate c apac ità  motorie o sensoriali possa 
+c omunque svolgere delle attività  ed avere una soddisf ac ente 
+vita soc iale.  L ’ I C F  dunque desc rive e misura la disab ilità  di 
+un individuo in un dato momento e in un dato amb iente 
+c onsiderando tutte le c omponenti:  il quadro f unz ionale,  
+attività  e partec ipaz ione,  f attori amb ientali.  S ec ondo l'I C F  le 
+relaz ioni tra l’ uomo e l’ amb iente possono essere desc ritte 
+sistematic amente osservando quattro aspetti.  I  primi due 
+sono f attori relativi all’ individuo ( f unz ionamento e disab ilità ) :  
+1. f unz ioni e strutture del c orpo ( aspetti medic o- sanitari:  
+mentali,  della voc e,  movimento) ;  2.  attività  e partec ipaz ione 
+( aspetti relativi al b enessere psic o- ﬁsic o:  apprendimento,  
+relaz ioni interpersonali,  c ura della persona) ;  i sec ondi 
+due sono f attori esterni all’ individuo ( f attori c ontestuali) :  
+3.  f attori amb ientali ( amb iente c ostruito,  c ulturale,  f attori 
+politic i in c ui la persona vive) ;  4.  f attori personali ( genere,  
+età ,  c arattere,  educ az ione) .  « L a maggiore o minore gravità  
+della disab ilità  di una persona non dipende esc lusivamente 
+dal suo stato di salute,  ma anc h e dalle c ondiz ioni amb ientali 
+in c ui si trova a vivere.  A  parità  di c ondiz ioni di salute è  
+possibi le desc rivere e misurare l’ impatto negativo o positivo 
+dell’ amb iente c irc ostante nelle attività  e nella partec ipaz ione 
+di un individuo»  
+Q
+uesta lettura restituisc e un ruolo cruciale al progetto degli 
+spazi che sono preposti all’ inclusione,  all’ integrazione 
+attraverso il gioco,  e alla loro relaz ione c on il resto dello 
+spaz io pub bl ic o della c ittà .
+F onti:  http://apps.who.int/iris/bitstream/handle/10665/43737/9789241547321_eng.pdf?sequence=1
+https://www.iissorioli.edu.it/wp-content/uploads/22-icf-manuale-1-cy.pdf
+("
+!"#$%&&#'()*)#(+*,-.(/&0#1%)'&22(3#45+-5,(#&#%(*&%*6&
+("
+Inclusive P lay  Design Gu ide
+J .C
+.  B oush e
+t al.
+È  un manuale dal c ontenuto esaustivo e molto ric c o di 
+suggerimenti spec ialmente per quanto riguarda il lay out 
+dell’ area a 360 gradi:  dall'ac c essib ilità  all’ area,  inc luso 
+l’ ac c esso ad ogni elemento e relativi dispositivi di transiz ione 
+( pic c ole piattaf orme per sedersi e appoggiarsi,  spaz i utili 
+per lo spostamento/manovre delle sedie a rotelle,  ec c . ) ,  alla 
+selez ione e disposiz ione del singolo gioc o c on l'ob iettivo di 
+c reare un’ esperienz a soc iale,  emoz ionale,  ﬁsic a e sensoriale 
+inc lusiva,  positiva,  diversiﬁc ata e sic ura.  
+F ra le numerose indic az ioni progettuali c ontenute nel 
+doc umento si evidenz iano:
+• 
+l’ uso delle panchine come elemento di bordo/
+delimitaz ione dello spaz io ( perimeter fencing)  e di 
+segnalazione di percorsi ( accessible routes) ;
+• 
+la c reaz ione di un spazio di mediazione fra interno ed 
+esterno,  c ome un f oy er ( entry way & orientation) ;
+• 
+l’ uso dei colori e dei materiali per una lettura dello spaz io 
+( wayﬁnding)  c h iara e immediata;
+• 
+l’ uso di elementi verdi e naturali come caratterizzanti 
+dello spazio ( ad esempio arb usti,  prati,  sassi)  e c ome 
+perimetro dell’ area di gioco ( perimeter containment) ;
+• 
+l’ uso di un perc orso ( orientation path)  in un materiale 
+diverso ( per c olore e/o per natura)  c h e orienti il 
+movimento nello spaz io- gioc o,  c ome un “ nastro”  che si 
+srotola collegando i giochi ( ad esempio c ome un b ordo 
+perimetrale oppure c ome una spina c entrale) .  
+• 
+l’ uso di dispositivi di transizione ( transfer platforms) ,  
+c ioè  spaz i di seduta e appoggio f ra il perc orso e il gioc o,  
+molto utili all’ utente in sedie a rotelle;
+• 
+l’ of f erta di gioc h i dovreb b e inc ludere tre modalità  di 
+esperienza ( ﬁsica –  c ome sc ivoli,  altalene,  perc orsi per 
+l'equilib rio,  sensoriale –  c ome gioc h i tattili o sonori
+e sociale,  c ioè  gioc h i da f are in due – c ome l’ altalena 
+b asc ulante) ;
+• 
+l’ impianto dovreb b e c ontenere giochi simili con diversi 
+livelli di difﬁcoltà  raggruppati ( vedi immagine)  per 
+inc entivare b amb ini e b amb ine c on ab ilità  diverse a 
+gioc are ravvic inati ( contiguous or co-located play) .
+• 
+P er questa ric erc a il manuale è  stato un importante 
+riferimento analitico/progettuale,  una guida allo sguardo 
+delle azioni progettuali vincenti per la costruzione di 
+ambienti sicuri,  ricchi di stimoli e che promuovono 
+l’ autonomia nel suo uso da parte dell’ utenz a c on 
+disabi lità .
+F onti:  https://www. accessibleplayground.net/ wp-content/uploads/2016/05/ Inclusive-Play-Design-Guide- 
+LowRes-2.pdf
+LA AREE DI GIOCO AL CENTRO
+SEZIONE II
+LE AREE GIOCO 
+DA VICINO E NEL 
+CONTESTO
+3.1 Gli elementi che compongono la lettura delle aree
+3.2 Letture delle nove aree
+ 
+Schede analitiche
+ 
+1/ Giardini Montanelli
+ 
+2/ Giardini di Villa Finzi
+ 
+3/ Giardini Martinetti
+ 
+4/ Giardini Lucarelli
+ 
+5/ Giardini di Piazza Paci
+ 
+6/ Giardini Bertoli
+ 
+7/ Giardini di Piazza Ovidio
+ 
+8/ Giardini di Chiesa Rossa
+ 
+9/ Giardini di Santa Maria alla Fontana
+3
+!"#$%&#"'()%&"'(&)*))%
+!&
+Q
+uesto c apitolo presenta un'analisi quantitativa e qualitativa 
+delle aree gioc o inc lusive,  c ondotta attraverso diversi 
+strumenti di osservaz ione e lettura.  P er c iasc un parc o è  
+stata redatta una sc h eda c h e ric ostruisc e,  a diverse sc ale,  
+la desc riz ione tec nic a degli interventi:  la loc aliz z az ione,  i 
+c aratteri arc h itettonic i,  i materiali adottati,  le prestaz ioni 
+garantite,  i livelli di c omf ort e la f ruib ilità  delle aree di gioc o.  
+S ette parc h i sono stati oggetto di un'indagine approf ondita,  
+mentre due,  non anc ora realiz z ati al momento dell'analisi,  
+sono stati analiz z ati in modo più sintetic o.  L a materialità  dei 
+luogh i,  ovvero le c aratteristic h e ﬁsic h e e tangib ili degli spaz i,  
+è  restituita attraverso un lavoro di ridisegno delle aree gioc o,  
+mettendo a c onf ronto il disegno del progetto deﬁnitivo c on 
+le osservaz ioni dirette dei sopralluogh i.
+L o studio h a c onsiderato anc h e il c ontesto urb ano in c ui 
+si inserisc ono,  individuando un c ontesto di rif erimento e 
+relaz ione per c iasc una aree gioc o,  un “ c ampo in risonanz a”  
+c h e si c ompone di una serie di elementi c h iave:  aree verdi,  
+sc uole,  serviz i soc iosanitari,  c onsultori,  b ib liotec h e,  perc orsi 
+di mob ilità  lenta e punti di ac c esso al trasporto pub b lic o,  
+ma anc h e aree residenz iali.  S i evidenz ia inoltre il c arattere 
+del tessuto urb ano ( morf ologia del c ostruito)  entro c ui sono 
+immersi i parc h i gioc o.
+L e mappature del c ontesto c onsentono di esplorare le 
+relaz ioni attivate dalle aree gioc o c on il c ontesto più prossimo 
+e di intravvederne di nuove,  di mostrare alc uni ostac oli 
+e b arriere ﬁsic h e presenti nella c ittà ,  a volte dif ﬁc ilmente 
+modiﬁc abi li in altri c asi malleab ili.  C iò  c h e emerge è  un “ c ampo 
+intermedio” ,  uno spaz io in c ui si manif estano opportunità  e 
+limitaz ioni,  entro c ui è  signiﬁc ativo osservare anc h e il ruolo 
+potenz iale delle aree gioc o,  immaginandole epic entri di 
+attivaz ione di relaz ioni tra soggetti e progetti nel c orso del 
+tempo.  T ra le relaz ioni princ ipali da osservare vi è  quella c on 
+il sistema degli spaz i pub b lic i ( auspic ab ilmente f ruib ile per 
+tutti e prioritariamente pedonale) ,  dei serviz i pub b lic i,  dei 
+luogh i notevoli ( gli spaz i entro c ui si h a maggiore densità  di 
+QON%4."%$.$L$#1"%-7$%-,L*,#&,#,%.)%
+.$11'+)%($..$%)+$$
+!%
+!%
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+!%
+Supe rﬁci v erdi
+Supe rﬁci in  calce
+stre
+Supe rﬁci p avimentate
+Supe rﬁci ant itrauma
+         P ercor so tattilo-
+         plantare
+G iochi e
+ arredi
+Albe
+ri
+L egenda delle letture dei parchi
+Ar ea gioco inc
+lusiva
+Alt re aree gioco 
+P archi e
+ aree verdi
+R ecinz
+ione del parco
+C entri sportivi
+Ar ea 35O
+ m
+P iste ciclabili
+Line e trasporto urbano
+C orsi d'acqua
+F ermate linee di superﬁcie
+S taz ioni M
+etro
+Scuole
+ dell'infanz ia,  
+primarie e seconda rie di 
+secondo g rado
+Ediﬁ
+ca to
+Ediﬁ
+ci publici e
+ serviz i
+L egenda delle letture dei contesti
+presenz a e passaggi di persone,  maggiore addensamento 
+di signiﬁc ati)  e degli snodi dell’ ac c essib ilità .
+A vvic inando lo sguardo,  c iasc un’ area è  stata ridisegnata 
+seguendo un unic o c odic e e adottando sc ale di disegno 
+analogh e;  per poi proc edere alla sc omposiz ione del disegno 
+rispetto a lay er elementari ( superﬁc i dure e perc orso tattilo-
+plantare;  superﬁc i antitrauma,  gioc h i e arredi;  superﬁc i verdi 
+e alb erature) .  Q
+uesta sc omposiz ione permette di analiz z are 
+le f orme e le relaz ioni tra le diverse c omponenti e di valutare 
+l'ac c essibi lità  e la f ruib ilità  degli spaz i.  L ’ aver elab orato 
+desc riz ioni utiliz z ando i medesimi f ormati c onsente di 
+c onf rontare le diverse realiz z az ioni,  leggerle trasversalmente 
+per individuare ric orrenz e ed ec c ez ioni,  e,  se osservate nel 
+tempo,  di ric onosc ere l’ evoluz ione del pensiero di progetto,  
+al c entro del programma G ioc o al C entro,  su c osa voglia dire 
+un’ area gioc o inc lusiva.
+QOP%!$11'+$%($..$%#,0$%)+$$
+!"#$%&#"'()%&"'(&)*))%
+!)
+!
+"
+#
+$%&'
+$%$%
+$%$&
+$%$$
+$%$(
+aprile 2018
+area gioco:
+ 
+250 mq
+4'B"#$$+U)J*#$K#6/.1'&)d%3)D%e)C%5%'+f
+4',0B0",-%+'#U)#L'*6/$?B@G
+W%/#'$%+'%)F%,"&%'%)4'&"+)2+'(,'#33%U)@D$M#
+F%+5>%)D"#$#'(%U \)b,$a#()g+0'B)
+\)!,''#33+)F+,3
+\)!#'5%3
+\)H>,h'
+\)H>+D
+\)@')B%+5+).,"+$#33+
+\)@',)5,$#((,)203(%)i5=V)
+\)W0#)'0+C#),3(,3#'#)
+8=7<
+M
+unicipio 1
+H
+NS%4")+("#"%6,#1)#$.."
+2
+M
+!+"(,)Q#'#-%,
+!"#$%&#"'()%&"'(&)*))%
+!'
+Il contesto
+NS%4")+("#"%6,#1)#$.."O)!+"(,)Q#'#-%,
+L ’ area gioc o presso i G iardini I ndro M
+ontanelli ( noti 
+anc h e c ome G iardini di P . ta V enez ia)  h a ric onﬁgurato e 
+implementato un parc o attrez z ato esistente.  I  giardini,  
+inaugurati nel 1784 e progettati dal P iermarini,  sono il primo 
+parc o pub
+lic o di M
+ilano,  e tutt’ oggi rispettano il progetto 
+originario.  L uogo storic amente destinato allo svago e al 
+tempo libe ro di c ittadini e turisti,  oltre c h e per la loro qualità  
+ambi entale,  i giardini sono molto f requentati per la presenz a 
+di musei ( museo c ivic o di S toria N aturale,  il c ivic o P lanetario 
+U lric o H eopli e la G alleria d’ Ar te M
+oderna)  prossimi all’ area 
+gioc o,  e per ospitare numerose iniz iative pub b lic h e.  S ono 
+f ac ilmente raggiungib ili a piedi dal c entro c ittà  e graz ie alla 
+presenz a di due f ermate della metropolitana ( P alestro M
+1 e 
+R epub b lic a M
+2)  anc h e da altri quartieri.
+S cuola 
+dell’infanzia
+paritaria
+Museo civico 
+S toria Naturale
+Civico P lanetario
+Ch iosco B AR
+P aleoLAB
+S cuola dell’infanzia
+paritaria
+S cuola primaria
+F. B orromeo
+CORS O VENEZ IA
+VIALE LU IGI MAJ NO
+VIALE P IAVE
+VIA TU RATI
+VIA DELLA MOS COVA
+CORS O B U ENOS  AIRES
+VIALE VITTORIO VENETO
+M1  P . TA VENEZ IA
+M3  REP U B B LICA
+M1  P ALES TRO
+M1  S . B AB ILA
+P AC - P adig lione 
+Arte Contemporanea
+GAM - Galleria
+Arte Moderna
+Arch ivio di S tato
+P .ta Nuova
+P iazza Cavour
+B ib lioteca via S enato
+S cuola dell’infanzia
+paritaria
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+!(
+!(
+0
+100 m
+50 m
+!"#$%&#"'()%&"'(&)*))%
+!!
+L o spazio gioco
+NS%4")+("#"%6,#1)#$.."O)!+"(,)Q#'#-%,
+1.  l'area gioco s i pone in con tinuità con i pe rcor si 
+dei G iardini Indr o M
+ontanelli
+2.  il disegno della pavimentaz ione antitrauma 
+deﬁnisce  gli ambit i di gioco
+3.  l'area è  delimitata dal M
+useo di Scie
+nz e N aturali
+5.  l'area gioco è
+ adiace nte all'ingresso dei G iardini 
+Indr o M
+ontanelli in via P alestro
+4.  le nuove attrez z ature per il gioco conv
+ivono con 
+parte delle attrez z ature della prece dente area 
+gioco
+1     2
+3     4
+5
+0
+10 m
+5 m
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+!"
+!"#$%&#"'()%&"'(&)*))%
+!#
+S composizione per lay er
+NS%4")+("#"%6,#1)#$.."O)!+"(,)Q#'#-%,
+2 . S uperﬁci antitrauma
+L e superﬁc i antitrauma c h e ospitano i 
+gioc h i appaiono c ome delle mac c h ie c h e 
+galleggiano all’ interno della più ampia e 
+omogenea superﬁc ie in c alc estre del parc o.
+1 . S uperﬁci dure e percorso tattilo- plantare
+N on sono presenti perc orsi o aree c on 
+superﬁc i dure.  I  perc orsi e superﬁc i dei 
+G iardini M
+ontanelli sono in c alc estre e 
+gh iaino.
+I n prossimità  dell’ area gioc o non sono 
+presenti perc orsi tattilo- plantari né  pannelli 
+inf ormativi per ipovedenti,  c h e invec e 
+troviamo agli ingressi princ ipali dei G iardini.
+!$
+!$
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+!$
+4 . S uperﬁci verdi e alberi
+L ’ area si inserisc e all’ interno di due ﬁlari di 
+alb eri esistenti c h e sono parte del disegno 
+originario del parc o I ndro M
+ontanelli.
+3 . G iochi e arredi
+L e strutture per il gioc o punteggiano le aree 
+antitrauma c on uno sviluppo lineare.  U na 
+linea di panc h ine “ delimita”  un lato dell’ area 
+gioc o.
+!"#$%&#"'()%&"'(&)*))%
+"&
+!
+"
+#
+$%$%
+$%$&
+$%$$
+$%$'
+$%&(
+giugno 2019
+area gioco:
+ 
+280 mq
+M
+unicipio 2
+4'B"#$$+U)J*#$N#"1O5'6/82#64&
+4',0B0",-%+'#U)0*30"&$?B@H
+W%/#'$%+'%)&#3)D,"5+)&%)Q%33,)*%'-%U)P$M#
+F%+5>%)D"#$#'(%U
+O$$+5%,-%+'#)"#$D+'$,X%3#)#C#'(%U)Q&".&'I*&$N*;
+P%D+)&%),((%C%(1U)IC#'(%)&%),'%/,-%+'#)&#3)D,"5+)&#&%5,(%
+\)F%+$(",)b#5a_
+\)Q%33,BB%+)*0').%(_)5+')D,''#33%)
+))$#'$+"%,3%)
+\)F%+5>%)$#'$+"%,3%)j0'&0)W"0/
+\)F+X3#()W"0/
+\)j#((3#)W"0/
+\)@')/#(,33+A+'+),55+"&,(+)5+')7;)
+))'+(#)/0$%5,3%
+\).,$#((,).+-_)W+/#
+\)W+'&+3+
+\)O3(,3#'#)F%,/,%5,?)5033,?)k%"+
+\)K"(%)"%,3-,(%)D#")A,C+"%"#)3,)
+))5+'+$5#'-,)&#33#)#$$#'-#
+8=7:
+PS%4")+("#"%("%F"..)%;"#3"
+H,'(NI"3#/X,"&+
+!"#$%&#"'()%&"'(&)*))%
+")
+Il contesto
+PS%4")+("#"%("%F"..)%;"#3"O)H,'(NI"3#/X,"&+
+L ’area gioc o è  una nuova realiz z az ione nel parc o della residenz a 
+storic a di V illa F inz i,  e sostituisc e un prec edente spaz io per il gioc o di 
+c ui rimangono alc une attrez z ature nelle vic inanz e.  I l giardino,  della 
+signorile villa degli iniz i dell’ O
+ttoc ento,  f u ac quisito dal C omune 
+nel 1934 e aperto all’ uso pub b lic o.  S i tratta di un’area di c irc a 5 h e 
+delimitata da un muro di c inta,  ac c essib ile da via S .  E rlemb ardo,  
+una traversa a f ondo c iec o di viale M
+onz a all’altez z a della f ermata 
+G orla della metropolitana M
+1.  D elimitato a ovest dallo sc alo 
+f erroviario di G rec o e a sud dal N aviglio M
+artesana,  il parc o ospita 
+al suo interno alc uni ediﬁc i sc olastic i di primo grado e una serie di 
+serviz i alla persona,  tra c ui un c entro diurno e le sedi di assoc iaz ioni 
+c h e si oc c upano di disab ilità  ( autismo e A sperger) .  L a presenz a 
+di questi serviz i rende il parc o c onosc iuto e molto f requentato.  I l 
+c arattere protetto dell’area,  la presenz a di ampie superﬁc i a prato 
+e numerosi alb eri rende lo spaz io f requentato in diverse ore della 
+giornata,  e usato anc h e per pic c oli eventi inf ormali.
+P ARCO
+IS OCRATE/ MONZ A 
+istituto 
+ortopedico
+G. P ini 
+scuola dell’infanzia
+Rucellai 
+scuola dell’infanzia
+Cislag h i
+Ch iesa di 
+S an Mich ele
+asilo nido e 
+scuola dell’infanzia
+VIALE MONZ A
+NAVIGLIO MARTES ANA
+Istituto istruzione 
+superiore statale
+scuola elementare
+F. Crispi
+VIALE MONZ A
+VIALE MONZ A
+VIA S . ERLEMB ALDO
+M1  TU RRO
+M1  GORLA
+M1  P RECOTTO
+spazio culturale 
+East River 
+teatro Z elig  
+centro 
+serivizi 
+sociali 
+scuola primaria
+CRS C ( Centro Ricreativo 
+S ocio Culturale)
+Centro diurno
+Neg ri/ P ini 
+spazio Nautilus
+S CALO 
+FERROVIARIO 
+GRECO 
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+"*
+"*
+0
+100 m
+50 m
+!"#$%&#"'()%&"'(&)*))%
+"'
+L o spazio gioco
+PS%4")+("#"%("%F"..)%;"#3"O)H,'(NI"3#/X,"&+
+1.  ingresso da via Sant 'Er lembaldo
+2.  ace
+sso all'area gioco dai p ercor si del parc o di 
+V illa F inz i
+3.  giochi di mov
+imento
+4.  giochi mus
+icali
+5.  l'area giochi è
+ prossima alla sede dell'ass.  Sp az io 
+N autilus 
+1     2
+3     4
+5
+0
+10 m
+5 m
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+"(
+!"#$%&#"'()%&"'(&)*))%
+"!
+S composizione per lay er
+PS%4")+("#"%("%F"..)%;"#3"O)H,'(NI"3#/X,"&+
+2 . S uperﬁci antitrauma
+U n’ unic a 
+area 
+antitrauma 
+dalla 
+f orma 
+ric onosc ib ile 
+si 
+addossa 
+al 
+perc orso 
+rettilineo.
+1 . S uperﬁci dure e percorso tattilo- plantare
+U n perc orso rettilineo attraversa l’ isola in 
+c ui è  inserita l’ area gioc o,  c onnettendosi al 
+sistema dei perc orsi interni al parc o.
+I l perc orso tattilo- plantare segue questo 
+perc orso al c entro del quale si stac c a un 
+tratto perpendic olare per c ondurre ai 
+princ ipali gioc h i dell’ area.
+Ag li estremi del perc orso sono posiz ionati 
+due pannelli orientativi per ipovedenti.
+""
+""
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+""
+4 . S uperﬁci verdi e alberi
+L ’ area gioc o è  immersa all’ interno di un 
+manto erb oso.  S ono presenti una serie di 
+alb eri di diverse spec ie preesistenti alla sua 
+realiz z az ione.
+3 . G iochi e arredi
+L e strutture per il gioc o si distrib uisc ono in 
+modo omogeneo sull’ area antitrauma.  
+U na serie di panc h ine sono addossate al 
+perc orso e sul lato opposto ai gioc h i e ad un 
+estremo sono state realiz z ate delle ﬁoriere 
+c ontenenti sia ﬁori c h e piante aromatic h e.
+!"#$%&#"'()%&"'(&)*))%
+"#
+!
+"
+#
+$%&'
+$%$%
+$%$&
+$%$$
+$%$(
+$%&)
+settemb re 2019
+area gioco:
+ 
+1.4 00 mq
+M
+unicipio 7
+4'B"#$$+U)J*#$%#'1*"/11*
+4',0B0",-%+'#U)./11/82'/$?B@H
+F%+5>%)D"#$#'(%U
+O$$+5%,-%+'#)"#$D+'$,X%3#)#C#'(%U)Q&".&'I*&$N*;
+P%D+)&%),((%C%(1U)IC#'(%)&%),'%/,-%+'#)&#3)D,"5+)&#&%5,(%
+\)F%+$(",)b#5a_)
+\)Q%33,BB%+)*0').%(_)5+')'0/#"+$%)
+))D,''#33%)$#'$+"%,3%)
+\)@'+)$5%C+3+
+\)W0#)(+""#((#)
+\)H5%C+3+)&+DD%+)!3,_$#'$#
+\)W0#),3(,3#'#
+\)*,"A,33,)5+')D,''#33%)D#")
+)),"",/D%5,(,
+\)2#(,33+A+'+)
+\)W",B+)%')B+//,)5+3+",(,
+QS%4")+("#"%6)+1"#$11"
+H,')H%"+
+!"#$%&#"'()%&"'(&)*))%
+#&
+Il contesto
+QS%4")+("#"%6)+1"#$11"O)H,')H%"+
+L ’ area gioc o ai G iardini M
+artinetti riqualiﬁc a un luogo 
+“ nasc osto”  all’ interno di un esteso isolato residenz iale tra via 
+R embr andt e via T ommaso G ulli,  tra i quartieri di S an S iro e di 
+B ande N ere.  I n questa z ona densamente ediﬁc ata e ab itata,  
+dove le aree verdi e per il gioc o sono limitate,  il parc o 
+rappresenta un'importante risorsa per i b amb ini e le f amiglie.  
+L' area è  adiac ente alla sc uola media di via T ommaso G ulli e 
+alla sc uola dell’ inf anz ia in via G .  B ranc a.  L 'area,  insieme ad 
+un “ lotto in attesa” ,  c ostituisc e il nuc leo pub b lic o dell'isolato.  
+S i tratta di un’ area rec intata poc o visib ile dalla sec ondaria via 
+P .  M
+artinetti,  c aratteristic a c h e però  la rende partic olarmente 
+apprez z ata per la sua sic urez z a.
+scuola dell’infanzia
+B ranca
+scuola secondaria 
+I g rado T. Gulli 
+Isituto Comprensivo
+FS  Cab rini 
+S cuola comunale
+dell’infanzia 
+parrocch ia 
+ss. Nab ore e Felice
+scuola 
+dell’infanzia 
+VIA REMB RANDT
+VIALE ARETU S A
+VIALE P IS A
+P IAZ Z ALE
+S IENA
+VIA TOMMAS O GU LLI
+VIA FORZ E ARMATE
+VIA P . MARTINETTI
+P IAZ Z ALE
+S ELINU NTE
+M1  B ANDE NERE
+P RIMATICCIO
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+#%
+#%
+0
+100 m
+50 m
+!"#$%&#"'()%&"'(&)*))%
+#)
+L o spazio gioco
+QS%4")+("#"%6)+1"#$11"O)H,')H%"+
+1.  ingresso su via M
+artinetti
+2.  un percor so ad anelli articola l'ar ea in dif fe renti 
+ambit i di gioco
+3.  attrez z ature per il gioco 4 +
+4.  attrez z ature per il gioco 0 - 3
+5.  panchine
+ poste lungo il percor so di ingresso
+1     2
+3     4
+5
+0
+10 m
+5 m
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+#*
+!"#$%&#"'()%&"'(&)*))%
+#'
+S composizione per lay er
+QS%4")+("#"%6)+1"#$11"O)H,')H%"+
+2 . S uperﬁci antitrauma
+D ue superﬁc i antitrauma c on f orme a 
+raggiera irregolari oc c upano in parte l’ area 
+interna ai due anelli,  c onnettendosi a questi 
+in più punti.
+1 . S uperﬁci dure e percorso tattilo- plantare
+U n nastro/perc orso c onduc e dalla strada 
+all’ interno dell’ area e qui si artic ola in due 
+anelli.
+I l perc orso tattilo- plantare si limita all’ area 
+gioc o e c onnette i gioc h i princ ipali.  
+C 'è  un pannello all'ingresso del parc o c h e 
+attraverso il c ordolo del vialetto di ingresso 
+porta ad un sec ondo pannello,  adiac ente 
+al perc orso tattilo- plantare,  c h e presenta lo 
+sviluppo dell'area gioc h i.
+#(
+#(
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+#(
+4 . S uperﬁci verdi e alberi
+T utte le parti non oc c upate dal perc orso 
+e dalle aree antitrauma sono in terra 
+b attuta.  N ell’ area sono presenti numerosi 
+alb eri preesistenti e di diverse spec ie c h e 
+garantisc ono l’ omb reggiamento di ampie 
+porz ioni del parc o gioc h i.
+3 . G iochi e arredi
+L e strutture per il gioc o si distrib uisc ono 
+all’ interno delle due isole pavimentate c on 
+l’ antitrauma.  
+L e panc h ine sono posiz ionate a ridosso del 
+bo rdo esterno del perc orso e delle aree 
+antitrauma.
+!"#$%&#"'()%&"'(&)*))%
+#!
+!
+"
+#
+$%&'
+$%$%
+$%$&
+$%$$
+$%$(
+$%&)
+settemb re 2020
+area gioco:
+ 
+800 mq
+M
+unicipio 3
+4'B"#$$+U)J*#$K#..&$N/66#($J*#$F/61'/
+4',0B0",-%+'#U)./11/82'/$?B?B
+W%/#'$%+'%)&#%)F%,"&%'%)M05,"#33%U)G$M#
+F%+5>%)D"#$#'(%U
+O$$+5%,-%+'#)"#$D+'$,X%3#)#C#'(%U)Q#8L&$7/#1'#6/
+P%D+)&%),((%C%(1U)!"+B",//,)&%),((%C%(1)/03(%\(,"B#(
+\)W0#),3(,3#'#
+\)@',)B%+$(",
+\)@')B",'&#)5,$(#33+
+))/03(%,55#$$+"%,(+
+\)W0#)$("0((0"#)B%"#C+3%
+\)W0#)$("0((0"#)&%),"",/D%5,(,
+\)@'^,3(,3#',),)D#'&+3+)
+\)@')(,DD#(+)#3,$(%5+
+\)!%55+3+)D,35+)D#")D#"A+"/,'5#)
+\)P,C+3%)D#")&%$#B',"#)#)D#")
+))%'C#'(,"$%)3,X+",(+"%
+\)!#"5+"$%)&%$#B',(%)$%/%3%),33,)D%,'(,)
+))&%)0',)5%((1)+)&%)0',)5,$,)D#")B%+5>%)
+))&%)"0+3+
+\)O"#,)&#&%5,(,),3)B%+5+)5+')3,)D,33,
+TS%4")+("#"%!'-)+$.."
+*#3("#
+!"#$%&#"'()%&"'(&)*))%
+##
+Il contesto
+TS%4")+("#"%!'-)+$.."O)*#3("#
+I l G iardino L uc arelli è  una grande “ c orte verde”  all’ interno 
+del quartiere F eltre,  realiz z ato tra il 1957 e il 1960 sec ondo 
+gli sc h emi dei quartieri I N A - C asa.  L a nuova area gioc o,  c h e 
+h a riqualiﬁc ato uno spaz io preesistente,  è  parte integrante 
+del programma di attrez z ature per il tempo lib ero del parc o,  
+insieme a un’area per il b ask et e il ﬁtness,  prati per il gioc o,  
+perc orsi e sedute sotto gli alb eri.  N ell'area sono presenti 
+numerosi serviz i sc olastic i,  a partire da quelli per l'inf anz ia e un 
+istituto internaz ionale in lingua inglese.  G li ediﬁc i residenz iali 
+del quartiere delimitano il parc o e lo isolano dall’asse stradale 
+di via R omb on,  c h e c ollega la staz ione F S  di L amb rate ( a c irc a 1 
+k m)  c on lo svinc olo della T angenz iale.  N onostante la vic inanz a 
+di importanti inf rastrutture,  il G iardino L uc arelli si presenta 
+c ome un luogo tranquillo e c on spaz i naturali generosi.  A ppena 
+f uori dal quartiere,  lungo la tangenz iale,  si estende il P arc o 
+L amb ro,  c h e in questa sez ione of f re diverse strutture sportive.
+FIU ME LAMB RO 
+scuola dell’infanzia
+comunale
+scuola primaria 
+B . Munari
+scuola primaria 
+J . H endersen 
+S cuola primaria
+E. Morante 
+Lib era Associazione 
+pedag og ica R. S tainer 
+scuola 
+dell’infanzia 
+Mercato Comunale
+Via Romb on 
+VIA ROMB ON
+RIMEMB RANZ E
+DI LAMB RATE
+VIA FELTRE
+VIA FELTRE
+VIA ROMB ON
+TENNIS  CLU B  
+AMB ROS IANO
+Centro sportivo 
+S ch ouster
+P ARCO LAMB RO 
+GIARDINI
+E. LU CARELLI 
+TANGENZ IALE  ES T
+scuola infanzia
+paritaria 
+scuola primaria 
+D. B uzzati 
+scuola
+dell’infanzia 
+FIU ME LAMB RO 
+Istituto alb erg h iero 
+Vespucci 
+LAMB RATE FS
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+#$
+#$
+0
+100 m
+50 m
+!"#$%&#"'()%&"'(&)*))%
+$&
+L o spazio gioco
+TS%4")+("#"%!'-)+$.."O)*#3("#
+1.  giochi che
+ stimolano la coor dinaz ione motoria
+2.  pannelli infor mativi per ipovedenti segnalano la 
+presenz a dell'area giochi all'int
+erno dei G iardini 
+L ucar elli 
+3.  aree per il gioco s imbolico
+4.  arredi urbani ﬁ
+ssi
+1     2
+3     
+4
+0
+10 m
+5 m
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+$%
+!"#$%&#"'()%&"'(&)*))%
+$)
+S composizione per lay er
+TS%4")+("#"%!'-)+$.."O)*#3("#
+2 . S uperﬁci antitrauma
+L a superﬁc ie antitrauma è  artic olata in due 
+isole di dimensioni dif f erenti.
+1 . S uperﬁci dure e percorso tattilo- plantare
+U n nastro/perc orso deﬁnisc e gli amb iti di 
+gioc o desc rivendo due anelli irregolari.  
+Q
+uesto in alc uni punti si allarga diventando 
+superﬁc ie per il gioc o e l’ inc ontro.  
+I l perc orso tattilo- plantare è  artic olato in tre 
+segmenti:  due seguono dei tratti del nastro 
+e c onnettono l’ area gioc o ai perc orsi esterni 
+del parc o,  il terz o,  c onnesso ai primi due,  
+attraversa l’ isola più grande c onduc endo ai 
+gioc h i.
+I  pannelli per ipovedenti sono posti nei punti 
+di c ontatto tra anello e parc h eggio da un alto 
+e l'anello e un perc orso del parc o dall'altro.
+$*
+$*
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+$*
+4 . S uperﬁci verdi e alberi
+L ’ area gioc o è  immersa all’ interno di un 
+manto erb oso.  S ono presenti una serie di 
+alb eri di diverse spec ie preesistenti alla sua 
+realiz z az ione.
+3 . G iochi e arredi
+L e strutture per il gioc o si artic olano in tre 
+ambi ti distribu endosi all’ interno delle due 
+isole e nell’ area più ampia della superﬁc ie 
+dura.  L e panc h ine sono distrib uite sul lato 
+esterno del nastro e delle due anse più 
+pic c ole.
+!"#$%&#"'()%&"'(&)*))%
+$'
+!
+"
+#
+$%&'
+$%$%
+$%$$
+$%$(
+$%&)
+fe br
+aio 2021
+M
+unicipio 6
+4'B"#$$+U)J*#$</L'/1*.$R$L*#II#$K#,*
+4',0B0",-%+'#U)+/22'#*&$?B?@
+W%/#'$%+'%)&%)D%,--,)!,5%U)@SEBB$8T
+F%+5>%)D"#$#'(%U
+O$$+5%,-%+'#)"#$D+'$,X%3#)#C#'(%U)U#$Q&'4#1#$
+P%D+)&%),((%C%(1U)!"+B",//,)&%),((%C%(1)/03(%\(,"B#(
+\)20"+\B%+5+)5%"5+3,"#
+\)O/,5,)%')5+"&,
+- Telefono senza fili
+\)O3(,3#',),)5#$(+)R%5>(#"
+\).3%/X%'B)$("05(0"#
+\)F%+$(",),55#$$%X%3#)Gb#a_G
+\)2+'(,B'#((,)"%C#$(%(,)%')B+//,)
+\)O'(%(",0/,)5+')(0''#3)D,$$,'(#
+\)O3(,3#',),)8)D+$(%
+\)!,''#33+)B%+5+)i%3+A+'+
+\)F%+5+)#Z0%3%X"%+)'%'A#,
+\)F%+5+)$D%''#"
+area gioco:
+ 
+530 mq
+8=87
+US%4")+("#"%("%*")33)%8)-"
+b,"+',
+!"#$%&#"'()%&"'(&)*))%
+$!
+Il contesto
+US%4")+("#"%("%*")33)%8)-"O)b,"+',
+P iaz z a P ac i è  il luogo c entrale del sistema di spaz i pub b lic i 
+c h e c aratteriz z ano il quartiere di ediliz ia residenz iale pub b lic a 
+S ant’ A mb rogio I I ,  ediﬁc ato tra il 1968- 1971 sui margini del P arc o 
+A gric olo S ud M
+ilano,  z ona B arona.  U na serie di ediﬁc i in linea 
+di nove piani si dispongono lib eramente per deﬁnire una c orte 
+allungata c h e ospita ediﬁc i per serviz i –  sc uole primarie,  serviz i alla 
+persona e sedi di assoc iaz ioni –  e attrez z ature per il gioc o,  lo sport e 
+aree verdi.  Q
+uest’area di margine,  c h e ospita altri interventi ediliz i 
+analogh i ( ediﬁc i in linea disposti in ampi spaz i aperti) ,  è  prossima 
+alla f ermata di F amagosta M
+2 e all’autostrada A 7 dei G iovi.  L ’area 
+gioc o oc c upa un amb ito della f asc ia verde c h e delimita P iaz z a 
+P ac i,  al c ui c entro si trova una f ontana c on una monumentale 
+sc ultura di M
+itoraj .  L ’area da un lato è  delimitata dall’ ingresso di 
+un parc h eggio interrato,  dall’altro si dispone in c ontinuità  c on un 
+b asso ediﬁc io a esedra c h e ospitava attività  c ommerc iali c h iuse 
+–  quelle oggi attive sono ospitate al piano terra di alc uni ediﬁc i 
+residenz iali.  D i f ronte si trova la sc uola primaria D e N ic ola.
+M2  FAMAGOS TA
+VIALE  FAMAGOS TA
+VIA VOLTRI
+scuola infanzia
+paritaria 
+scuola primaria
+E. De Nicola
+scuola infanzia
+paritaria 
+istituto S ant’Amb rog io 
+ATS  Milano 
+ch iesa S . Giovanni
+B ono
+mercato comunale
+scuola primaria
+scuola infanzia
+paritaria 
+casa di riposo 
+Famag osta 
+Consig lio di Z ona
+ospedale S . P aolo 
+P IAZ Z A 
+ENZ O P ACI
+VIA A. DEP RETIS
+GIARDINI 
+VIA B OFFALORA
+P ARCO P U B B LICO 
+VIA VOLTRI
+P ARCO VOLTRI
+P ARCO CAS CINA 
+B IANCA
+P ARCO AGRICOLO
+S U D MILANO
+P ARCO AGRICOLO
+S U D MILANO
+P ARCO AGRICOLO
+S U D MILANO
+P ARCO CAS CINA 
+B IANCA
+P IAZ Z A
+MIANI
+LAMB RO MERIDIONALE
+A7  - AU TOS TRADA DEL MARE
+A7  - AU TOS TRADA DEL MARE
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+$"
+$"
+0
+100 m
+50 m
+!"#$%&#"'()%&"'(&)*))%
+$#
+L o spazio gioco
+US%4")+("#"%("%*")33)%8)-"O)b,"+',
+1.  l'area gioco è
+ uno degli ambit i di piaz z a P aci
+2.  l'area gioco è
+ a una quota superiore rispetto alla 
+piaz z a
+3- 4.  una “s taciona
+ta” s truttura l'area gioco e  
+distribuis ce  le attrez z ature
+5.  un secondo ambit
+o ospita gioch
+i per i più picol
+i 
+1     2
+3     4
+5
+0
+10 m
+5 m
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+$$
+!"#$%&#"'()%&"'(&)*))%
+%&&
+S composizione per lay er
+US%4")+("#"%("%*")33)%8)-"O)b,"+',
+2 . S uperﬁci antitrauma
+L ’ area all’ interno dell’ anello è  oc c upata da 
+superﬁc i antitrauma e a questa si aggiunge 
+un’ altra pic c ola isola.  L e due sono separate 
+da un ac c esso alla piaz z a.
+1 . S uperﬁci dure e percorso tattilo- plantare
+L ’ area gioc o è  c aratteriz z a da un nastro/
+perc orso ad anello c onnesso alle aree 
+pavimentate della piaz z a in tre punti dove 
+sono anc h e posiz ionati i pannelli orientativi 
+per ipovedenti.  
+%&%
+%&%
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+%&%
+4 . S uperﬁci verdi e alberi
+L ’ area gioc o è  posiz ionata in due porz ioni 
+dello “ spaz io verde”  c h e si posiz iona 
+sul b ordo della piaz z a c irc olare ed è  
+omb reggiata da alc uni alb eri preesistenti.
+3 . G iochi e arredi
+La  maggior parte delle strutture per il gioc o 
+si suc c edono ed artic olano in un’ unic a 
+struttura ad anello pratic ab ile da amb o i 
+f ronti.  L ’ area ac c anto ospita due attrez z ature.  
+La  disposiz ione delle panc h ine lungo il 
+perc orso c urvo f ac ilita la c onversaz ione 
+tra persone sorde c h e nec essitano di 
+vedersi rec iproc amente e,  in generale,  la 
+soc ializ z az ione.
+!"#$%&#"'()%&"'(&)*))%
+%&)
+!
+"
+#
+$%&'
+$%$%
+$%$(
+$%&)
+settembr e 2021
+area gioco:
+ 
+2.0 00 mq
+M
+unicipio 8
+4'B"#$$+U$J*#$V3#'/"0M*($J*#$Q'&,/
+4',0B0",-%+'#U)./11/82'/$?B?@
+W%/#'$%+'%)&#3)D,"5+)b#"(+3%U)@CSBBB$8T
+F%+5>%)D"#$#'(%U
+O$$+5%,-%+'#)"#$D+'$,X%3#)#C#'(%U)Q&&L/'#1*J#$N&,*#6/$
+:3&J#$=8#"*1W
+P%D+)&%),((%C%(1U)!"+B",//,)&%),((%C%(1)/03(%\(,"B#(
+\)H5%C+3+)&,)D#'&%+
+\)O'%/,3%)B+//+$%)
+\)Q%33,BB%+)*+"(#--,
+\)jIPPMI)kRT)WR@2
+\).]42IH)<)LKPI
+\)O3(,3#',)F%,/,%5,)8)D+$(%)
+\)O3(,3#',).033,
+\).+5+h,C#)%')5+"&,
+\)Q%33,BB%+)*0').%(_
+\)F%+$("%',)b#5a_)
+\)F%+$(",)P%D%)5+')X,3,0$(",)
+\)H0D#"'+C,
+\)b,33)P",5a
+\)W",h%'B)P,X3#
+\)H,'&)!3,_)P,X3#
+\)!,3#((+)l)j+/D,'
+\)H#()!%(,B+",)D%5'%5
+8=87
+8=88
+VS%4")+("#"%E$+1,."
+F,33,",(#$#
+!"#$%&#"'()%&"'(&)*))%
+%&'
+Il contesto
+VS%4")+("#"%E$+1,."O)F,33,",(#$#
+La  nuova area gioc o al parc o B ertoli si inserisc e nel progetto 
+inc ompiuto della S pina C entrale dei serviz i del quartiere C E P  
+nel G allaratese,  una serie di interventi di ediliz ia residenz iale 
+publ
+ic a realiz z ati tra gli anni ’ 60 e ’ 80.  L a S pina si c aratteriz z a 
+per la presenz a dif f usa e c ontinua di aree verdi e attrez z ature 
+per il tempo lib ero.  I l nuovo intervento si trova tra la f ermata 
+U ruguay  della M
+2 e il c entro B onola c h e ospita anc h e gli 
+uf ﬁc i del M
+unic ipio 8.  L ’ area gioc o inc lusiva,  aperta e priva di 
+rec inz ioni,  si integra e amplia il sistema di perc orsi pedonali 
+e c ic labi li c h e c onsentono di perc orrere e attraversare la 
+S pina nella sua c ontinuità ,  f avorendo la mob ilità  sostenib ile 
+e l'ac c essibi lità .  L ungo la via Q
+uarengh i,  all’ altez z a dell’ area 
+gioc o,  sono presenti una serie di ediﬁc i sc olastic i di dif f erente 
+grado.
+casa di riposo 
+Q uareng h i
+parrocch ia 
+M. Reg ina P acis
+b ib lioteca 
+Gallaratese
+Istituto professionale
+C. P orta
+scuola dell’infanzia
+scuola dell’infanzia
+istituto comprensivo
+R. Massa
+istituto comprensivo
+R. Massa
+scuola dell’infanzia
+scuola dell’infanzia
+ch iesa S . Ilario
+cascina 
+Caotica
+ITT Artemisia
+Gentilesch i
+IIS  Gerolamo 
+Cardano
+istituto comprensivo
+statale Via B rocch i
+scuola primaria
+Montessori
+GIARDINI
+P . B ERTOLI
+GIARDINI VIEIRA 
+DE MELLO
+P ARCO U RU GU AY  
+GALLARATES E
+VIA ALCIDE DE GAS P ERI
+VIA B ENEDETTO CROCE
+VIA A. CECH OV
+VIA G. NATTA
+VIA E. MONTALE
+VIA G. Q U ARENGH I
+VIA U RU GU AY
+P ARCO DEI 
+TRIANGOLI
+IP P ODROMO
+M1  LAMP U GNANO
+M1  U RU GU AY
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+%&(
+%&(
+0
+100 m
+50 m
+!"#$%&#"'()%&"'(&)*))%
+%&!
+L o spazio gioco
+VS%4")+("#"%E$+1,."O)F,33,",(#$#
+1.  l'area gioco è
+ parte della spina verde del 
+G allaratese
+2.  l'area gioco è
+ prossima ad alcuni e diﬁci s col astici
+3.  le attrez z ature per il gioco s ono distribuit e in 
+ambit i tematici dis tinti
+4.  giochi mus
+icali
+5.  i pannelli infor mativi sperimentano dif fe renti 
+linguaggi 
+1     2
+3     4
+5
+V ia  Gia co mo  Q u a ren ghi
+0
+10 m
+5 m
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+%&"
+!"#$%&#"'()%&"'(&)*))%
+%&#
+S composizione per lay er
+2 . S uperﬁci antitrauma
+L e superﬁc i trattate c on l’ antitrauma sono 
+organiz z ate ad isole,  la più grande delle 
+quali ospita una porz ione di pavimentaz ione 
+in c alc estre.
+1 . S uperﬁci dure e percorso tattilo- plantare
+U n nastro/perc orso sinuoso attraversa l’ area 
+aperta nel quale è  inserito il parc o.  I n alc uni 
+punti il nastro si allarga c reando delle pic c ole 
+anse.  
+I l perc orso tattilo- plantare segue il nastro,  
+c on tratti perpendic olari in c orrispondenz a 
+delle aree attrez z ate.  
+D iversi pannelli inf o- orientativi segnalano il 
+perc orso.
+VS%4")+("#"%E$+1,."O)F,33,",(#$#
+%&$
+%&$
+!"#$%#&'%%#()*+*#,&#-)+).*#%#.%/#+*.0%10*
+%&$
+4 . S uperﬁci verdi e alberi
+L ’ area gioc o è  realiz z ata all’ interno di un 
+“ isolato verde”  c h e è  parte di un sistema a 
+parc o più ampio.
+A c c anto all’ area gioc o sono presenti alc uni 
+ﬁlari di alb eri messi a dimora rec entemente.
+3 . G iochi e arredi
+L e strutture per il gioc o sono artic olate per 
+tipologie all’ interno delle isole.  
+L e panc h ine sono posiz ionate in prossimità  
+delle anse del perc orso.
+!"#$%&#"'()%&"'(&)*))%
+%%&
+!
+"
+#
+$%&'
+$%$%
+$%$(
+$%&)
+marz o 2022
+area gioco:
+ 
+2.3 00 mq
+4'B"#$$+U)J*#$7&.,&6#"&$A$J*#$%#'*#$%&"1/..&'*
+4',0B0",-%+'#U)8#'I&$?B??
+W%/#'$%+'%)&%)D%,--,)KC%&%+U)@CSBBB$8T
+F%+5>%)D"#$#'(%U
+O$$+5%,-%+'#)"#$D+'$,X%3#)#C#'(%U)U#$:&.1'#$Q&83"*1W
+P%D+)&%),((%C%(1U)!"+B",//,)&%),((%C%(1)/03(%\(,"B#(
+\)O3(,3#',).033,
+\)O3(,3#',)F%,/,%5,)&+DD%,
+\)H0D#"'+C,
+\)F%+$(",)b#5a_
+\)Q%33,BB%+)*0').%(_)5+')D,''#33%)
+))$#'$+"%,3%
+\).+55%'#33,
+\).,$#((,).+-_)W+/#
+\)K'&,)$#'$+"%,3#
+\)H("0/#'(+)/0$%5,3#
+\)!%$(,)X%B3%#
+\)P,C+3+)&%$#B'+
+\)P#,("+)5+')$#&0(#
+\)P,C+3+)D%5'%5
+M
+unicipio 4
+8=87
+8=88
+WS%4")+("#"%("%*")33)%?0"(",
+*+"3,'%'%

@@ -1,0 +1,2719 @@
+ 
+ 
+ 
+Università degli Studi di Padova 
+ 
+CORSO DI LAUREA IN TERAPIA OCCUPAZIONALE 
+PRESIDENTE: Ch.mo Prof. Daniele Rodriguez 
+ 
+ 
+ 
+ 
+TESI DI LAUREA 
+ 
+CREARE L’INCLUSIVITA’. Il ruolo della Terapia 
+Occupazionale nella progettazione dei parchi giochi 
+per l’infanzia 
+ 
+(INCLUSIVITY CREATION. The role of Occupational Therapy in the 
+design of playground for children) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RELATORE: T.O., Dott., Prof.  BOSCARATO PAOLO 
+Correlatore: T.O., Dott.ssa FACCHINETTI DANIELA 
+ 
+LAUREANDA: BUOSI FRANCESCA  
+Anno Accademico 2015/2016 
+ 
+ 
+ 
+Università degli Studi di Padova 
+ 
+CORSO DI LAUREA IN TERAPIA OCCUPAZIONALE 
+PRESIDENTE: Ch.mo Prof. Daniele Rodriguez 
+ 
+ 
+ 
+ 
+TESI DI LAUREA 
+ 
+CREARE L’INCLUSIVITA’. Il ruolo della Terapia 
+Occupazionale nella progettazione dei parchi giochi 
+per l’infanzia 
+ 
+(INCLUSIVITY CREATION. The role of Occupational Therapy in the 
+design of playground for children) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RELATORE: T.O., Dott., Prof.  BOSCARATO PAOLO 
+Correlatore: T.O., Dott.ssa FACCHINETTI DANIELA 
+ 
+LAUREANDA: BUOSI FRANCESCA  
+Anno Accademico 2015/2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INDICE 
+ 
+RIASSUNTO 
+ABSTRACT 
+INTRODUZIONE .......................................................................................................... 1 
+MATERIALI E METODI ............................................................................................. 2 
+CAPITOLO 1- IL PARCO GIOCHI INCLUSIVO .................................................... 3 
+1.1. 
+International Classification of Functioning and Disability's (ICF) ............. 3 
+1.1.1. 
+Il concetto di partecipazione ...................................................................... 4 
+1.2. 
+Concetti di accessibilità e inclusione .............................................................. 5 
+1.2. 
+Universal Design .............................................................................................. 7 
+1.3.1.  I sette principi dell’Universal Design ............................................................ 7 
+1.3.2.  Applicazione dei sette principi dell’Universal Design ai parchi giochi ........ 8 
+1.4  Il gioco e gli spazi dove si esprime: la loro importanza nello sviluppo del 
+bambino ..................................................................................................................... 10 
+1.5.  Definizione di parco giochi inclusivo ............................................................... 13 
+1.6.  Progettare un parco giochi e il modello Person-Environment-Occupation 
+(PEO 14 
+1.7.  Cenni sulla legislazione estera e italiana riguardante i parchi giochi .......... 17 
+CAPITOLO 2- RUOLO DEL TERAPISTA OCCUPAZIONALE NELLA 
+PROGETTAZIONE DI UN PARCO GIOCHI INCLUSIVO ................................. 21 
+2.1. 
+Il Terapista Occupazionale ........................................................................... 21 
+2.2. 
+Fasi di progettazione ...................................................................................... 23 
+2.3. 
+Progettare secondo i concetti del PEO (Person-Environment-Occupation) 
+2.3.1   Persona: funzioni e strutture corporee ........................................................ 27 
+2.3.2.  Ambiente: fattori ambientali ........................................................................ 29 
+2.3.3.  Occupazione: Il gioco .................................................................................. 31 
+2.3.4.   Bisogni e soluzioni possibili ........................................................................ 32 
+2.4.   Non solo l’altalena ............................................................................................ 36 
+DISCUSSIONE ............................................................................................................. 37 
+CONCLUSIONI ........................................................................................................... 39 
+BIBLIOGRAFIA 
+SITOGRAFIA 
+ ALLEGATI 
+ 
+ 
+ 
+ 
+Allegato A- Descrizione attrezzature parco giochi inclusivo  
+-L’altalena 
+-Lo scivolo 
+-Il gioco multifunzione 
+-Giochi dinamici a molla 
+-Giochi sabbia e acqua 
+-Pannelli ludici/Giochi didattici 
+Allegato B- Tabella riassuntiva degli articoli analizzati 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RIASSUNTO 
+La maggior parte dei parchi giochi progettati e presenti all’estero e in Italia non sono 
+accessibili a bambini con disabilità e questo porta a una limitazione della loro 
+partecipazione in un’attività fondamentale per la propria crescita personale e sociale, 
+poiché non riescono ad accedere alle attrezzature, a passare il tempo e giocare insieme 
+agli altri bambini. Come conseguenza i bambini si sentono isolati ed escludono il parco 
+giochi dai luoghi dove poter andare a giocare. 
+Negli ultimi anni, il problema è stato preso in considerazione da esperti, progettisti e 
+amministrazioni locali e in molte città vengono realizzati parchi giochi inclusivi, ovvero 
+parchi privi da barriere architettoniche e fruibili da parte di tutti i bambini.  
+Lo scopo di questa tesi è di fornire un background rispetto l’accessibilità, i parchi giochi 
+inclusivi e sostenere la partecipazione del terapista occupazionale durante la loro 
+progettazione. 
+È stata condotta un’analisi della letteratura estera e italiana e sono state proposte alcune 
+attrezzature con lo scopo di creare un’interazione positiva tra il gioco e il bambino e tra 
+il bambino e l’ambiente circostante. 
+I risultati dell’analisi mostrano che all’estero, in particolare in America, le aree gioco 
+sono regolate da linee guida (Americans with Disabilities Act), che devono essere prese 
+in considerazione quando s’intende realizzare una struttura ricreativa. Inoltre, vi sono 
+molti articoli esteri che sostengono il coinvolgimento della figura del terapista 
+occupazionale nella progettazione di parchi giochi. In Italia, per la scarsa conoscenza 
+rispetto tale figura professionale, il terapista non viene mai citato, ma si parla solo di 
+figure educative o associazioni di bambini diversamente abili. Solitamente, per la 
+realizzazione di parchi giochi vengono coinvolti progettisti che considerano 
+l'interazione persona-ambiente più astrattamente, spesso senza avere contatti con 
+l'utente e quindi senza considerare le reali esigenze dei bambini e i genitori. 
+L’evidenza sostiene il ruolo del terapista occupazionale nella progettazione di parchi 
+giochi inclusivi, dal momento che questa figura professionale, attraverso gli studi e 
+l’esperienza, ha le competenze per riconoscere gli aspetti riguardanti la persona (bisogni 
+ed esigenze delle persone con disabilità), svolgere un’analisi dell’attività e analizzare 
+l’ambiente secondo i principi dell’Universal Design. Per quanto riguarda l’aspetto 
+ambientale, il terapista ha come obiettivo il riconoscimento delle barriere 
+architettoniche che limitano la performance, e l’individuazione delle possibili soluzioni 
+che adattino ed integrino tra di loro le attrezzature in maniera flessibile. Il focus è quello 
+ 
+ 
+ 
+ 
+di favorire maggiori livelli funzionali, permettendo così di incrementare la mobilità del 
+bambino, la stimolazione multisensoriale e le abilità cognitive all’interno del parco 
+giochi. 
+Nella letteratura analizzata, emergono soprattutto le esperienze delle persone che 
+frequentano i parchi, in particolare, quelle legate alle barriere incontrate. Fra queste le 
+più riscontrate sono: la pavimentazione e l’accesso al parco e alle attrezzature. 
+La tesi vuole quindi proporre un modello d’approccio dal quale si è partiti per sostenere 
+il ruolo del terapista occupazionale nella progettazione dei parchi, con l’obiettivo di 
+creare l’inclusione tenendo presenti i tre aspetti importanti relativi al funzionamento 
+della persona, l’attività e l’ambiente in cui l’attività si colloca. 
+Questo percorso ha permesso di individuare delle soluzioni esemplificative e di 
+consigliare alcune attrezzature, fra le più citate in letteratura che, se inserite in un parco 
+giochi, potrebbero garantire la partecipazione al gioco a tutti i bambini. 
+ 
+ABSTRACT 
+Most of the playgrounds designed and available abroad and in Italy are not accessible to 
+kids with invalid problems and this makes limited their attendance, due to the 
+impossibility to let them spend time with the facility in the structure and spend time 
+with other children. This makes them feel isolated and excluded from the playground, 
+from the places where you can be led to play. 
+In recent years, experts, designers and local administrations have considered the issue, 
+and in many cities there are inclusive playgrounds. 
+The purpose of this thesis is to provide a background about the accessibility and the 
+inclusive playgrounds and supporting the participation of the occupational therapist 
+during the design of playground. 
+As been also done an analysis of foreign and italian literature and proposed some 
+elements of play structures in order to create a positive interaction between play and the 
+child and also between the child and the environment. 
+The analysis abroad especially in America, shows play areas regulated mostly by 
+guidelines, taken into consideration when is supposed to create a recreational facility. In 
+addition, many articles mention the figure of the occupational therapist involved in the 
+design of playgrounds.  
+ 
+ 
+ 
+ 
+In Italy, for the lack of knowledge about Occupational Therapy, the occupational 
+therapist are never mentioned, only educational figures or association for children with 
+disability are. 
+The evidence supports the role of the occupational therapist as environmental analysis 
+and Universal Design expert, able to recognizes the architectural barriers that limit 
+performance, knows how to adapt the equipment to facilitate more functional levels and 
+make suggestions to improve the child's mobility, the multi-sensory stimulation and 
+cognitive skills within the playground. 
+In the literature emerges the experiences of the people who frequent the parks, in 
+particular, those linked to the barriers faced. Of these the most noted are: the flooring 
+and the access to the park and to the facilities. 
+Have been made an analysis of the barriers concerning the person (various types of 
+disabilities) and the environment (physical and social) and have been revised based on 
+the International Classification of Functioning, Disability and Health in the version for 
+children and adolescents (ICF-CY), connecting them to body functions and structures, 
+activities and participation and environmental factors.  
+Inserting them into the specific model of occupational therapy: Person-Environment-
+Occupation (PEO). Finally, we indicate some solution and equipment that, if included in 
+a playground, may guarantee the participation to all the children. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+INTRODUZIONE 
+Il motivo che porta allo sviluppo di questa tesi è che in Italia i parchi giochi sono 
+solitamente pensati per un “bambino tipo” e vengono attrezzati con strutture standard, 
+senza tener conto dei possibili utilizzatori del parco. Per i bambini disabili, le aree gioco 
+finiscono per diventare un luogo di esclusione, di segregazione, una manifestazione 
+della visione ristretta con la quale gli adulti osservano e strutturano il mondo dei 
+bambini (Laurìa & Montalti, 2015). La soluzione ideale è il parco giochi inclusivo, un 
+parco dove tutti i bambini, anche quelli con disabilità, possono esercitare il loro diritto 
+al gioco. Tale soluzione rispetta i principi dell’Universal Design e l’idea che il parco 
+dev’essere per tutti e non solo per bambini normali o solo per bambini disabili. 
+L’interesse per l’argomento è nato dalla partecipazione al Convegno Annuale CRIBA 
+ER 2015 “Non Solo Altalena: Dimensione Inclusiva Del Parco Gioco”, durante il quale 
+si discuteva degli attori partecipanti alla progettazione e alla realtà italiana dei parchi 
+giochi.  
+La tesi si propone di rispondere ai seguenti quesiti: 
+1. Può il terapista occupazionale, con le proprie conoscenze delle varie forme di 
+disabilità e di valutazione delle attività di gioco e dei concetti legati 
+all’Universal Design, fornire supporto alla progettazione di un parco giochi 
+inclusivo? 
+2. Qual è la situazione italiana ed estera in merito ai parchi giochi inclusivi? 
+3. Quali sono le barriere di un parco giochi sperimentate dai bambini? 
+4. Quali sono le caratteristiche cardine da tenere in considerazione nella 
+progettazione? E quali le soluzioni? 
+Per rispondere a tali quesiti è stata svolta una ricerca bibliografica su diversi motori di 
+ricerca, anche se vi è un esiguo numero di articoli scientifici che trattano l’argomento.  
+La tesi si divide in due parti: 
+1. La prima parte della ricerca riguarda i temi di carattere generale legati ai parchi 
+giochi come: i concetti di accessibilità e inclusione, l’Universal Design, gli spazi 
+di gioco e l’importanza per il bambino, i parchi giochi inclusivi e alcuni cenni 
+sulla legislazione estera e italiana rispetto ai parchi giochi.  
+2. La seconda, risponde al quesito inerente a qual è il ruolo del terapista 
+occupazionale, quali sono gli aspetti cardine che tiene in considerazione nel suo 
+processo di valutazione e come potrebbe intervenire nella progettazione di 
+parchi giochi inclusivi.  
+ 
+ 
+2 
+ 
+Si è scelto di seguire il modello Person-Environment-Occupation per descrivere il 
+bambino con le sue caratteristiche (Person), analizzare l’ambiente del parco giochi 
+(Environment) e il gioco che si sviluppa in tale contesto (Occupation). Tali concetti 
+sono stati descritti inserendo gli elementi dell’ICF-CY. Infine sono state analizzate e 
+identificate le barriere che una persona può incontrare in un parco giochi, legate alla 
+persona (funzioni e strutture corporee) e all’ambiente e sono state proposte alcune 
+attrezzature comuni e alcuni adattamenti, con l’obiettivo di creare un parco giochi 
+inclusivo. 
+MATERIALI E METODI 
+La ricerca bibliografica risponde al quesito inerente al parco giochi inclusivo e la 
+presenza del t.o. durante le fasi di progettazione.  
+La ricerca è stata effettuata utilizzando le parole chiave “Occupational Therapy”, 
+“Children”, 
+“Disabilities”, 
+“Planning”, 
+“Designing”, 
+“Inclusive 
+Playground”, 
+“Playground”, “Barriers”, “Environment barriers”, “Accessibility”, “Universal 
+Design”, “Inclusion”. 
+Sono stati utilizzati i motori di ricerca PubMed, MedLine, Google Scholar, il sito 
+Canadian Association of Occupational Therapist (CAOT), American Occupational 
+Therapy Association , il giornale Association for Childhood Education International, 
+tesi già svolte e altri siti istituzionali. 
+La ricerca comprende articoli che vanno dal 2000 al 2015, ad eccezione di alcuni 
+articoli del 1988, 1991, 1993, 1999, che sono stati inclusi nell’analisi visto la 
+ridondanza nella ricerca e di un articolo che riporta la presenza già nel 1988 del t.o. 
+nella progettazione del parco giochi inclusivo. Quasi tutti gli articoli sono 
+principalmente studi extraeuropei. 
+Dalla ricerca condotta, sono risultati in tutto 9 articoli PubMed, di questi sono stati 
+selezionati e analizzati 6 articoli, e altri 30 articoli non PubMed di cui ne sono stati 
+analizzati 22. Gli articoli scartati non erano del tutto pertinenti all’argomento o 
+riguardavano parchi naturali piuttosto che parchi giochi.  
+. Per alcuni di essi è stato utilizzato il metodo della McMaster University “Critical 
+Review form-Quantitative Studies”; per gli altri articoli non è stato possibile utilizzare 
+questo metodo perché non hanno una popolazione campione, oppure sono linee guida 
+che riportano indicazioni e caratteristiche di parchi giochi. Per l’analisi degli articoli è 
+stata realizzata una tabella (vedi allegato B) che ha permesso di ricavare e sintetizzare i 
+contenuti principali di ogni articoli. 
+ 
+ 
+3 
+ 
+CAPITOLO 1- IL PARCO GIOCHI INCLUSIVO 
+1.1. International Classification of Functioning and Disability's (ICF) 
+La Classificazione Internazionale del Funzionamento, della Disabilità e della Salute, 
+conosciuta più comunemente come ICF, è una classificazione della salute e dei domini 
+correlati alla salute.  
+L’ICF si definisce un modello “bio-psico-sociale” ovvero deriva dall’integrazione tra il 
+pensiero del modello medico, che vede la disabilità come un problema della persona, e 
+il pensiero del modello sociale. Il modello sociale considera la disabilità come un 
+problema creato dalla società.  
+La Classificazione prende quindi in considerazione non solo gli aspetti medici specifici 
+legati alla presenza di una condizione di salute, ma anche gli aspetti sociali conseguenti 
+alla condizione di salute. La società ha perciò il compito di garantire le modifiche 
+dell’ambiente necessarie per la partecipazione delle persone con disabilità.  
+Molto spesso si ritiene erroneamente che l’ICF riguardi soltanto le persone con 
+disabilità; in realtà esso riguarda tutti. Questa Classificazione definisce la disabilità 
+come: “La conseguenza o il risultato di una complessa relazione tra la condizione di 
+salute di un individuo e i fattori personali e ambientali che rappresentano le circostanze 
+in cui vive l’individuo”. 
+L’ICF è diviso in due parti: la prima parte si occupa del funzionamento e disabilità e 
+comprende a sua volta le funzioni e strutture corporee e attività e partecipazione.  La 
+seconda parte si occupa invece dei fattori contestuali ovvero fattori personali e 
+ambientali. 
+L’attenzione non è più posta sulla disabilità, ma sull’ambiente che può presentarsi come 
+una barriera e perciò rappresenta l’handicap, oppure come un facilitatore che favorisce 
+la partecipazione ed elimina le limitazioni della persona.  
+È stata realizzata una versione compatibile all’ICF, ma che documenta in maniera 
+precisa e dettagliata le caratteristiche dei bambini e adolescenti fino ai 18 anni: ICF-CY. 
+Nei bambini e adolescenti le manifestazioni di disabilità e le condizioni di salute sono 
+diverse rispetto a quelle degli adulti. Da qui è nata la necessità di un sistema di 
+classificazione dedicato ai bambini che rappresenta un linguaggio comune e universale. 
+Rispetto alla classificazione originale, documenta le limitazioni e restrizioni legate alla 
+persona e all’ambiente che si manifestano durante l’infanzia e nell’adolescenza, così da 
+facilitare la documentazione e misurazione della salute e delle disabilità per questo 
+target di popolazione. In questa versione, fra i fattori ambientali viene dedicata 
+ 
+ 
+4 
+ 
+attenzione al gioco, in particolare sono menzionate le attrezzature generali e adattate per 
+le aree di gioco, i prodotti generali come altalene e scivoli, e in un'altra sezione, i servizi 
+per la pianificazione dello spazio aperto. 
+ 
+1.1.1. Il concetto di partecipazione 
+La partecipazione sociale è necessaria per il benessere e la salute dei bambini con 
+disabilità ed è l'obiettivo primario della Terapia Occupazionale. I bambini, 
+nell’interagire con altre persone sviluppano le abilità sociali (Piškur, 2014). 
+L’ICF definisce la partecipazione come “Il coinvolgimento in una situazione di vita”, 
+mentre le restrizioni alla partecipazione sono viste come “Problemi che un individuo 
+può sperimentare nel coinvolgimento in situazioni di vita”. Inoltre, sottolinea 
+l’importanza dell’ambiente nell’influenzare in maniera diversa il bambino in base all’età 
+e allo stadio evolutivo, quindi una mancanza di accessibilità può causare una restrizione 
+di partecipazione in vari domini (Prellwitz & Tamm, 1999). 
+Negli ultimi anni, la ricerca ha dimostrato che lo stato di disabilità ha un impatto minore 
+sulla partecipazione di un bambino in un’occupazione, ma sarebbe l’ambiente con le sue 
+caratteristiche ad avere maggior influenza. Si evince che, non è la diagnosi di un 
+bambino a influire sulla partecipazione, ma sono le barriere ambientali a impedirla. È 
+quindi importante focalizzarsi sulla risoluzione delle problematiche riguardanti 
+l’ambiente. 
+Nell’ICF-CY il concetto di partecipazione è approfondito in maniera diversa rispetto 
+l’ICF, dal momento che le situazioni ed esperienze di vita di bambini e adolescenti sono 
+diverse rispetto quelle dell’adulto. I bambini e ragazzi vivono un periodo di sviluppo e 
+di cambiamento, passando dalla relazione con il caregiver principale e, dal gioco 
+solitario al gioco simbolico e sociale, alla relazione con i compagni e alla frequenza 
+della scuola. In base allo stadio di sviluppo, i bambini hanno bisogno di spazi più o 
+meno ristretti e di un grado diverso di dipendenza dagli adulti o caregivers.  
+Molto spesso la partecipazione all’ambiente viene limitata o impedita da alcune barriere 
+fisiche e sociali, che i bambini incontrano. I genitori e i bambini percepiscono che un 
+ambiente meno accessibile non permette la partecipazione al gioco e alla società 
+insieme agli altri. Inoltre, un ambiente difficilmente utilizzabile, rende i figli dipendenti 
+dalla presenza di un adulto e quindi viene meno il concetto di autonomia (Prellwitz & 
+Skär, 2007).  
+ 
+ 
+5 
+ 
+Missiuna e Pollock (1991) affermano che la limitata partecipazione in attività di gioco 
+per i bambini con disabilità può, secondo molti ricercatori, portare a disabilità 
+secondarie come: scarse abilità sociali, limitata motivazione e autostima, mancanza di 
+assertività, ridotta concentrazione, gioco solitario e dipendenza dagli altri.  
+Pertanto, la progettazione di parchi giochi dovrebbe essere basata e orientata sulla 
+partecipazione, per dare modo ai bambini di interagire con i coetanei in attività di gioco 
+(Prellwitz & Skär, 2007).  
+ 
+1.2. Concetti di accessibilità e inclusione 
+Strettamente legati al concetto di partecipazione, sono quelli di accessibilità e 
+inclusione. L’ICF (1997), pone l'accento sull’importanza dell’ambiente, in quanto una 
+mancanza di accessibilità può causare una restrizione di partecipazione in vari domini 
+(Prellwitz & Tamm, 1999).  
+La frase "L’occupazione primaria di un bambino è giocare" è una dichiarazione che è 
+stata utilizzata in diversi studi in T.O.. Se il gioco è l'occupazione principale di un 
+bambino e l’occupazione è il focus della T.O., il gioco dev’essere un obiettivo primario 
+per i t.o.. Pertanto, con quest’obiettivo in mente e sulla base del pensiero bio-psico-
+sociale sostenuto dall’ICF, il t.o. dovrebbe prendere in considerazione l’ambiente che 
+rende possibile l'occupazione. Dal momento che il gioco del bambino si svolge nei 
+parchi giochi, l'accessibilità e l'utilizzabilità sono dei prerequisiti importanti per rendere 
+possibile la partecipazione di tutti i bambini nelle aree di gioco (Prellwitz, 2007). 
+Nel 2003 Iwarsson e Staêhl definiscono l’accessibilità come un concetto relativo che 
+implica che i problemi di accessibilità dovrebbero essere espressi come relazione tra 
+persona e ambiente. In altre parole “L’accessibilità è l’incontro tra la persona o le 
+capacità funzionali del gruppo e la progettazione e le richieste dell’ambiente fisico”. 
+Nello studio di Prellwitz (2007), sono stati raccolti dati da quattro studi condotti nel 
+nord della Svezia. In particolare, nel primo sono stati intervistati i creatori di parchi 
+giochi (persone del comune responsabili di parchi) e bambini con problemi motori e i 
+loro caregivers. Nel secondo studio è stato fatto un questionario rivolto a persone 
+responsabili della progettazione di parchi giochi in quarantuno comuni della Svezia del 
+Nord. Nel terzo studio sono stati intervistati bambini con abilità differenti e nel quarto 
+studio, genitori di bambini con disabilità.  
+I risultati mostrano che le persone coinvolte nella progettazione di parchi giochi, non 
+sempre considerano l’accessibilità e hanno espresso una mancanza di conoscenza 
+ 
+ 
+6 
+ 
+riguardo i problemi dei bambini con disabilità. La mancanza di conoscenza rispetto 
+l’accessibilità è legata anche a una non conoscenza della legislazione che regola i parchi 
+giochi, che afferma che gli spazi pubblici devono essere resi accessibili e utilizzabili da 
+tutti in eguale misura.  
+Dal terzo studio emerge l’importanza che i bambini danno ai parchi giochi, ma non 
+sempre questi sono accessibili e utilizzabili da tutti. Inoltre, i bambini ritengono che i 
+parchi non supportano il gioco, non favoriscono l’interazione sociale per i bambini con 
+disabilità e si sentono quindi dipendenti dal supporto e l’assistenza dell’adulto. Tutto 
+questo ha creato un senso di dipendenza e deprivazione per i bambini con disabilità 
+(Prellwitz, 2007). Perciò da tale studio, emerge la mancata considerazione 
+dell’accessibilità nella progettazione, che comporta un atteggiamento di esclusione 
+verso i bambini con disabilità. 
+Il concetto di accessibilità che, come definisce il Ministero per i beni e le attività 
+culturali, “Rimanda al rispetto di precise disposizioni normative, affinché spazi e 
+attrezzature possano essere utilizzati in piena autonomia e sicurezza da persone con 
+disabilità”, si differenzia da quello di fruibilità ovvero “L’effettiva possibilità di 
+utilizzazione di un ambiente o un’attrezzatura da parte di persone con disabilità, seppur 
+non esplicitamente progettati per tale scopo” (beniculturali.it). 
+In uno studio diretto nel 2012 da Ripat, in cui è stata indagata l’esperienza derivante 
+dall’utilizzo dei parchi giochi, i partecipanti hanno differenziato il concetto di 
+accessibilità e usabilità ed è emerso, infatti, che anche se molti parchi hanno 
+caratteristiche di accessibilità, magari non le hanno di utilizzabilità. Per esempio, può 
+esserci una rampa per accedere a un’attrezzatura, ma non vi è alcuna opportunità di 
+gioco sopra la rampa. 
+I genitori riportano inoltre, che è importante nella progettazione di un’area di gioco, fare 
+in modo che questa sia accessibile e garantisca le stesse opportunità a tutti. Se un 
+bambino non riesce ad accedere al gioco e questo è la sua occupazione principale, il 
+messaggio che passa è quello che non si sente voluto e quindi escluso, in altre parole 
+viene vissuta come un’ingiustizia occupazionale. 
+Negli ultimi anni, anche la ricerca di T.O. si è concentrata non solo sull’accessibilità, 
+ma anche sull’utilizzabilità ambientale. Secondo Iwarsson e Staêhl (2003), la 
+definizione di utilizzabilità è da considerarsi più soggettiva rispetto a quella di 
+accessibilità, in quanto implica che una persona dovrebbe essere in grado di utilizzare, 
+ 
+ 
+7 
+ 
+muoversi attorno, essere in un ambiente e utilizzarlo in condizioni di parità rispetto agli 
+altri.  
+In un articolo di Flemming, Plummer e Kanics (S.d.), viene riportato un progetto con lo 
+scopo di ispirare, educare e sostenere per la realizzazione di parchi giochi, diretto alle 
+chiese che aderiscono al programma di assistenza di sollievo pediatrica. 
+L’articolo afferma che, se un parco giochi è accessibile e utilizzabile (inteso come 
+muoversi, essere in, e utilizzare l'ambiente a parità di condizioni, come gli altri), allora 
+questo è un parco giochi inclusivo. 
+Quindi, è importante nella progettazione considerare l’accessibilità ma soprattutto 
+l’utilizzabilità delle attrezzature, poiché rendono la persona capace di vivere le stesse 
+esperienze dei pari e di rappresentare il parco come un luogo che tutti conoscono e dove 
+recarsi per giocare. Per creare aree di gioco versatili e utilizzabili da tutte le persone, la 
+soluzione è creare parchi giochi che fanno riferimento ai principi dell’Universal Design. 
+ 
+1.2. Universal Design 
+Numerosi articoli, tra cui quelli di Prellwitz (2007), Şensoy e İnceoğlu (2015), 
+sostengono l’importanza di progettare parchi giochi che rispettino i principi 
+dell’Universal Design. Il termine Universal Design è stato coniato dall’architetto e 
+avvocato Ron Mace, il quale fu Direttore del Center for Universal Design 
+nell’università del North Carolina (nchpad.org). 
+Per Universal Design s’intende: “La progettazione di prodotti e ambienti utilizzabili da 
+tutti, con un’estensione più ampia possibile e senza bisogno di adeguamenti o di 
+soluzioni speciali. Lo scopo è semplificare la vita a chiunque realizzando ambienti, 
+mezzi di comunicazione e prodotti maggiormente utilizzabili da un più ampio numero 
+di persone, riducendo al minimo o azzerando i costi aggiuntivi. Questo modo di pensare 
+la progettazione ha come target di riferimento tutte le persone senza distinzione di età, 
+sesso e abilità” (superabile.it).  
+ 
+1.3.1.  I sette principi dell’Universal Design 
+Quest’approccio si basa su sette principi universali che servono a valutare i progetti 
+esistenti, guidare i processi di progettazione e educare designers e consumatori sulle 
+caratteristiche di prodotti e ambienti in modo che possano essere meglio utilizzabili 
+(superabile.it).  L’Universal Design considera l'ampio spettro delle capacità umane. Ha 
+lo scopo di superare gli standard minimi per soddisfare le esigenze del maggior numero 
+ 
+ 
+8 
+ 
+di persone (nchpad.org). Quando si progetta applicando i principi dell’Universal 
+Design, l’obiettivo è fare in modo che il bambino possa giocare e si senta incluso 
+indipendentemente dalle sue abilità o disabilità, si senta accolto e possa trarre benefici 
+fisici, cognitivi, emozionali e sociali dall’ambiente. 
+Un parco giochi ben progettato è un parco che supporta una serie di sfide mentali e 
+fisiche, promuove l'interazione e la comunicazione, e che offre ai bambini opportunità 
+di crescita (Prellwitz & Skär, 2007). 
+ 
+1.3.2.  Applicazione dei sette principi dell’Universal Design ai parchi 
+giochi 
+1) Uso equo: Possono tutti i bambini utilizzare lo stesso percorso per arrivare alle 
+attrezzature del parco? (Flemming et al., S.d.). 
+Il Centro Nazionale della Salute, Attività fisica e Disabilità (NCHPAD) definisce 
+l’Universal Design come “Progettazione inclusiva in cui famiglie e amici entrano e 
+utilizzano le risorse insieme”. Un membro non dovrebbe essere escluso dal gruppo 
+per le sue abilità o per l’utilizzo di dispositivi di assistenza. Quindi, in base al primo 
+principio, tutti hanno la stessa opportunità di partecipare. 
+Il NCHPAD fornisce tali raccomandazioni nel rispetto del primo principio: 
+• 
+fornire a tutti gli stessi mezzi di utilizzo: identico ogni qualvolta possibile, 
+equivalente quando non lo è; 
+• 
+evitare segregazione o stigmatizzazione di qualsiasi utente; 
+• 
+mettere a disposizione di tutti, le disposizioni per la privacy e la sicurezza; 
+• 
+rendere il design attraente (nchpad.org). 
+2) Uso flessibile: L'attrezzatura è abbastanza flessibile da poter essere utilizzata in 
+diverso modo secondo ciò che è meglio per ogni individuo? (Shelley Flemming et 
+al., S.d.). 
+Il principio dell’uso flessibile prende in considerazione il fatto che non tutti 
+utilizzano o vogliono utilizzare l’attrezzatura allo stesso modo e quindi bisogna 
+chiedersi come il design del parco può prendere in considerazione le diverse 
+preferenze che potrebbero avere gli individui. Per esempio, per quanto riguarda le 
+strutture di gioco elevate, la presenza di una rampa adiacente a dei gradini dà la 
+possibilità al singolo utente di scegliere il mezzo di accesso che preferisce, oppure 
+rampe con corrimano da entrambi i lati permettono l’uso da parte di persone 
+ 
+ 
+9 
+ 
+destrorse e mancine. I progettisti dovrebbero quindi, prendere in considerazione il 
+più ampio spettro di utenti e le loro diverse esigenze. 
+Le raccomandazioni sono: 
+• 
+dare possibilità di scelta; 
+• 
+favorire l'accesso e l'uso delle attrezzature sia a destrimani sia mancini; 
+• 
+facilitare l'accuratezza dell'utente (nchpad.org). 
+3) Uso semplice e intuitivo: I bambini di tutte le età capiscono come utilizzare le 
+attrezzature di gioco? (Shelley Flemming et al., S.d.). 
+Le raccomandazioni sono: 
+• 
+eliminare le complessità; 
+• 
+disporre di informazioni coerenti; 
+• 
+essere coerenti con le aspettative degli utenti (nchpad.org). 
+4) Percettibilità delle informazioni: Gli utenti comprendono le informazioni riguardanti 
+le raccomandazioni di sicurezza e di età per le attrezzature da gioco? (Shelley 
+Flemming et al., S.d.). 
+Il principio della percettibilità delle informazioni ritiene che le persone imparano in 
+vari modi. Un parco giochi è un ambiente creativo dove possono presentarsi 
+molteplici modalità di apprendimento. Alcune persone apprendono per input visivo, 
+altri per input uditivo o esperienziale.  
+Le raccomandazioni sono: 
+• 
+utilizzare diverse modalità (pittorica, verbale, tattile) per la presentazione di 
+informazioni essenziali; 
+• 
+fornire un adeguato contrasto tra informazioni e sfondo; 
+• 
+massimizzare la leggibilità delle informazioni essenziali; 
+• 
+garantire la compatibilità con una vasta gamma di attrezzature utilizzate da 
+persone con limitazioni sensoriali (nchpad.org). 
+5) Tolleranza all’errore: E’ possibile per il bambino fare un errore quando si utilizza 
+l'apparecchiatura senza farsi male? (Shelley Flemming et al., S.d.). 
+Il principio di tolleranza all'errore pone l’accento sulla necessità di ridurre al 
+minimo i rischi e fornire avvisi per la sicurezza. 
+Le raccomandazioni sono: 
+• 
+disporre gli elementi in modo tale da ridurre al minimo i rischi e gli errori; 
+• 
+fornire avvertimenti (nchpad.org). 
+ 
+ 
+10 
+ 
+6) Basso sforzo fisico: Può un individuo che utilizza una sedia a rotelle muoversi in 
+tutto lo spazio senza esercitare eccessivo sforzo fisico? (Shelley Flemming, et.al., 
+S.d.). 
+Il principio di basso sforzo fisico sottolinea il concetto per cui gli individui 
+dovrebbero utilizzare l'ambiente con poco sforzo o fatica. Spesso l’attrezzatura dei 
+parchi richiede uno sforzo fisico maggiore rispetto alle capacità. Tuttavia, la 
+superficie utilizzata per arrivare alle attrezzature non dovrebbe richiedere sforzo 
+eccessivo. 
+Le raccomandazioni sono: 
+• 
+consentire all'utente di mantenere una posizione del corpo neutra; 
+• 
+utilizzare forze operative ragionevoli; 
+• 
+ridurre al minimo le azioni ripetitive; 
+• 
+ridurre al minimo lo sforzo fisico sostenuto (nchpad.org). 
+7) Dimensioni e spazi per l’utilizzo: C'è abbastanza spazio per avvicinarsi e utilizzare 
+le varie strutture di gioco? Il design rispetta una varietà di singole forme del corpo, 
+dimensioni e capacità? (Shelley Flemming et al., S.d.). 
+Le raccomandazioni sono: 
+• 
+rendere raggiungibili e confortevoli tutti gli elementi per gli utenti che sono 
+seduti o in piedi; 
+• 
+fornire variazioni e dimensioni di presa; 
+• 
+fornire spazi adeguati per l’uso di dispositivi di assistenza o per assistenza 
+personale (nchpad.org). 
+Secondo i principi della progettazione universale, è possibile creare parchi giochi che 
+integrano i bisogni e le abilità di tutti i bambini. Un parco che abbraccia i principi 
+dell’Universal Design non deve per forza essere high-tech, ma richiede innovazione, 
+attitudine al problem solving degli utilizzatori, e deve avere come obiettivo la 
+performance occupazionale (Prellwitz & Skär, 2007).  
+ 
+1.4  Il gioco e gli spazi dove si esprime: la loro importanza nello 
+sviluppo del bambino 
+Il parco giochi con le sue attrezzature, è la migliore palestra in cui i bambini possono 
+sviluppare e mettere in pratica le abilità motorie, cognitive e sociali. In ogni situazione 
+di gioco, un bambino ha bisogno di avere la possibilità di scegliere, esplorare, creare, e 
+di rispondere ai cambiamenti (Missiuna & Pollock, 1991). 
+ 
+ 
+11 
+ 
+Secondo un articolo di Laurìa e Montalti del 2015, nella realtà del nostro Paese le aree 
+gioco sembrano tutte uguali dato che spesso sono estranee al contesto di riferimento, 
+incapaci di suscitare interesse e relazioni tra i bambini e chi li accompagna. Tipicamente 
+le attrezzature dei parchi giochi sono scelte “a catalogo” senza seguire nessun criterio, e 
+questo porta il bambino a un gioco passivo, povero di stimoli, noioso, ripetitivo e 
+meccanico.  
+Il Comune di Parma, all’interno delle Linee Guida per la progettazione delle aree verdi 
+pubbliche, pone attenzione al fatto che fino a poco tempo fa lo spazio verde pubblico 
+veniva considerato come un contenitore di attrezzature per agevolare la fruizione 
+pubblica. Ora l’approccio è cambiato, l’obiettivo è di creare un parco giochi che 
+costituisce uno spazio fondato sulla qualità dello spazio e delle scelte progettuali. Dal 
+concetto di quantità, si passa dunque a una visione di qualità. 
+In uno studio di Prellwitz e Skär (2007), viene condotta un’intervista a venti bambini 
+disabili e non, per indagare e capire come i bambini con diverse abilità, utilizzano i 
+parchi gioco per giocare e interagire socialmente con i pari. Dall’analisi dei dati è 
+emerso che il gioco all’interno dei parchi è stato descritto dai bambini in due modi 
+diversi: per i bambini normodotati rappresenta un’occupazione e per coloro che vivono 
+una disabilità, un’attività. In T.O. vanno distinti i concetti di attività e occupazione, 
+poiché assumono un significato differente. L’attività è definita come singolo esercizio in 
+cui la persona è impiegata durante le occupazioni. L’occupazione si riferisce alle attività 
+di vita  quotidiana in cui una persona s’impegna e che danno valore e significato alla 
+persona. Quindi l’attività assume un significato generico, mentre l’occupazione è un 
+evento personale, goal-directed, che s’incarna in un contesto (Pierce, 2001). Per i 
+bambini con disabilità, giocare al parco significa sedersi sull’altalena oppure scendere 
+dallo scivolo. Questo dimostra che questi bambini vivono un’esperienza diversa a cui 
+non danno significato o valore poiché vivono una situazione di difficoltà e non hanno la 
+possibilità vivere a pieno il momento del gioco. Al contrario dei pari normodotati che 
+descrivono il parco come un luogo importante che tutti conoscono e dove interagire con 
+gli altri. 
+Il progetto del parco giochi inclusivo dev’essere ispirato da una visione culturale diversa 
+e ambiziosa che ha come obiettivo il benessere di ogni bambino, e secondo una visione 
+a 360 gradi, che sia capace di fare del parco giochi “Un laboratorio di creatività e 
+d’inclusione sociale” (Laurìa & Montalti, 2015). 
+ 
+ 
+12 
+ 
+Negli ultimi anni, diversi studiosi tra cui Shackell et al., nel 2008 e Cirlini et al., nel 
+2007, hanno cercato di definire gli spazi di gioco e le loro caratteristiche. 
+Secondo questi autori gli spazi di gioco dovrebbero essere: 
+• 
+in una buona posizione dove i bambini giocherebbero naturalmente e lontano da 
+strade pericolose, rumore e inquinamento; 
+• 
+autogenerativi, dove ogni bambino possa fare nuove scoperte e incontri e possa 
+diventare costruttore di nuove teorie; 
+• 
+parchi che consentono ai bambini di fare esperienze significative, incuriosirli, 
+stupirli e avviarli a forme sempre più complesse di conoscenza e offrire sfide e 
+attività che mettono alla prova i loro limiti e capacità;  
+• 
+luoghi polifunzionali in cui le strutture per facilitare il gioco e il movimento si 
+alternano agli spazi non strutturati orientati a stimolare la scoperta e lo spirito di 
+avventura, luoghi per nascondersi e garantire l’intimità, ma anche spazi per la 
+socializzazione; 
+• 
+posti in cui avvengono le interazioni sociali che permettono ai bambini di 
+scegliere se e quando giocare da soli o con gli altri, per negoziare, cooperare, 
+competere e risolvere i conflitti; 
+• 
+ricchi di elementi naturali, così da dare la possibilità ai bambini di scoprire, 
+manipolare e utilizzare materiali naturali di tutti i tipi; 
+• 
+accessibili sia ai bambini disabili che non disabili; 
+• 
+permettere ai bambini di età diverse di giocare insieme; 
+• 
+sostenibili e adeguatamente mantenuti. 
+Il gioco all’aperto e il contatto con elementi naturali sono fondamentali per la crescita 
+del bambino poiché stimolano le percezioni sensoriali e generano effetti positivi sullo 
+sviluppo delle capacità ﬁsiche, cognitive, emozionali del bambino. È stato dimostrato 
+che, dove i bambini interagiscono attivamente con l’ambiente naturale, la qualità del 
+gioco e l’appagamento derivante dal giocare sono più alti, in quanto gli elementi 
+naturali stimolano il gioco immaginativo, creativo e le interazioni sociali. Inoltre, il 
+gioco all’aperto consente di fronteggiare ansia e depressione adolescenziale e sindromi 
+da deﬁcit di attenzione e iperattività (Laurìa & Montalti, 2015). Sachs & Vincenta nel 
+2011 nel loro articolo, affermano che l’attenzione migliora dopo aver giocato all’esterno 
+durante il tempo libero o la ricreazione a scuola. 
+In un articolo del 1991, Law cita uno studio di Barker (1978), il quale investigò 
+l’ambiente e i suoi effetti nei bambini. Scoprì che l’ambiente ha un effetto significativo 
+ 
+ 
+13 
+ 
+sul comportamento e che ci sono comportamenti che rimangono costanti con il passare 
+degli anni in particolari setting. Da tali considerazioni si evince che è essenziale fare 
+esperienza in diversi setting ambientali, dal momento che attraverso la socializzazione 
+s’imparano questi modelli di comportamento. 
+Per riassumere, il gioco è fondamentale per lo sviluppo delle abilità motorie, cognitive e 
+sociali necessarie per la crescita personale del bambino e per stimolare la partecipazione 
+alla società. Inoltre, il gioco si svolge in un ambiente a cui va data particolare attenzione 
+dal momento che lo spazio di gioco, con le sue caratteristiche, può facilitare o impedire 
+l’aspetto espressivo del bambino. 
+ 
+1.5.  Definizione di parco giochi inclusivo 
+Statistiche ufficiali del CEN (European Committee for Standardization) evidenziano 
+che il 5% dei bambini europei soffre di un certo grado di disabilità e che di questi il 
+10% utilizza la carrozzina; molti di essi sono comunque in grado di muoversi per brevi 
+distanze con l’ausilio di alcuni supporti. 
+Tenendo conto di questo dato statistico con la prospettiva di realizzare un parco giochi, 
+le direttive europee del CEN suggeriscono di non considerare solo le disabilità gravi 
+perché in questo modo si ha l’effetto di ridurre il valore ludico del parco giochi, a tal 
+punto che i bambini non vogliono più andare al parco e i bambini con disabilità si 
+sentono soli nelle loro attività (beniculturali.it).  
+I bambini con disabilità hanno lo stesso diritto al gioco, di praticare le stesse attività nei 
+limiti delle loro capacità tanto quanto gli altri, ma molto spesso questo diritto viene 
+meno a causa delle barriere fisiche e l'esclusione sociale. 
+C’è la necessità di costruire spazi di gioco inclusivi che creano l’opportunità per tutti i 
+bambini di giocare e di sviluppare le loro abilità, senza cancellare le differenze, ma 
+solamente di accettarle attraverso attrezzature adatte a tutti. 
+L’UNICEF (2013) dà la seguente definizione di parchi giochi inclusivi: 
+“I parchi giochi inclusivi rispondono ai principi della progettazione universale, che 
+devono essere presi in considerazione tanto quanto la vasta gamma di capacità fisiche e 
+psicologiche umane, in modo tale da garantire un utilizzo equo di tutte le persone. Oltre 
+a garantire l’accessibilità fisica e a rispondere alle diverse esigenze, i parchi giochi 
+inclusivi sono progettati per favorire l’inclusione sociale, fornendo spazi e attività che 
+creano opportunità d’interazione tra bambini di diverse abilità e le loro famiglie”. 
+ 
+ 
+14 
+ 
+Quindi, il parco giochi inclusivo è uno spazio aperto a tutti che può essere utilizzato da 
+persone con diverse abilità, senza adattamenti particolari e progettazioni speciali. “La 
+differenza tra un gioco inclusivo e un gioco per disabili parte quindi dalla progettazione, 
+studiata per consentire ai bambini di divertirsi assieme, senza barriere e senza divisioni” 
+(legnolandia.com).  
+Ripat (2012) sostiene che spesso il design dei parchi giochi non risponde alle reali 
+necessità dei bambini in crescita e pochi parchi sono accessibili e utilizzabili da bambini 
+con disabilità fisiche. L’ambiente del parco costituisce quindi una barriera alla 
+partecipazione dei bambini al gioco e spesso li rende dipendenti da qualcun altro.  
+Solitamente le aree di gioco sono progettate solo per bambini normodotati o solo 
+disabili o addirittura vengono inserite delle attrezzature che potrebbero essere utilizzate 
+anche da bambini con disabilità, senza considerare però per esempio il tipo di 
+pavimentazione o l’altezza dei giochi. 
+È stato dimostrato che parchi giochi realizzati solo per un’utenza di bambini disabili 
+portano a un atteggiamento negativo da parte della popolazione che comporta 
+emarginazione, angosce e frustrazioni. 
+È fondamentale dare maggiore attenzione alla creazione di aree di gioco adattate che 
+promuovono la partecipazione e l’inclusione, poiché è importante che tutti i bambini 
+abbiano l’opportunità di fare esperienze significative per la propria crescita.  
+Per fare questo, nella fase di progettazione è importante tenere in considerazione che 
+non esiste un solo tipo di disabilità, ma esistono disabilità motorie, cognitive, sensoriali 
+e che queste possono essere più o meno gravi. Tale considerazione consente ai bambini 
+disabili di accedere a spazi di gioco assieme a tutti, aiuta loro e le relative famiglie a 
+costruire relazioni e promuovere l'inclusione sociale. 
+Ovviamente non esistono soluzioni ideali per tutti, dal momento che le problematiche 
+sono varie e diverse e alcuni utenti avranno sempre difficoltà di utilizzo delle 
+attrezzature del parco. Il progettista non troverà mai la soluzione perfetta per tutti, ma 
+deve comunque cercare di rispondere alle esigenze della maggior parte delle persone, 
+abbandonando l’idea di soluzioni standard (beniculturali.it). 
+ 
+.  1.6.  Progettare un parco giochi e il modello Person-Environment-
+Occupation (PEO) 
+Nella letteratura estera riguardante l’argomento dei parchi giochi per l’infanzia, vari 
+autori (Prellwitz  2007, Ripat 2012, Mejeur et al. 2013, Anaby  et al. 2015, Kanics 
+ 
+ 
+15 
+ 
+2016), utilizzano il modello Person-Environment-Occupation (PEO), specifico della 
+T.O., come framework teorico utile per capire come l’ambiente influenza la 
+performance occupazionale dell’individuo. 
+Il Person-Environment-Occupation (PEO) può essere preso in considerazione assieme 
+ai principi dell’Universal Design per la creazione di spazi di gioco in cui tutti i bambini 
+possono giocare senza discriminazioni. Tale modello analizza le caratteristiche della 
+persona secondo un approccio olistico, dell’ambiente (naturale, artificiale, sociale, 
+economico, culturale e istituzionale) in cui svolge la performance, e l’occupazione (cura 
+di sé, produttività e tempo libero). Dall’intersezione armonica e dinamica fra i tre 
+elementi, deriva la performance occupazionale (Kanics, 2016). I Terapisti 
+Occupazionali nel seguire i loro modelli, valutano la performance e fanno un’analisi 
+delle tre componenti per capire come queste possano influenzarla. Inoltre, considerano 
+come l’ambiente possa essere utilizzato o modificato per consentire la performance 
+(Prellwitz, 2007). 
+Il modello Person-Environment-Occupation deriva da un modello teorico che è stato 
+presentato dalla psicologa ambientale Lawton (1980) che sostiene che ci dovrebbe 
+essere un equilibrio tra la capacità dell'individuo e le richieste dell’ambiente al fine di 
+creare un rapporto armonioso tra persona e ambiente (Law, 1996). 
+I problemi legati alla disabilità possono emergere dal rapporto fra persona con disabilità 
+e l’ambiente, infatti, quest’ultimo con le sue caratteristiche, può abilitare o ostacolare le 
+performance umane. 
+Ripat nel 2012, ha condotto uno studio a cui hanno partecipato 20 persone fra cui 
+bambini con disabilità (motorie e di comunicazione) e i loro caregivers. I partecipanti 
+sono stati sottoposti a interviste semi-strutturate in cui veniva chiesta un’opinione 
+rispetto che cosa piaceva fare al parco giochi e che cosa avrebbero inserito in un parco 
+se avessero potuto progettarlo. Lo scopo dell’intervista era di indagare le esperienze di 
+bambini e genitori riguardanti l’utilizzo dei parchi giochi. Dall’analisi delle risposte 
+sono stati definiti tre temi generali: Playground Experience, Playground Usability e 
+Playground Inclusivity, che sono poi stati rivisti alla luce del modello Person-
+Environment-Occupation.  
+ 
+ 
+16 
+ 
+ 
+Figura 1 Studio di Ripat (2012). Correlazione fra PEO e risultati dell'intervista sui parchi giochi 
+ 
+Il primo tema è Playground Experience. Viene posto l’accento sulle motivazioni per cui 
+bambini e famiglie vanno al parco giochi e le capacità che si sviluppano attraverso le 
+esperienze di gioco (sensoriali e motorie, sociali e della famiglia, il gioco immaginativo, 
+le opportunità di utilizzare le abilità attraverso sfide).  
+Il secondo tema Playground Usability riguarda l’uso funzionale del parco giochi. I 
+partecipanti riportano le barriere che hanno incontrato e i modi che hanno trovato per 
+superarle.  
+Il terzo tema Playground Inclusivity riguarda l’inclusività ovvero le ragioni per cui è 
+importante che i parchi siano utilizzabili da tutti i bambini. 
+Collegando questi concetti al PEO, la persona corrisponde al Playground Experience. 
+L’occupazione del modello è collegata al gioco come diritto riconosciuto dalla 
+Convenzione ONU sui diritti dell’infanzia e dell’adolescenza e come prima occupazione 
+del bambino che sviluppa le abilità sociali, fisiche ed emotive. Infine l’ambiente del 
+PEO viene interpretato come Playground Usability, dove l’utilizzabilità è collegata alle 
+barriere e facilitazioni presenti nel parco. Dalla sovrapposizione di questi tre elementi, 
+deriva l’opportunità di impegnarsi in occupazioni sociali e di gioco portando a 
+ 
+ 
+17 
+ 
+un’esperienza d’inclusività. Il tema dell’inclusione è strettamente legato ai principi 
+dell’Universal Design in particolare a quello dell’uso equo. 
+ 
+1.7.  Cenni sulla legislazione estera e italiana riguardante i parchi 
+giochi 
+All’estero, diversamente dall’Italia, la progettazione e costruzione dei parchi giochi è 
+disciplinata da leggi e linee guida standard validi per tutto lo Stato e riconosciute a 
+livello internazionale.  
+Negli Stati Uniti d'America esistono delle linee guida, stilate in base alla legge che 
+regola le agevolazioni, che devono essere prese in considerazione quando s’intende 
+realizzare una struttura ricreativa: The Americans with Disabilities Act (ADA). 
+The Americans with Disabilities Act (ADA) è una legge che riconosce i diritti civili e 
+che proibisce la discriminazione sulla base della disabilità. Prevede che le nuove 
+costruzioni e le strutture governative locali, luoghi pubblici, e impianti commerciali 
+siano accessibili e utilizzabili da persone con disabilità. Le strutture ricreative, tra cui le 
+aree gioco, sono tra le strutture che devono conformarsi all'ADA. 
+Nella sezione riguardante le aree ricreative in particolare delle aree gioco, cita le 
+strutture a terra e quelle elevate. Inoltre definisce la pendenza delle rampe, le 
+dimensioni del corrimano, delle scale e delle piattaforme. 
+In Canada, The Canadian Standards Association (CSA) ha sviluppato uno standard 
+unico a livello nazionale riconosciuto per i parchi giochi per bambini e attrezzature. Il 
+CSA fornisce informazioni dettagliate su materiali, l'installazione, le caratteristiche 
+delle superfici, manutenzione, requisiti di prestazioni, l'accesso al parco giochi e ogni 
+tipo di attrezzatura. Tali norme, che non costituiscono una legge ma sono volontarie, si 
+applicano ai parchi giochi pubblici, come quelli scolastici, o presso i centri di cura 
+giornalieri o motel (parachutecanada.org). 
+In Europa, vi sono due norme in vigore dal 1° gennaio 1999, e riviste nel 2008: gli 
+European Standards: UNI EN 1176 per le attrezzature dei parchi giochi e la superficie, 
+e UNI EN 1177 per l’assorbimento dell’impatto delle superfici dei parchi. Queste ultime 
+forniscono assistenza per determinare se le attrezzature e le superfici sono sicure, in 
+accordo con i requisiti stabiliti nella legge per la pianificazione e costruzione e la legge 
+sulla sicurezza del prodotto. Tali requisiti, se correttamente applicati alle attrezzature da 
+gioco, proteggono il bambino da possibili pericoli, che lo stesso può essere incapace di 
+prevedere. 
+ 
+ 
+18 
+ 
+A livello europeo, in Svezia il Parlamento ha approvato la proposta del governo di un 
+piano d’azione nazionale per le politiche della disabilità (Regeringens proposition, 
+1999/2000: SoU14) con i seguenti obiettivi nazionali: una comunità basata sulla 
+diversità, una società progettata per consentire alle persone con disabilità di tutte le età, 
+la piena partecipazione e parità di condizioni di vita, e che garantisce l’accessibilità. 
+Inoltre, in Svezia, dal 1987, è in vigore una legge che afferma che i luoghi pubblici, tra 
+cui i parchi giochi, dovrebbero essere utilizzabili dalle persone con disabilità (Plan-och 
+bygglagen, 1987). 
+Purtroppo in Italia non si parla molto di parchi inclusivi e non esistono leggi che 
+regolano la realizzazione di parchi inclusivi o stabiliscono dei criteri per selezionare 
+quali giochi possono essere considerati inclusivi e quali no. 
+Il blog “Parchi per tutti” ha svolto un’indagine sulle aree inclusive presenti in Italia. I 
+parchi inclusivi, di cui si hanno informazioni, sono circa 30, ma vi sono altri 50 parchi, 
+dove sono installati due o tre giochi accessibili. 
+ 
+Figura 2 Mappatura delle aree inclusive in Italia 
+In Italia fra le leggi più recenti che parlano di spazi pubblici, vi è il Decreto del 
+Presidente della Repubblica, 24 luglio 1996 n. 503 che abolisce il DPR 384 e adegua gli 
+standard dell'edilizia pubblica a quelli della privata. Il decreto regola le norme per 
+l'eliminazione delle barriere architettoniche negli edifici, spazi e servizi pubblici. Viene 
+ampliato il concetto di barriere architettoniche e sono considerate tali anche la 
+mancanza di accorgimenti e segnalazioni che permettono l'orientamento e la 
+riconoscibilità dei luoghi e delle fonti di pericolo per chiunque e in particolare per i non 
+vedenti, per gli ipovedenti e per i sordi. 
+ 
+ 
+19 
+ 
+La legge del 28 agosto 1997, n. 285 “Disposizioni per la promozione di diritti e di 
+opportunità per l’infanzia e l’adolescenza”, istituisce un fondo nazionale per la 
+realizzazione di progetti partecipati. Tra le finalità dei progetti riporta la “realizzazione 
+di azioni positive per la promozione dei diritti dell'infanzia e dell'adolescenza, per 
+l'esercizio dei diritti civili fondamentali, per il miglioramento della fruizione 
+dell'ambiente urbano e naturale da parte dei minori, per lo sviluppo del benessere e della 
+qualità della vita dei minori, per la valorizzazione, nel rispetto di ogni diversità, delle 
+caratteristiche di genere, culturali ed etniche”. 
+In particolare all’articolo 7 della legge 285/97 si specifica che i progetti possono essere 
+perseguiti attraverso interventi che rimuovono gli ostacoli della mobilità e ampliano la 
+fruizione di beni e servizi ambientali. 
+Per quanto riguarda la Regione Veneto, è stata emanata la legge regionale Regione 
+Veneto del 12 luglio 2007, n. 16 “Disposizioni generali in materia di eliminazione delle 
+barriere architettoniche”. La Regione del Veneto promuove iniziative e interventi atti a 
+garantire la fruibilità degli edifici pubblici, privati e degli spazi aperti al pubblico, quale 
+condizione essenziale per favorire la vita di relazione e la partecipazione alle attività 
+sociali e produttive da parte delle persone con disabilità. 
+Nel 2003 il comune di Jesolo (VE) ha deciso di rivoluzionare il proprio concetto di 
+parchi giochi.  È stato elaborato uno strumento ovvero le Linee Guida del Comune Di 
+Jesolo “Stessi Giochi Stessi Sorrisi”, utili ai progettisti poiché forniscono delle 
+indicazioni da seguire nel momento della scelta degli elementi del parco. Queste linee 
+guida hanno come obiettivo la realizzazione di spazi di gioco, dove il bambino possa 
+divertirsi ed esser incluso insieme con gli altri senza discriminazioni. Sono state 
+realizzate per soddisfare le esigenze di bambini in carrozzina o che utilizzano ausili per 
+la mobilità, ma non prendono in considerazione le altre disabilità. Per ottenere risultati 
+positivi, è bene considerare tali norme non come “vincolo”, ma come un’opportunità 
+finalizzata per creare un ambiente confortevole che rappresenta un beneficio per tutti 
+(beniculturali.it).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+ 
+CAPITOLO 2- RUOLO DEL TERAPISTA 
+OCCUPAZIONALE NELLA PROGETTAZIONE DI UN 
+PARCO GIOCHI INCLUSIVO 
+2.1. Il Terapista Occupazionale 
+La World Federation of Occupational Therapist (WFOT) nel 2012 definisce la T.O. 
+come: “Una professione sanitaria che ha lo scopo di promuovere la salute e il benessere 
+attraverso l’occupazione. L’obiettivo primario della T.O. è quello di rendere capaci le 
+persone di partecipare alle attività di vita quotidiana. Per fare questo i terapisti lavorano 
+con le persone e le comunità per migliorare la loro abilità nell’impegnarsi nelle 
+occupazioni che vogliono, hanno bisogno o ci si aspetta che facciano, o modificando 
+l’occupazione o l’ambiente per supportare il coinvolgimento occupazionale”. 
+Nel profilo professionale (Decreto 17 gennaio 1997, n.136), fra i compiti del t.o. viene 
+indicato quello di proporre modifiche dell’ambiente e di promuovere azioni educative 
+verso il soggetto in trattamento, verso la famiglia e la collettività. 
+Il gioco è la principale occupazione del bambino e, soprattutto in età evolutiva, si svolge 
+in setting come il parco giochi che potrebbe non essere accessibile a tutti. Essendo 
+l’occupazione il focus della T.O., è compito del t.o. intervenire per fare in modo che 
+l’interazione persona-ambiente-occupazione risulti armoniosa e quindi che la 
+performance occupazionale sia ottimale. I terapisti promuovono il gioco come 
+occupazione e sostengono la progettazione e realizzazione di spazi di gioco accessibili e 
+utilizzabili dai bambini per permettere a tutti di giocare (Ripat, 2012).  
+Nella letteratura di T.O., non si parla nello specifico dell’ambiente fino agli anni 
+Settanta/Ottanta, ma per quanto riguarda i parchi giochi, nel 1988 Janet Stout sostiene il 
+bisogno di coinvolgere il t.o. nella progettazione dei parchi per l’infanzia. Il terapista ha 
+il ruolo di fornire informazioni fondamentali riguardo ai bambini con limitazioni 
+cognitive, sensoriali, o fisiche, fornire prospettive sulla progettazione ambientale, 
+selezionare le attrezzature e la pavimentazione del terreno, garantire la sicurezza dei 
+parchi giochi. 
+Alcune ricerche hanno dimostrato che i fattori ambientali ostacolano e impediscono 
+maggiormente la partecipazione per i bambini con disabilità nelle loro occupazioni 
+quotidiane (Prellwitz, 2007). Alcuni modelli di T.O. più recenti, come per esempio in 
+quello di Kielhofner, parlano di performance occupazionale come il risultato di una 
+relazione dinamica tra persona, ambiente e occupazione. Tutte le occupazioni si 
+ 
+ 
+22 
+ 
+svolgono in un ambiente che influenza o meno le performance. Il compito dei terapisti 
+occupazionali è quello di capire come la performance viene influenzata dall’ambiente, 
+trovare strategie diverse per diversi giochi e diverse patologie e scegliere mezzi e 
+materiali in maniera creativa. 
+Vari studi recenti supportano la necessità di integrare il t.o. poiché ha le competenze per 
+capire cosa permette o impedisce la partecipazione nell’ambiente. 
+Lo studio di Prellwitz (2007) sostiene che questa figura, grazie ad un’attenta analisi 
+ambientale, riconosce le barriere architettoniche e sa come eliminarle. Inoltre sa adattare 
+le attrezzature per favorire l’indipendenza e maggiori livelli funzionali e dare dei 
+suggerimenti per incrementare la mobilità del bambino, la stimolazione multisensoriale 
+e le abilità cognitive all’interno del parco giochi. 
+In un articolo del 2015, Anaby et al., il t.o. viene descritto come “un facilitatore, un 
+sostenitore, educatore, un collaboratore di gruppo, uno che unisce i partecipanti di una 
+comunità e opera in un altro modo rispetto la clinica”. Inoltre i terapisti forniscono 
+sostegno e rinforzo e sono stati spesso descritti come un mentore, la cui presenza è 
+incoraggiante nell'ambiente. Altro ruolo del terapista è di prevenire quelle che Missiuna 
+e Pollock (1991) chiamano disabilità secondarie. Queste ultime sono le disabilità che 
+potrebbero insorgere come conseguenza della privazione dal gioco e manifestarsi 
+durante lo sviluppo del bambino ma anche in ambito scolastico e in comunità. Per 
+prevenire tali conseguenze il terapista dovrebbe contribuire per cercare di rendere un 
+parco giochi accessibile e utilizzabile da tutti i bambini. 
+Per modificare l’ambiente, il t.o. deve lavorare a livello sociale intervenendo nella 
+comunità nella progettazione delle aree pubbliche. Spesso la mancanza di conoscenza 
+dei progettisti rispetto l’accessibilità è anche legata a una scarsa conoscenza della 
+legislazione che regola i parchi giochi, che afferma che gli spazi pubblici devono essere 
+accessibili e utilizzabili (Prellwitz, 2007). 
+Il terapista può intervenire anche in ambiente scolastico valutando l’ambiente e 
+cercando di apportare modifiche o proporre nuove soluzioni per la realizzazione di 
+un’area giochi inclusiva. La scuola è l’ambiente che contribuisce alla salute e sviluppo 
+dei bambini ed è l’ambiente che maggiormente frequentano. Inoltre, i bambini 
+trascorrono un certo periodo di tempo ogni giorno a scuola all'interno dell'area giochi 
+(Bundy, et. al., 2008). 
+Nel 2008 Bundy et al., hanno effettuato uno studio in una scuola primaria di Sydney 
+(Australia) con lo scopo di valutare il livello di giocosità di bambini tra i 5 e i 7 anni 
+ 
+ 
+23 
+ 
+dopo aver inserito, per undici settimane, “materiali poveri” (loose-part materials) nel 
+parco giochi della scuola da parte di t.o.. Inoltre si voleva valutare la percezione degli 
+insegnanti riguardo gli effetti dell’intervento. Per valutare il livello di giocosità è stato 
+utilizzato il ToP (Test of Playfulness).  
+Nel parco giochi erano stati inseriti “materiali poveri” tra cui pneumatici di auto e 
+biciclette, fusti di plastica e contenitori per l'acqua, tubi e assi di legno. 
+Dai risultati è emerso che la rimozione delle barriere e l’inserimento di questi materiali, 
+hanno portato a miglioramenti nei punteggi, poiché l’introduzione di materiali semplici 
+ha stimolato l’immaginazione e la creatività dei bambini. Inoltre le insegnanti hanno 
+riportato cambiamenti nel gioco attivo e sociale dei bambini. 
+Per riassumere, il compito dei t.o. è quello di capire come la performance viene 
+influenzata dall’ambiente e di trovare le soluzioni adatte per permettere la realizzazione 
+di una performance occupazionale efficiente. La letteratura sostiene che è importante 
+che questa figura intervenga, con le sue competenze, durante le fasi di progettazione di 
+parchi giochi inclusivi, perché gli stessi possano rispondere in modo più efficiente ed 
+efficace ai criteri generali prima esposti. In particolare, che possano rispondere in modo 
+proprio ai bisogni che bambini e le loro famiglie esprimono nel poter vivere questi spazi 
+e questi momenti in modo pieno e per loro significativo. 
+ 
+2.2. Fasi di progettazione 
+Il Ministero per i beni e le attività culturali riporta un’affermazione importante: 
+“La progettazione accessibile presuppone una visione multi-disciplinare in cui il limite 
+diventa una sfida, un’occasione di stimolo per uno studio più attento e approfondito, per 
+proporre e ‘inventare’ soluzioni, per sviluppare la creatività e la fantasia, non disgiunte 
+da una certa sensibilità che tiene conto dei delicati risvolti psicologici di ciò che si 
+propone. Diventa, quindi, un’occasione in cui il progettista è invitato a dare il meglio di 
+sé, in un atteggiamento di continua ricerca, sperimentazione e verifica delle soluzioni”. 
+L’obiettivo del progettista, come affermato in precedenza, non è più quello di eliminare 
+o superare qualcosa, ma quello di rivedere le basi della progettazione e le disposizioni 
+normative in materia di accessibilità e partire dalle esigenze delle persone “reali”. Il 
+progettista deve avere la consapevolezza che, le soluzioni da lui proposte non saranno 
+ideali per tutti, ma deve intervenire considerando le esigenze del maggior numero di 
+persone (beniculturali.it).  
+ 
+ 
+24 
+ 
+In un articolo di Stout (1988) e in uno di Şensoy e İnceoğlu (2015), sono stati definiti i 
+passaggi da rispettare e classificati i parametri da valutare durante la progettazione dei 
+parchi giochi. Le fasi di progettazione proposte da Stout (1988), sono state uno 
+strumento utile per la progettazione di un parco giochi presso James Whitcomb Riley 
+Hospital for Children presso l'Indiana University Hospitals, Indianapolis. 
+I passaggi da rispettare durante la progettazione sono stati così sintetizzati (Stout, 1988; 
+Şensoy & İnceoğlu, 2015): 
+1. 
+Step: Decidere il progetto.  
+Formare un comitato di persone interessate e chiarire la logica per la costruzione 
+del parco giochi, i bisogni della popolazione di utenti, e gli obiettivi da 
+raggiungere. Ricevere l'approvazione del progetto da parte delle autorità 
+competenti, come il consiglio di amministrazione o l'amministrazione 
+dell'ospedale. Scegliere la posizione adatta con la collaborazione delle 
+amministrazioni locali e pubbliche, facendo attenzione a considerare fattori 
+come l’armonia con l’ambiente, il traffico e inquinamento della zona. 
+2. 
+Step: Progettazione. 
+I parametri da valutare sono: 
+• 
+richiedere la collaborazione di famiglie, bambini, specialisti e governo; 
+• 
+garantire diverse attività (flessibilità); 
+• 
+provvedere ad attrezzatura sicura ma che garantisca la sfida; 
+• 
+provvedere alla sua cura e manutenzione con controlli periodici; 
+• 
+garantire salute e igiene con pulizie periodiche e prevenzione degli atti 
+vandalici; 
+• 
+garantire un ambiente naturale; 
+• 
+garantire spazi climatizzati con alberi o spazi semi-aperti, e riparati dai raggi 
+del sole; 
+• 
+creare un ambiente che rispetti i principi di Universal Design. 
+È necessario cercare fonti di finanziamento e cominciare a garantire il 
+finanziamento attraverso donazioni, sovvenzioni, gruppi di comunità. Inoltre 
+vanno sollecitate delle proposte da diversi architetti, e tra questi ne va scelto uno. 
+Infine, è necessario ottenere l'approvazione per la proposta finalizzata e 
+continuare con la raccolta di fondi fino a quando il costo stimato è disponibile. 
+3. 
+Step: Implementazione del progetto. 
+4. 
+Step: Valutare il progetto.  
+ 
+ 
+25 
+ 
+Il Comune deve provvedere alla cura periodica del parco giochi. Inoltre, 
+dev’essere raccolta l'opinione pubblica rispetto all’utilizzo del parco dopo la sua 
+realizzazione. 
+È stato realizzato un progetto nel 2007, nella provincia di Reggio Emilia, dove sono 
+stati presi in considerazioni tre comuni e sette servizi per l’infanzia con l’obiettivo di 
+creare dei progetti di riorganizzazione dei parchi dei nidi e delle scuole dell’infanzia 
+utilizzando la strategia della progettazione partecipata. 
+La progettazione partecipata si fonda sul superamento dell’idea del parco come 
+semplice spazio ricreativo, dove il bambino può sfogarsi a livello motorio e si basa 
+sull’idea che il parco giochi deve rispondere alle esigenze di chi lo frequenta.  
+Durante le fasi di progettazione sono stati presi in considerazione alcuni elementi che si 
+aggiungono a quelli emersi negli articoli di Stout (1988) e di Şensoy e İnceoğlu, (2015). 
+Tali elementi sono: il coinvolgimento di bambini, insegnanti e genitori nella 
+progettazione, la sensibilizzazione e il coinvolgimento degli amministratori, 
+l’interdisciplinarità attraverso il lavoro e il contributo di diverse figure tra cui 
+pedagogisti, insegnanti, geometri, architetti, esperti di attività motoria con il ruolo di 
+facilitatore.  
+Con la progettazione partecipata si cerca di elaborare le proposte che traggono la loro 
+fonte d’ispirazione dagli utilizzatori stessi: i bambini. 
+Il beneficio della progettazione partecipata è dato dalla soddisfazione del bambino nel 
+vedere che le sue idee e bisogni sono state prese in considerazione. 
+ 
+2.3. Progettare secondo i concetti del PEO (Person-Environment-
+Occupation) 
+Gli esperti che si occupano di progettazione di parchi giochi, per realizzare un’area che 
+risponda alle reali esigenze dei bambini, dovrebbero chiedersi: “Dove giocano, come 
+giocano e più propriamente con cosa giocano i bambini?” (Cirlini et al.,cur., 2007). 
+Durante il progetto realizzato nel 2007 nella provincia di Reggio Emilia, ai genitori è 
+stato chiesto di rispondere ad alcuni quesiti ed è emerso che i bisogni e gli interessi dei 
+bambini all’interno dei parchi riguardavano: 
+• 
+il movimento. Un parco può garantire la varietà, l’imprevedibilità di ostacoli e di 
+utilizzi che stimolano, arricchiscono e facilitano le sperimentazioni corporee e di 
+movimento dei bambini; 
+ 
+ 
+26 
+ 
+• 
+la tranquillità/privacy, il desiderio di una pausa, la ricerca di un momento 
+proprio che aiuta l’elaborazione personale. Spesso questo desiderio si manifesta 
+nei parchi giochi nella ricerca di tane e luoghi nascosti, luoghi dove stare da soli 
+e sfuggire al controllo degli adulti che solitamente impediscono ai bambini di 
+sfidare sé stessi e sperimentare; 
+• 
+le esperienze sensoriali come toccare, assaggiare, annusare, esplorare con tutto il 
+corpo. L’ambiente esterno, con le sue caratteristiche d’imprevedibilità, è la 
+miglior palestra che può garantire varie esperienze sensoriali.  
+• 
+la costruzione. 
+Dalle osservazioni dei genitori sono emersi i seguenti elementi: 
+• 
+il desiderio di manipolazione, il piacere di scavare e piantare; 
+• 
+la ricerca dell’equilibrio e di percorsi non lineari; 
+• 
+desiderio di zone tranquille, quali casette, al di fuori della vista diretta degli 
+adulti; 
+• 
+il desiderio di mettersi alla prova, arrampicarsi, appendersi, salire e scendere, 
+stare in piedi sul tavolo; dondolarsi e vedere dall’alto; 
+• 
+la costruzione di capanne. 
+I desideri ed esigenze delle persone che frequentano i parchi giochi sono molte. Spesso 
+le persone (bambini, adolescenti o adulti) che si recano al parco, sono persone che 
+vivono una situazione di disabilità e possono incontrare delle barriere o ostacoli 
+all’accesso oppure durante l’utilizzo delle attrezzature.  
+Il tema del parco giochi inclusivo è stato analizzato dal punto di vista specifico del t.o. 
+ed è stato sviluppato e riassunto utilizzando come background il modello PEO (Person-
+Environment-Occupation) e integrandolo con gli elementi dell’ICF (funzioni e strutture 
+corporee, attività e partecipazione, fattori personali e ambientali). In questo modo 
+vengono classificate e analizzate le barriere alla partecipazione ai parchi giochi e 
+definite le soluzioni di progettazione. 
+Per quanto riguarda il PEO, la persona è costituita dai bambini e caregivers, l’ambiente 
+dal parco giochi stesso e l’occupazione è rappresentata dal gioco. Se si collegano gli 
+elementi dell’ICF a tale modello, la persona comprende le funzioni e strutture corporee, 
+l’ambiente costituisce i fattori ambientali e l’occupazione, l’attività e partecipazione al 
+gioco. 
+Grazie all’ICF è possibile descrivere il funzionamento, ciò che quella persona è in grado 
+di fare; la disabilità, ciò che una persona ha difficoltà a fare; la presenza o l’assenza di 
+ 
+ 
+27 
+ 
+menomazioni riguardanti le funzioni e/o le strutture corporee; i fattori contestuali, vale a 
+dire l’influenza positiva o negativa che l’ambiente può avere sul funzionamento stesso 
+della persona. 
+Ecco che dall’interazione fra gli elementi del PEO e, allo stesso modo anche fra quelli 
+dell’ICF, deriva la performance occupazionale.  
+Il compito del t.o. è quello di valutare la persona, l’ambiente e l’occupazione e vedere se 
+il risultato dell’interazione fra i tre elementi, è una performance efficace.   
+In seguito alla revisione della letteratura, è stato realizzato uno schema esemplificativo 
+del modello PEO cui vengono legate le informazioni fondamentali relative alla persona 
+che frequenta il parco, al parco giochi in sé e al gioco che si sviluppa in questo setting. 
+Se vi è un rapporto armonico fra i tre, viene soddisfatto il criterio d’inclusività: il 
+bambino può accedere al parco e partecipare al gioco insieme agli altri senza difficoltà. 
+ 
+                                     Funzioni emotive 
+  
+Parcheggio 
+ 
+Funzioni sensoriali 
+Scale        Rampe 
+ 
+PERSONA 
+ 
+AMBIENTE 
+                 Funzioni cognitive                                        Pavimentazione      Panchine 
+ 
+ 
+ 
+     Funzioni motorie                                              Sociale 
+ 
+                                                                                      Attrezzature 
+ 
+ 
+ 
+OCCUPAZIONE 
+ 
+Gioco immaginativo                                             
+                                                    Gioco sociale     Costruire                 
+ 
+Saltare   Arrampicarsi 
+ 
+Scivolare 
+ 
+Figura 3 Applicazione del PEO al parco giochi 
+2.3.1.   Persona: funzioni e strutture corporee 
+In riferimento allo schema precedente, prima di tutto il t.o. nel suo processo 
+d’intervento valuta la persona, ovvero gli ipotetici utilizzatori dei parchi giochi. Questi 
+sono per la maggior parte bambini e ragazzi, ma bisogna tenere in considerazione anche 
+gli adulti e anziani che accompagnano i bambini.  
+In base all’ICF, della persona si considerano le funzioni corporee, che sono le funzioni 
+fisiologiche della persona (incluse le funzioni psicologiche), e le strutture corporee 
+ 
+ 
+28 
+ 
+ovvero le parti anatomiche del corpo. Le menomazioni costituiscono problemi di tali 
+funzioni e strutture del corpo e la loro presenza implica necessariamente una causa.  
+L’ICF definisce le limitazioni dell’attività come: “Difficoltà che un individuo può 
+incontrare nello svolgere delle attività”. Le restrizioni alla partecipazione sono 
+“Problemi che un individuo può sperimentare nel coinvolgimento nelle situazioni di 
+vita”. Durante l’infanzia e adolescenza, entrambe possono prendere il nome di ritardi 
+nella comparsa delle abilità nello svolgere attività e di partecipazione. Della persona 
+vanno anche considerati anche l’età, le co-morbilità, la personalità, basi socioculturali, 
+valori, abitudini, ruoli, interessi, attitudini, capacità di affrontare le problematiche e le 
+esperienze, il significato del gioco in altre culture. 
+Innanzitutto, per quanto riguarda la persona intesa come funzioni e strutture corporee, 
+esistono disabilità motorie, sensoriali, cognitive o legate alla sfera emotiva. 
+Molto spesso le menomazioni sono una combinazione di disabilità motoria, cognitiva ed 
+emotiva ed è importantissimo considerare che ogni disabilità ha caratteristiche e livello 
+di gravità differenti. 
+Fra le barriere fisiche si possono distinguere: menomazioni a strutture e funzioni 
+correlate al movimento ovvero legate a funzioni di articolazioni, forza e tono muscolare 
+e del movimento volontario e involontario. Si possono riscontrare quindi difficoltà nelle 
+abilità motorie che sono più frequenti nei parchi giochi, come per esempio la capacità di 
+mantenere o cambiare una posizione, trasportare o maneggiare oggetti, tirare, afferrare, 
+camminare e spostarsi, coordinare, sedersi, piegarsi. Tali problematiche possono 
+presentarsi in persone con assenza o ridotta mobilità per esempio in casi di emiplegia, 
+tetraplegia, menomazioni del pattern dell’andatura o ritardo nello sviluppo motorio. 
+Si possono riscontare menomazioni riguardanti le funzioni della voce e dell’eloquio 
+legate all’articolazione delle parole come per esempio disatria e anartria oppure nella 
+produzione dei suoni come afonia. Deficit di tali funzioni, comportano problemi nella 
+comunicazione e quindi nella partecipazione fra i bambini. 
+Fra le disabilità sensoriali vi sono quelle legate alla vista, all’udito e sistema vestibolare, 
+al sistema propriocettivo, al tatto e anche le funzioni legate al dolore. Una menomazione 
+a una di queste, può compromettere le esperienze sensoriali che per esempio guardare, 
+ascoltare, toccare, odorare. Esempi di tali disabilità possono essere persone cieche, 
+ipovedenti o con difficoltà nel mantenere l’equilibrio. Queste sono molto importanti, in 
+quanto il parco giochi dovrebbe fornire una grande variabilità di esperienze sensoriali, 
+essendo strutturato anche in un ambiente naturale.  
+ 
+ 
+29 
+ 
+Per quanto riguarda le disabilità cognitive, vi sono disabilità che riguardano le funzioni 
+mentali come per esempio l’orientamento, dell’attenzione, della memoria, del pensiero, 
+cognitive di base, dell’esperienza del sé e del tempo e del linguaggio. Tali menomazioni 
+potrebbero comportare un deficit nelle abilità di processo tra cui: l’applicazione delle 
+conoscenze come dirigere e focalizzare l’attenzione, risolvere problemi, prendere 
+decisioni, intraprendere diversi compiti, l’automonitoraggio e tutto ciò che è legato ai 
+processi di comunicazione. Queste potrebbero manifestarsi per esempio nel caso di 
+ritardo mentale/intellettivo o nei disturbi delle funzioni percettive. 
+Vanno tenuti in considerazione i problemi comportamentali ed emotivi collegabili a 
+problematiche nelle funzioni d’insight. Molti studi e autori (Sachs & Vincenta, 2011; 
+Mejeur, Schmitt, Wolcott, 2013) concordano sul fatto che, nella progettazione di un 
+parco, va tenuto conto dell’aumento d’incidenza di bambini che soffrono di autismo. 
+L’autismo si manifesta in maniera diversa da persona a persona e può coinvolgere 
+funzioni diverse come per esempio le funzioni sociali e di comunicazione o 
+d’integrazione sensoriale e spesso vi è la presenza di comportamenti ripetitivi e non 
+finalizzati.  
+ 
+2.3.2.  Ambiente: fattori ambientali 
+Il secondo elemento che valutano i t.o. è l’ambiente. I fattori ambientali costituiscono 
+“Gli atteggiamenti, l’ambiente fisico e sociale in cui le persone vivono e conducono la 
+loro esistenza”. I fattori ambientali hanno un impatto su tutte le componenti del 
+funzionamento e della disabilità e possono avere un impatto diverso sullo stesso 
+individuo. È importante considerare quale fattore ambientale può costituire una barriera 
+sia per la sua presenza sia per la sua assenza e quale invece costituisce una facilitazione.  
+Nella maggior parte degli studi (Morey & Taylor, 2008; Prellwitz, 2007; Yantzi, 
+Young, Mckeever 2010; Ripat, 2012) condotti in questi ultimi anni, le barriere che la 
+maggior parte delle persone disabili incontra, sono la pavimentazione (costituita di 
+ghiaia o sabbia) e le caratteristiche di accesso al parco e alle attrezzature come per 
+esempio: percorsi stretti che non permettono la manovra di ausili per la mobilità, la 
+mancanza di rampe di accesso alle strutture di gioco o di diversi punti di accesso al 
+parco.  
+Skär (2002) nel suo studio, ha condotto un’intervista a otto bambini con disabilità 
+motoria. Dall’analisi dei dati emerge che i bambini al parco giochi richiedono 
+l’assistenza dei genitori per utilizzare le attrezzature e che è impossibile utilizzare la 
+ 
+ 
+30 
+ 
+carrozzina a causa della superficie di sabbia. Questo limita l’abilità dei bambini di 
+accedere al parco. 
+Sabbia, ghiaia e legno hanno dei vantaggi poiché sono materiali durevoli e a basso 
+costo. Allo stesso tempo sono svantaggiosi poiché rendono difficoltoso la mobilità di 
+carrozzine e passeggini e sono pericolosi perché la ghiaia può essere lanciata dai 
+bambini verso altre persone (Ensign, 1993). 
+Prellwitz (2007) e Mejeur et al. (2013) riportano esperienze di bambini con problemi di 
+vista e con ritardo dello sviluppo, i quali hanno difficoltà a riconoscere le scale e le 
+caratteristiche di attrezzature di legno grigio e a capire come utilizzare elementi come 
+per esempio giochi funzionali, scivoli e corde. 
+Fra le altre barriere, vi è la mancanza di aree per ripararsi dalla pioggia o dai raggi del 
+sole o di panchine per riposarsi oppure l’assenza di una mappa tattile o riferimenti visivi 
+utili a persone con disabilità visive come cecità e ipovisione.  
+Queste barriere fisiche non danno la possibilità ai bambini di integrarsi e si trasformano 
+in barriere sociali. I bambini con sviluppo normale hanno una percezione negativa 
+rispetto ai bambini disabili e questi ultimi vengono esclusi dal gioco sociale (Mejeur et 
+al., 2013). Nello studio di Ripat (2012), i partecipanti sottoposti all’intervista descrivono 
+come le strutture di gioco non possono essere utilizzate in modo flessibile poiché vi 
+sono situazioni in cui la rampa esiste, ma non ci sono opportunità di gioco sopra la 
+rampa. 
+Un’altra barriera è costituita dalla scarsa conoscenza di coloro che progettano i parchi 
+giochi riguardo l’accessibilità, le diverse disabilità e relativi bisogni e le normative 
+presenti a livello nazionale e regionale (Prellwitz, 2007). 
+Nell’ICF-CY nella sezione dell’attività e partecipazione, nel capitolo riguardante le aree 
+di vita principali, si parla di vita sociale, civile e di comunità e fra questi vi è la voce 
+riguardante l’attività ricreativa o qualsiasi forma di gioco legata al tempo libero (giochi 
+con regole o non strutturati o organizzati). Fra i fattori ambientali sono menzionati i 
+prodotti e tecnologia generali e adattati utilizzati per il gioco ovvero altalene e scivoli, le 
+attrezzature modificate per le aree di gioco e, in un'altra sezione, i servizi per la 
+pianificazione dello spazio aperto. Questi includono i servizi e programmi finalizzati a 
+pianificare, creare e conservare lo spazio urbano ricreativo, gli spazi aperti pubblici e 
+commerciali. Fra i sistemi e le politiche e regolamenti e norme per la pianificazione 
+degli spazi aperti sono riportate le politiche di pianificazione ambientale che regolano la 
+pianificazione, progettazione, costruzione e mantenimento di spazi aperti. 
+ 
+ 
+31 
+ 
+2.3.3.    Occupazione: Il gioco 
+La Convenzione delle Nazioni Unite sui diritti del fanciullo, sottoscritta dall’Italia nel 
+2007, sottolinea il diritto di tutti i bambini a dedicarsi e partecipare con eguale accesso 
+al gioco, alle attività ricreative, al tempo libero e alla comunità. 
+Il gioco è l’occupazione fondamentale del bambino ed è essenziale per lo sviluppo. 
+Attraverso il gioco, i bambini sviluppano abilità fisiche, cognitive, emotive e sociali.   
+I bambini acquistano forza, migliorano lo sviluppo motorio fine e grossolano, 
+sviluppano la coordinazione e l'equilibrio, costruiscono relazioni sociali, acquisiscono i 
+valori e le regole e gettano le basi per un’immagine positiva di sé.  
+Si tratta di un modo per i bambini di esplorare il loro mondo e dà ai bambini 
+l’opportunità di sviluppare la propria immaginazione e creatività in un’area di gioco. 
+Attraverso tali attività ludiche, i bambini sviluppano abilità sociali, imparano a 
+cooperare e a integrarsi con gli altri. Guardando gli altri, i bambini trovano l’ispirazione 
+per nuove attività. Inoltre, attraverso il gioco possono imparare dalle loro scoperte a 
+mettersi alla prova e rischiare.  
+“Il gioco libero è spontaneo, intrinsecamente motivato, e di auto-regolazione e richiede 
+il coinvolgimento personale del bambino” (Missiuna & Pollock, 1991). 
+Dalla lettura e interpretazione delle osservazioni fatte durante un progetto in Emilia 
+Romagna (2007) sui bambini al nido, mentre agiscono nell’area di gioco esterna e negli 
+spazi interni, sono emerse queste considerazioni: 
+• 
+ai bambini interessa giocare; 
+• 
+il movimento è un processo importantissimo per il bambino, poiché 
+l’intelligenza è frutto dell’elaborazione mentale di un’azione. Il parco stimola la 
+creatività, la ricerca di sperimentazioni corporee e di movimento; 
+• 
+il gioco risponde a un bisogno ineludibile dell’essere ed è fondamentale durante 
+la crescita affinché nel bambino si sviluppi “la competenza alla vita”; i bambini 
+hanno bisogno del gioco per crescere, gli adolescenti per affacciarsi alla vita, gli 
+adulti per comunicare; 
+• 
+i bambini sanno trovare il modo di giocare ovunque e in qualsiasi momento, ma 
+lo spazio è un elemento importante (Cirlini et al., cur., 2007). 
+In un parco giochi l’occupazione principale è costituita dal gioco. I bambini vanno al 
+parco per muoversi, correre, saltare, costruire, arrampicarsi, scivolare, utilizzare 
+attrezzature presenti in un parco (altalene, scivoli…) e materiali offerti dalla natura 
+(ghiaia, sassi, foglie, alberi, fiori, ecc.), attività che non possono sperimentare in 
+ 
+ 
+32 
+ 
+ambiente domestico, ma che hanno il beneficio di aver luogo in un ambiente naturale. 
+“Dopo aver appreso ad afferrare, dondolare, lanciare il bambino prima o poi (spesso 
+anche durante il periodo di apprendimento) afferra per il piacere di afferrare, dondola 
+per il gusto di dondolare, ecc. In breve egli ripete questo comportamento (…) solo per il 
+piacere di acquistare la padronanza di esso e di mostrare il proprio potere di 
+sottomettere la realtà (…) non richiede né pensiero né vita sociale” (Piaget, 1945). 
+Nel 2007 un articolo a cura di Cirlini et al., riporta quest’affermazione: “I bambini nel 
+parco imparano a concentrarsi, a prendere possesso dello spazio, a usare le mani, a 
+lavorare con tutto il corpo, imparano a superare le frustrazioni, a ragionare per ottenere 
+un risultato desiderato, imparano come attribuire valore alle cose, a osservare come si 
+comportano i vari elementi della natura, imparano a essere inventivi”. 
+Al parco si sviluppa il gioco immaginativo/di finzione e il gioco sociale. Il gioco di 
+finzione si sviluppa fra i 2 e 7 anni e consiste nel processo attraverso il quale i bambini 
+rappresentano oggetti, ambienti e loro stessi diversamente da come realmente sono. È 
+stato dimostrato (Abigail Oke & Garry John Middle, 2016) che il gioco di finzione 
+contribuisce allo sviluppo del bambino fornendo le basi per la creatività e 
+l’immaginazione. Inoltre, incrementa la comunicazione e le abilità sociali. Fra i tre e i 
+sei anni sono sempre più frequenti i passaggi dal gioco solitario a quello sociale o 
+sociodrammatico, dal momento che il bambino inizia ad avere relazioni con i coetanei 
+utilizzando il gioco di finzione con gli altri, fino ad arrivare al gioco dove i bambini 
+collaborano insieme e vengono stabilite delle regole. 
+Molti bambini con disabilità non possono correre o saltare o possono aver difficoltà a 
+utilizzare alcune attrezzature, a comunicare o relazionarsi con gli altri. Per questo 
+motivo questi bambini non vanno esclusi dal parco giochi ma, al contrario, vanno 
+trovate delle soluzioni che diano la possibilità al bambino di partecipare al gioco. 
+ 
+2.3.4.   Bisogni e soluzioni possibili 
+L’obiettivo della progettazione di un parco giochi inclusivo è quello di rispondere alle 
+esigenze di tutti e permettere la partecipazione, intesa come poter fare e poter stare con 
+gli altri, di tutti anche dei bambini che vivono una disabilità. 
+Dall’analisi di alcuni articoli (Stout 1988; Isenberg et al., 2002; Tujula & Juutilainen 
+2009; Morey & Taylor 2008; Mejeur et al., 2013; Ensign, 2003), linee guida (Linee 
+guida comune di Parma e di Jesolo), e cataloghi (Proludic), sono state elaborate alcune 
+ 
+ 
+33 
+ 
+soluzioni possibili da tener in considerazione durante la progettazione di un parco 
+giochi inclusivo.  
+Per promuovere l’inclusione è necessario proporre giochi adatti a tutti, motivanti, 
+semplici ma che garantiscano diversi livelli di difficoltà, sfida ed esperienze multi-
+sensoriali. “L’ambiente dovrebbe essere così concepito come uno spazio poli-sensoriale, 
+nel senso che deve essere corredato da valori sensoriali differenti in modo che ciascuno 
+possa sintonizzarsi secondo le proprie caratteristiche di ricezione individuale” (Cirlini et 
+al., cur., 2007). 
+I bambini hanno bisogno di scegliere, esplorare, creare, e di rispondere ai cambiamenti. 
+Per questo andrebbero inseriti elementi che favoriscono la creatività come per esempio 
+“materiali sciolti” (loose-part materials), questi sono materiali mobili che possono 
+essere facilmente spostati dai bambini per il gioco. Possono essere materiali naturali 
+come pietre, acqua, sabbia, ramoscelli, foglie, tessuti, corde, containers, spugne, carri, 
+slitte, contenitori, ecc. Sono importanti poiché incoraggiano la manipolazione, il gioco 
+simbolico, offrono opportunità creative e sono materiali che possono essere usati in 
+modi differenti secondo le età (Mejeur, et al., 2013).  
+Molti studi affermano l’importanza di inserire elementi naturali come per esempio 
+sabbia e acqua. Tali elementi rappresentano il “gioco espressivo” dei bambini, poiché 
+con questi materiali scavano, raccolgono, riempiono, svuotano, travasano, trasportano, 
+costruiscono, modificano, demoliscono. Nello studio condotto Oke & Middle (2015), 
+presso i parchi giochi della città di Perth (ovest Australia), è emerso che la sabbia è uno 
+degli elementi che contribuisce allo sviluppo del gioco immaginativo. Ha la 
+caratteristica di essere malleabile e cui si può imprimere una forma. I bambini devono 
+sperimentare e capire che la sabbia non mantiene la forma che uno vorrebbe darle, se si 
+costruisce troppo in alto non regge; se si scava una galleria troppo grande, questa crolla. 
+La sabbiera è un cantiere dove i bambini lavorano, da soli o in gruppo.  
+Nel scegliere le attrezzature, è importante preferire strutture che mettono il corpo in 
+movimento e in sicurezza, poiché il movimento è visto come strumento di conoscenza 
+di sé e del mondo. Considerando che possibili utenti del parco potrebbero essere 
+bambini con problematiche di controllo del tronco o della testa, o nei trasferimenti e 
+spostamenti, è necessario prevedere elementi di sostegno come poggiatesta, sedute 
+larghe, parapetti, zone-antiribaltamento, maniglioni e facilitare e rendere sicuro 
+l’accesso e i trasferimenti. In alcune attrezzature per esempio giochi multifunzione e 
+scivoli bisogna prevedere l’accesso ai giochi anche ai caregivers. 
+ 
+ 
+34 
+ 
+Per le disabilità di tipo sensoriale i bisogni sono di sviluppare gli altri sensi per vicariare 
+quello deficitario, avere riferimenti podo-tattili e visivi e delimitare le attività con 
+contrasti di colore. I bambini con deficit alle strutture visive e anche con autismo, hanno 
+bisogno di riferimenti nell’ambiente per potersi muovere o spostare, per questo motivo è 
+importante utilizzare forti spunti colorati su parti chiave delle strutture oppure nelle 
+zone con cambio di livello come sui gradini. Inoltre è utile inserire manopole ad alto 
+contrasto di luminanza (per esempio di color giallo chiaro) e utilizzare colori primari (in 
+contrasto fra loro). Sarebbero da evitare superfici lucide e riflettenti a livello del suolo 
+poiché potrebbero confondere le persone.  
+Il piano di accessibilità regionale di Helsinki ha definito i criteri di accessibilità per la 
+realizzazione di parchi giochi della città e tra questi vi è quello di includere una mappa 
+tattile e il braille, utile a coloro con deficit visivi per il riconoscimento e l’orientamento 
+(Tujula & Juutilainen, 2009).  
+I pannelli per il riconoscimento tattile possono avere forme strane e colorate per 
+divertire tutti i bambini e devono avere una segnaletica con chiare e semplici immagini 
+per dare indicazioni riguardo le attrezzature e la sicurezza, poiché molti bambini 
+autistici utilizzano sistemi di comunicazione aumentativa alternativa. Nelle mappe si 
+dovrebbero utilizzare simboli scuri evidenziati su uno sfondo chiaro, inoltre per evitare 
+il disorientamento, cartelli e segni devono rispettare un sistema uniforme. 
+Sempre per favorire l’orientamento, si potrebbero inserire piante profumate, 
+pavimentazioni e attrezzature con varie textures facendo attenzione a non sovraccaricare 
+i bambini con diversi suoni, colori, immagini e profumi che possono confonderli. 
+Per quanto riguarda l’autismo, le esigenze sono specifiche, c’è il bisogno di avere dei 
+riferimenti, di un ambiente strutturato, stabile e rassicurante e di avere degli spazi per il 
+riposo e recupero delle energie. È necessario proporre un ambiente protetto, organizzato 
+in maniera logica e che proponga giochi che favoriscono la motivazione personale. Il 
+bambino autistico nella maggior parte dei casi, tende a ricercare l’isolamento 
+allontanandosi dalle interazioni sociali. È importante quindi, integrare delle strutture o 
+spazi dove il bambino autistico possa isolarsi dal movimento e dal rumore.  
+Mejeur et al., nel 2013 riporta un articolo di ricerca del 2006 in cui viene descritto un 
+parco giochi dove l’attrezzatura viene posta circolarmente e la parte centrale è libera per 
+il gioco cooperativo. In un altro studio che includeva otto bambini con diagnosi di 
+disturbi dello spettro autistico, i risultati suggeriscono che il design del circuito aumenta 
+il gioco sociale per i bambini con disturbo autistico. 
+ 
+ 
+35 
+ 
+Secondo le Linee Guida del comune di Parma e la guida “I can play too” pubblicata dal 
+Department for Victorian Communities (2007), bisognerebbe dividere il parco in aree 
+per fasce d’età di 3/8 anni, 8/12 anni, 12/16 anni. Inoltre, andrebbero separate le aree di 
+gioco attive da quelle passive e le altalene, giostrine e altri oggetti in movimento 
+andrebbero posti intorno al perimetro o agli angoli dell’area. Questa disposizione aiuta a 
+prevenire che i bambini corrano lungo queste attrezzature. Andrebbero anche inserite 
+recinzioni per impedire ai bambini di scappare. 
+Alcuni studi riportano il desiderio dei bambini di avere nei parchi giochi attrezzature e 
+giochi con un design riconoscibile (come case e barche), poichè questi incoraggiano la 
+fantasia e il gioco di ruoli (Prellwitz, 2007). 
+Per garantire l’accesso alle attrezzature, bisogna tenere in considerazione che devono 
+essere raggiunte da una carrozzina e da diverse altezze, inoltre si dovrebbe avere almeno 
+due o più punti di accesso o di uscita per ogni attrezzatura fissa e dovrebbero essere 
+presenti almeno una rampa o un pendio con un corrimano, oltre alle scale. Per dare 
+sicurezza a bambini con equilibrio o controllo muscolare limitato e quindi per favorire 
+l’equilibrio, i trasferimenti e la prevenzione delle cadute, vanno inseriti dei maniglioni 
+su rampe, vie d’accesso e alcune attrezzature da gioco. 
+I materiali delle attrezzature devono essere resistenti, facili da pulire e anallergici. Sono 
+da preferire materiali come l’acciaio per gli elementi strutturali (attenzione che gli 
+scivoli non siano in acciaio, per evitare il riscaldamento con l’esposizione al sole); 
+gomma e plastica PVC per le superfici evitando gli spigoli vivi. Questi materiali sono 
+morbidi ed elastici per assorbire gli urti ma il principale svantaggio di queste superfici è 
+il costo della manodopera e dei materiali. È consigliato l’uso di contrasti di colore per 
+esempio giallo, arancione e verde chiaro. 
+È importante considerale le dimensioni delle attrezzature, dal momento che devono 
+consentire l’accesso e la manovra di ausili per la mobilità e la presenza di un 
+accompagnatore/caregiver. Bisogna prevedere aperture adeguate nelle vie d’accesso 
+come cancelli e vialetti con apertura di almeno 120 cm. 
+La pavimentazione dev’essere a prova di conformità, in relazione all’altezza di libera 
+caduta dell’attrezzatura, secondo quanto previsto dall’UNI EN 1177 e dovrebbe essere 
+realizzata con del materiale anti-trauma.  
+All’interno del parco è importante garantire delle zone d’ombra, soprattutto per i più 
+giovani e i bambini che sono sensibili alla sovraesposizione ai raggi del sole e in queste 
+prevedere la presenza di panchine e tavoli. Questi ultimi devono consentire 
+ 
+ 
+36 
+ 
+l’accostamento anche di persone in carrozzina e le panchine dovrebbero essere 
+provviste di schienale e braccioli, utili soprattutto per chi ha difficoltà nel controllo della 
+postura, ma anche per i nonni che spesso accompagnano i bambini al parco. 
+Bisogna tener sempre in considerazione che la pavimentazione nei pressi di tavoli e 
+panchine dev’essere liscia e compatta per consentire la mobilità con passeggini o ausili 
+per la mobilità.  
+Per garantire accessibilità in tutta l’area del parco, i percorsi pedonali nel verde devono 
+mettere in comunicazione le varie zone del parco e prevedere accessi dalle strade 
+limitrofe, inoltre devono avere una larghezza minima di 2 metri, essere opportunamente 
+illuminati e la pavimentazione dev’essere uniforme, senza disconnessioni per permettere 
+l’accesso anche agli ausili per la mobilità. La presenza di variazioni di livello del suolo, 
+come per esempio collinette o conche nel terreno, o la presenza di percorsi su pendio o 
+su gradinate, fornisce al parco una dimensione e una percezione diversa e ne consente 
+l’utilizzo per finalità differenti. 
+Infine, nei pressi del parco ci dev’essere un parcheggio visibile e bisogna considerare la 
+presenza di parcheggi riservati alle persone con disabilità. 
+ 
+2.4.   Non solo l’altalena 
+La progettazione dei parchi giochi deve partire dal presupposto che il gioco è scuola di 
+vita, e significa utilizzare uno spazio insieme agli altri e come gli altri. Quindi, bisogna 
+tener conto che le scelte che si mettono in atto hanno valenza educativa, sociale e 
+ambientale.  
+In Italia sono presenti circa 50 parchi con elementi accessibili ma spesso l’attrezzatura 
+accessibile è rappresentata da un’altalena accessibile per carrozzine. Questa, anche per 
+la struttura che possiede, è motivo di maggiore esclusione, poiché non favorisce 
+l’interazione con i pari e quindi, non rende un parco giochi più inclusivo.  
+L’obiettivo è quello di dare la possibilità ai bambini con disabilità di giocare insieme ai 
+bambini normodotati e non in aree separate, in modo da favorire non solo il movimento 
+ma anche l’abbattimento di differenze fra pari. Nei cataloghi di attrezzature per parchi 
+giochi, esistono una moltitudine di soluzioni per il gioco. Nella sezione degli allegati 
+(vedi allegato A), vengono indicate alcune fra le attrezzature più citate in letteratura e 
+vengono fornite indicazioni da considerare per renderle maggiormente accessibili e 
+utilizzabili dai bambini. 
+ 
+ 
+ 
+37 
+ 
+DISCUSSIONE 
+L’obiettivo di questa tesi è quello dare una risposta ai quesiti iniziali: 
+1. Può il terapista occupazionale, con le proprie conoscenze delle varie forme di 
+disabilità e di valutazione delle attività di gioco e dei concetti legati 
+all’Universal Design, fornire supporto alla progettazione di un parco giochi 
+inclusivo? 
+2. Qual è la situazione italiana ed estera in merito ai parchi giochi inclusivi? 
+3. Quali sono le barriere di un parco giochi sperimentate dai bambini? 
+4. Quali sono le caratteristiche cardine da tenere in considerazione nella 
+progettazione? E quali le soluzioni? 
+Per rispondere al primo quesito, nonostante la scarsità di articoli prettamente scientifici 
+o indicizzati, nella ricerca è stata riscontrata un’alta percentuale di studi che riguardano 
+il tema dei parchi giochi e che sono stati scritti o condotti da terapisti occupazionali o in 
+cui viene citato il terapista al loro interno. 
+Per esempio, nello studio di Stout, professoressa di T.O. all’Indiana University, già nel 
+1988 si parlava della necessità di coinvolgere questa figura professionale all’interno 
+dell’equipe che si occupa di progettazione di parchi giochi.  
+Nello specifico, gli articoli di Missiuna & Pollock (1991), Prellwitz & Skär (2007), 
+Bundy et al. (2008), Ripat (2012), Mejeur et al. (2013), Piskur (2014), Anaby et al. 
+(2015), Flemming et al., hanno discusso il ruolo del terapista occupazionale e la 
+maggior parte degli autori sostengono che questa figura conosce i principi di Universal 
+Design, ha le competenze per analizzare l’ambiente e quindi per individuare facilitatori 
+e barriere nell’ambiente e soluzioni che rispondono ai bisogni e alle esigenze di tutte le 
+persone (con disabilità o meno). Il t.o. valuta non solo l’ambiente ma anche la persona 
+(diverse disabilità) e l’occupazione per garantire la miglior performance occupazionale. 
+Diversamente dalla realtà europea ed extra-europea dove il t.o. viene già coinvolto nella 
+progettazione (anche nelle scuole materne), in Italia non viene mai citato nei progetti o 
+articoli riguardanti i parchi giochi inclusivi. 
+Vi sono diversi passaggi da rispettare durante la progettazione di parchi giochi che sono 
+stati definiti in un articolo di Stout (1988) e in uno di Şensoy e İnceoğlu (2015): 
+decidere il progetto, progettare, implementare il progetto e controllo. Il t.o. dovrebbe 
+essere consultato nelle prime due fasi di progettazione durante le quali il terapista 
+s’impegna a rispondere a tali domande: 
+-Dove giocano i bambini? 
+ 
+ 
+38 
+ 
+-Come giocano? 
+-Con che cosa giocano? (Cirlini et al., cur., 2007). 
+Nella prima parte della ricerca, è stata indagata la situazione estera riguardo i parchi 
+giochi inclusivi, in particolare quella americana, australiana ed europea. Rispetto 
+all’Italia, è emersa una maggior consapevolezza e considerazione dei diritti delle 
+persone disabili, degli standard di accessibilità e di Universal Design e anche una 
+maggior legislazione che regola la progettazione e realizzazione dei parchi giochi (per 
+esempio l’Americans with Disabilities Act). In Italia non esiste una normativa di 
+riferimento applicabile alle attrezzature ludiche, ma si sta valorizzando l’idea di parchi 
+giochi inclusivi, tanto che fino ad oggi sono stati realizzati 30 parchi inclusivi, e altri 
+hanno solo alcune attrezzature accessibili, come per esempio l’altalena per carrozzine.  
+Un aspetto fortemente sottolineato negli articoli (Morey & Taylor, 2008; Prellwitz 
+2007; Yantzi et al, 2010; Ripat, 2012), che ha permesso di rispondere al terzo quesito, è 
+l’identificazione da parte degli utilizzatori dei parchi (in particolare bambini con 
+disabilità motorie), delle barriere ambientali che impediscono la performance. Le 
+barriere che la maggior parte delle persone disabili incontra, sono la pavimentazione 
+(costituita di ghiaia o sabbia) e le caratteristiche di accesso al parco e alle attrezzature 
+come per esempio la mancanza di rampe di accesso alle strutture di gioco o di punti 
+d’accesso stretti. Altri studi riportano barriere incontrate anche da bambini con disabilità 
+cognitiva, visiva e percettiva, ma tutti concordano sul fatto che queste barriere non 
+danno la possibilità ai bambini di partecipare e si trasformano in barriere sociali. 
+La tesi, facendo riferimento agli articoli analizzati, ha voluto proporre delle soluzioni 
+esemplificative per eliminare le barriere e per rendere possibile l’accesso e 
+l’utilizzabilità del parco giochi a tutti (bambini e caregivers). Sono state prese in 
+considerazione solo alcune attrezzature come lo scivolo, l’altalena, il gioco 
+multifunzione, i pannelli ludici e i giochi sabbia e acqua, poiché sono fra i più citati e si 
+trovano facilmente in tutti i cataloghi di materiali per parchi giochi. Inoltre, l’obiettivo 
+era di dare l’idea che non basta inserire un’altalena per carrozzine per rendere 
+accessibile il parco, ma esistono diverse tipologie di giochi che, se scelti tenendo in 
+considerazione determinati parametri, possono far giocare assieme bambini abili o con 
+disabilità. 
+Oltre alla ricerca bibliografica, è stata proposta un’analisi del parco giochi utilizzando 
+come modello-guida il PEO, specifico della t.o..  
+ 
+ 
+ 
+39 
+ 
+CONCLUSIONI 
+Questa revisione di letteratura nasce dall’interesse personale rispetto ai pachi giochi, 
+sorto dalla partecipazione al convegno tenutosi a Bologna “Non Solo Altalena: 
+Dimensione Inclusiva Del Parco Gioco”. 
+Ciò che era emerso durante il convegno, ma anche dall’analisi della letteratura e dei 
+blog presenti in rete è che l’errore in cui incappano la maggioranza delle associazioni, 
+progettisti ma anche consulenti di attrezzature per parchi, è quello di progettare parchi 
+giochi senza tener conto che i possibili utenti potrebbero essere bambini con disabilità 
+oppure che sono accessibili, ma con elementi che danno la percezione di essere rivolti 
+esclusivamente a persone con disabilità. Il parco giochi inclusivo dovrebbe essere un 
+parco che non ha continui rimandi alla persona con disabilità, ma che permette la 
+partecipazione di tutti senza discriminazioni.  
+È per questo che il t.o., con le sue competenze, dovrebbe essere integrato nella 
+progettazione di parchi giochi poiché il focus della T.O. è garantire la massima 
+autonomia e partecipazione alla persona. Inoltre, il modello del PEO può fornire una 
+base di ragionamento per assicurare la miglior performance di gioco e creare 
+l’inclusione, analizzando le sue tre componenti: Persona, Ambiente e Occupazione. 
+In questa tesi sono state date delle indicazioni da tenere in considerazione durante la 
+progettazione delle aree di gioco, e sarebbe interessante per eventuali studi futuri, creare 
+un progetto concreto inserendo le attrezzature di gioco suggerite e proporlo anche 
+all’interno delle scuole dell’infanzia, poiché la scuola è il luogo in cui i bambini passano 
+la maggior parte del tempo e dove solitamente è presente uno spazio per il gioco 
+all’aperto. Infine, sarebbero necessari ulteriori studi per indagare le esperienze di 
+bambini con diversi tipi di disabilità in parchi giochi “standard” e in parchi inclusivi per 
+analizzare le differenze, punti critici e fattori positivi.  
+Una limitazione di questa tesi riguarda la scarsità di articoli scientifici relativi al tema 
+del parco giochi inclusivo e del t.o. coinvolto nella progettazione. Vari articoli citano al 
+loro interno il modello del PEO quando declinano la figura del t.o. per indicarlo come 
+modello da tener in considerazione per spiegare l'interazione fra persona e ambiente, ma 
+solo un articolo sviluppa tale modello nell’argomentare il tema del parco giochi 
+inclusivo.  
+ 
+ 
+BIBLIOGRAFIA 
+• Anaby, D., Law, M., Teplicky, R., Turner, L., (2015). “Focusing on the environment 
+to improve youth participation: experiences and perspectives of Occupational 
+Therapists”. Int J Environ Res Public Health, Vol 12, N°10, pag 13388–13398.  
+• Ball, D., Butler, N., Doyle, P., Shackell, A., (2008). “Design for Play: A guide to 
+creating successful play spaces”. Free Play Network, Play England. Disponibile on-
+line all’indirizzo: http://www.playengland.org.uk/media/70684/design-for-play.pdf 
+• Becker, P., Ripat, J., (2012). “Playground Usability: What Do Playground Users 
+Say?”. Occupational Therapy International, Vol 19, N°3, pag 144-153. 
+• Bundy, A. C., Luckett, T., Naughton, G. A., Tranter, P. J., Wyver, S. R., Ragen, J., 
+Singleton, E., & Spies, G., (2008). “Playful Interaction: Occupational Therapy for 
+All Children on the School Playground”. The American Journal of Occupational 
+Therapy, Vol 62, N°5, pag 522-527.  
+• Cirlini, F., Davoli, S., Fantini, G., Pedrazzoli, C. (a cura di). (2007). “Il parco che 
+vorrei esperienze di progettazione partecipata nei comuni di Albinea, Cadelbosco 
+Sopra e Quattro Castella”. Imola, Editrice La Mandragora. 
+• Cooper, B., Law, M., Lori Letts, L., Rigby, P., Strong, S., Stewart, D., (1996). “The 
+person-environment-occupation model: a transactive approach to occupational 
+performance”. Canadian Journal of occupational therapy, Vol 63, N°1, pag 9-23. 
+• Ensign, A., (1993). “Universal Playground Design”. PAM Repeater, Vol 79, pag 1-
+22 
+• Flemming, S., S.d. “Envisioning Inclusion: Creating a Design Plan for Inclusive 
+Playgrounds for Buddy Break”. Belmont  University School of Occupational 
+Therapy. 
+• İnceoğlu, M., Şensoy, G., (2015). “Design Guide for Playgrounds”. Journal of Civil 
+Engineering and Architecture, Vol 9, pag 1390-1398. 
+• Isenberg, J. P., Quisenberry, N., (2002). “Play: essential for all children. A position 
+paper of the association for Childhood Education International”. Childhood 
+Education, Vol 79, N°1), pag 33-39. 
+• Iwarsson, S., Staêhl, A., (2003). “Accessibility, usability and universal design 
+positioning and definition of concepts describing person-environment relationships”. 
+Disability and rehabilitation, Vol 25, N°2, pag 57-66. 
+• Kanics I. M., (2016), “Person Environment Occupation Model + Universal Design = 
+Great Places for All to Play!”. CAOT conference/2016. 
+• Laurìa, A., Montalti, M., (2015). “Il Playground come laboratorio di creatività e di 
+inclusione”. Ri_vista, DOI: 10.13128/RV-16734, 112-128. 
+• Law, M. (1991). “The environment: a focus for occupational therapy”. Canadian 
+Journal of Occupational Therapy, Vol 58, N°4, pag 171-180.  
+• Lenker, J., Perez, B. (2014). “The role of occupational therapists in universal design 
+research”. Occupational Therapy Now, Vol 16.5. Disponibile on-line all’indirizzo: 
+https://www.caot.ca/otnow/sept14/research.pdf 
+• Mejeur, M., Schmitt, G., Wolcott, H., (2013). “A systematic review of the best 
+practices for playground inclusion”. Pediatrics. Paper 1, Grand Valley State 
+University. 
+• Missiuna,C., Pollock, N., (1991). “Play deprivation in children with physical 
+disabilities: the role of the Occupational Therapist in preventing secondary 
+disability”. The American journal of Occupational Therapy, Vol 45, N°10, pag 882-
+888. 
+• Morey, L., Taylor, L., (2008). “Understanding and Creating Accessible 
+Playgrounds”. Peterborough Victoria Northumberland School Board, Trent Centre 
+for Community-based education. 
+• Oke & Middle (2016). “Planning Playgrounds to Facilitate Children’s Pretend Play: 
+A Case Study of New Suburbs in Perth Western Australia”. Planning Practice & 
+Research, Vol. 31, N°1, pag 99–117. 
+• Organizzazione Mondiale della Sanità, “ICF short version: International 
+Classification of Functioning, Disability and Health”, Tr. it., Trento, Edizioni 
+Erikson, 2004. 
+• Organizzazione Mondiale della Sanità, “Classificazione Interanzionale del 
+Funzionamento, della Disabilità e della Salute-Versione per bambini e adolescenti”, 
+Tr. it., Trento, Edizioni Erikson, 2007. 
+• Pierce, D. (2001). “Untangling Occupation and Activity”. American Journal of 
+Occupational Therapy, Vol 55, pag 138–146. 
+• Piškur, B., (2014). “Social participation: Redesign of education, research, and 
+practice in occupational therapy”. Scandinavian Journal of Occupational Therapy, 
+Vol 2, pag 89-95. 
+• Prellwitz, M., Tamm, M., (1999). “Attitudes of key persons to accessibility 
+problems in playgrounds for children with restricted mobility: a study in a medium-
+sized municipality in Northern Sweden”. Scandinavian Journal of Occupational 
+Therapy, Vol 6, pag 166–173. 
+• Prellwitz, M., Skär, L. (2007). “Usability of playgrounds for children with different 
+abilities”. Occupational Therapy International, Vol 14, N° 3, pag 144–155. 
+• Prellwitz, M., Skär, L., (2007). “How playground designs influence children with 
+disabilities-parental perceptions”. Luleå University of Technology, Department of 
+Health Sciences. 
+• Prellwitz, M., (2007). “Playground accessibility and usability for children with 
+disabilities experiences of children, parents and professionals”. Luleå University of 
+Technology Department of Human Work Sciences. 
+• Sachs, N., Vincenta, T., (2011). “Outdoor Environments for Children with Autism 
+and Special Needs”. InformeDesign’s, Vol 9, N°1, pag 1-8. 
+• Stout, J., (1988). “Planning playgrounds for children with disabilities”. The 
+American Journal of Occupational Therapy, Vol 42. N°10, pag 653-657. 
+• Tujula, P., Juutilainen, A., (2009). “Ratsaspuisto in Helsinki, Finland: a playground 
+for everyone”. Municipal Engineer, Vol 162 (ME4), pag 227-230. 
+• The Good Play Space Guide: “I can play too” (2007). Community Sport and 
+Recreation Sport and Recreation Victoria Department for Victorian Communities, 
+Melbourne Victoria. 
+• Yantzi, N. M., Young, L., Mckeever, P., (2010). “The suitability of school 
+playgrounds for physically disabled children”. Children's Geographies, Vol 8, N°1, 
+pag 65-78. 
+• DPR. 24 luglio 1996, n. 503, in materia di “Regolamento recante norme per 
+l'eliminazione delle barriere architettoniche negli edifici, spazi e servizi pubblici”. 
+• L. 28 agosto 1997, n. 285, in materia di  “Disposizioni per la promozione di diritti e 
+di opportunità per l’infanzia e l’adolescenza”. 
+• Decreto Ministero Sanità 17 gennaio 1997, n. 136, in materia di “Regolamento 
+concernente la individuazione della figura e relativo profilo professionale del 
+terapista occupazionale”. 
+• L.R. Regione Veneto 12 luglio 2007, n. 16, in materia di “Disposizioni generali in 
+materia di eliminazione delle barriere architettoniche”. 
+• Proludic, L’area giochi inclusiva. Catalogo tematico. 
+ 
+SITOGRAFIA 
+• UNICEF, Sruthi Atmakur, Focus: Playgrounds of inclusion. Disponibile on-line 
+all’indirizzo: 
+http://www.unicef.org/sowc2013/focus_playgrounds_of_inclusion.html 
+• WFOT, Definition and Function of Occupational Therapy. Disponibile on-line 
+all’indirizzo: www.wfot.org/ResourceCentre/tabid/132/did/608/Default.aspx 
+• Superabile, Senza barriere. Disponibile on-line all’indirizzo: 
+http:/www.superabile.it/web/it/CANALI_TEMATICI/Viaggi_e_Tempo_libero/Il_P
+unto/info2052840550.html 
+• Ministero per i beni e le attività culturali, Linee guida per il superamento delle 
+barriere architettoniche nei luoghi di interesse culturale. Disponibile on-line 
+all’indirizzo: 
+https://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1311244354128
+_pluginLINEE_GUIDA_PER_IL_SUPERAMENTO_DELLE_BARRIERE_ARCH
+ITETTONICHE.pdf 
+• Access Board, 2005, ACCESSIBLE PLAY AREAS. A Summary of Accessibility 
+Guidelines for Play Areas. Disponibile on-line all’indirizzo:  
+https://www.access-board.gov/attachments/article/1369/play-guide.pdf 
+• NCHPAD, Designing for Inclusive Play: Applying the Principles of Universal 
+Design to the Playground.Disponibile on-line all’indirizzo: 
+http://www.nchpad.org/529/2456/Designing~for~Inclusive~Play~~~Applying~the~
+Principles~of~Universal~Design~to~the~Playground 
+• Parachute, Playground standards in Canada. Disponibile on-line all’indirizzo: 
+http://www.parachutecanada.org/injury-topics/item/playground-standards-in-
+canada-lt 
+• Città di Jesolo, Linee guida stessi giochi stessi sorrisi, 2003. Disponibile on-line 
+all’indirizzo: http://www.youblisher.com/p/216768-Linee-Guida-SGSS/ 
+• Wicksteed, An Essential Guide to BS EN 1176 and BS EN 1177 Children’s 
+Playground Equipment & Surfacing: updated for 2008. Disponibile on-line 
+all’indirizzo:  
+http://www.wicksteed.co.uk/pdfs/EN1176%20and%20EN1177.pdf 
+• Plan- och bygglag (1987:10). Disponibile on-line all’indirizzo: 
+www.notisum.se/rnp/sls/lag/19870010.htm 
+• Department of Justice, 2010 ADA Standards for Accessible Design. Disponibile on-
+line all’indirizzo: http://www.ADA.gov. 
+• Piaget, “La formazione del simbolo nel bambino”, 1945. Disponibile on-line 
+all’indirizzo: studiumanistici.unimc.it/it/ricerca/convegni/isnite-2014/deChiro.pdf 
+• Wikipedia, definizione di Swing. Disponibile on-line all’indirizzo: 
+https://en.wikipedia.org/wiki/Swing_(seat) 
+• Garzantilinguistica, definizione di scivolo. Disponibile on-line all’indirizzo: 
+http://www.garzantilinguistica.it/ricerca/?q=scivolo 
+• Dictionary Cambridge. Definizione di slide. Disponibile on-line all’indirizzo: 
+http://dictionary.cambridge.org/dictionary/english/slide 
+• Guide on Play Areas, 2007. Disponibile on-line all’indirizzo: 
+https://www.access-board.gov/guidelines-and-standards/recreation 
+facilities/guides/play-areas/play-component 
+• Giochi a molla. Disponibile on-line all’indirizzo: 
+http://www.arredamentoegiardino.it/giochi-da-giardino/altri-giochi-da-
+esterno/giochi-a-molla.asp 
+• Scivoli. Disponibile on-line all’indirizzo:  
+http://www.arredamentoegiardino.it/scivoli.asp 
+• Giochi inclusivi. Disponibile on-line all’indirizzo: 
+http://www.legnolandia.com/giochi-per-parchi/catalogo/giochi-inclusivi 
+ 
+L’altalena 
+Si basa su un movimento oscillatorio impresso dal 
+bambino in autonomia con le gambe o mediante la 
+spinta da parte di un’altra persona. È costituita da 
+appoggio per la seduta appeso a un sostegno aereo 
+attraverso corde, catene o altri collegamenti non 
+flessibili. Il bambino dovrebbe essere in grado di 
+sedersi, rimanere in posizione seduta, mantenere 
+l’equilibrio, tenere le mani sulle corde, oscillare le 
+gambe per darsi la spinta, spingersi piano o forte, 
+scendere. 
+Favorisce: 
+• 
+coordinazione motoria; 
+• 
+stimolazione sensoriale; 
+• 
+sviluppo propriocezione; 
+• 
+integrazione sensoriale nello spazio; 
+• 
+cooperazione; 
+• 
+sviluppo di abilità sociali. 
+Considerare: 
+• 
+l’oscillazione ha effetti positivi sull’orecchio interno dei bambini con disabilità uditive e calma i 
+bambini con problemi mentali; 
+• 
+posizionare le altalene fianco a fianco per permettere la socializzazione; 
+• 
+schienali, pedane e buon supporto posteriore per rendere questi elementi più facili da usare da molte 
+persone; 
+• 
+sedili più lunghi/profondi per permettere a un bambino di sedersi davanti a un adulto. 
+Valutare diverse tipologie di altalena: 
+• 
+Altalena che permette di accogliere una carrozzina; 
+• 
+Altalena a CESTONE offre: 
+ spazio aperto e altezza favorevole per i trasferimenti 
+ superficie d’appoggio ampia per bambini che non hanno controllo posturale 
+ possibilità di stare seduti o distesi 
+ possibilità di stare in due o più persone al suo interno; 
+• 
+Altalena CON SEGGIOLINO CON SUPPORTO PER IL TRONCO/CON SEDILE A GABBIA: per i 
+bambini più piccoli con scarse capacità di sorreggersi o che non hanno pieno controllo della stabilità; 
+• 
+Altalena SENZA SUPPORTO: per bambini con controllo del tronco e che hanno la possibilità di 
+dondolarsi da soli; con tavoletta abbastanza grande da accogliere bambino e adulto assieme. 
+*Potrebbe essere necessaria la presenza di qualcuno che spinge l’altalena 
+ 
+Lo scivolo 
+Si compone di una scaletta posteriore e di un piano 
+inclinato nella parte anteriore con l’estremità 
+inferiore conformata in modo da rallentare la 
+velocità 
+di 
+discesa. 
+Il 
+bambino 
+scivola 
+seduto/disteso, fino a cadere a terra, sfruttando la 
+forza di gravità. 
+Richiede la capacità di salire i gradini tenendosi 
+lungo il corrimano, sedersi, stare in equilibrio, 
+scendere con i piedi a terra. 
+Favorisce: 
+• 
+sviluppo 
+del 
+sistema 
+vestibolare 
+e 
+propriocettivo; 
+• 
+equilibrio;  
+• 
+coordinazione; 
+• 
+sperimentare la velocità e le altezze; 
+• 
+sviluppo di abilità sociali. 
+Considerare: 
+• 
+la forma concava permette sostegno durante la discesa; 
+• 
+se doppio o largo permette di scendere insieme ad un amico/caregiver; 
+• 
+diverse tipologie come scivoli a tubo, scivoli a spirale, scivoli doppi che permettono di scendere insieme 
+ad un altro bambino e la supervisione da parte di un adulto; 
+• 
+rampa per l’accesso a persone in carrozzina; 
+• 
+possibilità di risalita con l’aiuto di una corda; 
+• 
+necessità di piazzola tra le scale/rampa e lo scivolo; 
+• 
+valutare il materiale; non in acciaio per evitare il surriscaldamento. 
+ 
+ 
+ 
+Il gioco multifunzione 
+Combinazione di diverse piattaforme, accessi ed 
+elementi ludici. Può essere costituito da strutture a 
+terra o elevate.  
+Può essere composto da scivoli, altalene, tunnel, 
+arrampicate, anelli, pertiche, ostacoli, barre, ecc. 
+Richiede la capacità di arrampicarsi, dondolarsi, 
+sfidarsi, scivolare, stare in equilibrio, appendersi, 
+muoversi lungo il percorso, salire e scendere. 
+Favorisce: 
+• 
+il gioco con i pari; 
+• 
+mobilità; 
+• 
+motricità fine; 
+• 
+facoltà cognitive; 
+• 
+stimolazione sensoriale; 
+• 
+coordinazione. 
+Considerare: 
+• 
+luoghi polifunzionali in cui le strutture per facilitare il gioco e il movimento si alternano agli spazi non 
+strutturati, orientati a stimolare la scoperta e lo spirito di avventura, luoghi per nascondersi e garantire 
+l’intimità, ma anche spazi per la socializzazione; 
+• 
+presenza di almeno una rampa d’accesso con corrimano; 
+• 
+accesso ampio e scale di dimensioni tali da permettere di salire anche ad un accompagnatore; 
+• 
+presenza di maniglioni all’interno della struttura; 
+• 
+possono avere un “tema” coinvolgente e motivante per il bambino (per esempio il veliero); 
+• 
+possibilità di inserire diverse tipologie di scivoli (doppi o con rulli); 
+• 
+presenza di pannelli ludici; 
+• 
+presenza di piattaforme basse per consentire i trasferimenti dalla carrozzina; 
+• 
+utilizzo di colori contrastanti; 
+• 
+possibilità di inserire TUNNEL: devono essere ben ancorati affinché non si muovano durante 
+l’attraversamento; devono essere posizionati orizzontalmente e la parte bassa deve essere a raso con il 
+pavimento o minimamente rialzata. Se il dislivello supera qualche centimetro, inserire un elemento di 
+raccordo. Anche se il tunnel si trova su un livello rialzato è preferibile che vi sia la possibilità di tornare 
+all’ingresso del tunnel senza dover percorrerlo in senso contrario. 
+ 
+Giochi dinamici a molla 
+Sono formati da una molla che si muove non appena 
+il bambino si siede sulla sommità del dispositivo. 
+Possono essere di diverse forme. Rispetto al dondolo 
+crea un movimento molleggiato. 
+I giochi a molla sono corredati di maniglie per  
+evitare la caduta del bimbo e di poggiapiedi. 
+Richiedono la capacità di salire, sedersi, afferrare e 
+tenersi sulle maniglie, tenere i piedi nei poggiapiedi, 
+mantenere l’equilibrio, portare il peso del corpo 
+avanti e indietro, scendere. 
+Favoriscono:  
+• 
+motricità; 
+• 
+senso dell’equilibrio;  
+• 
+coordinazione; 
+• 
+cooperazione.  
+ 
+Considerare: 
+• 
+la molla è senso di benessere per gli autistici; 
+• 
+garantire sedute ampie, schienale, pannelli laterali, maniglie e poggiapiedi per l’accesso e il sostegno 
+del tronco; 
+• 
+la doppia seduta facilita i trasferimenti e coinvolge più bambini negli stessi movimenti di oscillazione; 
+• 
+fornire un supporto audio come spunto uditivo. 
+ 
+Giochi sabbia e acqua 
+I piani di lavoro posti su differenti altezze. Esistono 
+strutture con tavoli di manipolazione per il gioco con 
+sabbia ed acqua, oppure con solo la sabbiera da 
+posizionare a terra.  
+Richiede capacità di stare seduto o in piedi, 
+manipolare, coordinare, trasportare, avvicinarsi, 
+alzarsi e abbassarsi, pianificare, costruire. 
+Favoriscono: 
+• 
+manipolazione; 
+• 
+coordinazione bimanuale; 
+• 
+abilità cognitive;  
+• 
+abilità creative; 
+• 
+gioco cooperativo;  
+• 
+integrazione sensoriale; 
+• 
+esplorazione di cambiamenti nella forma e 
+nella sostanza. 
+Considerare: 
+• 
+presenza di panche ed elementi rialzati per il raggiungimento con la carrozzina 
+• 
+sabbiera anche a terra per permettere il gioco a tutti i bambini con/senza disabilità, con bordi rialzati 
+utili per la seduta 
+• 
+Perché l’acqua sia accessibile a tutti: 
+ 
+fornire un rubinetto con una estremità del tubo flessibile che ogni bambino può raggiungere; 
+ 
+fornire le leve su rubinetti, in modo tale che non richiedano abilità motorie fini per operare; 
+ 
+mettendo giochi d'acqua o fontane dove il suono può agire come un spunto orientamento o punto di 
+riferimento 
+ 
+l’analisi dei costi di manutenzione nel tempo e la facilità di gestione e 
+ 
+controllo delle strutture di impianto (pompe e quant’altro) 
+ 
+la necessità di pulizia continua, o riutilizzo dell'acqua prodotta 
+   luoghi dove l'acqua possa essere raccolta temporaneamente 
+   controlli con timer per evitare gli sprechi 
+   come trattare il drenaggio e il deflusso 
+• 
+FONTANELLE: devono essere fatte in modo da consentire ad una persona su sedia a ruote di  
+utilizzarle comodamente senza bagnarsi. Lo zampillo deve sgorgare dal basso verso l’alto (stando 
+seduti è più facile bere se lo zampillo sale verticalmente). I bracci della fontanella devono essere posti 
+a diverse altezze per il comodo accostamento di adulti e bambini. La pavimentazione deve essere priva 
+di ostacoli e non devono esserci ristagni d’acqua o presenza di fango. Il rubinetto deve poter essere 
+azionato con una sola mano, richiedendo una minima abilità ed esiguo sforzo fisico. La pressione del 
+getto d’acqua dev’essere debole. 
+ 
+Pannelli ludici/ giochi didattici 
+Sono costituiti da pannelli che favoriscono il gioco 
+ma anche l’apprendimento. Hanno caratteristiche 
+sensoriali diverse e possono produrre anche dei 
+suoni.  
+Richiedono la capacità di stare in piedi, manipolare, 
+coordinazione oculo-manuale. 
+Favoriscono: 
+• 
+abilità motorie fini; 
+• 
+stimolazione multisensoriale; 
+• 
+comunicazione (favorisce la comunicazione tra 
+bambini affetti da autismo e che hanno difficoltà 
+a comunicare);  
+• 
+osservazione; 
+• 
+concentrazione; 
+• 
+coordinazione occhio-mano; 
+• 
+abilità cognitive. 
+Considerare: 
+• 
+fornire gadget a diversi livelli; 
+• 
+garantirne l’accesso ai disabili; 
+• 
+fornire spunti tattili e uditivi; 
+• 
+utilizzo di colori vivaci e contrasti; 
+• 
+prevedono un ruolo attivo del giocatore che può agire in modo individuale o in collaborazione con altri 
+giocatori. 
+ 
+ 
+TITOLO 
+AUTORI 
+RIVISTA, ANNO 
+CONTENUTI IN BREVE 
+Playful Interaction: 
+Occupational Therapy for 
+All Children on the 
+School Playground. 
+Bundy, A. C., Luckett, T., 
+Naughton, G. A., Tranter, 
+P. J., Wyver, S. R., 
+Ragen, J., Singleton, E., 
+& Spies, G. 
+The American Journal 
+of Occupational 
+Therapy, Vol 62 N°5 
+pag 522-527. 
+2008 
+SCOPO DELLO STUDIO: valutare il livello di giocosità dei bambini tra i 5 e i 
+7 anni (con sviluppo normale)e la percezione degli insegnanti riguardo gli effetti 
+dell’intervento.  
+STRUMENTI: valutazione con ToP (Test of Playfullness), interviste semi-
+strutturate 
+INTERVENTO: inserimento per 11 settimane di “loose part materials” nel 
+parco giochi della scuola da parte di t.o. 
+RISULTATI: notevole cambiamento nel gioco attivo, creativo e sociale dei 
+bambini in seguito all’inserimento di questi materiali nel parco giochi. 
+Usability of playgrounds 
+for children with different 
+abilities. 
+Skär L., Prellwitz M.  
+ 
+Occupational Therapy 
+International, Vol 14, 
+N°3, pag 144–155. 
+2007 
+SCOPO DELLO STUDIO: capire come i bambini con diverse abilità usano i 
+parchi giochi per dedicarsi al gioco creativo e interagire socialmente con i loro 
+coetanei. 
+STRUMENTI: intervista diretta. Le domande riguardano che cosa pensano i 
+bambini appena viene detta la parola parco giochi, raccontare del parco giochi 
+della scuola, cosa fanno o cosa vorrebbero fare al parco.  
+INTERVENTO: intervistati venti bambini con diverse abilità(con mobilità 
+ridotta, grave menomazione visiva, disabilità dello sviluppo, senza disabilità). 
+RISULTATI: tutti i bambini desideravano le cose più riconoscibili o “cose 
+reali”, che significa case, auto e barche piuttosto che grandi “giungle multi-
+funzionali”. I bambini riconoscono il luogo del parco giochi, ma affermano che 
+il design spesso non permette l’accesso. 
+Planning Playgrounds for 
+Children With 
+Disabilities 
+Stout J. 
+The American Journal 
+of Occupational 
+Therapy,  Vol 42,  N°10, 
+pag  653-657. 
+1988 
+SCOPO DELLO STUDIO: Il focus di questo articolo è quello di fornire una 
+guida per la progettazione, costruzione, e finanziamento di parchi giochi adattati 
+e affermare l’importanza del terapista occupazionale nella progettazione. 
+RISULTATI: viene specificato il ruolo del t.o. nella progettazione e forniti dei 
+suggerimenti per incrementare la mobilità del bambino, l’uso dei sensi, le abilità 
+cognitive nell’ambiente del parco giochi. 
+Playground Usability: 
+What Do Playground 
+Users Say? 
+Ripat J. 
+Occupational Therapy 
+International, Vol 19, 
+N°3, pag 144-153. 
+2012 
+SCOPO DELLO STUDIO: Lo scopo di questo studio è di capire l’esperienza 
+dei parchi giochi utilizzati dai bambini con disabilità e i loro caregiver e 
+generare idee per migliorare l’utilizzo dei futuri parchi giochi. 
+STRUMENTI: intervista semi-strutturata a bambini, genitori e caregiver di 
+bambini disabili e non (la maggior parte utilizza una carrozzina). 
+RISULTATI: dimostrano la ridotta partecipazione dei bambini con disabilità al 
+parco giochi. I partecipanti riportano le barriere che incontrano e come loro o 
+altri cercano di superarle. La sabbia e l’erba costituiscono le prime barriere che 
+precludono l’accesso, differenziano il concetto di accessibilità e usabilità. 
+Identificati tre temi principali: Playground Experience, Playground Usability, 
+Inclusivity 
+Focusing on the 
+Environment to Improve 
+Youth Participation: 
+Experiences and 
+Perspectives of 
+Occupational Therapists. 
+Anaby, D., Law, M., 
+Teplicky, R., Turner, L. 
+Int J Environ Res Public 
+Health, Vol 12, N°10, 
+pag 13388–13398. 2015 
+2015 
+SCOPO DELLO STUDIO: Indagare le percezioni e le esperienze, il processo 
+di identificazione delle barriere alla partecipazione e lo sviluppo di strategie per 
+superare queste barriere dei terapisti  occupazionali che hanno utilizzato 
+l’approccio PREP (Pathways and Resources for Engagement and Participation), 
+cosi come anche le loro percezioni rispetto l’utilità dell’intervento. 
+STRUMENTI: PREP 
+INTERVENTO: 12 terapisti occupazionali, dopo aver applicato il PREP a 
+ragazzi con disabilità fisica (lesione cerebrale o spina bifida) dai 12 ai 18 anni, 
+sono stati sottoposti a un intervista semi strutturata di 5 domande.  
+RISULTATI: I terapisti hanno incontrato varie barriere ambientali alla 
+partecipazione. Ci sono barriere fisiche, attitudinali, sociali e istituzionali per 
+esempio attrezzature adattate, trasporti, ambiente fisico e costruito, location 
+geografica e barriere finanziarie. 
+Il ruolo della t.o., è stato percepito da parte dei terapeuti e genitori, come un 
+unico metodo di pratica e un diverso tipo di servizio. 
+Social participation: 
+Redesign of education, 
+research, and practice 
+in occupational therapy. 
+Piškur B. 
+Scandinavian Journal of 
+Occupational Therapy, 
+Vol 21, pag 89-95. 
+2014 
+Introduce il concetto di partecipazione sociale, di cambiamenti sociali e lo 
+analizza dal punto di vista del terapista occupazionale rispetto all’educazione, 
+ricerca e pratica. 
+Il Playground come 
+laboratorio di creatività e 
+di inclusione. 
+Laurìa, A., Montalti, M. 
+Ri_vista, DOI: 
+10.13128/RV-16734, 
+112-128. 
+2015 
+SCOPO DELLO STUDIO:  evidenziare il ruolo strategico che il gioco assume 
+per il benessere dei bambini e analizzare le aree gioco in termini etici, sociali ed 
+architettonici. 
+Play: essential for all 
+children. (A Position 
+Paper of the Association 
+for Childhood Education 
+International). 
+Isenberg, J. P., 
+Quisenberry, N. 
+ 
+Childhood Education, 
+Vol 79, N°1, pag 33-39.  
+2002 
+SCOPO DELLO STUDIO:  dà indicazioni su alcuni elementi dei parchi giochi 
+e ne indica le caratteristiche. Si concentra sul ruolo cruciale degli adulti nella 
+strutturazione e pianificazione dell'ambiente di gioco. Si conclude con invito ad 
+agire da parte di educatori, genitori e politici per garantire esperienze di gioco ai 
+bambini. 
+The suitability of school 
+playgrounds for 
+physically disabled 
+children. 
+Yantzi, N. M., Young, L., 
+Mckeever, P. 
+ 
+Children's Geographies, 
+Vol 8, N°1, pag 65-78.  
+2010 
+SCOPO DELLO STUDIO: esaminare l’idoneità (suitability) di un piccolo 
+campione di parchi giochi di scuole pubbliche di Toronto per i bambini con 
+disabilità fisiche. 
+CAMPIONE: 5 scuole attualmente siti designati o sono stati programmati 
+a diventare i siti designati per i bambini disabili. 
+STRUMENTI: comparazione dei dati raccolti attuali e i criteri richiesti per un 
+parco giochi accessibile.  
+INTERVENTO: sono stati raccolti dati sul numero di componenti elevati (non 
+accessibile dal suolo) e a livello del suolo, come i componenti elevati sono stati 
+raggiunti, se è stata utilizzata una rampa, sono stati controllati il requisiti di 
+larghezza  e pendenza e diversità di tipo di gioco tra cui dondolarsi, manipolare, 
+scivolare. Oltre alle fotografie e video delle barriere principali, sono state fatte 
+mappe dei parchi giochi, che raffigurano gli spazi idonei e non idonei.  
+RISULTATI: dimostrano chiaramente che quattro dei cinque parchi giochi che 
+hanno studiato non hanno soddisfatto i requisiti minimi per l'accessibilità e 
+identificato diversi ostacoli alla partecipazione dei bambini disabili. 
+I quattro parchi gioco non hanno fornito ai bambini disabili esperienze sociali di 
+gioco. Lo studio sottolinea la necessità di sostenere l'accessibilità e l'inclusione 
+di tutti gli spazi di infanzia e la richiesta di risorse per migliorare l'idoneità dei 
+cortili delle scuole. 
+Envisioning inclusion: 
+creating a design plan for 
+inclusive playgrounds for 
+Buddy Break.  
+ 
+Flemming, S. 
+Belmont  University 
+School of Occupational 
+Therapy. 
+SCOPO DEL PROGETTO: ispirare, educare e sostenere per la realizzazione di 
+parchi giochi inclusivi in una varietà di settings. Inoltre esso mira a ispirare le 
+chiese che aderiscono al programma di assistenza di sollievo pediatricaa tenere 
+in considerazione l'installazione di un parco giochi che può essere utilizzato da 
+qualsiasi bambino. 
+STRUMENTI: è stato utilizzato un questionario on-line per esplorare e 
+comprendere le prospettive dei genitori dei bambini per quanto riguarda i parchi 
+giochi. 
+INTERVENTO: sono stati creati materiali didattici per informare i lettori 
+sull'importanza della progettazione di parchi giochi che possono essere utilizzati 
+da bambini con abilità diverse e il ruolo della terapia occupazionale in questo 
+processo. Sono state date informazioni più aggiornate per quanto riguarda le 
+sovvenzioni, i materiali e le attrezzature parco giochi.  
+Design guide for 
+playgrounds. 
+ 
+İnceoğlu, M., Şensoy, G. 
+Design Guide for 
+Playgrounds. Journal of 
+Civil Engineering and 
+Architecture, Vol 9, pag 
+1390-1398. 
+2015 
+SCOPO DELLO STUDIO:  suggerire dei parametri per la progettazione di 
+parchi giochi e offrire una guida che può dare un'idea per i nuovi design. 
+Sono stati esaminati i concetti di bambino, gioco e di parco giochi e sono stati 
+classificati dei parametri di progettazione del parco giochi. 
+Play deprivation in 
+children with physical 
+disabilities: the role of the 
+Occupational Therapist in 
+preventing secondary 
+Missiuna,C., Pollock, N. 
+ 
+The American journal of 
+Occupational Therapy, 
+Vol 45, N°10, pag  882-
+888. 
+1991 
+SCOPO DELLO STUDIO: dimostrare lo scopo e il beneficio di esperienze di 
+gioco libero e delineare le barriere (imposte da caregiver, fisiche e personali, 
+ambientali, sociali) che possono incontrare i bambini con disabilità motorie. 
+Viene inoltre esplorato il ruolo dei terapisti occupazionali che lavorano con i 
+genitori nella prevenzione della privazione nel gioco e delle disabilità secondarie 
+disability. 
+derivanti. 
+Design for play: a guide 
+to creating successful 
+play spaces. 
+Ball, D., Butler, N., 
+Doyle, P., Shackell, A 
+ 
+Free Play Network, Play 
+England. 2008 
+SCOPO DELLA GUIDA: stabilisce i principi per la creazione di spazi di gioco 
+innovativi, e stimolanti. Definisce il processo di progettazione. 
+Ratsaspuisto in Helsinki, 
+Finland: a playground for 
+everyone. 
+Tujula, P., Juutilainen, A. 
+Municipal Engineer, 
+Vol 162 (ME4), pag 
+227-230. 
+2009 
+SCOPO DELLO STUDIO: creare una serie di linee guida per quanto riguarda 
+l'accessibilità nella progettazione, costruzione e manutenzione di strade 
+pubbliche, parchi e aree del cortile. 
+Dà indicazioni rispetto ad alcune attrezzature per il parco giochi (per esempio la 
+mappa tattile, le altalene). 
+Il parco che vorrei, 
+esperienze di 
+progettazione partecipata 
+nei comuni di Albinea, 
+Cadelbosco Sopra e 
+Quattro Castella. 
+ 
+Cirlini, F., Davoli, S., 
+Fantini, G., Pedrazzoli, C. 
+(a cura di). 
+ 
+Imola, Editrice La 
+Mandragora. 2007 
+Progetto realizzato nella regione Emilia- Romagna. Sono stati coinvolti 3 
+comuni (Albinea, Cadelbosco Sopra, Quattro Castella) e 7 servizi per l’infanzia , 
+attraverso un progetto di  progettazione partecipata  È stato realizzato un 
+ampliamento dei servizi per l’infanzia a Cadelbosco Sopra e una nuova scuola ad 
+Albinea. 
+STRUMENTI: ai genitori è stato chiesto di rispondere adiversi questionari di 
+indagine. 
+INTERVENTO: Dopo la fase in cui i bambini hanno definito i loro progetti, si 
+sono svolti incontri con Amministratori e Tecnici per decidere quali attrezzature 
+acquistare dalle ditte del settore e quali costruire insieme ai genitori. Sono stati 
+costruiti dei gruppi di lavoro. 
+RISULTATI: le risposte dei genitori hanno evidenziato i seguenti temi: 
+desiderio e piacere dei bambini e delle bambine nel trascorrere alcuni momenti 
+in spazi all’aperto (parchi, giardini); ricchezza e valore del giocare all’aperto; 
+capacità dei bambini e delle bambine di trasformare in “giocattoli” alcuni 
+elementi naturali (sabbia, foglie, rami…); considerare importanti sia gli attrezzi 
+presenti in un parco (altalene, scivoli…), sia i materiali offerti dalla natura 
+(ghiaia, sassi, foglie, alberi, fiori…). Emersi quattro aspetti cruciali che sono 
+stati presi in considerazione come obiettivi fondanti il progetto degli spazi 
+esterni:  motricità, esperienze sensoriali, gioco di finzione, costruzione e 
+comunicazione. 
+The environment: a focus 
+for occupational therapy. 
+ 
+Law, M.  
+Canadian Journal of 
+Occupational Therapy, 
+Vol 58, N°4, pag 171-
+180.  
+1991 
+SCOPO DELLO STUDIO: definire i metodi per cambiare ambienti invalidanti, 
+in base ai desideri e la partecipazione attiva delle persone con disabilità. 
+Vengono esaminate le idee riguardo l’occupazione e l’ambiente per capire come 
+risolvere i problemi legati all’ambiente.  
+ 
+Understanding and 
+Creating Accessible 
+Morey, L., Taylor, L. 
+Peterborough Victoria 
+Northumberland School 
+SCOPO DELLO STUDIO: capire e spiegare l’importanza dell’accessibilità e 
+fornire una guida per creare un parco giochi accessibile o modificarne uno già 
+Playgrounds. 
+ 
+Board, Trent Centre for 
+Community-based 
+education. 
+2008 
+esistente. 
+STRUMENTI: sono state condotte interviste per identificare le barriere comuni 
+dei parchi giochi. 
+INTERVENTO: scansione ambientale, interviste semi-strutturate e revisioni di 
+tre scuole elementari (attraverso un sondaggio con occasionale descrizione e 
+spiegazione) per capire quali sono le barriere che incontrano i bambini con 
+disabilità e per dare dei suggerimenti su attrezzature accessibili. L’area di studio 
+è stata Peterborough Victoria Northumberland e Clarington Catholic District 
+School Board, di cui 15 scuole elementari cattoliche e 5 scuole secondarie 
+cattoliche. 
+RISULTATI: Il progetto dimostra che piccoli cambiamenti possono migliorare 
+l’esperienza di gioco dei bambini con disabilità e che c’è un aumento della 
+consapevolezza riguardo l’accessibilità e l’ambiente. Sono state identificate le 
+caratteristiche positive esistenti, le barriere all’accessibilità, le soluzioni e il 
+livello di priorità di modificazione delle barriere. Rendendo i parchi accessibili e 
+inclusivi, i bambini e genitori diventano più consapevoli e accettano la disabilità. 
+Playground accessibility 
+and usability for children 
+with disabilities. 
+Experiences of children, 
+parents and professionals. 
+ 
+Prellwitz, M.  
+Luleå University of 
+Technology Department 
+of Human Work 
+Sciences.  
+2007 
+SCOPO DELLA TESI: identificare gli aspetti di accessibilità e usabilità dei 
+parchi giochi per bambini con disabilità basandosi sulle esperienze di bambini, 
+genitori e professionisti. 
+STRUMENTI: 90 PERSONE hanno partecipato ai 4 studi. Per il primo, terzo e 
+quarto studio sono state condotte delle interviste semi strutturate, mentre per il 
+secondo studio è stato somministrato un questionario.Nel primo venivano 
+intervistati  5 creatori di parchi giochi e 6 utilizzatori dei parchi. Tra i 
+partecipanti del primo studio c’erano anche tre bambini con limitazioni motorie 
+(7-11 anni). Nel secondo studio è stato fatto un questionario rivolto a persone 
+responsabili di parchi giochi in 41 comuni della Svezia del Nord. Al terzo studio 
+hanno partecipato 20 bambini tra cui 5 con limitazioni motorie, 5 con moderate 
+disabilità dello sviluppo, 5 con grave disabilità visiva e 5 senza alcuna disabilità; 
+nel quarto studio invece 18 genitori di bambini con disabilità. 
+RISULTATI: I risultati dello studio hanno dimostrato che le persone coinvolte 
+nella creazione di parchi giochi  descrivono un’organizzazione frammentata e 
+carenze nelle procedure per la creazione di parchi. Inoltre emerge che i creatori 
+di parchi hanno una conoscenza insufficiente rispetto la progettazione e 
+l’accessibilità. I bambini con limitazioni motorie hanno espresso la loro 
+difficoltà nell’accedere al parco e alle relative attrezzature. Inoltre l’aiuto di un 
+adulto era una prerequisito. I genitori hanno riportato una scarsa presenza di 
+opportunità per i loro figli di giocare e partecipare con gli altri bambini e questo 
+li porta a diventare dipendenti dagli adulti. Inoltre affermano che il parco giochi 
+fanno sentire i loro figli in maniera differente. Sottolinea il ruolo del terapista 
+occupazionale. 
+How playground designs 
+influence children with 
+disabilities - parental 
+perceptions. 
+ 
+Prellwitz M., Skär L. 
+Luleå University of 
+Technology, 
+Department of Health 
+Sciences 
+2007 
+SCOPO DELLO STUDIO: ottenere una maggiore comprensione di come il 
+design di un parco giochi possa influenzare un bambino con disabilità. 
+STRUMENTI: intervista semi-strutturata a 18 genitori di bambini con disabilità 
+del nord della Svezia. 
+RISULTATI: I risultati hanno mostrato che i genitori percepiscono che la 
+progettazione dei parchi giochi influenza negativamente i loro, ostacolando 
+attività di gioco e l'interazione con i coetanei.  I bambini si sentono diversi dagli 
+altri e per questo, evitano di andare al parco. 
+Attitudes of Key Persons 
+to Accessibility Problems 
+in Playgrounds for 
+Children with Restricted 
+Mobility: A Study in a 
+Medium-sized 
+Municipality in Northern 
+Sweden. 
+Tamm M., Prellwitz M.  
+Scandinavian Journal of 
+Occupational Therapy, 6 
+: 166–173 
+1999 
+SCOPO DELLO STUDIO: esplorare gli atteggiamenti ai problemi di 
+accessibilità ai parchi giochi tra ''creatori'' e ''utenti dei parchi giochi'' nel nord 
+della Svezia.  
+STRUMENTI: intervista semi-strutturata a 11 persone. 
+RISULTATI: mostrano che coloro che hanno creato i parchi giochi hanno avuto 
+un’organizzazione frammentata, scarsa conoscenza della disabilità. Le interviste 
+con gli utenti dei parchi, sono state codificate in due temi: il parco giochi non è 
+per me (cioè per i bambini con mobilità ridotta) e l'assistenza è una 
+precondizione per l'accessibilità. 
+A systematic review of 
+the best practices for 
+playground inclusion. 
+ 
+Mejeur, M., Schmitt, G., 
+Wolcott, H. 
+ 
+Pediatrics. Paper 1, 
+Grand Valley State 
+University. 
+2013  
+Review di 21 articoli della ricerca esistente in materia di design di parchi giochi 
+accessibili e inclusivi per le scuole elementari. Sono stati considerati due tipi di 
+attrezzature per parchi giochi: attrezzature fisse e attrezzature sciolte e sono state 
+fornite indicazioni specifiche rispetto al bambino autistico. 
+I risultati della ricerca forniscono  raccomandazioni per la progettazione di un 
+parco giochi inclusivo e accessibile. I risultati suggeriscono anche che l'attività 
+fisica al parco migliora le prestazioni in aula.  
+Accessibility, usability 
+and Universal Design 
+positioning and defnition 
+of concepts describing 
+person-environment 
+relationships. 
+Iwarsson, S., Staêhl, A. 
+Disability and 
+rehabilitation, Vol 25, 
+N°2, pag 57-66.  
+2003 
+SCOPO DELLO STUDIO: definire e discutere tre concetti fondamentali per 
+quanto riguarda le relazioni persona-ambiente: accessibilità, utilizzabilità e 
+Universal Design. 
+STRUMENTI: review  
+RISULTATI: Gli autori suggeriscono una definizione di accessibilità, mettendo 
+in evidenza che l'accessibilità deve essere analizzata valutando l'integrazione fra 
+persona e ambiente.  
+Universal Playground 
+Design. 
+ 
+Ensign, A.  
+PAM Repeater, Vol.79, 
+pag 1-22 
+1993 
+SCOPO DELLO STUDIO: fornire dei principi di parchi giochi universali con 
+lo scopo di promuovere l'accessibilità di tutti i bambini, con e senza disabilità.  
+Vengono fornite delle linee guida per la progettazione riguardo la sicurezza, 
+l'accessibilità, problemi di sviluppo, lo sviluppo sociale/emozionale, 
+intellettuale, sensoriali. Vengono date indicazioni rispetto agli adattamenti dei 
+giochi. 
+Disabled children's 
+perceptions of technical 
+aids, assistance 
+and peers in play 
+situations. 
+Skär, L.  
+Scandinavian Journal of 
+Caring Sciences, 
+Vol.16, N°1, pag 27-33. 
+2002 
+SCOPO DELLO STUDIO: comprendere come i bambini con disabilità 
+percepiscono i loro ausili in situazioni di gioco.  
+STRUMENTI: interviste a otto bambini con disabilità. 
+RISULTATI: sono state create tre categorie formando un modello che descrive 
+le relazioni del bambino in situazioni di gioco (categoria principale): ausili 
+tecnici, l'assistenza e l'ambiente di gioco. Le opportunità di gioco e l’accesso al 
+parco richiedono la presenza di un genitore o un assistente. È stato analizzato 
+come i bambini percepiscono i loro ausili e questi sono stati anche visti come 
+un'estensione del bambino.  
+Person Environment 
+Occupation model + 
+Universal Design = great 
+places for all to play! 
+ 
+Kanics I. M. 
+CAOT conference/2016 
+Definisce il modello Person-Environment-Occupation e i principi dell’Universal 
+Design. 
+RISULTATI: dimostra che è importante per gli individui di tutte le età e 
+capacità, uscire e giocare. Il modello PEO può essere accoppiato al concetto di 
+Universal Design per creare spazi in cui tutti possono giocare senza distinzione 
+di età o abilità. 
+The Person-Environment-
+Occupation Model: A 
+transactive approach to 
+occupational 
+performance. 
+Cooper, B., Law, M., Lori 
+Letts, L., Rigby, P., 
+Strong, S., Stewart, D. 
+ 
+Canadian Journal of 
+Occupational Therapy, 
+Vol.63, N°1, pag 9-23.  
+1996 
+Questo documento presenta e analizza il modello del PEO facendo riferimento ai 
+concetti dalla terapia occupazionale. Il modello descrive le interazioni tra 
+persona, occupazione e ambiente, delinea i principali concetti e le ipotesi, e 
+viene applicato ad una situazione pratica. 
+Outdoor Environments 
+for Children with Autism 
+and Special Needs.  
+Sachs, N., Vincenta, T. 
+InformeDesign’s, Vol.9, 
+N°1, pag 1-8. 
+2011 
+SCOPO DELLO STUDIO: esplorare la ricerca e fare delle considerazioni di 
+progettazione per la creazione di spazi esterni basati sulla natura  che consentono 
+ai bambini con autismo di giocare e imparare a superare le sfide comuni in 
+sicurezza e a divertirsi. Definisce l’autismo e da indicazioni su alcune 
+attrezzature. 
+ 
