@@ -51,7 +51,7 @@ La ricerca ribadisce la valenza psicologica, educante e socializzante del gioco 
 
 ## Concetti Chiave
 - [[Valutazione Multidimensionale del Giocattolo Inclusivo]]
-- [[Limiti del Gioco a Catalogo]]
+- [[[[Concept - Limiti del Gioco a Catalogo|Limiti del Gioco a Catalogo]]]]
 - [[Universal Design nei Parchi Gioco]]
 - [[Funzione educante e socializzante del Gioco]]
 

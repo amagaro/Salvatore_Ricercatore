@@ -30,20 +30,20 @@ L'autrice segnala in modo esplicito alcuni limiti e rischi strutturali insiti ne
 Essendo un articolo di revisione e riflessione pedagogico-sociale, nel testo non vengono riportati KPI numerici, metriche quantitative esatte o dati statistici di performance misurati in modo sperimentale. Tuttavia, lo studio riporta risultati qualitativi di grande rilievo basati sulla letteratura: i programmi educativi che integrano il gioco in modo strutturato (come *Playworks* negli USA) hanno dimostrato di produrre un netto miglioramento del clima scolastico, una sensibile diminuzione dei conflitti tra pari e una maggiore facilità nell'integrazione di studenti provenienti da contesti marginalizzati. Si riscontra inoltre che l'implementazione del gioco negli spazi urbani genera un aumento diretto della qualità della vita nelle città multiculturali.
 
 ### 5. Sviluppi Futuri
-Gli sviluppi futuri auspicati dall'autrice si muovono su tre direttrici. La prima riguarda il *Game Design*: si auspica una progettazione ludica ("Critical Play") radicalmente inclusiva, che unisca intrattenimento a impatto sociale evitando dinamiche esclusive. La seconda riguarda l'istruzione e l'urbanistica: si propone l'integrazione strutturale delle attività ludiche nei curricula scolastici e la promozione di politiche pubbliche ("Inclusive Cities through Play") che riconoscano il gioco come diritto inalienabile e lo inseriscano nella rigenerazione degli spazi pubblici. La terza direttrice riguarda la ricerca tecnologica: si individua nello sviluppo di tecnologie immersive (Realtà Virtuale) un campo applicativo di estremo interesse per la creazione di scenari simulati in grado di stimolare profondamente l'empatia interculturale.
+Gli sviluppi futuri auspicati dall'autrice si muovono su tre direttrici. La prima riguarda il *Game Design*: si auspica una progettazione ludica ("[[Concept - Critical Play|Critical Play]]") radicalmente inclusiva, che unisca intrattenimento a impatto sociale evitando dinamiche esclusive. La seconda riguarda l'istruzione e l'urbanistica: si propone l'integrazione strutturale delle attività ludiche nei curricula scolastici e la promozione di politiche pubbliche ("Inclusive Cities through Play") che riconoscano il gioco come diritto inalienabile e lo inseriscano nella rigenerazione degli spazi pubblici. La terza direttrice riguarda la ricerca tecnologica: si individua nello sviluppo di tecnologie immersive (Realtà Virtuale) un campo applicativo di estremo interesse per la creazione di scenari simulati in grado di stimolare profondamente l'empatia interculturale.
 
 ### 6. Conclusioni
 L'articolo conclude affermando che il gioco rappresenta a tutti gli effetti un linguaggio universale, un "ponte sociale" essenziale per l'interazione umana, in grado di sostituire le parole con dinamiche di gruppo emotivamente coinvolgenti. Investire nella sua valorizzazione e progettazione consapevole significa dotarsi di uno strumento formidabile per costruire una società contemporanea più equa, solidale e resiliente, in grado di affrontare la complessità della globalizzazione trasformando le diversità culturali in un vero valore aggiunto condiviso.
 
 ## Concetti Chiave
 - [[Gioco come ponte sociale]]
-- [[Critical Play]]
+- [[[[Concept - Critical Play|Critical Play]]]]
 - [[Resilienza post-pandemica]]
 
 ## Bibliografia Rilevante
 1. Huizinga, J. (1938). Homo Ludens: A Study of the Play-Element in Culture.
 2. Vygotskij, L. S. (1978). Mind in Society: The Development of Higher Psychological Processes.
-3. Flanagan, M. (2009). Critical Play: Radical Game Design.
+3. Flanagan, M. (2009). [[Concept - Critical Play|Critical Play]]: Radical Game Design.
 
 ---
 [[Casestudy - Football for Social Inclusion]]

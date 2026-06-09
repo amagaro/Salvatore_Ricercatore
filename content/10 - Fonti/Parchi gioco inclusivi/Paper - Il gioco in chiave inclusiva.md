@@ -43,7 +43,7 @@ L'articolo riafferma, appoggiandosi ai grandi padri della pedagogia (Fröbel, Mo
 
 ## Concetti Chiave
 - [[Materiale ludico non strutturato]]
-- [[Zona di Sviluppo Prossimale nel Gioco]]
+- [[[[Concept - Zona di Sviluppo Prossimale nel Gioco|Zona di Sviluppo Prossimale nel Gioco]]]]
 - [[Universal Design for Learning nel Gioco]]
 
 ## Bibliografia Rilevante

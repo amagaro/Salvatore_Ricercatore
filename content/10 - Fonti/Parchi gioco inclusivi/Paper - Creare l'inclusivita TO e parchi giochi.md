@@ -40,7 +40,7 @@ La tesi conclude che un parco inclusivo non necessita necessariamente di attrezz
 
 ## Concetti Chiave
 - [[Modello Person-Environment-Occupation (PEO)]]
-- [[Accessibilità vs Usabilità]]
+- [[[[Concept - Accessibilità vs Usabilità|Accessibilità vs Usabilità]]]]
 - [[Progettazione Partecipata]]
 - [[Universal Design nei Parchi Gioco]]
 

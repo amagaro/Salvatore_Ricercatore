@@ -44,7 +44,7 @@ La seconda parte del report dimostra che l'inclusività non è uno stato che si 
 
 ## Concetti Chiave
 - [[Co-progettazione inclusiva]]
-- [[Accessibilità vs Usabilità]]
+- [[[[Concept - Accessibilità vs Usabilità|Accessibilità vs Usabilità]]]]
 - [[Universal Design nei Parchi Gioco]]
 
 ## Bibliografia Rilevante

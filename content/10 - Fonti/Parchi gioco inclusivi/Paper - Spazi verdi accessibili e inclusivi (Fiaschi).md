@@ -41,7 +41,7 @@ Il successo del processo ha generato un **Tavolo Permanente**, un gruppo di citt
 - [[Casestudy - Parco Libera Tutti (Certaldo)]]
 
 ## Concetti Chiave
-- [[Progettazione Partecipata degli Spazi Educativi]] (Confermato e integrato)
+- [[[[Concept - Progettazione Partecipata degli Spazi Educativi|Progettazione Partecipata degli Spazi Educativi]]]] (Confermato e integrato)
 - [[Accessibilità come Prerequisito, Inclusione come Attività]]
 - [[Sicurezza tramite Vitalità (Eyes on the street)]]
 

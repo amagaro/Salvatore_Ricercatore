@@ -12,6 +12,15 @@ ultimo_aggiornamento: 2026-06-09
 # 📑 Sintesi: Gap Analysis - Il Paradosso tra Accessibilità a Norma e Inclusione Reale
 
 ## 🎯 Obiettivo dell'Analisi
+```mermaid
+graph TD
+    A["Gap Analysis"] --> B("Accessibilità a Norma (PEBA)")
+    A --> C("Inclusione Reale (Attivazione Sociale)")
+    B --> D("Focus Motorio")
+    C --> E("Focus Sensoriale e Relazionale")
+    D -.->|Contraddizione| E
+```
+
 L'obiettivo di questa sintesi è decostruire l'attuale approccio normativo alla progettazione degli spazi ludici e pubblici. Molte amministrazioni si limitano a soddisfare i requisiti dei Piani di Eliminazione delle Barriere Architettoniche (PEBA), ritenendo che l'accessibilità motoria sia sinonimo di inclusione. Attraverso l'incrocio delle fonti raccolte, si evidenzia il divario (*gap*) tra lo standard architettonico e i reali bisogni sociali, sensoriali e cognitivi dell'utenza.
 
 ## 📊 Matrice del Divario (Gap Analysis)

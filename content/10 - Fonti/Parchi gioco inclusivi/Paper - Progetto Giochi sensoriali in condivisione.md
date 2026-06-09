@@ -37,7 +37,7 @@ La ricerca conclude sostenendo che la progettazione di spazi verdi, in virtù de
 
 ## Concetti Chiave
 - [[Laboratorio Sensoriale Esterno]]
-- [[Accessibilità Cognitiva e Sensoriale]]
+- [[[[Concept - Accessibilità Cognitiva e Sensoriale|Accessibilità Cognitiva e Sensoriale]]]]
 - [[User-Centered Design per l'Inclusione]]
 
 ## Bibliografia Rilevante

@@ -43,7 +43,7 @@ La sostenibilità negli spazi urbani non può prescindere dall'equità sociale (
 
 ## Concetti Chiave
 - [[CAM e Sostenibilita Sociale]]
-- [[Co-progettazione inclusiva]]
+- [[[[Concept - Co-progettazione inclusiva|Co-progettazione inclusiva]]]]
 - [[Universal Design nei Parchi Gioco]]
 
 ## Bibliografia Rilevante

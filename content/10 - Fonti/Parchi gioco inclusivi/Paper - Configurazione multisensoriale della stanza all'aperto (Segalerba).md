@@ -47,7 +47,7 @@ Il modello viene applicato al progetto universitario di riqualificazione del Par
 
 ## Concetti Chiave
 - [[Configurazione Multisensoriale]]
-- [[Spazi Rifugio per la Neurodivergenza]]
+- [[[[Concept - Spazi Rifugio per la Neurodivergenza|Spazi Rifugio per la Neurodivergenza]]]]
 - [[Wayfinding Inclusivo nei Parchi]]
 
 ## Bibliografia Rilevante

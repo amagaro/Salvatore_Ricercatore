@@ -8,6 +8,13 @@ tags:
 # 🧠 Insight Trasversali: Parchi gioco inclusivi
 
 *Questa nota consolida le tendenze, i nodi critici e l'evoluzione dei paradigmi emersi dall'analisi delle fonti sul tema dei parchi gioco e degli spazi aperti inclusivi.*
+```mermaid
+graph TD
+    A["Diritto al Rischio"] --> B("Sviluppo Psicomotorio")
+    C["Spazio Sensoriale"] --> D("Spazi Rifugio")
+    E["Co-progettazione"] --> F("Inclusione Reale (Attiva)")
+```
+
 
 ## 1. Evoluzione del Paradigma: Dall'Accessibilità all'Inclusione Attiva
 L'insight più ricorrente e trasversale (confermato da L'abilità Onlus, Fiaschi, Segalerba) è lo slittamento semantico e operativo dal concetto di "Accessibilità" a quello di "Inclusione". 

@@ -18,7 +18,7 @@ titolo: "Spazi e pagine che includono: un Parco, un libro"
 ## Sintesi Estesa
 
 ### 1. Obiettivi
-Lo scopo principale della ricerca è presentare e rendicontare il percorso di co-progettazione del "Parco Albero del Tesoro", ideato per diventare il primo parco comunale inclusivo e sensoriale della città di Padova. La ricerca intende dimostrare sul campo come l'inclusione possa e debba essere promossa attraverso la partecipazione attiva della comunità e, in particolar modo, dando voce ai bambini. Il progetto parte dal presupposto fondamentale che il gioco sia un diritto inalienabile e che l'accessibilità degli spazi ludici sia un dovere della società. Un ulteriore obiettivo del paper è presentare lo strumento mediatore utilizzato durante il percorso laboratoriale: un libro multicodice e altamente accessibile intitolato "Il tesoro del labirinto incantato", progettato appositamente per favorire nei più piccoli la riflessione costruttiva sulla disabilità e sulle diversità.
+Lo scopo principale della ricerca è presentare e rendicontare il percorso di co-progettazione del "Parco Albero del Tesoro", ideato per diventare il primo parco comunale inclusivo e sensoriale della città di Padova. La ricerca intende dimostrare sul campo come l'inclusione possa e debba essere promossa attraverso la partecipazione attiva della comunità e, in particolar modo, dando voce ai bambini. Il progetto parte dal presupposto fondamentale che il gioco sia un diritto inalienabile e che l'accessibilità degli spazi ludici sia un dovere della società. Un ulteriore obiettivo del paper è presentare lo strumento mediatore utilizzato durante il percorso laboratoriale: un [[Concept - Libro Multicodice|libro multicodice]] e altamente accessibile intitolato "Il tesoro del labirinto incantato", progettato appositamente per favorire nei più piccoli la riflessione costruttiva sulla disabilità e sulle diversità.
 
 ### 2. Metodologia
 La metodologia di ricerca si è basata su un robusto approccio partecipativo ("co-progettazione") che ha coinvolto un partenariato composto dalla Fondazione Robert Hollman, dal Comune di Padova, da 17 enti del terzo settore e dalla popolazione scolastica locale (ben 1528 bambini, coordinati da 108 insegnanti appositamente formati).
@@ -46,7 +46,7 @@ L'articolo conclude sottolineando che la progettazione di spazi fisici urbani, s
 
 ## Concetti Chiave
 - [[Co-progettazione inclusiva]]
-- [[Libro Multicodice]]
+- [[[[Concept - Libro Multicodice|Libro Multicodice]]]]
 - [[Universal Design]]
 - [[Inclusive Community Shareholders]]
 

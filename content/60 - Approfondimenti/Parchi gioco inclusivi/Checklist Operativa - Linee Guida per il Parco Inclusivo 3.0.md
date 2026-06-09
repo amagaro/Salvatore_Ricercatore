@@ -13,6 +13,16 @@ ultimo_aggiornamento: 2026-06-09
 # 📑 Sintesi: Checklist Operativa - Linee Guida per il Parco Inclusivo 3.0
 
 ## 🎯 Obiettivo dell'Analisi
+```mermaid
+graph TD
+    A["Linee Guida: Parco Inclusivo 3.0"] --> B("Programmazione")
+    A --> C("Progettazione Fisica/Sensoriale")
+    A --> D("Gestione")
+    B --> E("Co-creazione")
+    C --> F("Spazi Rifugio")
+    D --> G("Manutenzione e Controllo Sociale")
+```
+
 Questa checklist traduce le istanze emerse dalla letteratura scientifica e dai casi di studio in uno strumento operativo per la progettazione o la verifica di un parco gioco realmente inclusivo. L'obiettivo è superare la mera logica dell'adeguamento normativo, fornendo parametri di valutazione su tre assi: Accessibilità Fisica, Accessibilità Sensoriale/Cognitiva e Sostenibilità Sociale.
 
 ## 📊 Checklist Operativa

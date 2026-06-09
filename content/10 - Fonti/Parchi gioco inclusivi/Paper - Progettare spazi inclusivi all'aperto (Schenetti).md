@@ -49,7 +49,7 @@ Il testo propone lo sviluppo diffuso di un approccio trasformativo che:
 
 ## Concetti Chiave
 - [[Progettazione Partecipata degli Spazi Educativi]]
-- [[Outdoor Education come Strumento di Inclusione]]
+- [[[[Concept - Outdoor Education come Strumento di Inclusione|Outdoor Education come Strumento di Inclusione]]]]
 - [[Il Manifesto degli Spazi Inclusivi all'Aperto]]
 
 ## Bibliografia Rilevante
