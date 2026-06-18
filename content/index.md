@@ -86,6 +86,10 @@ Ricerca sull'integrazione del Building Information Modeling (BIM) nella gestione
 *   **Mappe dei Contenuti:** [[MOC - BIM and costs estimation]]
 *   **Sintesi Avanzate:**
     *   [[Insight - BIM and costs estimation]]
+    *   [[60 - Approfondimenti/BIM and costs estimation/Gap Analysis - Limiti e Contraddizioni del 5D BIM|Gap Analysis: Limiti e Contraddizioni del 5D BIM]]
+    *   [[60 - Approfondimenti/BIM and costs estimation/Analisi Comparativa - Framework e Software 5D BIM|Analisi Comparativa: Framework e Software 5D BIM]]
+    *   [[60 - Approfondimenti/BIM and costs estimation/Checklist Operativa - Linee Guida per il 5D BIM|Checklist Operativa: Linee Guida per il 5D BIM]]
+    *   [[60 - Approfondimenti/BIM and costs estimation/Stakeholder - Analisi del Valore e ROI del BIM|Stakeholder: Analisi del Valore e ROI del BIM]]
 
 ---
 

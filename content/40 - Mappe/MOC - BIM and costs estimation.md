@@ -53,3 +53,9 @@ Questa Mappa dei Contenuti (Map of Content) raccoglie e raggruppa tutti i concet
 - [[Sustainability]]
 - [[Decision-making framework]]
 - [[Systematic review]]
+
+## Sintesi Avanzate
+- [[Gap Analysis - Limiti e Contraddizioni del 5D BIM|Gap Analysis: Limiti e Contraddizioni del 5D BIM]]
+- [[Analisi Comparativa - Framework e Software 5D BIM|Analisi Comparativa: Framework e Software 5D BIM]]
+- [[Checklist Operativa - Linee Guida per il 5D BIM|Checklist Operativa: Linee Guida per il 5D BIM]]
+- [[Stakeholder - Analisi del Valore e ROI del BIM|Stakeholder: Analisi del Valore e ROI del BIM]]

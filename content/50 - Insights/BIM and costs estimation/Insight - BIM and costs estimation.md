@@ -22,3 +22,12 @@ L'analisi dei 10 paper estratti dal taccuino "BIM and costs estimation" rivela u
 
 ## Evoluzioni del Paradigma
 Siamo nel mezzo della transizione tra la fase della "digitalizzazione del disegno" (3D BIM) e la fase del "Computational Intelligence". Il prossimo paradigma vedrà il BIM non più come un database statico di progetto, ma come il motore dinamico, finanziario e decisionale dell'opera, fuso con algoritmi predittivi per mitigare ogni rischio prima della posa della prima pietra.
+
+## Metodologie Emergenti Consigliate dalla Letteratura
+Sulla base dei paper analizzati, si delineano le seguenti raccomandazioni metodologiche operative:
+1. **Mappatura Relazionale e Ontologica:** Risolvere il problema dell'interoperabilità tra gli standard BIM (es. UniFormat) e i listini nazionali (es. MasterFormat) tramite plug-in personalizzati accoppiati a database relazionali o ontologie semantiche, per una conversione automatica del QTO in budget.
+2. **Limit Design e Whole Process:** Applicare il BIM fin dalla fase decisionale imponendo il budget massimo come vincolo rigido (Limit Design), per ottimizzare iterativamente le scelte architettoniche prima dell'appalto.
+3. **Integrazione con Big Data:** Sfruttare algoritmi di analisi su dati storici per mitigare drasticamente il margine delle "spese impreviste" (portandole dal tradizionale 50% fino a sotto il 10%).
+4. **Decision-making framework pesato per i Software 5D:** Non esistendo una piattaforma perfetta, è raccomandato usare matrici di valutazione con pesi (weighting system) per scegliere il software 5D (es. iTWO, Vico Office, CostX) più adatto alle criticità aziendali specifiche, prestando attenzione alle carenze croniche nel Cost Control.
+5. **Algoritmi Genetici (GA) e Simulazioni Predittive (Monte Carlo):** Per superare i limiti del Cost Control, è consigliato l'uso combinato di algoritmi per processare e ottimizzare migliaia di scenari probabilistici sui costi e i tempi operativi.
+6. **Smart Contracts e Pagamenti Automatizzati:** Adottare la tecnologia Blockchain collegata allo stato d'avanzamento as-built nel BIM, in modo da automatizzare lo sblocco dei pagamenti e ridurre i contenziosi amministrativi.
