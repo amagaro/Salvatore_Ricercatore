@@ -138,5 +138,12 @@ Questa dashboard riepiloga i casi di studio archiviati nel Vault, con riferiment
 | [[Casestudy - Scuola Primaria via Polesine]] | Milano (periferia sud-est) | Rigenerazione Spazi Scolastici Esterni | Alunni della scuola primaria, Insegnanti, Famiglie, Comunità locale | Riqualificazione partecipata del cortile scolastico, realizzazione Aula all'aperto |
 
 
+
+## 🏗️ BIM and costs estimation
+| Progetto | 📍 Luogo | 🏛️ Ambito | 👥 Target | ✨ Caratteristiche |
+| :--- | :--- | :--- | :--- | :--- |
+| [[Casestudy - Tiffa project]] | Teheran, Iran | Edilizia residenziale (stima dei costi della disciplina architettonica) | Computisti, Estimatori, Project Manager | API Revit, Plug-in C#, UniFormat, MasterFormat, FehrestBaha |
+
+
 ---
-**Ultimo aggiornamento:** 2026-06-09
+**Ultimo aggiornamento:** 2026-06-18
