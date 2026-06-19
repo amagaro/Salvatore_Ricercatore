@@ -46,6 +46,8 @@ Questa Mappa dei Contenuti (Map of Content) raccoglie e raggruppa tutti i concet
 - [[Simulation]]
 - [[Smart contracts]]
 - [[Software solutions]]
+- [[Database-driven estimating]]
+- [[Automated Scheduling]]
 
 ## Pianificazione e Strategia
 - [[Planning]]

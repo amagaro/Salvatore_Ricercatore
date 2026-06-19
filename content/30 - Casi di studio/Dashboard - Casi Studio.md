@@ -143,6 +143,8 @@ Questa dashboard riepiloga i casi di studio archiviati nel Vault, con riferiment
 | Progetto | 📍 Luogo | 🏛️ Ambito | 👥 Target | ✨ Caratteristiche |
 | :--- | :--- | :--- | :--- | :--- |
 | [[Casestudy - Tiffa project]] | Teheran, Iran | Edilizia residenziale (stima dei costi della disciplina architettonica) | Computisti, Estimatori, Project Manager | API Revit, Plug-in C#, UniFormat, MasterFormat, FehrestBaha |
+| [[Casestudy - Higher education project (campus center)]] | Atlanta, GA (Stati Uniti) | Edilizia Universitaria / Costruzione | Project Manager, VDC Manager | Edificio universitario da $110M, efficacia del 5D BIM in fase di concept |
+| [[Casestudy - Six-story reinforced concrete building]] | Egitto / Russia | Edilizia Residenziale / Lavori Strutturali | Estimatori, Schedulers | Integrazione database SQL con BIM per stima e Automated Scheduling |
 
 
 ---
