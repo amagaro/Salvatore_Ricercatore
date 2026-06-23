@@ -152,6 +152,14 @@ Questa dashboard riepiloga i casi di studio archiviati nel Vault, con riferiment
 | :--- | :--- | :--- | :--- | :--- |
 | [[Casestudy - IONIQ-5 Thermal Management Evaluation]] | Seoul, Corea del Sud | Automotive / Gestione Climatica Mobile | Ottimizzazione consumi batteria tramite gestione termica proattiva | EV con Sky Camera Fisheye e sensori solari su tetto |
 | [[Casestudy - Nanjing Experimental Agrivoltaic Park]] | Nanjing (Nanchino), Jiangsu, Cina | Agricoltura Sostenibile / Energie Rinnovabili | Simbiosi microclimatica tra pannelli e colture | Array fotovoltaici a densità variabile su campo aperto |
+| [[Casestudy - Exergy-based Responsive Composites Prototype]] | Non specificato | Ricerca Materiali / Prototipazione | Sperimentazioni termo-meccaniche | FGM in legno, piegatura esergica |
+| [[Casestudy - Baghdad ICT-Media Building Retrofit]] | Baghdad, Iraq | Retrofit Edilizio / Simulazione | Edifici esistenti, clima arido | BPS parametrico, riduzione 44.2% carico |
+| [[Casestudy - CNC TPHWC Retrofit]] | Non specificato | Fabbricazione Digitale | Macchine CNC e progettisti | Retrofit scheda CNC, Digital Twin WebSocket |
+| [[Casestudy - DFED Umbrella]] | Concettuale | Industrial Design | Spazi aperti / Strutture ombreggianti | Design pieghevole, Frame Insight |
+| [[Casestudy - Manta-Ray Textile Prototype]] | Politecnico di Milano, Italia | Design Tessile / Architettura | Edifici universitari / Retrofit | Filati mono-materiale CNC, Bending-Active |
+| [[Casestudy - Modulo Cinetico Biodegradabile]] | Laboratorio | Circular Economy | Mitigazione solare, riuso per uffici | Biomateriali, asta mobile termoreattiva |
+| [[Casestudy - SLICE 2.0]] | Catania, Italia | Fotovoltaico Integrato / Stand-alone | Edifici Mediterranei | Lino flessibile, Arduino, BIPV autosufficiente |
+| [[Casestudy - Design 6 BIPV Adattivo]] | Torino/Oslo/New Mexico | Simulazione / Energia | Comfort e generazione energetica | Schermatura ibrida a 3 assi, ROI 35% |
 
 
 ---

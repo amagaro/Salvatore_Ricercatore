@@ -96,6 +96,10 @@ Ricerca focalizzata sull'evoluzione dell'involucro (edile, agricolo e automotive
 *   **Mappe dei Contenuti:** [[MOC - Adaptive Envelopes]]
 *   **Sintesi Avanzate:**
     *   [[Insight - Adaptive Envelopes]]
+    *   [[60 - Approfondimenti/Adaptive Envelopes/Synthesis - Gap Analysis Limitazioni Facciate|Gap Analysis: Limitazioni e Barriere delle Facciate Adattive]]
+    *   [[60 - Approfondimenti/Adaptive Envelopes/Synthesis - Checklist Progettazione Involucri|Checklist Operativa: Progettazione di Involucri Adattivi]]
+    *   [[60 - Approfondimenti/Adaptive Envelopes/Synthesis - KPI Audit Quantitativo vs Qualitativo|KPI Audit: Maturità dei Dati e Validazione Economica]]
+    *   [[60 - Approfondimenti/Adaptive Envelopes/Synthesis - Evoluzione Paradigmatica delle Facciate|Analisi del Trend: Evoluzione Paradigmatica delle Facciate]]
 
 ---
 
