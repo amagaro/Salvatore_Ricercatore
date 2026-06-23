@@ -1,0 +1,884 @@
+Dynamic solar irradiance 
+estimation for vehicle thermal 
+management using a multi-modal 
+machine learning framework
+Rial A. Rajagukguk1, Hoseong Lee2 & Hyunjin Lee1
+Accurate solar irradiance estimation for moving vehicles is essential for effective thermal management 
+and energy optimization, particularly in electric vehicles (EVs) where cabin climate control directly 
+impacts battery usage and driving range. However, existing approaches often overlook the dynamic 
+environmental conditions encountered during vehicle movement, limiting their applicability in real-
+world scenarios. This study proposes a novel machine learning framework that integrates satellite 
+remote sensing and sky camera imagery to estimate solar irradiance around moving vehicles in real 
+time. The framework was validated using comprehensive field data collected from an instrumented 
+vehicle equipped with solar irradiance sensors, GPS tracking, and environmental monitoring systems 
+across various routes and seasonal conditions. By fusing multi-source environmental data, the model 
+delivers high spatiotemporal resolution predictions of solar irradiance under diverse urban and 
+atmospheric conditions. Results show strong performance, with normalized root-mean-square errors 
+of 14.61% in summer and 17.10% in winter. These accurate predictions enable adaptive, location-
+aware thermal management strategies that proactively adjust climate control based on anticipated 
+solar exposure. The integration of satellite and ground-based data sources ensures scalability across 
+regions and vehicle types, establishing a foundation for intelligent thermal management systems that 
+enhance energy efficiency and passenger comfort in both conventional and electric vehicles.
+Keywords  Moving vehicles, Machine learning, Solar irradiance, Satellite data, Sky images
+Abbreviations
+CatBoost	
+Categorial boosting
+DHI	
+Diffuse horizontal irradiance, W/m2
+DNI	
+Direct normal irradiance, W/m2
+EV	
+Electric vehicle
+GHI	
+Global horizontal irradiance, W/m2
+LightGBM	
+Light gradient boosting machine
+MBE	
+Mean bias error
+nMBE	
+Normalized mean bias error
+RMSE	
+Root-mean-square error
+nRMSE	
+Normalized root-mean-square error
+SHAP	
+Shapley additive explanations
+XGBoost	
+Extreme gradient boosting
+List of symbols
+AST 	
+Apparent solar time
+Des 	
+Sun to earth distance
+Ea 	
+Extraterrestrial irradiance, W/m2
+Lt 	
+Linked turbidity
+n 	
+Number of samples
+Psat 	
+Pixel value or digital number from satellite
+RHsat 	
+Relative humidity from satellite
+1Department of Mechanical Engineering, Kookmin University, Seoul 02707, Republic of Korea. 2Korea Automotive 
+Technology Institute (KATECH), Cheonan 31214, Republic of Korea. email: hyunjinlee@kookmin.ac.kr
+OPEN
+Scientific Reports |         (2026) 16:1508 
+1
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports
+
+Tsat 	
+Temperature from satellite
+θ 	
+Solar zenith angle, ◦
+ym 	
+Actual data
+ye 	
+Estimated data
+ym 	
+Mean value of actual data
+γ 	
+Sun-blocking information
+Vehicles represent a critical component of global transportation systems, and their interaction with the 
+surrounding environment significantly impacts passenger comfort, energy efficiency, and system design. Among 
+these environmental factors, solar irradiance plays a key role in influencing cabin thermal conditions1,2, especially 
+when vehicles are exposed to direct sunlight. When parked or operated in sunny conditions, cabin temperatures 
+can rise rapidly, leading to passenger discomfort and increased energy demand from cooling systems3. This issue 
+is especially critical in hot climates or during summer months, where managing internal heat loads becomes 
+essential for maintaining comfort and minimizing energy consumption.
+Research highlights that 50% to 75% of the thermal energy accumulated inside a vehicle cabin is a result 
+of solar energy transmitted and absorbed through the glass window4,5. The effect is particularly pronounced 
+in modern vehicle designs, especially electric vehicles (EVs), which often feature larger glass areas such as 
+panoramic roofs and wide windshields to enhance visibility and aesthetics. While these design choices improve 
+occupant experience, they also increase the exposure to solar radiation, intensifying thermal gains during 
+summer. However, during colder seasons, solar irradiance can act as a passive heat source, reducing reliance on 
+electric or fuel-based heating systems6. This dual nature highlights the importance of accurately estimating solar 
+irradiance to support intelligent climate control strategies in all vehicle types, with even greater importance for 
+EVs, where cabin thermal management directly affects battery performance and driving range7.
+For this reason, solar irradiance data is crucial for understanding and addressing the effects of solar 
+heat gain inside a vehicle cabin. Accurate solar irradiance measurements enable manufacturers to develop 
+effective solutions, such as advanced glazing materials8 and enhanced insulation, to minimize thermal loads9. 
+Solar irradiance including direct and diffuse irradiance data also plays a critical role in predictive thermal 
+modeling10,11,  enabling engineers to simulate how different vehicle designs will perform under various 
+climate conditions before physical prototypes are built. Furthermore, accurate solar irradiance information is 
+valuable for photovoltaic applications12,13, supporting the optimization of energy harvesting and integration 
+of solar panels on vehicle surfaces, which can enhance overall vehicle efficiency. However, measuring these 
+components typically involves equipment with moving parts, such as a sun tracker, which is challenging to 
+install on a vehicle14,15, Therefore, as a practical alternative, solar irradiance models provide an effective solution 
+for estimating these values without requiring complex instrumentation.
+Recent advancements in satellite remote sensing technology have significantly improved the accuracy of solar 
+irradiance estimation, offering high-resolution spatial and temporal coverage that is crucial for assessing solar 
+energy potential across large areas16–18. However, while satellite imagery provides valuable data, it faces inherent 
+limitations, especially in urban environments characterized by complex landscapes with buildings, trees, and 
+other structures. These obstacles create significant challenges in accurately estimating solar irradiance from 
+satellite data alone, as the presence of urban features can obstruct the line of sight between the satellite and the 
+ground, leading to errors in irradiance predictions. In urban areas, the interaction between solar irradiance and 
+these structures results in a complex interplay of shadowing, reflection, and scattering, which satellite sensors 
+may struggle to capture effectively19. This is particularly true for solar irradiance that reaches the ground in the 
+form of direct sunlight, which can be blocked or reflected by tall buildings and other infrastructure. Furthermore, 
+the diffuse component of solar radiation, which scatters through the atmosphere and reaches the ground from 
+various angles, is often challenging to estimate accurately from satellite data due to the variability in cloud cover, 
+atmospheric conditions, and local geography.
+To address these limitations, the integration of sky camera data with satellite imagery has emerged as a 
+powerful solution. Sky cameras provide real-time visual information of the sky, enabling the identification of 
+cloud cover, obstructions, and other atmospheric conditions that can directly impact solar irradiance reaching 
+the surface. Unlike geographic information systems (GIS) and other static spatial models to estimate solar 
+irradiance20, which rely on pre-existing maps and datasets, sky cameras offer continuous updates and can capture 
+transient changes in the environment. This capability is particularly important because GIS-based models do not 
+provide real-time information on newly constructed buildings21, temporary obstructions, or other structural 
+changes that may alter solar exposure22. By incorporating sky camera data, solar irradiance estimation models 
+can more accurately distinguish between direct and diffuse irradiance while also adapting to dynamic urban 
+landscapes and evolving environmental conditions.
+Recent research has investigated the integration of satellite remote sensing, ground-based sky imagery, and 
+machine learning for solar irradiance estimation. For instance, Paletta et al.23 combined satellite data and sky 
+camera observations within a single machine learning framework to enhance intra-hour irradiance forecasting 
+(up to 60 min ahead). Similarly, Rodríguez-Benítez et al.24 integrated satellite and sky camera data to extend 
+the temporal horizon of ASI-based nowcasting to 90  min. While these studies highlight the advantages of 
+multi-source data fusion, they generally focus on fixed installations and do not address the specific challenges 
+of estimating solar irradiance in dynamic urban environments. In contrast, our study focuses on irradiance 
+estimation for moving vehicles, integrating satellite imagery, real-time sky camera data, and machine learning 
+models.
+In this study, we demonstrate the feasibility and accuracy of a novel model for estimating solar irradiance 
+around moving vehicles. By integrating satellite remote sensing, sky camera observations, and machine learning 
+Scientific Reports |         (2026) 16:1508 
+2
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+techniques, our proposed model significantly improves the reliability of solar irradiance estimation in complex 
+urban environments. The contributions of this work can be summarized as follows:
+	1.	 We combine satellite imagery with ground-based sky camera observations to capture both direct and diffuse 
+solar irradiance components with high temporal and spatial resolution.
+	2.	 Our model effectively fuses heterogeneous data sources, representing a significant improvement over con­
+ventional methods in accurately predicting solar irradiance.
+	3.	 We validate the methodology using real-world data collected from a vehicle equipped with solar irradiance 
+sensors, temperature and humidity sensors, and GPS tracking, ensuring practical applicability.
+	4.	 The proposed methodology supports energy-aware climate control, enhances thermal comfort, and enables 
+predictive modeling for both conventional and electric vehicles.
+Data and instrument
+Satellite data
+This study primarily utilizes spectral satellite imagery from the GK2A satellite, which is equipped with an 
+advanced meteorological imager (AMI)25. The AMI features sixteen channels categorized into four groups: 
+visible, near-infrared, mid-wave infrared, and long-wave infrared. These channels cover wavelengths ranging 
+from 0.431 μm to 13.39 μm, with spatial resolutions varying between 0.5 km and 2.0 km. The GK2A/AMI 
+observation data can be classified into three types based on spatial coverage: full-disk, extended local area, and 
+local area. For this research, we utilized full-disk satellite data with a spatial resolution of 0.5 km and a temporal 
+resolution of 10 min. Furthermore, the GK2A satellite level 2 dataset ​(​h​t​t​p​s​:​/​/​w​w​w​.​d​a​t​a​.​g​o​.​k​r​/​d​a​t​a​/​1​5​1​3​9​4​5​0​/​o​
+p​e​n​a​p​i​.​d​o​? recommendDataYn=Y) offers 52 meteorological parameters, including temperature, humidity, and 
+rainfall rate. We incorporate these data to model temperature and humidity under both stationary conditions 
+and dynamic scenarios involving a moving EV.
+Sensors on car
+In this experiment, we utilized the IONIQ-5 electric vehicle, which was equipped with an array of sensors 
+mounted on its roof, including pyranometer, relative humidity sensor, temperature sensor, GPS sensor, and sky 
+camera, as illustrated in Fig. 1. These sensors were employed to capture a comprehensive range of environmental 
+data, enabling a thorough understanding of the conditions surrounding the vehicle during the experiment. The 
+sky camera used in this research was the USB3 Vision industrial camera U3-3280CP Rev.2.2, equipped with an 
+FE185 series super wide-angle fish-eye lens. This fish eye lens provides a 185° field of view and is compatible 
+with 5-megapixel high-resolution sensors, allowing the capture of wide-angle sky images with a resolution of 
+2272 × 1704 pixels, where each pixel value ranges from 0 to 255. Given that the vehicle’s location varies with each 
+experiment, precise positional data is essential for correlating with satellite information. Therefore, a GPS sensor 
+was included to obtain accurate measurements of latitude, longitude, altitude, and the vehicle’s direction. Further 
+details regarding each sensor are provided in Table 1. Additionally, ground-based stationary data is incorporated 
+for validation purposes. This dataset includes measurements of solar irradiance, ambient temperature, and 
+humidity. The data is collected from a fixed monitoring station located at Kookmin University in Seoul, South 
+Korea (Latitude: 37.611807, Longitude: 126.993986). To ensure temporal consistency between the mobile and 
+satellite datasets, all sensor measurements from the vehicle were recorded at 10-minute intervals, matching the 
+temporal resolution of the satellite data used in this study.
+Study area
+The experiment was conducted in Seoul, South Korea, a highly urbanized metropolis with a population of 
+approximately 9.5 million and a total area of 605 square kilometers. As a city characterized by dense infrastructure 
+and diverse environmental conditions, Seoul presents a challenging yet representative setting for solar irradiance 
+prediction studies. Data collection was conducted near the Han River along a 7-kilometer route, as illustrated in 
+Fig. 2. The route includes diverse urban environments such as high-rise structures, shaded zones, and areas with 
+reflective surfaces. The experiment was conducted during winter and summer, a period of low and high solar 
+Fig. 1.  Sensor locations and types installed on the IONIQ-5 EV.
+ 
+Scientific Reports |         (2026) 16:1508 
+3
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+intensity. This location was chosen to evaluate the model’s performance under realistic urban conditions where 
+dynamic shading and weather variability significantly influence solar energy availability.
+  
+Methodology
+In this section, the process of estimating solar irradiance around a moving EV is described, as illustrated in 
+the flowchart in Fig. 3. The workflow begins with temperature and humidity estimation using GK2A Level-2 
+satellite data. It then incorporates multiple modeling approaches, including conventional methods such as semi-
+empirical and solar decomposition models, as well as machine learning techniques, to enable performance 
+comparison and accuracy evaluation.
+Data-driven model selection
+The objective of this study is to estimate solar irradiance around a moving EV. To achieve this, three key models 
+are required: (1) a satellite-based solar irradiance model to estimate global horizontal irradiance (GHI), (2) a 
+solar irradiance decomposition model to derive diffuse horizontal irradiance (DHI) and direct normal irradiance 
+(DNI), and (3) a sun-blocking calculation using sky image data. The satellite-based solar irradiance model, such 
+as a semi-empirical approach2728,, converts satellite image pixel values into GHI by separately accounting for 
+atmospheric and cloud-related attenuation. These models are typically developed using data from the visible 
+channels of geostationary satellites. The solar decomposition model, on the other hand, estimates DNI and 
+DHI from GHI by utilizing the clearness index as the primary input and the diffuse fraction as the output. 
+Among various solar decomposition models, the YANG529 model has demonstrated superior performance, 
+outperforming its predecessors across 126 stations spanning diverse climate conditions. Further details on these 
+methods are provided in the Appendix 1 and 2.
+Although these models effectively estimate solar irradiance, they still have limitations. Since they rely on 
+regression-based relationships derived from historical measurements, their accuracy can be affected by variations 
+Fig. 2.  Map of the experimental route in Seoul, South Korea. The map was created using QGIS26, a free and 
+open-source geographic information system. The black line represents the route followed during the field 
+experiment for data collection.
+ 
+Instrument type
+Parameter
+Specifications
+EKO pyranometer ML-02
+Solar irradiance
+Measurement range: 0 to 2000 W/m2
+Non-stability change/year: ± 2%
+Sky camera
+Sky image
+Image resolution: 2448 × 2048 pixels
+GPS16X-HVS
+Location, speed, direction
+Position accuracy: 95%
+HygroVUE10
+Temperature
+Accuracy: ±0.2 °C
+Operating range: −40 to 70 °C
+Relative humidity
+Accuracy: ±1.5%
+Operating range: 0 to 100%
+Table 1.  Parameters of sensors on EV.
+ 
+Scientific Reports |         (2026) 16:1508 
+4
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+in atmospheric conditions, cloud dynamics, and site-specific factors30. Machine learning techniques offer a 
+promising improvement by learning complex, nonlinear patterns from high-resolution satellite and ground-
+based data, potentially enhancing the robustness and adaptability of solar irradiance estimation, particularly for 
+dynamic applications such as moving EVs. Therefore, we propose a data-driven machine learning approach to 
+estimate solar irradiance components by leveraging the strengths of gradient-boosting frameworks, specifically 
+tree-based machine learning models3031,. In this study, we selected three models: extreme gradient boosting 
+(XGBoost), light gradient boosting machine (LightGBM), and categorial boosting (CatBoost). Detailed 
+explanations of these models are provided in Appendix 3. The input data for estimating GHI, DHI, and DNI are 
+standardized based on the semi-empirical model and solar decomposition model. Additionally, temperature and 
+humidity estimated from GK2A satellite data are also included, as presented in Table 2.
+Unlike traditional linear regression models, which often struggle to accurately capture the complex 
+relationships between input features and solar irradiance, tree-based model is well-suited for handling 
+nonlinear dependencies and intricate interactions among variables. Tree-based model is an advanced ensemble 
+learning algorithm based on decision trees, designed to optimize predictive performance while maintaining 
+computational efficiency. Furthermore, its ability to handle missing data, prevent overfitting through 
+regularization techniques, and efficiently process large datasets makes it particularly suitable for satellite-based 
+solar irradiance estimation. Another key advantage of using tree-based-model is its compatibility with shapley 
+additive explanations (SHAP)32, an interpretable machine learning technique that provides insights into feature 
+importance. By applying SHAP analysis, we can quantify the contribution of each input variable to the model’s 
+predictions, helping to identify the most influential factors affecting solar irradiance. This enhances not only the 
+transparency of the model but also its potential for further optimization by selecting the most relevant features.
+Where Psat represents the pixel value obtained from satellite imagery, θ is the solar zenith angle, Ea is 
+the extraterrestrial irradiance, Lt corresponds to the turbidity-related parameter, Tsat is the air temperature 
+estimated from satellite data, RHsat is the satellite-derived relative humidity, AST denotes the apparent solar 
+time, Des is the distance between the sun and the Earth, and GHIsat refers to the GHI estimated using satellite 
+data.
+Sky-image-based solar irradiance
+Estimating solar irradiance in urban areas presents unique challenges, as it is affected not only by cloud cover 
+but also by various physical obstructions, such as buildings, trees, and other structures, which reduce the solar 
+irradiance reaching EV. Traditional methods, such as satellite data and decomposition models, often struggle to 
+provide accurate estimations in these environments due to the complex interplay of shadows and sunlight. These 
+methods are more suited for open areas, where obstacles are minimal. To improve accuracy in urban settings, 
+advanced models capable of detecting shadows from obstructions are essential. Geographic information 
+systems (GIS) have been proposed to identify and map these structures. However, GIS datasets are typically 
+Target
+Input data
+GHI
+Psat, θ, Ea, Lt, Tsat, RHsat, AST, Des
+DHI and DNI
+GHIsat, θ, Ea, Lt, Tsat, RHsat, AST, Des
+Table 2.  The input data used for the machine learning model varies for each target variable.
+ 
+Fig. 3.  Flow chart the process to estimate solar irradiance around moving vehicle in urban area.
+ 
+Scientific Reports |         (2026) 16:1508 
+5
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+static and frequently outdated, failing to capture real-time changes such as tree growth, new constructions, or 
+temporary obstructions like parked vehicles or scaffolding. An alternative, more effective approach involves 
+the use of sky cameras for solar irradiance estimation. Sky cameras offer continuous, real-time monitoring of 
+the environment, capturing dynamic changes and detecting whether the sun is partially or fully obscured by 
+obstacles. This approach is highly beneficial in complex urban landscapes, where shadows shift rapidly due to the 
+changing position of the sun and the movement of objects. Real-time image data provides a much more accurate 
+assessment of solar irradiance, particularly in areas where traditional methods falter.
+The key concept is to determine whether the sun is obstructed and to calculate the proportion of the sun 
+being blocked using image processing techniques, as illustrated in Fig. 4. This process begins by converting sky 
+images into single-channel images, which enhances contrast and reduces noise, using the red-blue ratio (RBR) 
+method. This step makes it easier to identify the sun, sky, clouds, and any obstructions. As outlined in Eq. 14, 
+the proportion of the sun that is blocked (γ) is computed through this image processing. In clear sky conditions, 
+when the sun is completely obstructed by objects, only the DHI is considered for calculating the GHI.
+	
+GHI = (1 −γ) · DNI · cos θ + DHI
+(1)
+Evaluation metrics
+The accuracy of the estimation models is assessed through multiple statistical metrics, including root-mean-
+square error (RMSE) and mean bias error (MBE). To enable meaningful comparisons across diverse sky 
+conditions, normalized metrics such as normalized RMSE (nRMSE) and normalized MBE (nMBE) are also 
+employed. These normalized values are computed by dividing each metric by the mean of the actual measured 
+values.
+	
+MBE = 1
+n
+n
+∑
+i=1
+(ye −ym)
+(2)
+	
+RMSE =
+
+
+
+ 1
+n
+n
+
+i=1
+(ye −ym)2
+(3)
+where ym, ye, ym, n represent the actual data, estimated data, mean value of actual data, and the number of 
+samples, respectively.
+Results and discussion
+Results validation using stationary data
+The estimation model is first validated under stationary conditions before being applied to moving conditions. 
+This validation consists of two parts: environmental conditions, including temperature and relative humidity, 
+estimated using level 2 GK2A satellite data, and solar irradiance components estimated using machine learning 
+models. Figure 5 presents scatterplots comparing the estimated temperature and relative humidity from GK2A 
+level 2 satellite data with ground-based measurements. The validation results indicate nRMSE of 23% for 
+temperature, with a MBE of −1.24 °C, suggesting a slight underestimation. The nRMSE and nMBE for relative 
+humidity are 27.17% and 15.73%, respectively, highlight the challenges in accurately capturing humidity 
+variations, likely due to atmospheric complexities affecting satellite retrieval process.
+Table 3 provides a comprehensive summary of the solar irradiance estimation results obtained using various 
+tree-based machine learning models. In this analysis, two years of historical data were employed for training 
+the models, followed by one year of data for testing to evaluate their performance. The findings clearly indicate 
+that the machine learning models significantly surpass the accuracy of both the semi-empirical model and the 
+solar decomposition model in predicting solar irradiance. Among the machine learning models evaluated, the 
+Fig. 4.  Sky image analysis to detect shadows caused by obstructions such as buildings, street light poles, trees, 
+and other structures, with a focus on calculating the proportion of the sun’s light blocked by these obstructions.
+ 
+Scientific Reports |         (2026) 16:1508 
+6
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+CatBoost model stands out for its exceptional performance. It achieves the highest accuracy in estimating all key 
+components of solar irradiance, including GHI, DNI, and DHI. The superior accuracy of the CatBoost model 
+suggests that its ability to handle complex, non-linear relationships in the data is particularly effective for this 
+application. The consistent and reliable performance of the CatBoost model, led us to adopt it as our preferred 
+model for estimating solar irradiance around moving EV.
+Figure 6 shows the results of estimated solar irradiance for each component with nRMSE of 14.55%, 27.99%, 
+and 29.78% for GHI, DNI, and DHI, respectively using CatBoost model. The scatter plots demonstrate the 
+relationship between measured and predicted values across all three irradiance components during the 
+stationary validation phase. For GHI estimation, the CatBoost model achieves exceptional accuracy (nRMSE: 
+14.55%, RMSE: 58.06 W/m², nMBE: −2.1%) by leveraging geostationary satellite (GK2A) pixel data as primary 
+input features. The DNI component shows moderately higher scatter (nRMSE: 27.99%, RMSE: 75.41 W/m²) but 
+maintains excellent overall balance with minimal systematic bias (nMBE: −0.2%). Similarly, the DHI component 
+demonstrates slightly higher relative error (nRMSE: 29.78%, RMSE: 63.93 W/m²) with a small positive bias 
+(nMBE: 4.65%). The increased scatter in both components reflects the inherent challenges in modeling 
+directional and diffuse radiation under variable atmospheric conditions. These comprehensive validation 
+results confirm the model’s reliability in accurately estimating all three irradiance components under stationary 
+conditions before application to the more complex dynamic environment of moving EVs.
+Figure 7 presents SHAP summary plots for three types of solar irradiance: GHI, DNI, and DHI using CatBoost 
+model. Each subplot visualizes the impact of different input features on the model predictions, with features 
+listed on the y-axis and SHAP values on the x-axis. The SHAP values indicate the contribution of each feature to 
+the model’s prediction, with positive values increasing the predicted irradiance and negative values decreasing 
+it. The color gradient represents the magnitude of each feature value, transitioning from purple (low values) to 
+yellow (high values). The vertical spread of points along the y-axis for each feature reflects the distribution of that 
+feature across all samples. A wider spread indicates greater variability in the feature within the dataset, showing 
+that different values of the same feature contribute differently to the prediction. Conversely, a narrow spread 
+reflects lower variability in the feature values across samples.
+From the plots, certain features have a stronger influence on the predictions, as indicated by the larger spread 
+of SHAP values. For instance, in all three plots, solar zenith angle and extraterrestrial irradiance appear to be 
+among the most influential features, as they show a broad range of SHAP values. Other meteorological variables 
+like temperature and relative humidity also contribute but with lower SHAP magnitudes. Additionally, the 
+GHI
+DNI
+DHI
+nRMSE (%)
+nMBE
+(%)
+nRMSE (%)
+nMBE (%)
+nRMSE (%)
+nMBE (%)
+XGBoost
+18.11
+−3.97
+30.21
+−2.67
+30.95
+4.15
+LightGBM
+16.23
+−3.55
+28.54
+−1.55
+29.52
+2.44
+CatBoost
+14.55
+−0.21
+27.99
+−0.27
+27.61
+1.28
+Semi-empirical
+23.54
+−8.92
+-
+-
+-
+-
+Solar decomposition
+-
+-
+33.43
+−11.4
+32.57
+8.77
+Table 3.  Results of estimated solar irradiance using all machine learning models.
+ 
+Fig. 5.  Scatter plots of temperature and relative humidity estimation using satellite GK2A.
+ 
+Scientific Reports |         (2026) 16:1508 
+7
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+ordering of feature importance varies slightly between GHI, DNI, and DHI, indicating that each component of 
+solar irradiance is influenced differently by these factors. The black arrows on each plot suggest an increasing 
+trend in the feature’s influence, highlighting how certain variables have a more significant impact as their values 
+increase.
+This analysis is particularly important for the context of solar irradiance estimation in a moving vehicle, 
+where environmental and positional factors change dynamically. To the best of our knowledge, previous studies 
+have not systematically explored the relative importance of different input parameters for estimating GHI, DNI, 
+and DHI in such moving vehicles. Therefore, the SHAP analysis is not only useful for interpreting the machine 
+learning model but also provides novel insights into which input variables most significantly affect each type of 
+irradiance under real-world driving conditions in urban environments.
+Solar irradiance on urban areas
+In open spaces, the GHI derived from satellite data can be directly assumed to represent the GHI incident on 
+an EV. However, in urban environments, this assumption is no longer valid due to various obstructions, such 
+as buildings, which can significantly reduce the solar irradiance reaching the EV. These obstructions primarily 
+block direct irradiance, making it crucial to determine whether the EV is shaded or exposed. The most accurate 
+and up-to-date approach for obtaining this information is through real-time imaging. In this context, a sky 
+camera serves as an optimal tool, as it can detect surrounding structures while simultaneously capturing the sky 
+conditions, including the sun’s position.
+Figure 8 presents an example of sun obstruction detection, illustrating three scenarios: fully blocked, partially 
+blocked, and unblocked sunlight. In these cases, the sun is identified as the brightest region in the image, with 
+pixel values at the maximum intensity near its expected position. The sky camera captures images in three color 
+channels (red, green, and blue), each with pixel values ranging from 0 to 255. To enhance contrast and minimize 
+noise, the images are converted to grayscale using the red-blue ratio (RBR) method. This transformation 
+Fig. 6.  Solar irradiance estimation using CatBoost model: GHI (left), DNI (middle), and DHI (right). The 
+color gradient indicates the density of data points, with yellow representing the highest concentration in the 
+scatter plot.
+ 
+Scientific Reports |         (2026) 16:1508 
+8
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+facilitates the accurate classification of sun, cloud, and sky pixels. The sun’s radius is predefined as 50 pixels, 
+and the sun is identified as the region containing the highest pixel intensity (255). The proportion of the sun’s 
+obstruction is then computed based on brightness distribution. This information is essential for quantifying 
+the direct irradiance reaching the EV, which can subsequently be used to refine solar irradiance calculations 
+using Eq. 1. It should be noted that, in the absence of direct measurement data for sun obstruction, validation is 
+initially performed through human observation. Once the relevant data are collected, they can be converted into 
+estimated solar irradiance and subsequently compared with the corresponding measured values for validation.
+Solar irradiance Estimation around the moving EV
+Figures 9 and 10 present the estimated and measured solar irradiance values for a moving EV in an urban 
+environment during winter and summer, respectively. The plots include GHI, DNI, and DHI, with an additional 
+parameter, γ, representing sun blockage due to buildings or other structures. A high γ value indicates complete 
+obstruction of sunlight, while lower values signify partial or no blockage. Seasonal differences in solar irradiance 
+characteristics are evident, with winter showing lower irradiance levels due to reduced solar altitude and shorter 
+daylight hours, whereas summer exhibits higher irradiance, more significant fluctuations, and stronger DNI 
+contributions.
+In winter, GHI remains consistently low and stable, while DNI experiences occasional peaks due to temporary 
+clear-sky conditions. The higher DHI values indicate frequent cloud cover and urban obstructions diffusing solar 
+radiation. Periods with γ close to 1 align with significant declines in DNI, suggesting considerable solar blockage 
+from buildings. The estimation model faces challenges under these conditions, leading to discrepancies between 
+estimated and measured GHI. The winter results show an nRMSE ranging from 17% to 23%, with a negative 
+Fig. 7.  SHAP values displaying the effect of different features on the solar irradiance estimation, including 
+GHI, DNI, and DHI. The y-axis shows the individual input features ranked by their impact, while the x-axis 
+represents the magnitude of the SHAP values. The horizontal bars indicate each feature contribution to the 
+model prediction.
+ 
+Scientific Reports |         (2026) 16:1508 
+9
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+MBE as shown in Table 4, which indicates that the model tends to underestimate solar irradiance, particularly 
+during periods of high solar blockage, causing a consistent bias in the estimations.
+In summer (Fig.  9), GHI values are generally higher, with DNI showing more frequent peaks, which 
+correspond to clearer sky conditions and less cloud cover. However, fluctuations in γ reveal intermittent solar 
+blockage caused by buildings and structures, which introduces variability in both DNI and DHI measurements. 
+These fluctuations contribute to the complexity of accurately estimating solar irradiance in an urban environment. 
+Despite these challenges, the estimation model performs more effectively during the summer months, as the 
+presence of higher irradiance. The best results for this season achieve an nRMSE of 14.61%. However, similar to 
+the winter season, the MBE remains negative as shown in Table 4, indicating a slight underestimation of solar 
+irradiance.
+Fig. 9.  Solar irradiance estimations around a moving EV during a 5-day winter experiment.
+ 
+Fig. 8.  The process of determining the percentage of sun obstruction by structures involves analyzing sky 
+images in three scenarios: fully blocked, partially blocked, and completely unblocked sun.
+ 
+Scientific Reports |         (2026) 16:1508 
+10
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+Conclusion
+This study presents a comprehensive methodology for real-time solar irradiance estimation around a moving 
+vehicle by integrating geostationary satellite imagery (GK2A), ground-based sky images, and machine 
+learning algorithms. Our data-driven approach was validated through a two-stage process that confirms both 
+its scientific validity and practical utility. The stationary validation phase demonstrated exceptional accuracy 
+using the CatBoost model, with nRMSE values of 14.55% for GHI, 27.99% for DNI, and 27.61% for DHI, while 
+maintaining low bias with nMBE of −0.21%, −0.27%, and 1.28%, respectively. When applied to a moving vehicle 
+in urban environments, our approach maintained robust performance with nRMSE values below 24% in winter 
+and below 17% in summer.
+A key innovation is the use of sky image analysis to detect real-time obstructions, including urban infrastructure, 
+foliage, transportation elements, and transient objects that block direct solar radiation. Unlike static GIS-based 
+methods that rely on outdated structural information and cannot account for dynamic environmental factors, 
+our system continuously adapts to the actual surroundings of the vehicle. This real-time obstruction detection 
+enables smart HVAC control strategies that can accurately respond to changing solar conditions, significantly 
+reducing unnecessary energy consumption while maintaining optimal passenger comfort.
+Although thermal management is a 24-hour concern, our method specifically addresses the significant 
+and highly variable impact of solar irradiance during daytime driving, which can increase cooling loads and 
+reduce energy efficiency if not properly managed. Unlike static measures such as improved insulation or high-
+performance glazing, the proposed dynamic, location-aware system adjusts HVAC operation in real time 
+according to changing environmental conditions, enhancing responsiveness and efficiency during daylight 
+Winter
+2023-11-15
+2023-11-17
+2023-11-20
+2023-11-21
+2023-11-23
+RMSE (W/m2)
+65.42
+42.91
+84.89
+83.50
+78.58
+MBE (W/m2)
+−21.31
+−34.94
+−20.66
+−30.10
+−23.06
+nRMSE (%)
+17.10
+23.52
+18.45
+17.67
+21.23
+nMBE (%)
+−5.57
+−19.15
+−4.49
+−6.37
+−6.23
+Summer
+2024-07-01
+2024-07-05
+2024-07-10
+2024-07-11
+2024-07-12
+RMSE (W/m2)
+111.87
+118.67
+131.41
+104.93
+83.68
+MBE (W/m2)
+−70.14
+−62.51
+−73.96
+−57.03
+−41.64
+nRMSE (%)
+14.61
+16.27
+15.28
+17.35
+16.76
+nMBE (%)
+−9.16
+−8.57
+−8.60
+−9.43
+−8.34
+Table 4.  Results of the solar irradiance estimation on moving EV during winter and summer season.
+ 
+Fig. 10.  Solar irradiance estimations around a moving EV during a 5-day summer experiment.
+ 
+Scientific Reports |         (2026) 16:1508 
+11
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+hours. Nevertheless, the model has some limitations: it slightly underestimates temperatures in winter due 
+to low solar angles and increased atmospheric attenuation, and real-time implementation requires sufficient 
+onboard computational resources, while accessing satellite data for real-time operation requires a stable internet 
+connection. Geographic scalability also depends on satellite coverage; while GK2A provides comprehensive 
+coverage across East Asia, extending the system to other regions would require integration with alternative 
+geostationary satellites.
+Future work will explore predictive capabilities to forecast solar exposure along vehicle routes, enabling 
+proactive HVAC control. Integration with on-board predictive control systems and vehicle digital twins could 
+allow coordinated optimization of thermal management alongside other energy-consuming systems in smart 
+mobility frameworks. Combining this approach with complementary strategies, such as optimized insulation and 
+nighttime thermal regulation, can further enhance energy efficiency throughout the diurnal cycle, supporting 
+sustainable and comfortable mobility solutions.
+Data availability
+The datasets used and/or analyzed during the current study are available from the corresponding author upon 
+reasonable request.
+Appendix
+Appendix-1
+Semi-empirical solar irradiance model
+A semi-empirical model is used to transform pixel values from satellite images into GHI, considering the impact 
+of atmospheric and cloud-related attenuation separately. Semi-empirical models are typically developed to ex­
+ploit data recorded by the visible channel of a geostationary satellite.
+In the initial stage of this process, the pixel value is adjusted by normalizing it, considering factors such as air 
+mass, the distance between the Sun and Earth, and the solar elevation.
+	
+ρ =
+Psat · Am · Des
+(2.238h−0.26 · exp (−0.004h))
+(4)
+ 
+where Psat is pixel value from satellite image, Am is air mass, Des is the Sun-Earth distance (AU), and h is 
+solar elevation. Then, the cloud index (CI) value is determined by:
+	
+CI =
+ρ −ρlow
+ρhigh −ρlow 
+(5)
+ 
+where ρlow and ρhigh are the lowest and highest of normalized pixels.
+The next step is to convert CI to clear sky index, kcs, and then to GHI, using the Hammer model27 in Equation 
+6. Finally, the GHI is computed by employing the Ineichen-Perez33 clear sky, GHIcs, model with turbidity 
+estimates derived from local meteorological measurements.
+	
+kcs_Hammer =
+
+
+
+1.2; CI ≤−0.2;
+1.0 −CI; −0.2 < CI ≤−0.8;
+2.0667 −3.6667 · CI + 1.6667 · CI2; 0.8 < CI ≤1.1;
+0.05; 1.1 < CI;
+
+(6)
+ 
+	
+GHIHammer = GHIcs · kcs_Hammer
+(7) 
+The Hammer model was selected due to its superior performance compared to other models34.
+Appendix-2
+Solar decomposition model
+Direct and diffuse irradiance are separated from GHI using the solar decomposition model. The solar decompo­
+sition model is a nonlinear regression model that utilizes the clearness index as its primary input and the diffuse 
+fraction as its output. The YANG5 model is the most recent of the numerous solar decomposition models that 
+have been developed29. It has been tested at 126 stations across a broad range of climate types and has demon­
+strated superior accuracy.
+	
+kYANG5
+d
+= C +
+1 −C
+1 + e
+β0+β1kt+β2AST+β3θ+β4∆ktc+β6kENGERER2
+d,hourly
++ β5kde
+(8)
+	
+kd = DHI
+GHI
+(9)
+	
+kt =
+GHI
+Ea cos θ 
+(10)
+Scientific Reports |         (2026) 16:1508 
+12
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+	
+kde = max
+(
+0, 1 −GHIcs
+GHI
+)
+
+(11)
+	
+∆ktc = GHIcs
+Ea
+−kt
+(12)
+ 
+where θ is solar zenith angle, GHIcs is clear-sky irradiance, Ea is extraterrestrial irradiance, AST is apparent 
+solar time, kd is diffuse fraction, kt is clearness index, kENGERER2
+d,hourly
+ is hourly diffuse fraction using ENGERER2 
+model14, and C, β0, β1, β2, β3, β4, β5, β6 are coefficients based on the regime29.
+Appendix-3
+Tree-based machine learning models
+Extreme gradient boosting (XGBoost)
+XGBoost is an optimized implementation of the Gradient Boosting framework, designed to be highly efficient, 
+flexible, and portable35. It builds decision trees sequentially, where each new tree attempts to correct the errors 
+of the previous ones. The core idea is to minimize a custom regularized objective function, which balances 
+model complexity and predictive power, making it less prone to overfitting. XGBoost introduces techniques like 
+column subsampling, tree pruning, and parallel processing to enhance performance. It also supports handling 
+missing values internally, making it a popular choice for structured/tabular data tasks like solar irradiance esti­
+mation. One of XGBoost’s key features is its use of second-order Taylor expansion to optimize the loss function, 
+which enables precise updates and efficient learning. It also includes regularization parameters that help control 
+overfitting, a critical aspect when dealing with complex datasets. The use of histogram-based optimization fur­
+ther speeds up tree construction by grouping continuous data into discrete bins. However, due to its complexity 
+and memory usage, XGBoost can sometimes be slower for very large datasets compared to its competitors.
+Light gradient boosting machine (LightGBM)
+LightGBM is a gradient boosting framework designed to handle large datasets efficiently36. Unlike XGBoost, 
+which grows trees level-wise (depth-first), LightGBM uses a leaf-wise growth strategy, where it expands the leaf 
+with the maximum loss reduction. This approach leads to deeper trees with potentially higher accuracy. LightG­
+BM also employs a histogram-based decision tree algorithm, which significantly reduces memory usage and 
+speeds up computation, making it well-suited for large-scale solar irradiance data. A notable feature of LightG­
+BM is its use of gradient-based one-side sampling (GOSS) and exclusive feature bundling (EFB). GOSS selec­
+tively uses data instances with larger gradients to train trees, improving efficiency without sacrificing accuracy. 
+EFB reduces dimensionality by bundling mutually exclusive features, allowing LightGBM to handle high-di­
+mensional data more effectively than XGBoost. However, the aggressive leaf-wise approach can sometimes lead 
+to overfitting if not properly regularized.
+Gradient boosting with categorical features support (CatBoost)
+CatBoost is a gradient boosting algorithm designed to handle categorical features directly without the need for 
+one-hot encoding, which is a significant advantage for datasets with many categorical variables37. It employs an 
+ordered boosting technique that reduces prediction bias by using permutations of the data during training. This 
+approach helps prevent overfitting, making CatBoost a strong candidate for solar irradiance estimation tasks 
+that might involve categorical data like cloud types or sensor locations. Another key feature of CatBoost is its 
+ability to combat the gradient bias caused by target leakage using a novel method called ordered boosting. Unlike 
+XGBoost and LightGBM, which can suffer from overfitting with categorical data, CatBoost’s native handling of 
+these features ensures better generalization. While CatBoost is generally slower to train than LightGBM, it often 
+achieves superior accuracy due to its advanced handling of categorical features and mitigation of overfitting 
+risks.
+Received: 18 July 2025; Accepted: 4 December 2025
+References
+	 1.	 He, X. et al. Modeling for vehicle cabin temperature prediction based on graph spatial-temporal neural network in air conditioning 
+system. Energy Build. 272, 112229 (2022).
+	 2.	 Yun, S. et al. Prediction of thermal comfort of female passengers in a vehicle based on an outdoor experiment. Energy Build. 248, 
+111161 (2021).
+	 3.	 Lee, G., Song, J., Lim, Y. & Park, S. Energy consumption evaluation of passenger electric vehicle based on ambient temperature 
+under Real-World driving conditions. Energy Convers. Manag. 306, 118289 (2024).
+	 4.	 Zhou, X., Lai, D. & Chen, Q. Thermal sensation model for driver in a passenger car with changing solar radiation. Build. Environ. 
+183, 107219 (2020).
+	 5.	 Suhaimi, M. F. B., Kim, W. G., Cho, C. W. & Lee, H. Impact of solar radiation on human comfort in a vehicle cabin: an analysis of 
+body segment mean radiant temperature. Build. Environ. 245, 110849 (2023).
+	 6.	 Srivastava, R. S., Kumar, A., Thakur, H. & Vaish, R. Solar assisted thermoelectric cooling/heating system for vehicle cabin during 
+parking: A numerical study. Renew. Energy. 181, 384–403 (2022).
+	 7.	 Ku, J., Kim, S. M. & Park, H. D. Energy-saving path planning navigation for solar-powered vehicles considering shadows. Renew. 
+Energy. 236, 121424 (2024).
+	 8.	 Wang, N. et al. Using architectural glazing systems to Harness solar thermal potential for energy savings and indoor comfort. 
+Renew. Energy. 219, 119436 (2023).
+Scientific Reports |         (2026) 16:1508 
+13
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+	 9.	 Penning, A. K. & Weibel, J. A. Assessing the influence of glass properties on cabin solar heating and range of an electric vehicle 
+using a comprehensive system model. Appl. Energy. 339, 120973 (2023).
+	10.	 Zhang, C. et al. A novel online prediction method for vehicle cabin temperature and passenger thermal sensation. Appl. Therm. 
+Eng. 245, 122853 (2024).
+	11.	 Zhao, Y. et al. A data-driven performance analysis and prediction method for electric vehicle cabin thermal management system. 
+Appl. Therm. Eng. 240, 122150 (2024).
+	12.	 Mamodiya, U., Kishor, I., Garine, R., Ganguly, P. & Naik, N. Artificial intelligence based hybrid solar energy systems with smart 
+materials and adaptive photovoltaics for sustainable power generation. Sci Rep 15, 17370 (2025).
+	13.	 Mamodiya, U., Kishor, I., Ganguly, P., Mukherjee, I. & Naik, N. A machine learning approach to assess the climate change impacts 
+on single and dual-axis tracking photovoltaic systems. Sci. Rep. 15, 1–22 (2025).
+	14.	 Engerer, N. A. Minute resolution estimates of the diffuse fraction of global irradiance for southeastern Australia. Sol Energy. 116, 
+215–237 (2015).
+	15.	 Rajagukguk, R. A., Choi, W. K. & Lee, H. Sun-blocking index from Sky image to estimate solar irradiance. Build. Environ. 223, 
+109481 (2022).
+	16.	 Attya, M., Abo-Seida, O. M., Abdulkader, H. M. & Mohammed, A. M. Advanced solar radiation prediction using combined 
+satellite imagery and tabular data processing. Sci. Rep. 15, 1–22 (2025).
+	17.	 Verbois, H. et al. Improvement of satellite-derived surface solar irradiance estimations using spatio-temporal extrapolation with 
+statistical learning. Sol Energy. 258, 175–193 (2023).
+	18.	 Suwanwimolkul, S., Tongamrak, N., Thungka, N., Hoonchareon, N. & Songsiri, J. Deep-learning-based and near real-time solar 
+irradiance map using Himawari-8 satellite imageries. Sol Energy. 288, 113262 (2025).
+	19.	 Gapski, N. H., Marinoski, D. L., Melo, A. P. & Guths, S. Impact of urban surfaces’ solar reflectance on air temperature and radiation 
+flux. Sustain. Cities Soc. 96, 104645 (2023).
+	20.	 An, Y., Chen, T., Shi, L., Heng, C. K. & Fan, J. Solar energy potential using GIS-based urban residential environmental data: A case 
+study of Shenzhen, China. Sustain. Cities Soc. 93, 104547 (2023).
+	21.	 Ali, U. et al. A data-driven approach for multi-scale GIS-based Building energy modeling for analysis, planning and support 
+decision making. Appl. Energy. 279, 115834 (2020).
+	22.	 Elazab, R. & Daowd, M. New geographic information system based sustainability metric for isolated photovoltaic systems. Sci. Rep. 
+https://doi.org/10.1038/s41598-025-85222-9 (2025).
+	23.	 Paletta, Q., Arbod, G. & Lasenby, J. Omnivision forecasting: combining satellite and Sky images for improved deterministic and 
+probabilistic intra-hour solar energy predictions. Appl. Energy. 336, 120818 (2023).
+	24.	 Rodríguez-Benítez, F. J. et al. Assessment of new solar radiation nowcasting methods based on sky-camera and satellite imagery. 
+Appl. Energy. 292, 116838 (2021).
+	25.	 Lee, S. & Choi, J. Daytime cloud detection algorithm based on a multitemporal dataset for gk-2a imagery. Remote Sens. 13, 1–21 
+(2021).
+	26.	 QGIS Development Team. (version 3.40). www.qgis.org.
+	27.	 Hammer, A. et al. Solar energy assessment using remote sensing technologies. Remote Sens. Environ. 86, 423–432 (2003).
+	28.	 Perez, R. et al. A new operational model for satellite-derived irradiances: description and validation. Sol Energy. 73, 307–317 
+(2002).
+	29.	 Yang, D. et al. Regime-dependent 1-min irradiance separation model with climatology clustering. Renew. Sustain. Energy Rev. 189, 
+113992 (2024).
+	30.	 Rajagukguk, R. A. & Lee, H. Application of explainable machine learning for estimating direct and diffuse components of solar 
+irradiance. Sci. Rep. 15, 1–18 (2025).
+	31.	 Noura, H. N., Allal, Z., Salman, O. & Chahine, K. Explainable artificial intelligence of tree-based algorithms for fault detection and 
+diagnosis in grid-connected photovoltaic systems. Eng Appl. Artif. Intell https://doi.org/10.1016/j.engappai.2024.109503 (2025).
+	32.	 Lundberg, S. M. & Lee, S. I. A unified approach to interpreting model predictions. Scott. Adv. Neural Inf. Process. Syst. 30 (NIPS 
+2017), 4768–4777 (2017).
+	33.	 Ineichen, P. & Perez, R. A new airmass independent formulation for the Linke turbidity coefficient. Sol Energy. 73, 151–157 (2002).
+	34.	 Chen, S., Liang, Z., Guo, S. & Li, M. Estimation of high-resolution solar irradiance data using optimized semi-empirical satellite 
+method and GOES-16 imagery. Sol Energy. 241, 404–415 (2022).
+	35.	 Chen, T. & Guestrin, C. XGBoost: A scalable tree boosting system. Proc. ACM SIGKDD Int. Conf. Knowl. Discov Data Min. 13-17-
+Augu, 785–794 (2016).
+	36.	 Machado, M. R., Karray, S., De Sousa, I. T. & LightGBM An effective decision tree gradient boosting method to predict customer 
+loyalty in the finance industry. Int. Conf. Comput. Sci. Educ. ICCSE. 2019, 1111–1116. https://doi.org/10.1109/ICCSE.2019.8845529 
+(2019). 14th.
+	37.	 Prokhorenkova, L., Gusev, G., Vorobev, A., Dorogush, A. V. & Gulin, A. Catboost: Unbiased boosting with categorical features. 
+Adv. Neural Inf. Process. Syst. 2018, 6638–6648 (2018).
+Author contributions
+RAR: Conceptualization, Methodology, Software, Investigation, Formal analysis, Writing – original draft.HSL: 
+Conceptualization, Funding acquisition.HJL: Conceptualization, Writing – review & editing, Supervision, For­
+mal analysis, Funding acquisition.
+Funding
+This study was supported by the Ministry of Trade, Industry & Energy (MOTIE), Korea Evaluation Institute of 
+Industrial Technology (KEIT) through the Vehicle Industry Technology Development Program (20018646) and 
+by the Ministry of Science and ICT, National Research Foundation of Korea (NRF) (RS-2025-02217102).
+Declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Correspondence and requests for materials should be addressed to H.L.
+Reprints and permissions information is available at www.nature.com/reprints.
+Scientific Reports |         (2026) 16:1508 
+14
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/
+
+Publisher’s note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+Open Access   This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 
+4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in 
+any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide 
+a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have 
+permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence 
+and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to 
+obtain permission directly from the copyright holder. To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​v​e​c​o​m​m​o​
+n​s​.​o​r​g​/​l​i​c​e​n​s​e​s​/​b​y​-​n​c​-​n​d​/​4​.​0​/​.​
+© The Author(s) 2025 
+Scientific Reports |         (2026) 16:1508 
+15
+| https://doi.org/10.1038/s41598-025-31719-2
+www.nature.com/scientificreports/

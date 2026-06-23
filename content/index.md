@@ -91,6 +91,12 @@ Ricerca sull'integrazione del Building Information Modeling (BIM) nella gestione
     *   [[60 - Approfondimenti/BIM and costs estimation/Checklist Operativa - Linee Guida per il 5D BIM|Checklist Operativa: Linee Guida per il 5D BIM]]
     *   [[60 - Approfondimenti/BIM and costs estimation/Stakeholder - Analisi del Valore e ROI del BIM|Stakeholder: Analisi del Valore e ROI del BIM]]
 
+### 🌬️ 8. Adaptive Envelopes
+Ricerca focalizzata sull'evoluzione dell'involucro (edile, agricolo e automotive) da schermo passivo a sistema intelligente e adattivo, integrando modelli previsionali basati su AI (Machine Learning, LSTM-Attention, LLM informati sulla fisica) per la risposta dinamica ai futuri scenari di stress climatico.
+*   **Mappe dei Contenuti:** [[MOC - Adaptive Envelopes]]
+*   **Sintesi Avanzate:**
+    *   [[Insight - Adaptive Envelopes]]
+
 ---
 
 ## 🚀 Esplora il Grafo di Conoscenza

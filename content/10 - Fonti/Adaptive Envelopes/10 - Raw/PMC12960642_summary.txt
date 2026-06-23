@@ -1,0 +1,641 @@
+Research on time series
+prediction of microclimate in
+agrivoltaic systems based on the
+long short-term memory
+and attention mechanism
+Long Zhang 1,2, Jianhui Gong 2, Cuinan Wu 2,3,
+Erik Harry Murchie 4, Alexandra Jacquelyn Gibbs 4,
+Bingbing Liu 5, Chen Yang 5, Guijun Xu 5, Jinxin Zhang 6,
+Jiguang Guo 6, Maohua Xiao 1* and Encai Bao 2,3*
+1College of Engineering, Nanjing Agricultural University, Nanjing, China, 2Institute of Agricultural
+Facilities and Equipment, Jiangsu Academy of Agricultural Sciences, Nanjing, China, 3Key Laboratory
+of Agricultural Engineering of the Middle and Lower Reaches of the Yangtze River, Ministry of
+Agriculture and Rural Affairs of the People’s Republic of China, Nanjing, China, 4School of
+Biosciences, University of Nottingham, Nottingham, United Kingdom, 5Shenzhen Energy Nanjing
+Holding Co., Ltd., Nanjing, China, 6China Electric Power Engineering Consulting Group Co., Ltd.,
+Beijing, China
+Introduction: Agrivoltaic (AV) systems combine photovoltaic (PV) power generation
+with agriculture to enhance land use and energy production. However, accurately
+predicting the microclimate within AV systems remains a challenge, primarily due to
+existing models failing to get their inherent temporal and spatial variability.
+Methods: To address this, this study used long short-term memory (LSTM) networks
+to process time-series data and incorporated an attention mechanism to adjust the
+importance of temporal features. The model considered two environmental
+parameters, including solar radiation intensity and air temperature. Data collected
+from experimental AV systems with different PV panel density in Nanjing, China. The
+performance of the LSTM-Attention model was compared with traditional machine
+learning methods and standard LSTM models.
+Results: The results demonstrated that the LSTM-Attention model outperformed
+the other models in predicting both solar radiation intensity and air temperature
+within AV systems with different PV panel density. Speciﬁcally, the Root Mean
+Square Error (RMSE) for radiation intensity predictions decreased by 28.0%,
+35.7%, and 42.1% at different coverage densities. For air temperature
+predictions, the RMSE dropped by 39.0% in summer and 18.1% in winter.
+Importantly, the LSTM-Attention model maintained stable prediction
+performance even in winter and rainy weather conditions.
+Discussion: The results indicated that the LSTM-Attention model could effectively
+captured the complex temporal variations in solar radiation and air temperature
+within AV systems, especially under varying weather conditions. The study provides
+theoretical support for improving crop management strategies within AV systems.
+KEYWORDS
+agrivoltaics, microclimate prediction, attention mechanism, long short-term memory,
+solar radiation, air temperature
+Frontiers in Plant Science
+frontiersin.org
+01
+OPEN ACCESS
+EDITED BY
+Changkai Wen,
+China Agricultural University, China
+REVIEWED BY
+Yi Zhang,
+Shanxi Agricultural University, China
+Hongjun Xu,
+Xinjiang Agricultural University, China
+Yanfei Cao,
+Northwest A&F University, China
+*CORRESPONDENCE
+Encai Bao
+20180051@jaas.ac.cn
+Maohua Xiao
+xiaomaohua@njau.edu.cn
+RECEIVED 26 November 2025
+REVISED 31 December 2025
+ACCEPTED 13 January 2026
+PUBLISHED 03 February 2026
+CITATION
+Zhang L, Gong J, Wu C, Murchie EH,
+Gibbs AJ, Liu B, Yang C, Xu G, Zhang J,
+Guo J, Xiao M and Bao E (2026) Research on
+time series prediction of microclimate in
+agrivoltaic systems based on the long short-
+term memory and attention mechanism.
+Front. Plant Sci. 17:1755040.
+doi: 10.3389/fpls.2026.1755040
+COPYRIGHT
+© 2026 Zhang, Gong, Wu, Murchie, Gibbs, Liu,
+Yang, Xu, Zhang, Guo, Xiao and Bao. This is an
+open-access article distributed under the terms
+of the Creative Commons Attribution License
+(CC BY). The use, distribution or reproduction
+in other forums is permitted, provided the
+original author(s) and the copyright owner(s)
+are credited and that the original publication
+in this journal is cited, in accordance with
+accepted academic practice. No use,
+distribution or reproduction is permitted
+which does not comply with these terms.
+TYPE Original Research
+PUBLISHED 03 February 2026
+DOI 10.3389/fpls.2026.1755040
+
+1 Introduction
+Agrivoltaics is an emerging agricultural model that combines
+photovoltaic (PV) power generation with farming, allowing for
+more efﬁcient use of land (Brown, 2018; Stid et al., 2025). In recent
+years, agrivoltaics (AV) systems have become increasingly popular
+as a way to combine renewable energy generation with farming (Li
+et al., 2022a). They have been given a lot of attention from
+researchers and businesses due to their dual environmental and
+economic beneﬁts (Chopdar et al., 2024).
+In AV systems, microclimate have a direct impact on the
+photosynthetic efﬁciency and physiological metabolic processes of
+crops, affecting the productivity and beneﬁts of the system (Ghosh,
+2023; Moon and Ku, 2023). The intensity of solar radiation that
+drives the process of photosynthesis is crucial for determining the
+rate of dry matter production and the ﬁnal quality parameters of the
+crop (Gnayem et al., 2024). Air temperature also affects the activity
+of enzymes and respiration in plants, controlling the growth cycle
+and stress resistance performance (Gong et al., 2025). It has been
+found out that the shading caused by the PV panel results in
+signiﬁcant changes in the radiation intensity both in space and time,
+and these changes in the light environment led to complex
+temperature ﬁeld changes via alterations in the surface energy
+balance. All these together can cause physiological problems such
+as photoinhibition or heat stress for crops. As a non-linear system
+that is inﬂuenced by various factors such as the angle of the sun,
+clouds, and the shape of the PV array, AV systems display clear
+temporal and spatial variations in their microclimatic parameters
+(Pandey et al., 2025). To get a good grasp of the coupling among
+solar radiation and air temperature and to build up precise
+prediction models would offer some help to make decisions
+concerning crop cultivation and at the same time it would also
+form the basis for designing PV arrays and intelligent control
+systems (Zainali et al., 2025). Although environmental prediction
+for PV greenhouses is relatively well-established, there is still
+limited research on environmental prediction in open-ﬁeld AV
+systems. Open-ﬁeld AV systems differ signiﬁcantly from
+greenhouse setups, primarily due to the lack of physical
+enclosures and the direct interaction between crops and external
+environmental factors such as wind, precipitation, and solar
+radiation. Consequently, accurately predicting microclimates in
+these systems is critical for optimizing both agricultural
+production and energy generation. By improving the prediction
+of environmental factors such as solar radiation and air
+temperature, it could provide data-driven insights that can assist
+in designing more efﬁcient PV panel layouts and management
+strategies for crop cultivation.
+The current methods used for predicting microclimates in AV
+systems include three main types of modeling methods: mechanistic
+approach, computational ﬂuid dynamics (CFD), and data driven
+method (Li et al., 2021; Williams et al., 2023; Yajima et al., 2023). In
+practical applications, PV modules block incoming solar radiation
+in AV systems, forming moving shadows on the ground surface
+such as farmland, which affects the microclimate. Therefore,
+mechanistic models generally use solar radiation theory or
+thermodynamics to study the light distribution and dynamic
+energy-mass exchange process in these systems. For example, Ma
+Lu et al. (2022) developed a photosynthetic active radiation (PAR)
+decomposition model according to the Spitters light response curve
+theory. By adding cloud cover improvement elements and satellite-
+based information, they decreased the prediction mistake of the
+diffuse PAR part to 23.75% at a 30-minute time scale in temperate
+regions. Zhang et al. (2025) created a spatiotemporal dynamic
+model for the PV shading width, allowing for the quantitative
+prediction of the shading effect. Peng et al. (2023) created a light-
+electricity-heat coupling multi-physics model for PV greenhouses.
+They achieved a dynamic match between the coverage of PV panels
+and the photosynthetic characteristics of strawberries by optimizing
+the PAR and net photosynthetic rate models together. Some
+parameters are quite hard to get right, such as convective heat
+transfer coefﬁcients and longwave radiation exchange coefﬁcients.
+Additionally, the effect of crops on the surrounding environment
+continues to be a topic of active research, making it challenging to
+develop complete mechanistic models for AV systems (Zhang
+et al., 2025).
+The CFD model is a special type of mechanistic models (Bellone
+et al., 2024). Recently, CFD modeling approaches have been
+extensively employed in studies of AV systems. A representative
+study by Joseph et al. (2025) implemented coupled multi-physics
+simulations incorporating source-sink terms within a CFD
+framework to analyze microclimates in AV systems. The study
+reduced numerical diffusion artefacts in shaded obstacle
+simulations through the reﬁnement of the discrete ordinates
+radiation method. Williams et al. (2023) conducted a
+comprehensive CFD-based microclimate analysis examining the
+coupled effects of panel elevation, surface reﬂectivity, and plant
+water loss in AV systems. Gong et al. (2025) applied a CFD thermal
+environment model to explore the thermal regulation in AV
+systems with different panel heights. While these established CFD
+models can accurately simulate microclimate distribution within
+AV systems, they require substantial computational resources. In
+conclusion, CFD models are better suited for applications that do
+not have high real-time computation requirements such as
+agricultural buildings’ structural optimization and energy
+consumption simulation, rather than real-time environmental
+control in AV systems (Zainali et al., 2025).
+The rapid development of artiﬁcial intelligence and computing
+technologies has prompted increasing adoption of data-driven
+models for microclimate prediction (Li et al., 2022b; Huang et al.,
+2024; Li et al., 2025). Although the training process demands
+considerable computational resources, these models achieve rapid
+prediction speeds post-training, with their accuracy being highly
+contingent upon both dataset quality and algorithmic design.
+Commonly employed machine learning approaches include
+regression models and convolutional neural networks (Giudici
+et al., 2023). Among these, the long short-term memory (LSTM)
+Zhang et al.
+10.3389/fpls.2026.1755040
+Frontiers in Plant Science
+frontiersin.org
+02
+
+have emerged as a prevalent algorithm for time-series processing
+(Wu et al., 2024), ﬁnding particular application in agricultural
+building microclimate prediction due to their superior capability
+in handling sequential data (Geng et al., 2024). However, as the
+forecasting horizon extends, there is a signiﬁcant decline in
+prediction accuracy, making the achievement of precise
+microclimate predictions under complex scenarios a key
+research challenge.
+As a major innovation for processing sequence data, attention
+mechanisms dynamically allocate focus among inputs to enhance
+the model’s capability to recognize and leverage important
+information (Guo and Feng, 2024). Recent advances have
+demonstrated its effectiveness in enhancing model predictive
+performance. Mao et al. (2024) integrated attention mechanisms
+into BiGRU networks; the computed attention weights for hidden
+state vectors greatly enhanced the extraction of temporal features in
+greenhouse environments. Jiang et al. (2022) introduced an
+Attention-LSTM architecture which yielded impressive results in
+predicting indoor temperature 90 minutes ahead. They used a four-
+head attention mechanism to dynamically weight important
+features such as past temperatures, exterior wall temperatures,
+and predicted outdoor temperatures, resulting in a coefﬁcient of
+determination of 0.9, which is a 26.1% improvement over
+traditional LSTM methods. However, research on applying
+attention mechanisms to enhance model predictive performance
+in AV systems remains relatively unexplored.
+PV panel coverage density, which is an important structural
+parameter affecting the microclimate of AV systems, directly affects
+the spatial distribution patterns and dynamic changes of
+photothermal resources. The shading effect of PV panels with
+different coverage densities greatly changes the surface energy
+balance, causing spatiotemporal differences in the radiation
+intensity and temperature ﬁeld, thereby affecting the
+photosynthesis efﬁciency and physiological metabolic process of
+crops (Tan et al., 2025). To conduct microclimate parameter
+prediction research on multiple density scenarios can not only
+clarify the quantitative response relationship between the coverage
+of PV panels and the microenvironmental factors, but also provide
+data support for optimizing the conﬁguration of PV arrays, so as to
+achieve the goal of improving the efﬁciency of power generation and
+agricultural production at the system level.
+To deal with the considerable temporal variation and spatial
+disparity of microclimate parameters in AV systems, and the
+reduced predictive precision with longer forecasting intervals, this
+research created an LSTM-Attention based multi-parameter
+microclimate prediction model. The model used a multi-
+dimensional environmental parameter combination such as the
+PV panel coverage density and photothermal environment and
+adopted an attention mechanism to dynamically weight important
+temporal factors. This method was able to make highly accurate
+forecasts of the microclimate in AV systems during different
+seasons and weather conditions, which provided a theoretical
+basis for optimizing the allocation of light and thermal resources
+and managing crops.
+2 Materials and methods
+2.1 Experimental AV systems
+The experimental AV park located in Nanjing, China (31.6°N,
+119.2°E). This park covered a total area of 47 hectares at an altitude
+of 360 meters, which was constructed in 2016 by Shenzhen Energy
+Group. Operating under an AV model, it comprised eight array
+units (Figure 1a). The park was estimated to reduce CO2 emissions
+by 19,800 t per year, which is equivalent to saving 7,900 t of
+standard coal. estimated to reduce CO2 emissions by 19,800 t per
+year, equivalent to saving 7,900 t of standard coal. The experimental
+area has a subtropical monsoon climate with obvious
+seasonal changes.
+The AV system adopted a south-facing array conﬁguration with
+a total span of 6.8 m. Under full-density coverage, the PV modules
+were arranged in four tightly packed horizontal rows (Figure 1b).
+The modules were mounted at a 24° tilt angle on F300 concrete
+piles, with the lower edge positioned 2.5 m above ground level. The
+polycrystalline silicon PV modules had a rated power output 
+
+... [TESTO TAGLIATO] ...
+
+0.26
+97.0
+Rainy day
+0.27
+0.24
+91.5
+0.27
+0.23
+91.6
+0.28
+0.24
+98.1
+FD
+Sunny day
+1.88
+1.61
+92.3
+1.69
+1.44
+93.7
+1.25
+1.03
+96.6
+Cloudy day
+0.46
+0.40
+90.9
+0.44
+0.38
+91.8
+0.29
+0.25
+96.3
+Rainy day
+0.22
+0.19
+91.4
+0.21
+0.19
+91.9
+0.14
+0.13
+96.4
+Winter
+MD
+Sunny day
+0.75
+0.58
+92.8
+0.70
+0.55
+93.8
+0.47
+0.39
+97.1
+Cloudy day
+0.42
+0.35
+91.1
+0.37
+0.31
+93.3
+0.28
+0.23
+96.2
+Rainy day
+3.05
+1.98
+92.7
+0.61
+0.53
+91.1
+0.39
+0.32
+96.5
+HD
+Sunny day
+0.80
+0.61
+91.4
+0.61
+0.47
+94.9
+0.47
+0.38
+97.0
+Cloudy day
+0.57
+0.47
+91.5
+0.54
+0.46
+92.4
+0.34
+0.28
+97.0
+Rainy day
+0.72
+0.61
+91.2
+0.70
+0.60
+91.6
+0.40
+0.34
+97.2
+FD
+Sunny day
+0.51
+0.43
+90.2
+0.69
+0.54
+91.5
+0.45
+0.36
+96.4
+Cloudy day
+0.28
+0.24
+91.8
+0.25
+0.21
+93.4
+0.21
+0.18
+95.5
+Rainy day
+0.65
+0.52
+92.5
+0.48
+0.40
+91.3
+0.28
+0.24
+96.9
+Zhang et al.
+10.3389/fpls.2026.1755040
+Frontiers in Plant Science
+frontiersin.org
+17
+
+ends of the season. In winter, the RMSE for solar radiation
+predictions was 11.2 W/m2 and for air temperature predictions
+was 0.4°C under rainy conditions with the FD treatment. These
+results show that the LSTM-Attention model can do a good job at
+predicting microclimate parameters. This research provides a
+theoretical basis for the optimization of the array structure of AV
+systems and the adjustment of agricultural planting structure. At
+the same time, it offers important theoretical support for the
+microclimate prediction of AV projects in different regions.
+However, it should be noted that this study was only conducted
+under ﬂat land conditions. Future studies can extend the model to
+different terrain types, such as sloping land, to further validate
+its applicability.
+Data availability statement
+The raw data supporting the conclusions of this article will be
+made available by the authors, without undue reservation.
+Author contributions
+LZ: Investigation, Methodology, Software, Visualization,
+Writing – original draft, Writing – review & editing. JHG: Formal
+Analysis, Validation, Writing – original draft. CW: Funding
+acquisition, Writing – original draft, Writing – review & editing.
+EM: Writing – review & editing. AG: Writing – review & editing.
+BL: Investigation, Resources, Writing – original draft. CY:
+Investigation, Resources, Writing – original draft. GX: Resources,
+Software, Writing – original draft. JZ: Methodology, Resources,
+Writing – original draft. JG: Resources, Software, Writing – original
+draft. MX: Supervision, Writing – review & editing. EB:
+Conceptualization, Funding acquisition, Project administration,
+Supervision, Writing – review & editing.
+Funding
+The author(s) declared that ﬁnancial support was received for
+this work and/or its publication. This research was funded by the
+Major Science and Technology Special Project of China Electric
+Power Engineering Consulting Group Co., Ltd. (Grant No. DG3-
+P01-2023), and the Natural Science Foundation of Jiangsu
+Province (BK20241174).
+Acknowledgments
+The authors would like to thank the editor and reviewers for
+their constructive comments.
+Conﬂict of interest
+Authors BL, CY and GX were employed by the company
+Shenzhen Energy Nanjing Holding Co., Ltd. Authors JZ AND JG
+were employed by the company China Electric Power Engineering
+Consulting Group Co., Ltd.
+The remaining author(s) declared that this work was conducted
+in the absence of any commercial or ﬁnancial relationships that
+could be construed as a potential conﬂict of interest.
+The authors declare that this study received funding from China
+Electric Power Engineering Consulting Group Co., Ltd. The funder
+had the following involvement in the study: Collection, analysis,
+interpretation of data.
+Generative AI statement
+The author(s) declared that generative AI was not used in the
+creation of this manuscript.
+Any alternative text (alt text) provided alongside ﬁgures in this
+article has been generated by Frontiers with the support of artiﬁcial
+intelligence and reasonable efforts have been made to ensure
+accuracy, including review by the authors wherever possible. If
+you identify any issues, please contact us.
+Publisher’s note
+All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their afﬁliated organizations,
+or those of the publisher, the editors and the reviewers. Any product
+that may be evaluated in this article, or claim that may be made by its
+manufacturer, is not guaranteed or endorsed by the publisher.
+References
+Ali Abaker Omer, A., Li, M., Zhang, F., Hassaan, M. M. E., El Kolaly, W., Zhang, X.,
+et al. (2025). Impacts of agrivoltaic systems on microclimate, water use efﬁciency, and
+crop yield: A systematic review. Renew. Sust. Energ. Rev. 221, 115930. doi: 10.1016/
+j.rser.2025.115930
+Bellone, Y., Croci, M., Impollonia, G., Nik Zad, A., Colauzzi, M., Campana, P. E.,
+et al. (2024). Simulation-based decision support for agrivoltaic systems. Appl. Energy
+369, 123490. doi: 10.1016/j.apenergy.2024.123490
+Brown, A. (2018). Photovoltaic win–win. Nat. Clim. Change 9, 7–7. doi: 10.1038/
+s41558-018-0381-9
+Chopdar, R. K., Sengar, N., Giri, N. C., and Halliday, D. (2024). Comprehensive
+review on agrivoltaics with technical, environmental and societal insights. Renew. Sust.
+Energ. Rev. 197, 114416. doi: 10.1016/j.rser.2024.114416
+Fang, Z., Crimier, N., Scanu, L., Midelet, A., Alyaﬁ, A., and Delinchant, B. (2021).
+Multi-zone indoor temperature prediction with LSTM-based sequence to sequence
+model. Energy Build. 245, 111053. doi: 10.1016/j.enbuild.2021.111053
+Gao, Y., Miyata, S., and Akashi, Y. (2022). Interpretable deep learning models for
+hourly solar radiation prediction based on graph neural network and attention. Appl.
+Energy 321, 119288. doi: 10.1016/j.apenergy.2022.119288
+Zhang et al.
+10.3389/fpls.2026.1755040
+Frontiers in Plant Science
+frontiersin.org
+18
+
+Geng, Q., Wang, L., and Li, Q. (2024). Soil temperature prediction based on
+explainable artiﬁcial intelligence and LSTM. Front. Environ. Sci. 12. doi: 10.3389/
+fenvs.2024.1426942
+Ghosh, A. (2023). Nexus between agriculture and photovoltaics (agrivoltaics,
+agriphotovoltaics) for sustainable development goal: A review. Sol. Energy 266,
+112146. doi: 10.1016/j.solener.2023.112146
+Giudici, P., Gramegna, A., and Rafﬁnetti, E. (2023). Machine learning classiﬁcation
+model comparison. Socio-Econ. Plan. Sci. 87, 101560. doi: 10.1016/j.seps.2023.101560
+Gnayem, N., Magadley, E., Haj-Yahya, A., Masalha, S., Kabha, R., Abasi, A., et al.
+(2024). Examining the effect of different photovoltaic modules on cucumber crops in a
+greenhouse agrivoltaic system: A case study. Biosyst. Eng. 241, 83–94. doi: 10.1016/
+j.biosystemseng.2024.03.012
+Gong, W., Zhang, L., Gong, J., Geng, X., Wang, L., Deng, L., et al. (2025). Regulatory
+effect of agriphotovoltaic systems with different panel heights on the thermal
+environment. Sci. Rep. 15, 11196. doi: 10.1038/s41598-025-96166-5
+Guo, Z., and Feng, L. (2024). Multi-step prediction of greenhouse temperature and
+humidity based on temporal position attention LSTM. Stochastic Environ. Res. Risk
+Assess. 38, 4907–4934. doi: 10.1007/s00477-024-02840-x
+He, Z., Jiang, T., Jiang, Y., Luo, Q., Chen, S., Gong, K., et al. (2022). Gated recurrent
+unit models outperform other Machine learning models in prediction of minimum
+temperature in greenhouse Based on local weather data. Comput. Electron. Agric. 202,
+107416. doi: 10.1016/j.compag.2022.107416
+Hochreiter, S., and Schmidhuber, J. (1997). Long short-term memory. Neural
+Comput. 9, 1735–1780. doi: 10.1162/neco.1997.9.8.1735
+Huang, H., Wang, Z., Liao, Y., Gao, W., Lai, C., Wu, X., et al. (2024). Improving the
+explainability of CNN-LSTM-based ﬂood prediction with integrating SHAP technique.
+Ecol. Inform. 84, 102904. doi: 10.1016/j.ecoinf.2024.102904
+Jiang, B., Gong, H., Qin, H., and Zhu, M. (2022). Attention-LSTM architecture
+combined with Bayesian hyperparameter optimization for indoor temperature
+prediction. Build. Environ. 224, 109536. doi: 10.1016/j.buildenv.2022.109536
+Jiang, Y., Zhang, L., Wang, C., Chen, L., Zhang, W., Weng, H., et al. (2025). Multi-
+step prediction of dissolved oxygen in ﬁsh pond aquaculture using feature
+reconstruction-based deep neural network. Comput. Electron. Agric. 232, 109997.
+doi: 10.1016/j.compag.2025.109997
+Joseph, V., Baptiste, B., Baptiste, A., Sylvain, E., Martin, F., Eric, D., et al. (2025). An
+innovative method based on CFD to simulate the inﬂuence of photovoltaic panels on
+the microclimate in agrivoltaic conditions. Sol. Energy 297, 113571. doi: 10.1016/
+j.solener.2025.113571
+Kong, X., Du, X., Xue, G., and Xu, Z. (2023). Multi-step short-term solar radiation
+prediction based on empirical mode decomposition and gated recurrent unit optimized
+via an attention mechanism. Energy 282, 128825. doi: 10.1016/j.energy.2023.128825
+Landi, F., Baraldi, L., Cornia, M., and Cucchiara, R. (2021). Working memory
+connections for LSTM. Neural Networks 144, 334–341. doi: 10.1016/j.neunet.2021.08.030
+Li, L., Liu, L., Gu, Z., Sun, Z., and Zhang, Q. (2022a). Examining the relationships
+between carbon emissions and land supply in China. Ecol. Inform. 70, 101744.
+doi: 10.1016/j.ecoinf.2022.101744
+Li, M., Liu, Y., Zhang, F., Zhang, X., Zhang, Z., Omer, A. A. A., et al. (2021). Design of
+multi-passband polymer multilayer ﬁlm and its application in photovoltaic agriculture.
+Chin. Opt. Lett. 19, 112201. doi: 10.3788/col202119.112201
+Li, M., Wang, W., Li, H., Yang, Z., and Li, J. (2025). Monitoring of vegetation
+chlorophyll content in photovoltaic areas using UAV-mounted multispectral imaging.
+Front. Plant Sci. 16. doi: 10.3389/fpls.2025.1643945
+Li, Z., Wang, P., Zhang, J., and Mu, S. (2022b). A strategy of improving indoor air
+temperature prediction in HVAC system based on multivariate transfer entropy. Build.
+Environ. 219, 109164. doi: 10.1016/j.buildenv.2022.109164
+Ma, S., Ding, W., Zheng, Y., Zhou, L., Yan, Z., and Xu, J. (2024). Edge-cloud
+collaboration-driven predictive planning based on LSTM-attention for wastewater
+treatment. Comput. Ind. Eng. 195, 110425. doi: 10.1016/j.cie.2024.110425
+Ma Lu, S., Zainali, S., Stridh, B., Avelin, A., Amaducci, S., Colauzzi, M., et al. (2022).
+Photosynthetically active radiation decomposition models for agrivoltaic systems
+applications. Sol. Energy 244, 536–549. doi: 10.1016/j.solener.2022.05.046
+Mao, X., Ren, N., Dai, P., Jin, J., Wang, B., Kang, R., et al. (2024). A variable weight
+combination prediction model for climate in a greenhouse based on BiGRU-Attention
+and LightGBM. Comput. Electron. Agric. 219, 108818. doi: 10.1016/
+j.compag.2024.108818
+Moon, H.-W., and Ku, K.-M. (2023). The effect of additional shading utilizing
+agriphotovoltaic structures on the visual qualities and metabolites of broccoli. Front.
+Plant Sci. 14. doi: 10.3389/fpls.2023.1111069
+Nandi, A., De, A., Mallick, A., Middya, A. I., and Roy, S. (2022). Attention based
+long-term air temperature forecasting network: ALTF Net. Knowl-Based Syst. 252,
+109442. doi: 10.1016/j.knosys.2022.109442
+Niu, Z., Zhong, G., and Yu, H. (2021). A review on the attention mechanism of deep
+learning. Neurocomputing 452, 48–62. doi: 10.1016/j.neucom.2021.03.091
+Pandey, G., Lyden, S., Franklin, E., Millar, B., and Harrison, M. T. (2025). A
+systematic review of agrivoltaics: Productivity, proﬁtability, and environmental co-
+beneﬁts. Sustain. Prod. Consumption 56, 13–36. doi: 10.1016/j.spc.2025.03.006
+Peng, Y., Ma, X., Wang, Y., Li, M., Gao, F., Zhou, K., et al. (2023). Energy
+performance assessment of photovoltaic greenhouses in summer based on coupled
+optical-electrical-thermal models and plant growth requirements. Energy Convers.
+Manage. 287, 117086. doi: 10.1016/j.enconman.2023.117086
+Ritter, F. (2023). Technical note: A procedure to clean, decompose, and aggregate
+time series. Hydrol. Earth Syst. Sci. 27, 349–361. doi: 10.5194/hess-27-349-2023
+Şener, İ.F., and Tuğal, İ. (2025). Optimized CNN-LSTM with hybrid metaheuristic
+approaches for solar radiation forecasting. Case Stud. Therm. Eng. 72, 106356.
+doi: 10.1016/j.csite.2025.106356
+Sakib, S., Mahadi, M. K., Abir, S. R., Moon, A. M., Shaﬁullah, A., Ali, S., et al. (2024).
+Attention-based models for multivariate time series forecasting: Multi-step solar
+irradiation prediction. Heliyon 10, e27795. doi: 10.1016/j.heliyon.2024.e27795
+Singh, D., and Singh, B. (2020). Investigating the impact of data normalization on
+classiﬁcation performance. Appl. Soft Comput. 97, 105524. doi: 10.1016/
+j.asoc.2019.105524
+Stid, J. T., Shukla, S., Kendall, A. D., Anctil, A., Hyndman, D. W., Rapp, J., et al.
+(2025). Impacts of agrisolar co-location on the food–energy–water nexus and economic
+security. Nat. Sustain. 8, 702–713. doi: 10.1038/s41893-025-01546-4
+Tan, Y., Liu, J., Li, W., Yin, J., Chen, H., Peng, Y., et al. (2025). Agrivoltaics
+development progresses: From the perspective of photovoltaic impact on crops, soil
+ecology and climate. Environ. Res. 266, 120540. doi: 10.1016/j.envres.2024.120540
+Wang, J., and Chen, Y. (2021). Adaboost-based integration framework coupled two-
+stage feature extraction with deep learning for multivariate exchange rate prediction.
+Neural Process Lett. 53, 4613–4637. doi: 10.1007/s11063-021-10616-5
+Williams, H. J., Hashad, K., Wang, H., and Max Zhang, K. (2023). The potential for
+agrivoltaics to enhance solar farm cooling. Appl. Energy 332, 120478. doi: 10.1016/
+j.apenergy.2022.120478
+Wu, S., Dong, Z., Guzmán, S. M., Conde, G., Wang, W., Zhu, S., et al. (2024). Two-
+step hybrid model for monthly runoff prediction utilizing integrated machine learning
+algorithms and dual signal decompositions. Ecol. Inform. 84, 102914. doi: 10.1016/
+j.ecoinf.2024.102914
+Yajima, D., Toyoda, T., Kirimura, M., Araki, K., Ota, Y., and Nishioka, K. (2023).
+Agrivoltaic system: Estimation of photosynthetic photon ﬂux density under solar
+panels based on solar irradiation data using all-climate solar spectrum model. Cleaner
+Eng. Technol. 12, 100594. doi: 10.1016/j.clet.2022.100594
+Yang, Y., Gao, P., Sun, Z., Wang, H., Lu, M., Liu, Y., et al. (2023). Multistep ahead
+prediction of temperature and humidity in solar greenhouse based on FAM-LSTM
+model. Comput. Electron. Agric. 213, 108261. doi: 10.1016/j.compag.2023.108261
+Zainali, S., Lu, S. M., Fernández-Solas, Á ., Cruz-Escabias, A., Fernández, E. F.,
+Zidane, T. E. K., et al. (2025). Modelling, simulation, and optimisation of agrivoltaic
+systems: A comprehensive review. Appl. Energy 386, 125558. doi: 10.1016/
+j.apenergy.2025.125558
+Zhang, L., Gong, J., Yang, Z., Wu, X., Wang, W., Yang, C., et al. (2025). Evaluating
+the contribution of decreasing heights of photovoltaic panels on light environment and
+agricultural production in agrivoltaic systems. J. Cleaner Prod. 495, 145091.
+doi: 10.1016/j.jclepro.2025.145091
+Zhang, L., Yang, Z., Wu, X., Wang, W., Yang, C., Xu, G., et al. (2023). Open-ﬁeld
+agrivoltaic system impacts on photothermal environment and light environment
+simulation analysis in Eastern China. Agronomy 13, 1820. doi: 10.3390/
+agronomy13071820
+Zhang et al.
+10.3389/fpls.2026.1755040
+Frontiers in Plant Science
+frontiersin.org
+19

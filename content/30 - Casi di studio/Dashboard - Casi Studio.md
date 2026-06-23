@@ -147,5 +147,12 @@ Questa dashboard riepiloga i casi di studio archiviati nel Vault, con riferiment
 | [[Casestudy - Six-story reinforced concrete building]] | Egitto / Russia | Edilizia Residenziale / Lavori Strutturali | Estimatori, Schedulers | Integrazione database SQL con BIM per stima e Automated Scheduling |
 
 
+## 🌬️ Adaptive Envelopes
+| Progetto | 📍 Luogo | 🏛️ Ambito | 👥 Target | ✨ Caratteristiche |
+| :--- | :--- | :--- | :--- | :--- |
+| [[Casestudy - IONIQ-5 Thermal Management Evaluation]] | Seoul, Corea del Sud | Automotive / Gestione Climatica Mobile | Ottimizzazione consumi batteria tramite gestione termica proattiva | EV con Sky Camera Fisheye e sensori solari su tetto |
+| [[Casestudy - Nanjing Experimental Agrivoltaic Park]] | Nanjing (Nanchino), Jiangsu, Cina | Agricoltura Sostenibile / Energie Rinnovabili | Simbiosi microclimatica tra pannelli e colture | Array fotovoltaici a densità variabile su campo aperto |
+
+
 ---
-**Ultimo aggiornamento:** 2026-06-18
+**Ultimo aggiornamento:** 2026-06-23

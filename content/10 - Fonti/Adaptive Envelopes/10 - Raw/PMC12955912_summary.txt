@@ -1,0 +1,492 @@
+Advanced Science 
+www.advancedscience.com
+REVIEW
+How AI Shapes the Future Landscape of Sustainable 
+Building Design With Climate Change Challenges? 
+Pengyuan Shen1 
+Xiaoni Gao1 
+Shuai Lu1 
+Yi Zhang1 
+Xing Zheng2 
+Matthaios Santamouris3 
+1 Institute of Future Human Habitats, Shenzhen International Graduate School, Tsinghua University, Shenzhen, China 
+2 Department of Architecture and Civil 
+Engineering, City University of Hong Kong, Hong Kong SAR, China 
+3 School of Built Environment, University of New South Wales, Sydney, Australia 
+Correspondence: Pengyuan Shen ( shenpengyuan@sz.tsinghua.edu.cn)
+Shuai Lu ( shuai.lu@sz.tsinghua.edu.cn) 
+Received: 15 November 2025 
+Revised: 9 January 2026 
+Accepted: 20 January 2026 
+Keywords: artificial intelligence | building simulation | climate change | foundation model | sustainable building 
+ABSTRACT 
+Faced with climate change challenges, artificial intelligence (AI) is redefining the way of sustainable building design. In this work, 
+how AI technologies, including foundation models and generative systems, are reshaping architectural practice in responding to 
+climate change is discussed. We explored how large language models, multimodal systems, and automated design generation 
+have evolved from traditional computational methods, and the transformative potential of these novel approaches, especially 
+when dealing with climate change challenges. While AI holds powerful tools for sustainable architecture, we argue that the 
+successful implementation of those tools requires careful integration of technical capabilities, practice frameworks, and regulatory 
+considerations. To advance AI-driven sustainable building design while providing effective future climate response, research 
+priorities and policy recommendations are put forward in this study. 
+1 
+Introduction 
+The urgency of future sustainable building design is imminent 
+when faced with the challenges imposed by intensifying climate 
+change and urbanization trends. As buildings contribute to 35% 
+of the world’s total energy consumption and around 40% of 
+greenhouse gas emissions [ 1 ], the demand for climate-responsive 
+architecture is more critical than ever. Recent advances in 
+Artificial Intelligence (AI), such as machine learning [ 2 ]. and 
+large language models (LLMs) [ 3 ], are redefining how we address 
+the pressing need for low-carbon, climate-adaptive building 
+solutions and are initiating a paradigm shift that extends far 
+beyond traditional computational design. While earlier compu- 
+tational approaches contributed significantly through parametric 
+modeling, performance simulation, and rule-based optimization, 
+emerging AI systems are driving a deeper transformation by 
+enabling more adaptive, data-driven, collaborative, and inte- 
+grated design processes [ 4 ]. Similar to AI-driven revolutions 
+in protein structure prediction [ 5, 6 ], mechanical metamaterial 
+design [ 7, 8 ], and drug molecule discovery [ 9, 10 ], breakthroughs 
+in generative AI and foundation models will dramatically acceler- 
+ate the evolution toward intelligent design workflows, with grow- 
+ing evidence of their ability to learn climate-responsive design 
+intent across future scenarios and allow more robust solutions 
+[ 11, 12 ]. These systems process high-dimensional environmental 
+and technical data to address climate-induced complexity [ 13, 14 ]. 
+Holistic simulation and consideration of sophisticated building- 
+climate interactions across multiple scales, such as form-finding, 
+material selection, climate adaptive strategy proposition, and 
+construction, can also be made possible via AI-driven approaches. 
+These capabilities, coupled with generative design, iterative 
+optimization, and human-AI collaboration, have the potential 
+to produce climate-adaptive solutions that would have been 
+inconceivable through conventional methods alone. Specifically, 
+modern AI systems can process multiple design variations 
+through thousands of analyses while integrating contextual 
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly 
+cited. 
+© 2026 The Author(s). Advanced Science published by Wiley-VCH GmbH 
+Advanced Science , 2026; 13:e23238 
+https://doi.org/10.1002/advs.202523238
+1 of 25
+
+FIGURE 1 
+The overall framework of this paper. It ties together key AI technologies, design lifecycle phases, climate stressors, core challenges, 
+potential future solutions, as well as our ACBI framework. 
+knowledge to meet performance standards across different cli- 
+mate scenarios. Nevertheless, questions remain in the state of 
+the art regarding technical robustness, real-world integration, 
+future climate responsiveness, and alignment with architectural 
+values and regulatory requirements of the AI-driven solutions in 
+architectural practice. 
+In the context of climate change, this work tries to interrogate 
+the question of how AI is going to change sustainable building 
+design. Drawing on a comprehensive literature analysis, we 
+structure our perspective around four levels of inquiry, which 
+is shown in Figure 1 : the current state of AI applications in 
+climate-responsive architecture, the transformative effects of 
+generative AI and foundation models in the design process 
+and in response to the climate stressors, the frameworks for 
+the deployment of these technologies in practice, and future 
+directions and challenges in AI-driven sustainable architecture. 
+Recent studies in AI for the built environment have made 
+valuable advances and demonstrated impressive progress across 
+several key domains, such as early-stage performance optimiza- 
+tion and form exploration, building operations and smart grids, 
+and climate-adaptive building design. Synthesizing upon them, 
+our paper provides a broader integration across these domains 
+through the lens of foundation models, multi-modal reasoning, 
+and long-term climate adaptability. Specifically, our synthesis 
+shows that foundation models (e.g., GPT-4o, Stable Diffusion 
+3) offer general-purpose capabilities that are more flexible in 
+addressing climate stressors compared to task-specific models. 
+We also highlight the importance of multi-modal reasoning in 
+the AI era to interpret and generate across different data forms: 
+textual, visual, spatial, and quantitative modalities. Moreover, 
+we argue that under the current intensifying climate change, 
+future climate scenarios should serve as a design baseline, not a 
+peripheral consideration, and systematically explore how AI can 
+address the resulting uncertainty and complexity. 
+By critically synthesizing individual studies, we propose a struc- 
+tured, systemic conceptual framework called the AI-Climate- 
+Building Integration Framework (ACBI), in order to deploy the 
+powerful tools offered by AI to support sustainable building goals 
+in an effective way. This framework includes three interdepen- 
+dent pillars that determine the success of implementation: (1) 
+Technical Integration Pillar: the creation of dynamic layers of 
+information coupling, allowing two-way data flow between AI 
+systems, the creation of information models, and real-time envi- 
+ronmental sensors; (2) Climate Response Pillar: the development 
+of systems that are able to process future climate projections, 
+assess environmental performance in the face of dilemmas and 
+to develop adaptive design strategies; and (3) Governance Pillar: 
+the creation of risk management protocols, standards for sharing 
+data, and regulatory strategies that ensure responsible AI deploy- 
+ment and the facilitation of innovation. The ACBI Framework 
+goes beyond the descriptive taxonomies by suggesting testable 
+relationships. The quality of technical integration has a direct 
+impact on the accuracy of climate-responsive forecasts, and 
+the accuracy of the latter determines the effectiveness of the 
+governance measures. This causal chain provides the basis for 
+future empirical validation and cross-study comparison. 
+It should be acknowledged that technological sophistication 
+alone is insufficient. The value of AI-driven solutions ultimately 
+lies in their ability to interface with real-world constraints and 
+2 of 25
+Advanced Science, 2026
+
+respond meaningfully to the complexities introduced by climate 
+change. Moreover, beyond technical optimization, AI also has a 
+role to play in supporting creative design processes and aligning 
+with climate adaptation strategies. We believe the time has 
+come for the architectural profession to understand how to best 
+leverage AI as climate challenges become increasingly complex 
+and urgent for the building sector. 
+2 
+Review Methodology 
+This review used a structured narrative approach in order to 
+synthesize the literature on the application of AI in the field 
+of sustainable building design. We searched Web of Science, 
+Scopus, and Google Scholar using combinations of keywords 
+such as ‘artificial intelligence’ OR ‘machine learning’ OR ‘deep 
+learning’ OR ‘large language model’ AND ‘sustainable building’ 
+OR ‘green building’ OR ‘climate-responsive architecture’ OR 
+‘building energy’ OR ‘building performance optimization’. The 
+search was conducted in publications from January 2010 to 
+October 2024, and a focus was put on the post-2020 publications 
+to reflect the latest progress in the world of foundation models 
+and generative AI. Inclusion criteria included: (1) peer-reviewed 
+journal articles, conference papers, and authoritative technical 
+reports, (2) studies that reported on the use of AI in building 
+design, performance prediction, or climate adaptation, and (3) 
+English-language publications. Exclusion criteria were: (1) study 
+only on building operation and not covering the design impli- 
+cations; (2) purely theoretical AI papers, not covering building 
+domain application; (3) duplicate publications. 
+Our searches came up with 647 records at first. After the removal 
+of duplicates (n = 156) and screening of the titles and abstracts 
+for relevance (excluding n = 289), a total of 202 full-text articles 
+were assessed. Of these 116 fulfilled the inclusion criteria and 
+formed the basis of this review. While this work is more of a 
+narrative review than a systematic review, this approach allows 
+for transparent coverage of the fast-developing intersection of 
+AI and sustainable building design. The flow diagram for the 
+literature screening process of the present review work is plotted 
+in Figure 2 . 
+3 
+Emergence of AI for Sustainable Building 
+Design 
+The concept of “sustainable development” first formed in the 
+1970s when the first energy crisis took place, which was later 
+consolidated by the Brundtland Report in 1987 [ 15 ]. Later, the 
+emergence of the concept “sustainable building” can be dated 
+back to the 1990s when the United Kingdom and the United States 
+began to introduce green building standards, though the notion of 
+sustainable building and green building slightly differs nowadays 
+[ 16 ]. Content-wise, sustainable architecture has arisen from the 
+confluence of empirical knowledge and scientific understanding 
+of building physics [ 17 ]. Passive strategies and efficient active 
+system integration are the main focus of traditional sustainable 
+design approaches. The foundation of sustainable architecture 
+encapsulates passive design strategies, including but not limited 
+to orientation, form, and envelope design, to maximize natural 
+ventilation, daylighting, and thermal performance [ 18 ]. Solar 
+shading, thermal mass utilization (a strategy closely related to 
+demand response and building-grid interaction), and natural 
+ventilation systems have been shown to be able to effectively 
+improve indoor environmental quality and occupant comfort, 
+as well as reduce building energy consumption [ 19 ]. However, 
+they can be less effective in some climate zones and become 
+increasingly unpredictable under a changing climate [ 20, 21 ]. 
+Structured systems to quantify and improve building perfor- 
+mance have emerged in the form of energy efficiency guidelines 
+and frameworks. Popularly referenced building performance 
+codes like BREEAM, LEED, CASBEE, etc., have set up metrics 
+and benchmarks for building energy consumption, indoor and 
+outdoor multi-sensory comfort, and environmental impact [ 22 ]. 
+They assess buildings’ sustainable performance based on existing 
+simulation tools and post-occupancy evaluation. Building energy 
+simulation software allows designers to predict energy consump- 
+tion and thermal behavior [ 23 ], while environmental assessment 
+tools can assess broader sustainability metrics [ 24 ]. These frame- 
+works were driving industry transformation and have played a 
+critical role in promoting measurable and performance-driven 
+sustainable architecture. 
+However, these frameworks are fundamentally grounded in static 
+models, historical climate data, and isolated design workflows, 
+limiting their capability of addressing dynamic climate chal- 
+lenges. Most building performance simulations rely on complex, 
+physics-based engines that are computationally intensive and 
+often difficult to calibrate, particularly in early-stage design. 
+While effective in past applications, such tools are increas- 
+ingly challenged by the rising uncertainty of future climate 
+conditions, growing demand for resilience, and accelerated time- 
+lines imposed by climate emergencies. Moreover, standardized 
+weather files based on past climate data may fail to address 
+climate uncertainty and capture future extremes [ 25 ], and con- 
+ventional tools lack the ability to rapidly test adaptive solutions 
+under evolving scenarios, creating a potential mismatch between 
+predicted and actual building performance [ 26 ]. In addition, 
+climate change introduces multidimensional design pressures 
+that extend beyond traditional building performance codes, such 
+as flood mitigation, urban overheating, disaster risk reduction, 
+and broader ecological resilience [ 21 ]. These priorities require 
+the processing of diverse and dynamic data sources and coor- 
+dinating decisions across multiple scales and design phases. 
+While traditional strategies like solar shading, thermal massing, 
+and envelope tuning remain essential, their performance is no 
+longer guaranteed in future contexts, and thus must be recon- 
+sidered in earlier, more integrated stages of the design process. 
+Moreover, the integration of new energy and environmental 
+technologies, such as building-integrated photovoltaics (BIPV), 
+high-performance insulation, and phase-change materials, is 
+becoming increasingly critical for achieving climate-responsive 
+built environments. However, the complexity introduced by these 
+technologies further exposes the limitations of traditional design 
+methods, which struggle to accommodate the dynamic, intercon- 
+nected demands of future-oriented sus
+
+... [TESTO TAGLIATO] ...
+
+election,” Journal of Artificial Intelligence in 
+Architecture 3, no. 2 (2024): 105–121, https://doi.org/10.24002/jarina.v3i2. 
+9293 . 
+81 . L. D. Long, “An AI-Driven Model for Predicting and Optimizing 
+Energy-Efficient Building Envelopes,” Alexandria Engineering Journal 79 
+(2023): 480–501, https://doi.org/10.1016/j.aej.2023.08.041 . 
+82 . H. Yi and Y. Kim, “Self-Shaping Building Skin: Comparative Envi- 
+ronmental Performance Investigation of Shape-Memory-Alloy (SMA) 
+Response and Artificial-Intelligence (AI) Kinetic Control,” Journal of 
+Building Engineering 35 (2021): 102113, https://doi.org/10.1016/j.jobe.2020. 
+102113 . 
+83 . I. Elwy and A. Hagishima, “The Artificial Intelligence Reformation of 
+Sustainable Building Design Approach: A Systematic Review on Building 
+Design Optimization Methods Using Surrogate Models,” Energy and 
+Buildings 323 (2024): 114769, https://doi.org/10.1016/j.enbuild.2024.114769 . 
+84 . G. Halhoul Merabet, M. Essaaidi, M. Ben Haddou, et al., “Intelligent 
+Building Control Systems for Thermal Comfort and Energy-Efficiency: 
+A Systematic Review of Artificial Intelligence-Assisted Techniques,”
+Renewable and Sustainable Energy Reviews 144 (2021): 110969, https://doi. 
+org/10.1016/j.rser.2021.110969 . 
+85 . R. Morcillo-Jimenez, J. Mesa, J. Gómez-Romero, M. A. Vila, and M. J. 
+Martin-Bautista, “Deep Learning for Prediction of Energy Consumption: 
+An Applied Use Case in an Office Building,” Applied Intelligence 54, no. 7 
+(2024): 5813–5825, https://doi.org/10.1007/s10489-024-05451-9 . 
+86 . A. Manjavacas, A. Campoy-Nieves, J. Jiménez-Raboso, M. Molina- 
+Solana, and J. Gómez-Romero, “An Experimental Evaluation of Deep 
+Reinforcement Learning Algorithms for HVAC Control,” Artificial Intel- 
+ligence Review 57, no. 7 (2024): 173, https://doi.org/10.1007/s10462-024- 
+10819-x. 
+87 . J. Bai, J. Guo, C. Wang, et al., “Deep Graph Learning for Spatially- 
+Varying Indoor Lighting Prediction,” Science China Information Sciences 
+66, no. 3 (2023): 132106, https://doi.org/10.1007/s11432-022-3576-9 . 
+88 . J. W. Moon, J.-H. Lee, and S. Kim, “Application of Control Logic for 
+Optimum Indoor Thermal Environment in Buildings With Double Skin 
+Envelope Systems,” Energy and Buildings 85 (2014): 59–71, https://doi.org/ 
+10.1016/j.enbuild.2014.09.018 . 
+89 . K. L. Ku, J. S. Liaw, M. Y. Tsai, and T. S. Liu, “Automatic Control 
+System for Thermal Comfort Based on Predicted Mean Vote and Energy 
+Saving,” IEEE Transactions on Automation Science and Engineering 12, no. 
+1 (2015): 378–383, https://doi.org/10.1109/TASE.2014.2366206 . 
+90 . A. Aswani, N. Master, J. Taneja, D. Culler, and C. Tomlin, “Reducing 
+Transient and Steady State Electricity Consumption in HVAC Using 
+Learning-Based Model-Predictive Control,” Proceedings of the IEEE 100, 
+no. 1 (2012): 240–253, https://doi.org/10.1109/JPROC.2011.2161242 . 
+91 . M. U. Mehmood, D. Chun, H. H. Zeeshan, G. Jeon, and K. Chen, 
+“A Review of the Applications of Artificial Intelligence and Big Data 
+to Buildings for Energy-Efficiency and a Comfortable Indoor Living 
+Environment,” Energy and Buildings 202 (2019): 109383, https://doi.org/ 
+10.1016/j.enbuild.2019.109383 . 
+92 . D. Coraci, S. Brandi, T. Hong, and A. Capozzoli, “An Innovative 
+Heterogeneous Transfer Learning Framework to Enhance the Scalability 
+of Deep Reinforcement Learning Controllers in Buildings With Integrated 
+Energy Systems,” Building Simulation 17, no. 5 (2024): 739–770, https:// 
+doi.org/10.1007/s12273-024- 1109- 6 . 
+93 . J.-S. Chou and D.-S. Tran, “Forecasting Energy Consumption Time 
+Series Using Machine Learning Techniques Based on Usage Patterns of 
+Residential Householders,” Energy 165 (2018): 709–726. 
+94 . B. I. Oluleye, D. W. M. Chan, and P. Antwi-Afari, “Adopting Artificial 
+Intelligence for Enhancing the Implementation of Systemic Circularity 
+in the Construction Industry: A Critical Review,” Sustainable Production 
+and Consumption 35 (2023): 509–524. 
+95 . S. O. Abioye, L. O. Oyedele, L. Akanbi, et al., “Artificial Intelligence 
+in the Construction Industry: A Review of Present Status, Opportunities 
+and Future Challenges,” Journal of Building Engineering 44 (2021): 103299, 
+https://doi.org/10.1016/j.jobe.2021.103299 . 
+96 . V. Venkatraj and M. K. Dixit, “Challenges in Implementing Data- 
+Driven Approaches for Building Life Cycle Energy Assessment: A 
+Review,” Renewable and Sustainable Energy Reviews 160 (2022): 112327, 
+https://doi.org/10.1016/j.rser.2022.112327 . 
+97 . R. O. Yussuf and O. S. Asfour, “Applications of Artificial Intelligence 
+for Energy Efficiency throughout the Building Lifecycle: An Overview,”
+Energy and Buildings 305 (2024): 113903, https://doi.org/10.1016/j.enbuild. 
+2024.113903 . 
+98 . P. Shen, “Building and Urban Simulation Under Future Climate: A 
+Novel Statistical Downscaling Method for Future Hourly Weather Data 
+Advanced Science, 2026
+23 of 25
+
+Generation,” Building Simulation 18 (2025): 1611–1639, https://doi.org/10. 
+1007/s12273- 025- 1277-z . 
+99 . M. Qureshi, M. A. Arbab, and S. Rehman, “Deep Learning-Based 
+Forecasting of Electricity Consumption,” Scientific Reports 14, no. 1 (2024): 
+6489, https://doi.org/10.1038/s41598-024- 56602- 4 . 
+100 . K. Elhabyb, A. Baina, M. Bellafkih, and A. F. Deifalla, “Machine 
+Learning Algorithms for Predicting Energy Consumption in Educational 
+Buildings,” International Journal of Energy Research 2024, no. 1 (2024): 
+6812425, https://doi.org/10.1155/2024/6812425 . 
+101 . L. Jung-Ho, O. Sehwan, and Y. Efe, “Operating and Certifying a Net 
+Positive Energy Building During a Pandemic,” in 2022 Building Perfor- 
+mance Analysis Conference and SimBuild Co-Organized by ASHRAE 
+and IBPSA-USA (ASHRAE/IBPSA-USA, 2022), 414–423. 
+102 . K. Wood, Resilient and Green Building as Risk Mitigation in Atlanta, 
+Georgia, in: Natural Disasters in the United States: Making Sense of Risks 
+and Vulnerability (Springer, 2025), 249–270. 
+103 . J. M. Han, A. Malkawi, X. Han, et al., “A Two-Year Dataset of Energy, 
+Environment, and System Operations for an Ultra-Low Energy Office 
+Building,” Scientific Data 11, no. 1 (2024): 938, https://doi.org/10.1038/ 
+s41597-024-03770-7 . 
+104 . J. M. Han, S. Lim, A. Malkawi, et al., “Data-Informed Building Energy 
+Management (DiBEM) Towards Ultra-Low Energy Buildings,” Energy 
+and Buildings 281 (2023): 112761. 
+105 . C. Li, Z. Chen, and J. Liu, “Power Load Forecasting Based on 
+the Combined Model of LSTM and XGBoost,”in Proceedings of the 
+2019 the International Conference on Pattern Recognition and Artificial 
+Intelligence, (Association for Computing Machinery, 2019), 46–51, https:// 
+doi.org/10.1145/3357777.3357792 . 
+106 . N. Maleki, O. Lundström, A. Musaddiq, J. Jeansson, T. Olsson, and 
+F. Ahlgren, “Future Energy Insights: Time-Series and Deep Learning 
+Models for City Load Forecasting,” Applied Energy 374 (2024): 124067, 
+https://doi.org/10.1016/j.apenergy.2024.124067 . 
+107 . H. Sun, Y. Hu, J. Luo, Q. Guo, and J. Zhao, “Enhancing HVAC 
+Control Systems Using a Steady Soft Actor–Critic Deep Reinforcement 
+Learning Approach,” Buildings 15, no. 4 (2025): 644, https://doi.org/10. 
+3390/buildings15040644 . 
+108 . S. Xu, Y. Fu, Y. Wang, et al., “Efficient and Assured Reinforcement 
+Learning-Based Building HVAC Control With Heterogeneous Expert- 
+Guided Training,” Scientif ic Reports 15, no. 1 (2025): 7677, https://doi.org/ 
+10.1038/s41598- 025- 91326-z . 
+109 . X. Ding, A. Cerpa, and W. Du, “Exploring Deep Reinforcement 
+Learning for Holistic Smart Building Control,” ACM Transactions on 
+Sensor Networks 20, no. 3 (2024): 1, https://doi.org/10.1145/3656043 . 
+110 . D. M. T. E. Ali, V. Motuzien˙e, and R. Džiugait˙e-Tum˙enien˙e, “AI- 
+Driven Innovations in Building Energy Management Systems: A Review 
+of Potential Applications and Energy Savings,” Energies 17, no. 17 (2024): 
+4277. 
+111 . D. Li, Z. Qi, Y. Zhou, and M. Elchalakani, “Machine Learning Appli- 
+cations in Building Energy Systems: Review and Prospects,” Buildings 15, 
+no. 4 (2025): 648. 
+112 . J. Bhanye, “Flood-Tech frontiers: Smart But Just? A Systematic 
+Review of AI-Driven Urban Flood Adaptation and Associated Gover- 
+nance Challenges,” Discover Global Society 3, no. 1 (2025): 59, https://doi. 
+org/10.1007/s44282-025-00190-9 . 
+113 . Y. Forouheshfar, R. Ayadi, and O. Moghadas, “Enhancing Sys- 
+tem Resilience to Climate Change Through Artificial Intelligence: A 
+Systematic Literature Review,” Frontiers in Climate 7 (2025): 1585331. 
+114 . K. Al Sayed, A. Boodi, R. Sadeghian Broujeny, and K. Beddiar, 
+“Reinforcement Learning for HVAC Control in Intelligent Buildings: A 
+Technical and Conceptual Review,” Journal of Building Engineering 95 
+(2024): 110085, https://doi.org/10.1016/j.jobe.2024.110085 . 
+115 . S. Tajjour and S. S. Chandel, “A Comprehensive Review on 
+Sustainable Energy Management Systems for Optimal Operation of 
+Future-Generation of Solar Microgrids,” Sustainable Energy Technologies 
+and Assessments 58 (2023): 103377, https://doi.org/10.1016/j.seta.2023. 
+103377 . 
+116 . N. M. Matter and N. G. Gado, “Artificial Intelligence in Architecture: 
+Integration Into Architectural Design Process,” Engineering Research 
+Journal 181 (2024): 1–16, https://doi.org/10.21608/erj.2024.344313 . 
+117 . H. Nabizadeh Rafsanjani and A. H. Nabizadeh, “Towards Human- 
+Centered Artificial Intelligence (AI) in Architecture, Engineering, and 
+Construction (AEC) Industry,” Computers in Human Behavior Reports 11 
+(2023): 100319, https://doi.org/10.1016/j.chbr.2023.100319 . 
+118 . V. Liu and Y. Yin, “Green AI: Exploring Carbon Footprints, Mitigation 
+Strategies, and Trade Offs in Large Language Model Training,” Discover 
+Artificial Intelligence 4, no. 1 (2024): 49, https://doi.org/10.1007/s44163- 
+024- 00149- w. 
+119 . L. Bouza, A. Bugeau, and L. Lannelongue, “How to Estimate Carbon 
+Footprint When Training Deep Learning Models? A Guide and Review,”
+Environmental Research Communications 5, no. 11 (2023): 115014. 
+120 . A. S. George, A. S. H. George, and A. S. G. Martin, “The Environ- 
+mental Impact of AI: A Case Study of Water Consumption by Chat GPT,”
+Partners Universal International Innovation Journal 1, no. 2 (2023): 97–104. 
+121 . T. Özsoy, “The “Energy Rebound Effect” Within the Framework 
+of Environmental Sustainability,” Wiley Interdisciplinary Reviews: Energy 
+and Environment 13, no. 2 (2024): 517. 
+122 . K. Gillingham, D. Rapson, and G. Wagner, “The rebound Effect 
+and Energy Efficiency Policy,” Review of Environmental Economics and 
+Policy 10, no. 1 (2016), https://www.journals.uchicago.edu/doi/epdf/10. 
+1093/reep/rev017 . 
+123 . F. Belaïd and J. I. Mikayilov, “Closing the Efficiency Gap: Insights 
+Into Curbing the Direct Rebound Effect of Residential Electricity Con- 
+sumption in Saudi Arabia,” Energy Economics 135 (2024): 107647. 
+124 . E. E. Agency, “Accelerating the Energy Efficiency Renovation 
+of Residential Buildings—A Behavioural Approach,” Environmental 
+information systems (2023), https://www.eea.europa.eu/en/analysis/ 
+publications/accelerating- the- energy- efficiency. 
+125 . M. Davuluri, “Navigating AI-Driven Data Management in the Cloud: 
+Exploring Limitations and Opportunities,” Transactions on Latest Trends 
+in IoT 1 (2018): 106–112. 
+126 . L. Myllyaho, M. Raatikainen, T. Männistö, T. Mikkonen, and J. K. 
+Nurminen, “Systematic Literature Review of Validation Methods for AI 
+Systems,” Journal of Systems and Software 181 (2021): 111050, https://doi. 
+org/10.1016/j.jss.2021.111050 . 
+127 . A. Revolti, L. Gualtieri, P. Pauwels, and P. Dallasega, “From Building 
+Information Modeling to Construction Digital Twin: A Conceptual 
+Framework,” Production & Manufacturing Research 12, no. 1 (2024): 
+2387679, https://doi.org/10.1080/21693277.2024.2387679 . 
+128 . X. Pan, A. Mateen Khan, S. M. Eldin, F. Aslam, S. Kashif Ur Rehman, 
+and M. Jameel, “BIM Adoption in Sustainability, Energy Modelling and 
+Implementing Using ISO 19650: A Review,” Ain Shams Engineering 
+Journal 15, no. 1 (2024): 102252, https://doi.org/10.1016/j.asej.2023.102252 . 
+129 . T. Liebich, “IFC4—The new buildingSMART standard,” in IC 
+Meeting (bSI, 2013), 1–25. 
+130 . K. Forth and A. Borrmann, “Semantic Enrichment for BIM-Based 
+Building Energy Performance Simulations Using Semantic Textual 
+Similarity and Fine-Tuning Multilingual LLM,” Journal of Building 
+Engineering 95 (2024): 110312, https://doi.org/10.1016/j.jobe.2024.110312 . 
+131 . D. Komatina, M. Miletić, and M. M. Ružičić, “Embracing Artificial 
+Intelligence (AI) in Architectural Education: A Step Towards Sustain- 
+able Practice?,” Buildings 14, no. 8 (2024): 2578, https://doi.org/10.3390/ 
+buildings14082578 . 
+132 . J. Khalid, M. Chuanmin, F. Altaf, M. M. Shafqat, S. K. Khan, and M. U. 
+Ashraf, “AI-Driven Risk Management and Sustainable Decision-Making: 
+Role of Perceived Environmental Responsibility,” Sustainability 16 (2024): 
+6799, https://doi.org/10.3390/su16166799 . 
+24 of 25
+Advanced Science, 2026
+
+133 . E. Zaidan and I. A. Ibrahim, “AI Governance in a Complex and 
+Rapidly Changing Regulatory Landscape: A Global Perspective,” Human- 
+ities and Social Sciences Communications 11, no. 1 (2024): 1121, https://doi. 
+org/10.1057/s41599-024-03560-x. 
+134 . N. A. Smuha, “Regulation 2024/1689 of the Eur. Parl. & Council 
+of June 13, 2024 (EU Artificial Intelligence Act),” International Legal 
+Materials 64 , no. 5 (2025): 1234–1381. 
+135 . N. AI, Artificial Intelligence Risk Management Framework (AI RMF 
+10)URL: , https://nvlpubs.nist.gov/nistpubs/ai/nist.ai , (2023) 100–101. 
+136 . S. A. Benraouane, AI Management System Certification Accord- 
+ing to the ISO/IEC 42001 Standard: How to Audit, Certify, and Build 
+Responsible AI Systems (Productivity Press, 2024), https://doi.org/10.4324/ 
+9781003463979 . 
+137 . L. Li, Y. Fan, M. Tse, and K.-Y. Lin, “A Review of Applications 
+in Federated Learning,” Computers & Industrial Engineering 149 (2020): 
+106854, https://doi.org/10.1016/j.cie.2020.106854 . 
+138 . W. Kuang, B. Qian, Z. Li, et al., “Federatedscope-llm: A Compre- 
+hensive Package for Fine-Tuning Large Language Models in Federated 
+Learning,” in Proceedings of the 30th ACM SIGKDD Conference on 
+Knowledge Discovery and Data Mining (ACM, 2024), 5260–5271, https:// 
+doi.org/10.1145/3637528.3671573 . 
+139 . W. Xu, M. J. Dainoff, L. Ge, and Z. Gao, “Transitioning to Human 
+Interaction With AI Systems: New Challenges and Opportunities for HCI 
+Professionals to Enable Human-Centered AI,” International Journal of 
+Human–Computer Interaction 39, no. 3 (2023): 494–518. 
+140 . P. G. R. de Almeida, C. D. dos Santos, and J. S. Farias, “Artificial 
+Intelligence Regulation: A Framework for Governance,” Ethics and 
+Information Technology 23, no. 3 (2021): 505–525, https://doi.org/10.1007/ 
+s10676- 021- 09593- z . 
+141 . P. Cihon, “Standards for AI Governance: International Standards to 
+Enable Global Coordination in AI Research & Development,” Future of 
+Humanity Institute University of Oxford 40 (2019): 340–342. 
+Advanced Science, 2026
+25 of 25
