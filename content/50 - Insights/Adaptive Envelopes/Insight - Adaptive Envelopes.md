@@ -38,3 +38,6 @@ L'uso di attuatori meccanici costosi ed energivori sta lasciando il passo a comp
 
 ## 7. Model Predictive Control (MPC) e Digital Twin
 Stiamo assistendo al superamento delle logiche if-then reattive. Tramite framework IoT avanzati e simulazioni olistiche in tempo reale, i sistemi adattivi divengono precognitivi e comunicano con macchine CNC "Fabrication-Aware" ottimizzando ogni fase: dalla produzione customizzata all'ombreggiamento urbano avanzato.
+
+## 8. Validazione Pratica tramite Modelli Termici RC e LSTM
+La transizione dalla teoria all'applicazione richiede un testing software robusto prima del deploy su hardware Edge (es. moduli ESP32). Attraverso lo sviluppo di prototipi IoT in locale, si è dimostrato che l'impiego di dataset sintetici per il pre-training di reti LSTM (abbinate ad Attention Mechanism) è una strategia efficiente per sviluppare il Proof of Concept di un involucro precognitivo in assenza di uno storico meteorologico annuale. Per validare correttamente l'efficienza dei KPI di comfort (es. la stabilizzazione del Delta T interno), è emersa la necessità di abbandonare simulazioni di dati "piatti" o irrealistici in favore di Modelli Termici Equivalenti (Circuito RC) che ricalcolino dinamicamente la fluttuazione termica indoor in risposta al movimento cinematico dell'involucro.
